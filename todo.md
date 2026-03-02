@@ -9,3 +9,8 @@
 	- bede
 	- gregory of monmoth (sp?)
 	- lives of english/british saints
+- science
+    - ray peat articles/emails/transcripts
+- antiquity
+    - plato
+    - aesop's fables    
