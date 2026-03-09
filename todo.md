@@ -12,5 +12,10 @@
 - science
     - ray peat articles/emails/transcripts
 - antiquity
-    - plato
-    - aesop's fables    
+    - plato, formatting, other works (Greater Hippias?)
+    - aesop's fables https://www.aesopfables.com/
+- folklore
+    - https://sites.pitt.edu/~dash/folktexts.html
+    - https://sites.pitt.edu/~dash/folklinks.html
+- literature
+    - https://adamgagewalker.substack.com/p/the-complete-english-literature-reading

@@ -1,0 +1,3 @@
+# Prostate
+
+Correcting hypothyroidism will usually reduce prostate problems, and often pregnenolone helps with that as well as with increasing testosterone. Checking temperature and pulse rate at waking and in the middle of the day, and checking the Achilles tendon reflex relaxation rate, can help to judge the hormonal situation. Having a carrot salad every day (shredded carrot, with a little olive oil, vinegar, and salt) can help to lower the stress hormones that are usually associated with prostate inflammation.

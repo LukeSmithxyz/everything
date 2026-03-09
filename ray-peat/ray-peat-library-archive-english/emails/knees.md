@@ -1,0 +1,3 @@
+# Knees
+
+I've seen several grossly malfunctioning knees recover immediately (in from 1 to 12 hours) just with topical progesterone, but the first thing should be to make sure her calcium to phosphorus ratio is good, by having two quarts of low fat milk per day, or the equivalent in low fat cheese, with no grains, legumes, nuts, or muscle meats, and with some well cooked greens regularly. Vitamin K is important for calcium metabolism, too.

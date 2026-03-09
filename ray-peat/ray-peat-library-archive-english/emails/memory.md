@@ -1,0 +1,4 @@
+# Memory
+
+## PHYSIOLOGY
+I've been gradually clarifying my ideas about memory, and currently I'm putting more emphasis on the role of electrons in maintaining biological coherence, including the construction of a variably coherent model of the world, as we develop in it. I see it as being a very large generalization-like construction with spatial quality, with memories being constructed as needed for whatever situation we find ourselves in, somewhat like deductions from our present state. Helmut Schwartz showed that electrons (in a beam) have "memory," picking up a modulation and expressing it after a delay. I think that very flexible ability of electrons to be "modulated" is a central part of the memory process.
