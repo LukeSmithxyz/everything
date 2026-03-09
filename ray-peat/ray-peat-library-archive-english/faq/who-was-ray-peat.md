@@ -1,0 +1,5 @@
+From Ray's website: "Concerning my background, I have a Ph.D. in Biology from the University of Oregon, with specialization in physiology. The schools I have taught at include: the University of Oregon, Urbana College, Montana State University, National College of Naturopathic Medicine, Universidad Veracruzana, the Universidad Autonoma del Estado de Mexico, and Blake College. I also conduct private nutritional counseling.  
+
+I started my work with progesterone and related hormones in 1968. In papers in Physiological Chemistry and Physics (1971 and 1972) and in my dissertation (University of Oregon, 1972), I outlined my ideas regarding progesterone, and the hormones closely related to it, as protectors of the body's structure and energy against the harmful effects of estrogen, radiation, stress, and lack of oxygen.  
+
+The key idea was that energy and structure are interdependent, at every level." - raypeat.com

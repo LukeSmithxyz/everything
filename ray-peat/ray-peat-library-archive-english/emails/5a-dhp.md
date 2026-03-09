@@ -1,0 +1,3 @@
+# 5-Alpha Dihydroprogesterone (5a-DHP)
+
+Pregnenolone, DHEA, and progesterone are basic stabilizing molecules, and I think it's dangerous to use novel substances that are likely to interact with those, in the absence of large amounts of preliminary experimentation with animals and in vitro. The farther a substance is from its precursor material, the easier it is to cause unwanted effects when supplementing it.

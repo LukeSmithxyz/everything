@@ -1,0 +1,7 @@
+# Itching
+
+## Severe skin itching and other issues
+Starting with the nosebleeds, thyroid has probably been the basic problem, so checking your temperature and resting pulse rate (at least twice a day, at waking, and about an hour after breakfast) would be a place to start. Having someone check your Achilles tendon reflex relaxation rate is helpful; the relaxation should be instantaneous, so that your foot falls floppily. A daily carrot might take care of the itch, if not, 10% sulfur soap, or dusting with flowers of sulfur, USP, should do it. Milk with sugar or honey (about an ounce in a glass) at bedtime would help to get to sleep, and reduce the night stress. Blood sugar falls at night, too low if your thyroid is deficient, and is compensated by the stress hormones. Your lowest temperature should be at night, but the stress hormones can cause your waking temperature to be higher than the midday temperature. Pulse rate should follow the same pattern, rising with breakfast, and staying above 80/minute during the day. Aspirin can help with increasing your metabolic rate. Mary Shomon's thyroid website and http://www.tpauk.com have good information about thyroid. I use Cynoplus and Cynomel from http://www.mymexicandrugstore.org, which are generally more economical and more consistent than some of the glandular products.
+
+## Nose itching from mushrooms
+I haven't noticed anything like that with the mushrooms, but peristalsis of the intestine can often trigger very localized sensations in the face or head.

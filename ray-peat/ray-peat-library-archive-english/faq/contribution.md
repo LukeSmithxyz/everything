@@ -1,0 +1,1 @@
+Yes. Translations are very welcome, as well as suggestions for additional content.

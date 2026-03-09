@@ -10,3 +10,13 @@
 	- gregory of monmoth (sp?)
 	- lives of english/british saints
 	- reformation
+- science
+    - ray peat articles/emails/transcripts
+- antiquity
+    - plato, formatting, other works (Greater Hippias?)
+    - aesop's fables https://www.aesopfables.com/
+- folklore
+    - https://sites.pitt.edu/~dash/folktexts.html
+    - https://sites.pitt.edu/~dash/folklinks.html
+- literature
+    - https://adamgagewalker.substack.com/p/the-complete-english-literature-reading

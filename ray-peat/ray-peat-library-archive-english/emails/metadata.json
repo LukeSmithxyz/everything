@@ -1,0 +1,919 @@
+[
+  {
+    "subject": "5-Alpha Dihydroprogesterone (5a-DHP)",
+    "filename": "5a-dhp"
+  },
+  {
+    "subject": "Acacia Gum",
+    "filename": "acacia-gum"
+  },
+  {
+    "subject": "Acetaminophen",
+    "filename": "acetaminophen"
+  },
+  {
+    "subject": "Acne",
+    "filename": "acetaminophen"
+  },
+  {
+    "subject": "Activated Charcoal",
+    "filename": "activated-charcoal"
+  },
+  {
+    "subject": "Addiction",
+    "filename": "addiction"
+  },
+  {
+    "subject": "Age Pigment (Lipofuscin), Freckles",
+    "filename": "age-pigment-freckles"
+  },
+  {
+    "subject": "Alcohol and Cannabis",
+    "filename": "alcohol-cannabis"
+  },
+  {
+    "subject": "Alice in Wonderland / Todd's Syndrome",
+    "filename": "alice-in-wonderland-syndrome"
+  },
+  {
+    "subject": "Alliums (garlic & onions)",
+    "filename": "alliums"
+  },
+  {
+    "subject": "Aloe Vera",
+    "filename": "aloe-vera"
+  },
+  {
+    "subject": "Altitude",
+    "filename": "altitude"
+  },
+  {
+    "subject": "Aluminium / Bentonite",
+    "filename": "aluminium-bentonite"
+  },
+  {
+    "subject": "Androsterone",
+    "filename": "androsterone"
+  },
+  {
+    "subject": "Anemia of Chronic Disease and Leukemia",
+    "filename": "anemia-chronic-disease-leukemia"
+  },
+  {
+    "subject": "Antibiotics",
+    "filename": "antibiotics"
+  },
+  {
+    "subject": "Anti-Depressants",
+    "filename": "anti-depressants",
+    "source": [
+      "https://lowtoxinforum.com/threads/ray-peat-email-advice-depository.1035/page-5#post-22762",
+      "https://lowtoxinforum.com/threads/ray-peat-email-advice-depository.1035/page-5#post-24432",
+      "https://lowtoxinforum.com/threads/ray-peat-email-advice-depository.1035/page-6#post-24515"
+    ]
+  },
+  {
+    "subject": "Antimicrobial Drugs",
+    "filename": "antimicrobial-drugs"
+  },
+  {
+    "subject": "Antiserotonin Drugs",
+    "filename": "antiserotonin-drugs"
+  },
+  {
+    "subject": "Arachidonic Acid: Unessential",
+    "filename": "arachidonic-acid-unessential"
+  },
+  {
+    "subject": "Aspirin",
+    "filename": "aspirin"
+  },
+  {
+    "subject": "Athletes",
+    "filename": "athletes"
+  },
+  {
+    "subject": "Autism",
+    "filename": "autism"
+  },
+  {
+    "subject": "Autoimmune Diseases",
+    "filename": "autoimmune-diseases"
+  },
+  {
+    "subject": "Baking Soda",
+    "filename": "baking-soda"
+  },
+  {
+    "subject": "Bath, Washing, Shower, Sauna, Jacuzzi",
+    "filename": "bath-washing-shower-sauna-jacuzzi"
+  },
+  {
+    "subject": "Blood Tests",
+    "filename": "blood-tests"
+  },
+  {
+    "subject": "Body Odor",
+    "filename": "body-odor"
+  },
+  {
+    "subject": "Bowel Movements",
+    "filename": "bowel-movements"
+  },
+  {
+    "subject": "Brain",
+    "filename": "brain"
+  },
+  {
+    "subject": "Brewer's Yeast",
+    "filename": "brewers-yeast"
+  },
+  {
+    "subject": "Bruising",
+    "filename": "bruising"
+  },
+  {
+    "subject": "Bruxism / Restless leg syndrome",
+    "filename": "bruxism-restless-leg-syndrome"
+  },
+  {
+    "subject": "Caffeine",
+    "filename": "caffeine"
+  },
+  {
+    "subject": "Calcium",
+    "filename": "calcium"
+  },
+  {
+    "subject": "Cancer",
+    "filename": "cancer"
+  },
+  {
+    "subject": "Cannabis / Cannabinoid Compounds",
+    "filename": "cannabis-cannabinoids"
+  },
+  {
+    "subject": "Carrot",
+    "filename": "carrot"
+  },
+  {
+    "subject": "Cascara",
+    "filename": "cascara"
+  },
+  {
+    "subject": "Cassava",
+    "filename": "cassava"
+  },
+  {
+    "subject": "Cellulite",
+    "filename": "cellulite"
+  },
+  {
+    "subject": "Cetirizine",
+    "filename": "cetirizine"
+  },
+  {
+    "subject": "Cheese",
+    "filename": "cheese"
+  },
+  {
+    "subject": "Chest Pain",
+    "filename": "chest-pain"
+  },
+  {
+    "subject": "Chocolate",
+    "filename": "chocolate"
+  },
+  {
+    "subject": "Cholesterol",
+    "filename": "cholesterol"
+  },
+  {
+    "subject": "Circumcision",
+    "filename": "circumcision"
+  },
+  {
+    "subject": "CO2",
+    "filename": "co-2"
+  },
+  {
+    "subject": "Coca Cola / Coke",
+    "filename": "coca-cola"
+  },
+  {
+    "subject": "Coconut",
+    "filename": "coconut"
+  },
+  {
+    "subject": "Coconut Oil",
+    "filename": "coconut-oil"
+  },
+  {
+    "subject": "Coffee",
+    "filename": "coffee"
+  },
+  {
+    "subject": "Contraception",
+    "filename": "contraception"
+  },
+  {
+    "subject": "Cooking",
+    "filename": "cooking"
+  },
+  {
+    "subject": "Copper",
+    "filename": "copper"
+  },
+  {
+    "subject": "CoQ10",
+    "filename": "coq-10"
+  },
+  {
+    "subject": "Corn",
+    "filename": "corn"
+  },
+  {
+    "subject": "Cortisol",
+    "filename": "cortisol"
+  },
+  {
+    "subject": "Cosmetics & Perfumes",
+    "filename": "cosmetics-perfumes"
+  },
+  {
+    "subject": "Cramps",
+    "filename": "cramps"
+  },
+  {
+    "subject": "Cyproheptadine",
+    "filename": "cyproheptadine"
+  },
+  {
+    "subject": "Depression",
+    "filename": "depression"
+  },
+  {
+    "subject": "DHEA",
+    "filename": "dhea"
+  },
+  {
+    "subject": "DHT",
+    "filename": "dht"
+  },
+  {
+    "subject": "Diabetes",
+    "filename": "diabetes"
+  },
+  {
+    "subject": "Diet (general)",
+    "filename": "diet"
+  },
+  {
+    "subject": "Dilated Pupils",
+    "filename": "dilated-pupils"
+  },
+  {
+    "subject": "Distilled Water",
+    "filename": "distilled-water"
+  },
+  {
+    "subject": "DMSO",
+    "filename": "dmso"
+  },
+  {
+    "subject": "DNP",
+    "filename": "dnp"
+  },
+  {
+    "subject": "Eczema",
+    "filename": "eczema"
+  },
+  {
+    "subject": "Eggs",
+    "filename": "eggs"
+  },
+  {
+    "subject": "Electric sensations",
+    "filename": "electric-sensations"
+  },
+  {
+    "subject": "Electrotherapy to Treat Injuries",
+    "filename": "electrotherapy-injuries"
+  },
+  {
+    "subject": "Emodin",
+    "filename": "emodin"
+  },
+  {
+    "subject": "Exercise",
+    "filename": "exercise"
+  },
+  {
+    "subject": "Eyes",
+    "filename": "eyes"
+  },
+  {
+    "subject": "Fasting",
+    "filename": "fasting"
+  },
+  {
+    "subject": "Fat Oxidation",
+    "filename": "fat-oxidation"
+  },
+  {
+    "subject": "Flowers of sulfur",
+    "filename": "flowers-of-sulfur"
+  },
+  {
+    "subject": "Fluoride",
+    "filename": "fluoride"
+  },
+  {
+    "subject": "Food Additives",
+    "filename": "food-additives"
+  },
+  {
+    "subject": "Forskolin",
+    "filename": "forskolin"
+  },
+  {
+    "subject": "Fructose",
+    "filename": "fructose"
+  },
+  {
+    "subject": "Fruit",
+    "filename": "fruit"
+  },
+  {
+    "subject": "Fruit Diet (vegan, veganism)",
+    "filename": "fruit-diet"
+  },
+  {
+    "subject": "Fruit Juice",
+    "filename": "fruit-juice"
+  },
+  {
+    "subject": "Fungi",
+    "filename": "fungi"
+  },
+  {
+    "subject": "Gastroesophageal Reflux",
+    "filename": "gastroesophageal-reflux"
+  },
+  {
+    "subject": "Gelatin",
+    "filename": "gelatin"
+  },
+  {
+    "subject": "Genes",
+    "filename": "genes"
+  },
+  {
+    "subject": "Gluten",
+    "filename": "gluten"
+  },
+  {
+    "subject": "Gout/High Uric Acid",
+    "filename": "gout-uric-acid"
+  },
+  {
+    "subject": "Grains",
+    "filename": "grains"
+  },
+  {
+    "subject": "Hair",
+    "filename": "hair"
+  },
+  {
+    "subject": "Hallucinations",
+    "filename": "hallucinations"
+  },
+  {
+    "subject": "Headaches and Migraines",
+    "filename": "headaches-migraines"
+  },
+  {
+    "subject": "Heart",
+    "filename": "heart"
+  },
+  {
+    "subject": "Heavy Metals",
+    "filename": "heavy-metals"
+  },
+  {
+    "subject": "Hemorrhagic Fevers",
+    "filename": "hemorrhagic-fevers"
+  },
+  {
+    "subject": "High Fructose Corn Syrup",
+    "filename": "hfcs"
+  },
+  {
+    "subject": "Hiatal Hernia",
+    "filename": "hiatal-hernia"
+  },
+  {
+    "subject": "Hibiscus",
+    "filename": "hibiscus"
+  },
+  {
+    "subject": "High Metabolism",
+    "filename": "high-metabolism"
+  },
+  {
+    "subject": "Hormone Creams",
+    "filename": "hormone-creams"
+  },
+  {
+    "subject": "Hypertension",
+    "filename": "hypertension"
+  },
+  {
+    "subject": "Hyperthyroidism",
+    "filename": "hyperthyroidism"
+  },
+  {
+    "subject": "Hypothyroidism",
+    "filename": "hypothyrodism"
+  },
+  {
+    "subject": "Ice cream (recipe)",
+    "filename": "ice-cream-recipe"
+  },
+  {
+    "subject": "Inclined bed therapy?",
+    "filename": "inclined-bed-therapy"
+  },
+  {
+    "subject": "Inflammation",
+    "filename": "inflammation"
+  },
+  {
+    "subject": "Inhibition",
+    "filename": "inhibition"
+  },
+  {
+    "subject": "Intestine/Allergy",
+    "filename": "intestine-allergy"
+  },
+  {
+    "subject": "Iodine",
+    "filename": "iodine"
+  },
+  {
+    "subject": "Iron",
+    "filename": "iron"
+  },
+  {
+    "subject": "Itching",
+    "filename": "itching"
+  },
+  {
+    "subject": "Kefir, Kefiran",
+    "filename": "kefir-kefiran"
+  },
+  {
+    "subject": "Ketones & Ketogenic Diets",
+    "filename": "ketones-ketogenic-diets"
+  },
+  {
+    "subject": "Kidney",
+    "filename": "kidney"
+  },
+  {
+    "subject": "Kidney and Gallblader Stones",
+    "filename": "kidney-gallblader-stones"
+  },
+  {
+    "subject": "Knees",
+    "filename": "knees"
+  },
+  {
+    "subject": "Leptin",
+    "filename": "leptin"
+  },
+  {
+    "subject": "Lidocaine",
+    "filename": "lidocaine"
+  },
+  {
+    "subject": "Light",
+    "filename": "light"
+  },
+  {
+    "subject": "Liver (diseased)",
+    "filename": "liver"
+  },
+  {
+    "subject": "Long-term Benefits",
+    "filename": "long-term-benefits"
+  },
+  {
+    "subject": "LSD",
+    "filename": "lsd"
+  },
+  {
+    "subject": "Lungs",
+    "filename": "lungs"
+  },
+  {
+    "subject": "Lunulas",
+    "filename": "lunulas"
+  },
+  {
+    "subject": "Lysine",
+    "filename": "lysine"
+  },
+  {
+    "subject": "Magnesium",
+    "filename": "magnesium"
+  },
+  {
+    "subject": "Manganese",
+    "filename": "manganese"
+  },
+  {
+    "subject": "Mastitis",
+    "filename": "mastitis"
+  },
+  {
+    "subject": "MDMA",
+    "filename": "mdma"
+  },
+  {
+    "subject": "Meat and Organ Meat",
+    "filename": "meat-organs"
+  },
+  {
+    "subject": "Memory",
+    "filename": "memory"
+  },
+  {
+    "subject": "Ménière's disease",
+    "filename": "menieres-disease"
+  },
+  {
+    "subject": "Menses",
+    "filename": "menses"
+  },
+  {
+    "subject": "Methylfolate and methyl B12",
+    "filename": "methylfolate-methyl-b12"
+  },
+  {
+    "subject": "Milk",
+    "filename": "milk"
+  },
+  {
+    "subject": "Milk of Magnesia",
+    "filename": "milk-of-magnesia"
+  },
+  {
+    "subject": "Mind & Tissue",
+    "filename": "mind-and-tissue"
+  },
+  {
+    "subject": "Molasses",
+    "filename": "molasses"
+  },
+  {
+    "subject": "Moles",
+    "filename": "moles"
+  },
+  {
+    "subject": "Muscle Work",
+    "filename": "muscle-work"
+  },
+  {
+    "subject": "Multiple Sclerosis",
+    "filename": "multiple-sclerosis"
+  },
+  {
+    "subject": "Naloxone & Naltrexone",
+    "filename": "naloxone-naltrexone"
+  },
+  {
+    "subject": "Niacin(amide)",
+    "filename": "niacin-niacinamide"
+  },
+  {
+    "subject": "Nigella Sativa (Black Cumin Seed)",
+    "filename": "nigella-sativa"
+  },
+  {
+    "subject": "Oregano Oil",
+    "filename": "oregano-oil"
+  },
+  {
+    "subject": "Palm Oil",
+    "filename": "palm-oil"
+  },
+  {
+    "subject": "Panic Attacks",
+    "filename": "panic-attacks"
+  },
+  {
+    "subject": "Parathyroid Hormone (PTH)",
+    "filename": "pth"
+  },
+  {
+    "subject": "PCOS",
+    "filename": "pcos"
+  },
+  {
+    "subject": "Pentoxifyllin",
+    "filename": "pentoxifyllin"
+  },
+  {
+    "subject": "Persorption",
+    "filename": "persorption"
+  },
+  {
+    "subject": "Pets",
+    "filename": "pets"
+  },
+  {
+    "subject": "Phosphoric Acid",
+    "filename": "phosphoric-acid"
+  },
+  {
+    "subject": "Piracetam",
+    "filename": "piracetam"
+  },
+  {
+    "subject": "Poltics, History",
+    "filename": "politics-history"
+  },
+  {
+    "subject": "Plastic",
+    "filename": "plastic"
+  },
+  {
+    "subject": "Pregnancy",
+    "filename": "pregnancy"
+  },
+  {
+    "subject": "Pregnenolone",
+    "filename": "pregnenolone"
+  },
+  {
+    "subject": "Progesterone",
+    "filename": "progesterone"
+  },
+  {
+    "subject": "Prolactin",
+    "filename": "prolactin"
+  },
+  {
+    "subject": "Prostate",
+    "filename": "prostate"
+  },
+  {
+    "subject": "Protein",
+    "filename": "protein"
+  },
+  {
+    "subject": "Protein Powders",
+    "filename": "protein-powders"
+  },
+  {
+    "subject": "PUFA",
+    "filename": "pufa"
+  },
+  {
+    "subject": "Pulse",
+    "filename": "pulse"
+  },
+  {
+    "subject": "Pyruvate",
+    "filename": "pyruvate"
+  },
+  {
+    "subject": "Radiation",
+    "filename": "radiation"
+  },
+  {
+    "subject": "Randle Cycle",
+    "filename": "randle-cycle"
+  },
+  {
+    "subject": "Receptors",
+    "filename": "receptors"
+  },
+  {
+    "subject": "RedBull",
+    "filename": "redbull"
+  },
+  {
+    "subject": "Red Light",
+    "filename": "red-light"
+  },
+  {
+    "subject": "Reincarnation",
+    "filename": "reincarnation"
+  },
+  {
+    "subject": "Resonance",
+    "filename": "resonance"
+  },
+  {
+    "subject": "Rifaximin",
+    "filename": "rifaximin"
+  },
+  {
+    "subject": "Salt",
+    "filename": "salt"
+  },
+  {
+    "subject": "Satiety",
+    "filename": "satiety"
+  },
+  {
+    "subject": "Seafood",
+    "filename": "seafood"
+  },
+  {
+    "subject": "Serotonin",
+    "filename": "serotonin"
+  },
+  {
+    "subject": "Sex and Masturbation",
+    "filename": "sex-masturbation"
+  },
+  {
+    "subject": "Silicon",
+    "filename": "silicon"
+  },
+  {
+    "subject": "Skin",
+    "filename": "skin"
+  },
+  {
+    "subject": "Sleep",
+    "filename": "sleep"
+  },
+  {
+    "subject": "Smoking/Nicotine",
+    "filename": "smoking-nicotine"
+  },
+  {
+    "subject": "Sodium",
+    "filename": "sodium"
+  },
+  {
+    "subject": "Sorbitol",
+    "filename": "sorbitol"
+  },
+  {
+    "subject": "Sourdough bread",
+    "filename": "sourdough-bread"
+  },
+  {
+    "subject": "Starch",
+    "filename": "starch"
+  },
+  {
+    "subject": "Stevia",
+    "filename": "stevia"
+  },
+  {
+    "subject": "Stroke",
+    "filename": "stroke"
+  },
+  {
+    "subject": "Strontium",
+    "filename": "strontium"
+  },
+  {
+    "subject": "Study",
+    "filename": "study"
+  },
+  {
+    "subject": "Stutter",
+    "filename": "stutter"
+  },
+  {
+    "subject": "Spices",
+    "filename": "spices"
+  },
+  {
+    "subject": "Sugar",
+    "filename": "sugar"
+  },
+  {
+    "subject": "Sun",
+    "filename": "sun"
+  },
+  {
+    "subject": "Supplements",
+    "filename": "supplements"
+  },
+  {
+    "subject": "Tartar",
+    "filename": "tartar"
+  },
+  {
+    "subject": "Tea",
+    "filename": "tea"
+  },
+  {
+    "subject": "Teenagers & Puberty",
+    "filename": "teenagers-puberty"
+  },
+  {
+    "subject": "Teeth and Gums",
+    "filename": "teeth-gums"
+  },
+  {
+    "subject": "Testosterone",
+    "filename": "testosterone"
+  },
+  {
+    "subject": "Thyroid Hormones",
+    "filename": "thyroid-hormones"
+  },
+  {
+    "subject": "Thyroid Storm",
+    "filename": "thyroid-storm"
+  },
+  {
+    "subject": "Tinnitus",
+    "filename": "tinnitus"
+  },
+  {
+    "subject": "TMJD / Jaw Cartilage",
+    "filename": "tmjd-jaw-cartilage"
+  },
+  {
+    "subject": "Urinary Tract Infections (UTIs)",
+    "filename": "utis"
+  },
+  {
+    "subject": "Vegetables",
+    "filename": "vegetables"
+  },
+  {
+    "subject": "Virilization",
+    "filename": "virilization"
+  },
+  {
+    "subject": "Viruses",
+    "filename": "viruses"
+  },
+  {
+    "subject": "Vitamin A",
+    "filename": "vitamin-a"
+  },
+  {
+    "subject": "Vitamin C",
+    "filename": "vitamin-c"
+  },
+  {
+    "subject": "Vitamin D",
+    "filename": "vitamin-d"
+  },
+  {
+    "subject": "Vitamin E",
+    "filename": "vitamin-e"
+  },
+  {
+    "subject": "Vitamin K",
+    "filename": "vitamin-k"
+  },
+  {
+    "subject": "Vitiligo",
+    "filename": "vitiligo"
+  },
+  {
+    "subject": "Water Retention",
+    "filename": "water-retention"
+  },
+  {
+    "subject": "Weight Gain",
+    "filename": "weight-gain"
+  },
+  {
+    "subject": "Weight Loss",
+    "filename": "weight-loss"
+  },
+  {
+    "subject": "Weight Set Point",
+    "filename": "weight-set-point"
+  },
+  {
+    "subject": "Wounds",
+    "filename": "wounds"
+  },
+  {
+    "subject": "Yeast (candida)",
+    "filename": "yeast-candida"
+  },
+  {
+    "subject": "Yoghurt",
+    "filename": "yoghurt"
+  },
+  {
+    "subject": "Zinc",
+    "filename": "zinc"
+  }
+]

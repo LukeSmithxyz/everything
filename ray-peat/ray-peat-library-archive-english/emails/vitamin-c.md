@@ -1,0 +1,3 @@
+# Vitamin C
+
+The trace impurities in synthetic ascorbic acid can increase free radical production, and quite a few people have allergic reactions to it. The situation isn't as clear with citric acid, but I think manufacturing impurities could account for some of the effects I see. For many years, I have been seeing more symptoms relieved by stopping all the chemical supplements, than by using them.
