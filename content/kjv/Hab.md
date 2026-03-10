@@ -1,5 +1,7 @@
 ---
 title: "Habakkuk"
+params:
+ order: 35
 ---
 
 1:1	The burden which Habakkuk the prophet did see.

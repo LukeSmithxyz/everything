@@ -1,5 +1,7 @@
 ---
 title: "1 Chronicles"
+params:
+ order: 13
 ---
 
 1:1	Adam, Sheth, Enosh,

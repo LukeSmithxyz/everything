@@ -1,5 +1,7 @@
 ---
 title: "Baruch"
+params:
+ order: 44
 ---
 
 1:1	And these are the words of the book, which Baruch the son of Nerias, the son of Maasias, the son of Sedecias, the son of Asadias, the son of Chelcias, wrote in Babylon,

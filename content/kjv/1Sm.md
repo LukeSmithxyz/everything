@@ -1,5 +1,7 @@
 ---
 title: "1 Samuel"
+params:
+ order: 9
 ---
 
 1:1	Now there was a certain man of Ramathaimzophim, of mount Ephraim, and his name was Elkanah, the son of Jeroham, the son of Elihu, the son of Tohu, the son of Zuph, an Ephrathite:

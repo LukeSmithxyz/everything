@@ -1,5 +1,7 @@
 ---
 title: "3 John"
+params:
+ order: 77
 ---
 
 1:1	The elder unto the wellbeloved Gaius, whom I love in the truth.

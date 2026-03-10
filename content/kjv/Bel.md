@@ -1,5 +1,7 @@
 ---
 title: "Bel and the Dragon"
+params:
+ order: 47
 ---
 
 1:1	And king Astyages was gathered to his fathers, and Cyrus of Persia received his kingdom.

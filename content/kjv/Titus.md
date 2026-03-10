@@ -1,5 +1,7 @@
 ---
 title: "Titus"
+params:
+ order: 69
 ---
 
 1:1	Paul, a servant of God, and an apostle of Jesus Christ, according to the faith of God's elect, and the acknowledging of the truth which is after godliness;

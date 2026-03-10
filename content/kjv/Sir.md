@@ -1,5 +1,7 @@
 ---
 title: "Sirach"
+params:
+ order: 43
 ---
 
 1:1	All wisdom cometh from the Lord, and is with him for ever.

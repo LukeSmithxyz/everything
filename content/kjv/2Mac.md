@@ -1,5 +1,7 @@
 ---
 title: "2 Maccabees"
+params:
+ order: 49
 ---
 
 1:1	The brethren, the Jews that be at Jerusalem and in the land of Judea, wish unto the brethren, the Jews that are throughout Egypt health and peace:

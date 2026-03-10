@@ -1,5 +1,7 @@
 ---
 title: "2 Thessalonians"
+params:
+ order: 66
 ---
 
 1:1	Paul, and Silvanus, and Timotheus, unto the church of the Thessalonians in God our Father and the Lord Jesus Christ:

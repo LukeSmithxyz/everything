@@ -1,5 +1,7 @@
 ---
 title: "Judith"
+params:
+ order: 41
 ---
 
 1:1	In the twelfth year of the reign of Nabuchodonosor, who reigned in Nineve, the great city; in the days of Arphaxad, which reigned over the Medes in Ecbatane,

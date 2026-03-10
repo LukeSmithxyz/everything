@@ -1,5 +1,7 @@
 ---
 title: "2 Kings"
+params:
+ order: 12
 ---
 
 1:1	Then Moab rebelled against Israel after the death of Ahab.

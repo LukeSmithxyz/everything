@@ -1,5 +1,7 @@
 ---
 title: "Micah"
+params:
+ order: 33
 ---
 
 1:1	The word of the LORD that came to Micah the Morasthite in the days of Jotham, Ahaz, and Hezekiah, kings of Judah, which he saw concerning Samaria and Jerusalem.

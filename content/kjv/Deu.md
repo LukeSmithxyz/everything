@@ -1,5 +1,7 @@
 ---
 title: "Deuteronomy"
+params:
+ order: 5
 ---
 
 1:1	These be the words which Moses spake unto all Israel on this side Jordan in the wilderness, in the plain over against the Red sea, between Paran, and Tophel, and Laban, and Hazeroth, and Dizahab.

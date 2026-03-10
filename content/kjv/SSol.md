@@ -1,5 +1,7 @@
 ---
 title: "Song of Solomon"
+params:
+ order: 22
 ---
 
 1:1	The song of songs, which is Solomon's.

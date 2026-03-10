@@ -1,5 +1,7 @@
 ---
 title: "Exodus"
+params:
+ order: 2
 ---
 
 1:1	Now these are the names of the children of Israel, which came into Egypt; every man and his household came with Jacob.

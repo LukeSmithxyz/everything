@@ -1,5 +1,7 @@
 ---
 title: "Prayer of Azariah"
+params:
+ order: 45
 ---
 
 1:1	And they walked in the midst of the fire, praising God, and blessing the Lord.

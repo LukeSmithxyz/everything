@@ -1,5 +1,7 @@
 ---
 title: "Prayer of Manasseh"
+params:
+ order: 51
 ---
 
 1:1	O Lord, Almighty God of our fathers, Abraham, Isaac, and Jacob, and of their righteous seed;

@@ -1,5 +1,7 @@
 ---
 title: "Ephesians"
+params:
+ order: 62
 ---
 
 1:1	Paul, an apostle of Jesus Christ by the will of God, to the saints which are at Ephesus, and to the faithful in Christ Jesus:

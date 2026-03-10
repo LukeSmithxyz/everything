@@ -1,5 +1,7 @@
 ---
 title: "1 Timothy"
+params:
+ order: 67
 ---
 
 1:1	Paul, an apostle of Jesus Christ by the commandment of God our Saviour, and Lord Jesus Christ, which is our hope;
