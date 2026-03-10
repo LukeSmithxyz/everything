@@ -6,7 +6,7 @@ author: "Aristotle"
 
 Translated by J. I. Beare
 
-Part 1
+## Part 1
 
 With regard to sleep and waking, we must consider what they are:
 whether they are peculiar to soul or to body, or common to both; and
@@ -126,7 +126,7 @@ when (the animal) is asleep than when it is awake. Nutrition and growth
 are then especially promoted, a fact which implies that creatures
 do not need sense-perception to assist these processes.
 
-Part 2
+## Part 2
 
 We must now proceed to inquire into the cause why one sleeps and wakes,
 and into the particular nature of the sense-perception, or sense-perceptions,
@@ -259,7 +259,7 @@ have to speak later on. Why it is that persons when aroused remember
 their dreams, but do not remember these acts which are like waking
 acts, has been already explained in the work 'Of Problems'.
 
-Part 3
+## Part 3
 
 The point for consideration next in order to the preceding is:-What
 are the processes in which the affection of waking and sleeping originates,

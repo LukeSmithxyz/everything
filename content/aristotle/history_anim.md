@@ -9,7 +9,7 @@ Translated by D'Arcy Wentworth Thompson
 
 # BOOK I
 
-Part 1
+## Part 1
 
 Of the parts of animals some are simple: to wit, all such as divide
 into parts uniform with themselves, as flesh into flesh; others are
@@ -261,7 +261,7 @@ With regard to the several genera of animals, particulars as to their
 habits of life and modes of existence will be discussed more fully
 by and by.
 
-Part 2
+## Part 2
 
 Common to all animals are the organs whereby they take food and the
 organs where into they take it; and these are either identical with
@@ -286,7 +286,7 @@ And, by the way, I may here remark that the organ receptive of wet
 residuum is termed 'bladder', and the organ receptive of dry residuum
 'intestine or 'bowel'.
 
-Part 3
+## Part 3
 
 Of animals otherwise, a great many have, besides the organs above-mentioned,
 an organ for excretion of the sperm: and of animals capable of generation
@@ -305,7 +305,7 @@ Consequently, there is no special name for the organ in which it has
 its seat; for in some groups of animals the organ is identical, in
 others it is only analogous.
 
-Part 4
+## Part 4
 
 Every animal is supplied with moisture, and, if the animal be deprived
 of the same by natural causes or artificial means, death ensues: further,
@@ -331,7 +331,7 @@ or two-footed, or four-footed; other animals are bloodless, such as
 the bee and the wasp, and, of marine animals, the cuttle-fish, the
 crawfish, and all such animals as have more than four feet.
 
-Part 5
+## Part 5
 
 Again, some animals are viviparous, others oviparous, others vermiparous
 or 'grub-bearing'. Some are viviparous, such as man, the horse, the
@@ -442,7 +442,7 @@ All animals move alike, four-footed and many-footed; in other words,
 they all move cross-corner-wise. And animals in general have two feet
 in advance; the crab alone has four.
 
-Part 6
+## Part 6
 
 Very extensive genera of animals, into which other subdivisions fall,
 are the following: one, of birds; one, of fishes; and another, of
@@ -522,7 +522,7 @@ with the view of observing due order and sequence and of combining
 rational notions with physical perception, we shall proceed to enumerate
 the parts: firstly, the organic, and afterwards the simple or non-composite.
 
-Part 7
+## Part 7
 
 The chief parts into which the body as a whole is subdivided, are
 the head, the neck, the trunk (extending from the neck to the privy
@@ -545,7 +545,7 @@ vertex. In some cases the parting is double; that is to say, some
 men are double crowned, not in regard to the bony skull, but in consequence
 of the double fall or set of the hair.
 
-Part 8
+## Part 8
 
 The part that lies under the skull is called the 'face': but in the
 case of man only, for the term is not applied to a fish or to an ox.
@@ -555,7 +555,7 @@ when they have small ones, they are fickle; when they have broad ones,
 they are apt to be distraught; when they have foreheads rounded or
 bulging out, they are quick-tempered.
 
-Part 9
+## Part 9
 
 Underneath the forehead are two eyebrows. Straight eyebrows are a
 sign of softness of disposition; such as curve in towards the nose,
@@ -585,7 +585,7 @@ and all the place that is usually devoted on the outside to eyes:
 showing that the parts are stunted in development, and the skin allowed
 to grow over.
 
-Part 10
+## Part 10
 
 Of the eye the white is pretty much the same in all creatures; but
 what is called the black differs in various animals. Some have the
@@ -605,7 +605,7 @@ and sometimes are disposed neither to wink nor stare. The last kind
 are the sign of the best nature, and of the others, the latter kind
 indicates impudence, and the former indecision.
 
-Part 11
+## Part 11
 
 Furthermore, there is a portion of the head, whereby an animal hears,
 a part incapable of breathing, the 'ear'. I say 'incapable of breathing',
@@ -695,7 +695,7 @@ pillar streaked with veins. If this pillar gets relaxed and inflamed
 it is called 'uvula' or 'bunch of grapes', and it then has a tendency
 to bring about suffocation.
 
-Part 12
+## Part 12
 
 The neck is the part between the face and the trunk. Of this the front
 part is the larynx land the back part the ur The front part, composed
@@ -714,7 +714,7 @@ texture. Milk, by the way, is found at times in the male; but with
 the male the flesh of the breast is tough, with the female it is soft
 and porous.
 
-Part 13
+## Part 13
 
 Next after the thorax and in front comes the 'belly', and its root
 the 'navel'. Underneath this root the bilateral part is the 'flank':
@@ -744,7 +744,7 @@ Testicles are not identical with flesh, and are not altogether diverse
 from it. But by and by we shall treat in an exhaustive way regarding
 all such parts.
 
-Part 14
+## Part 14
 
 The privy part of the female is in character opposite to that of the
 male. In other words, the part under the pubes is hollow or receding,
@@ -760,7 +760,7 @@ and the part outside the thigh and buttocks is the 'hypoglutis'.
 The front parts of the trunk have now been enumerated.
 The part behind the chest is termed the 'back'.
 
-Part 15
+## Part 15
 
 Parts of the back are a pair of 'shoulderblades', the 'back-bone',
 and, underneath on a level with the belly in the trunk, the 'loins'.
@@ -857,7 +857,7 @@ Of the senses man has the sense of touch more refined than any animal,
 and so also, but in less degree, the sense of taste; in the development
 of the other senses he is surpassed by a great number of animals.
 
-Part 16
+## Part 16
 
 The parts, then, that are externally visible are arranged in the way
 above stated, and as a rule have their special designations, and from
@@ -964,7 +964,7 @@ below.
 So much for the properties of the oesophagus, the windpipe, and the
 stomach.
 
-Part 17
+## Part 17
 
 The heart has three cavities, and is situated above the lung at the
 division of the windpipe, and is provided with a fatty and thick membrane
@@ -1099,7 +1099,7 @@ nature and such their local disposition.
 
 # BOOK II
 
-Part 1
+## Part 1
 
 With regard to animals in general, some parts or organs are common
 to all, as has been said, and some are common only to particular genera;
@@ -1428,7 +1428,7 @@ and the ass. And man sheds his front teeth; but there is no instance
 of an animal that sheds its molars. The pig sheds none of its teeth
 at all.
 
-Part 2
+## Part 2
 
 With regard to dogs some doubts are entertained, as some contend that
 they shed no teeth whatever, and others that they shed the canines,
@@ -1442,7 +1442,7 @@ from one another, the young from the old, by their teeth; for the
 teeth in young dogs are white and sharp-pointed; in old dogs, black
 and blunt.
 
-Part 3
+## Part 3
 
 In this particular, the horse differs entirely from animals in general:
 for, generally speaking, as animals grow older their teeth get blacker,
@@ -1458,7 +1458,7 @@ been made: but the more teeth they have the more long-lived are they,
 as a rule, while those are short-lived in proportion that have teeth
 fewer in number and thinly set.
 
-Part 4
+## Part 4
 
 The last teeth to come in man are molars called 'wisdom-teeth', which
 come at the age of twenty years, in the case of both sexes. Cases
@@ -1468,7 +1468,7 @@ in their coming; and cases have been known of the like phenomenon
 in men too. This happens, when it does happen, in the case of people
 where the wisdom-teeth have not come up in early years.
 
-Part 5
+## Part 5
 
 The elephant has four teeth on either side, by which it munches its
 food, grinding it like so much barley-meal, and, quite apart from
@@ -1478,12 +1478,12 @@ they are comparatively small and point in the opposite direction;
 that is, they look downwards towards the ground. The elephant is furnished
 with teeth at birth, but the tusks are not then visible.
 
-Part 6
+## Part 6
 
 The tongue of the elephant is exceedingly small, and situated far
 back in the mouth, so that it is difficult to get a sight of it.
 
-Part 7
+## Part 7
 
 Furthermore, animals differ from one another in the relative size
 of their mouths. In some animals the mouth opens wide, as is the case
@@ -1498,7 +1498,7 @@ of a horse, and the dimensions of an ass. The hide is so thick that
 spears are made out of it. In its internal organs it resembles the
 horse and the ass.)
 
-Part 8
+## Part 8
 
 Some animals share the properties of man and the quadrupeds, as the
 ape, the monkey, and the baboon. The monkey is a tailed ape. The baboon
@@ -1546,7 +1546,7 @@ of a tail. The genitals of the female resemble those of the female
 in the human species; those of the male are more like those of a dog
 than are those of a man.
 
-Part 9
+## Part 9
 
 The monkey, as has been observed, is furnished with a tail. In all
 such creatures the internal organs are found under dissection to correspond
@@ -1555,7 +1555,7 @@ to those of man.
 So much then for the properties of the organs of such animals as bring
 forth their young into the world alive.
 
-Part 10
+## Part 10
 
 Oviparous and blooded quadrupeds-and, by the way, no terrestrial blooded
 animal is oviparous unless it is quadrupedal or is devoid of feet
@@ -1586,7 +1586,7 @@ acuteness. As a rule, they pass the day-time on land and the nighttime
 in the water; for the temperature of the water is at night-time more
 genial than that of the open air.
 
-Part 11
+## Part 11
 
 The chameleon resembles the lizard in the general configuration of
 its body, but the ribs stretch downwards and meet together under the
@@ -1633,7 +1633,7 @@ neighbourhood of the ribs, a similar motion is more or less discernible
 over the whole body. It has no spleen visible. It hibernates, like
 the lizard.
 
-Part 12
+## Part 12
 
 Birds also in some parts resemble the above mentioned animals; that
 is to say, they have in all cases a head, a neck, a back, a belly,
@@ -1701,7 +1701,7 @@ up, and is composed of feathers only; but the crest of the barn-door
 cock is exceptional in kind, for, whereas it is not just exactly flesh,
 at the same time it is not easy to say what else it is.
 
-Part 13
+## Part 13
 
 Of water animals the genus of fishes constitutes a single group apart
 from the rest, and including many diverse forms.
@@ -1786,7 +1786,7 @@ oviparous, and some viviparous; scaly fish are invariably oviparous,
 but cartilaginous fishes are all viviparous, with the single exception
 of the fishing-frog.
 
-Part 14
+## Part 14
 
 Of blooded animals there now remains the serpent genus. This genus
 is common to both elements, for, while most species comprehended therein
@@ -1816,7 +1816,7 @@ with feet from the fact that its fins resemble those organs.
 So much, then, for the external parts of blooded animals, as regards
 their numbers, their properties, and their relative diversities.
 
-Part 15
+## Part 15
 
 As for the properties of the internal organs, these we must first
 discuss in the case of the animals that are supplied with blood. For
@@ -1901,7 +1901,7 @@ the quail, the swallow, and the sparrow; some have it near at once
 to the liver and to the stomach as the aegocephalus; others have it
 near at once to the liver and the gut, as the falcon and the kite.
 
-Part 16
+## Part 16
 
 Again, all viviparous quadrupeds are furnished with kidneys and a
 bladder. Of the ovipara that are not quadrupedal there is no instance
@@ -1913,7 +1913,7 @@ the ox; that is to say, it looks one single organ composed of a number
 of small ones. (The bison also resembles the ox in all its internal
 parts).
 
-Part 17
+## Part 17
 
 With all animals that are furnished with these parts, the parts are
 similarly situated, and with the exception of man, the heart is in
@@ -2123,7 +2123,7 @@ exceedingly minute, as in the sparrow.
 
 # BOOK III
 
-Part 1
+## Part 1
 
 Now that we have stated the magnitudes, the properties, and the relative
 differences of the other internal organs, it remains for us to treat
@@ -2321,7 +2321,7 @@ The parts, then, in animals that are not homogeneous with themselves
 and uniform in their texture, both parts external and parts internal,
 have the properties above assigned to them.
 
-Part 2
+## Part 2
 
 In sanguineous animals the homogeneous or uniform part most universally
 found is the blood, and its habitat the vein; next in degree of universality,
@@ -2416,7 +2416,7 @@ left to right.
 is transmitted to the organs above-mentioned, it becomes thin, warm,
 and frothy.'
 
-Part 3
+## Part 3
 
 Such are the accounts given by Syennesis and Diogenes. Polybus writes
 to the following effect:-
@@ -2556,7 +2556,7 @@ that branch off from the last mentioned vein some envelop the head,
 others close their courses in the organs of sense and at the roots
 of the teeth in veins exceedingly fine and minute.
 
-Part 4
+## Part 4
 
 And in like manner the parts of the lesser one of the two chief blood-vessels,
 designated the aorta, branch off, accompanying the branches from the
@@ -2649,7 +2649,7 @@ choked with slush; and the others have a few minute fibres to serve
 instead of veins. But in all cases the big vein is plainly discernible,
 even in creatures of insignificant size.
 
-Part 5
+## Part 5
 
 The sinews of animals have the following properties. For these also
 the point of origin is the heart; for the heart has sinews within
@@ -2701,7 +2701,7 @@ in fact, destitute of either feet or hands, the sinews are fine and
 inconspicuous; and so, as might have been anticipated, the sinews
 in the fish are chiefly discernible in connexion with the fin.
 
-Part 6
+## Part 6
 
 The ines (or fibrous connective tissue) are a something intermediate
 between sinew and vein. Some of them are supplied with fluid, the
@@ -2724,7 +2724,7 @@ of a firmer consistency in coagulation; for in this respect it resembles,
 or only comes a little short of, the blood of sheep. Such are the
 properties of vein, sinew, and fibrous tissue.
 
-Part 7
+## Part 7
 
 The bones in animals are all connected with one single bone, and are
 interconnected, like the veins, in one unbroken sequence; and there
@@ -2803,7 +2803,7 @@ bones differ from one another in the way of relative excess or relative
 defect, or in the way of analogy taking the place of identity. So
 much for the osseous or spinous systems in animals.
 
-Part 8
+## Part 8
 
 Gristle is of the same nature as bone, but differs from it in the
 way of relative excess or relative defect. And just like bone, cartilage
@@ -2817,7 +2817,7 @@ marrow. In viviparous animals furnished with feet, gristle formations
 are found in the region of the ears, in the nostrils, and around certain
 extremities of the bones.
 
-Part 9
+## Part 9
 
 Furthermore, there are parts of other kinds, neither identical with,
 nor altogether diverse from, the parts above enumerated: such as nails,
@@ -2853,7 +2853,7 @@ has no nails whatsoever--of animals furnished with nails, some are
 straight-nailed, like man; others are crooked nailed, as the lion
 among animals that walk, and the eagle among animals that fly.
 
-Part 10
+## Part 10
 
 The following are the properties of hair and of parts analogous to
 hair, and of skin or hide. All viviparous animals furnished with feet
@@ -2878,7 +2878,7 @@ heat or warmth of the locality: just as the hair in man is hard in
 warm places and soft in cold ones. Again, straight hair is inclined
 to be soft, and curly hair to be bristly.
 
-Part 11
+## Part 11
 
 Hair is naturally fissile, and in this respect it differs in degree
 in diverse animals. In some animals the hair goes on gradually hardening
@@ -2994,7 +2994,7 @@ in amount: and the hooves or claws get larger in size; and the same
 is the case with the beaks of birds. The claws also increase in size,
 as do also the nails.
 
-Part 12
+## Part 12
 
 With regard to winged animals, such as birds, no creature is liable
 to change of colour by reason of age, excepting the crane. The wings
@@ -3033,7 +3033,7 @@ off, nor will the wing of any creature that has undivided wings. Neither
 will the sting grow again if the bee lose it, but the creature will
 die of the loss.
 
-Part 13
+## Part 13
 
 In all sanguineous animals membranes are found. And membrane resembles
 a thin close-textured skin, but its qualities are different, as it
@@ -3048,7 +3048,7 @@ the membrane that encloses the heart. If membrane be bared and cut
 asunder it will not grow together again, and the bone thus stripped
 of its membrane mortifies.
 
-Part 14
+## Part 14
 
 The omentum or caul, by the way, is membrane. All sanguineous animals
 are furnished with this organ; but in some animals the organ is supplied
@@ -3058,7 +3058,7 @@ centre of the stomach, where the stomach has a kind of suture; in
 non-ambidental vivipara it has its starting-point and attachment in
 the chief of the ruminating stomachs.
 
-Part 15
+## Part 15
 
 The bladder also is of the nature of membrane, but of membrane peculiar
 in kind, for it is extensile. The organ is not common to all animals,
@@ -3078,7 +3078,7 @@ membrane, of hair, nail, claw and hoof, of horns, of teeth, of beak,
 of gristle, of bones, and of parts that are analogous to any of the
 parts here enumerated.
 
-Part 16
+## Part 16
 
 Flesh, and that which is by nature akin to it in sanguineous animals,
 is in all cases situated in between the skin and the bone, or the
@@ -3098,7 +3098,7 @@ somewhat black, the viscera and the stomach are large, and the flesh
 is somewhat scanty. And animals with small stomachs are disposed to
 take on flesh.
 
-Part 17
+## Part 17
 
 Again, fat and suet differ from one another. Suet is frangible in
 all directions and congeals if subjected to extreme cold, whereas
@@ -3137,7 +3137,7 @@ at Leontini in Sicily; and consequently in this district they defer
 driving out sheep to pasture until the day is well on, with the view
 of limiting their food by curtailment of the hours of pasture.
 
-Part 18
+## Part 18
 
 The part around the pupil of the eye is fatty in all animals, and
 this part resembles suet in all animals that possess such a part and
@@ -3148,7 +3148,7 @@ breeding purposes. Animals are disposed to take on fat more when old
 than when young, and especially when they have attained their full
 breadth and their full length and are beginning to grow depthways.
 
-Part 19
+## Part 19
 
 And now to proceed to the consideration of the blood. In sanguineous
 animals blood is the most universal and the most indispensable part;
@@ -3230,7 +3230,7 @@ blood at the surface of the body; but this is not the case with young
 animals. Ichor is, in fact, nothing else but unconcocted blood: either
 blood that has not yet been concocted, or that has become fluid again.
 
-Part 20
+## Part 20
 
 We now proceed to discuss the properties of marrow; for this is one
 of the liquids found in certain sanguineous animals. All the natural
@@ -3327,7 +3327,7 @@ and the rinsing put into a little milk, and if this be mixed with
 other milk it curdles Rennet is a kind of milk, for it is found in
 the stomach of the animal while it is yet suckling.
 
-Part 21
+## Part 21
 
 Rennet then consists of milk with an admixture of fire, which comes
 from the natural heat of the animal, as the milk is concocted. All
@@ -3375,7 +3375,7 @@ purposes; and swarthy women give healthier milk than fair ones. Milk
 that is richest in cheese is the most nutritious, but milk with a
 scanty supply of cheese is the more wholesome for children.
 
-Part 22
+## Part 22
 
 All sanguineous animals eject sperm. As to what, and how, it contributes
 to generation, these questions will be discussed in another treatise.
@@ -3398,7 +3398,7 @@ truth in what Ctesias has written about the sperm of the elephant.
 
 # BOOK IV
 
-Part 1
+## Part 1
 
 We have now treated, in regard to blooded animals of the parts they
 have in common and of the parts peculiar to this genus or that, and
@@ -3570,7 +3570,7 @@ like the snail, and from time to time protrudes its feelers.
 
 So much for molluscs.
 
-Part 2
+## Part 2
 
 With regard to the Malacostraca or crustaceans, one species is that
 of the crawfish, and a second, resembling the first, is that of the
@@ -3738,7 +3738,7 @@ along to the fleshy parts, being enveloped in a thin membrane.
 
 Such are the parts, internal and external, of the carid.
 
-Part 3
+## Part 3
 
 The inner organs of sanguineous animals happen to have specific designations;
 for these animals have in all cases the inner viscera, but this is
@@ -3779,7 +3779,7 @@ is the case also with the female in the crawfish).
 
 So much, then, for the organs of the malacostraca or crustacea.
 
-Part 4
+## Part 4
 
 With the ostracoderma, or testaceans, such as the land-snails and
 the sea-snails, and all the 'oysters' so-called, and also with the
@@ -3974,7 +3974,7 @@ little crayfish that are also found in fresh water. These creatures,
 however, differ in having the part inside the shells But as to the
 characters, you are referred to my Treatise on Anatomy.
 
-Part 5
+## Part 5
 
 The urchins are devoid of flesh, and this is a character peculiar
 to them; and while they are in all cases empty and devoid of any flesh
@@ -4026,7 +4026,7 @@ with the panes of horn left out. The urchin uses its spines as feet;
 for it rests its weight on these, and then moving shifts from place
 to place.
 
-Part 6
+## Part 6
 
 The so-called tethyum or ascidian has of all these animals the most
 remarkable characteristics. It is the only mollusc that has its entire
@@ -4083,7 +4083,7 @@ of the rocks.
 So much for the external and the internal organs of molluscs, crustaceans,
 and testaceans.
 
-Part 7
+## Part 7
 
 We now proceed to treat of insects in like manner. This genus comprises
 many species, and, though several kinds are clearly related to one
@@ -4188,7 +4188,7 @@ end of a nightline.
 So much then for the parts, external and internal, exceptional and
 common, of all animals.
 
-Part 8
+## Part 8
 
 We now proceed to treat of the senses; for there are diversities in
 animals with regard to the senses, seeing that some animals have the
@@ -4364,7 +4364,7 @@ and the barnacle.
 So much for the organs of sense in the general run of animals. We
 now proceed to treat of voice.
 
-Part 9
+## Part 9
 
 Voice and sound are different from one another; and language differs
 from voice and sound. The fact is that no animal can give utterance
@@ -4483,7 +4483,7 @@ unaided by the trunk, just like the sound of a man panting or sighing;
 but, if it employ the trunk as well, the sound produced is like that
 of a hoarse trumpet.
 
-Part 10
+## Part 10
 
 With regard to the sleeping and waking of animals, all creatures that
 are red-blooded and provided with legs give sensible proof that they
@@ -4561,7 +4561,7 @@ the system.
 So much then for sensation and for the phenomena of sleeping and of
 awakening.
 
-Part 11
+## Part 11
 
 With regard to sex, some animals are divided into male and female,
 but others are not so divided but can only be said in a comparative
@@ -4640,7 +4640,7 @@ powerful than the horn of the cow.
 
 # BOOK V
 
-Part 1
+## Part 1
 
 As to the parts internal and external that all animals are furnished
 withal, and further as to the senses, to voice, and sleep, and the
@@ -4706,7 +4706,7 @@ animals as cover and are covered; and then after this to treat in
 due order of other matters, both the exceptional and those of general
 occurrence.
 
-Part 2
+## Part 2
 
 Those animals, then, cover and are covered in which there is a duality
 of sex, and the modes of covering in such animals are not in all cases
@@ -4757,7 +4757,7 @@ covers like all opisthuretic animals, and in this species the copulation
 extends over a lengthened time, as is the case with the dog and bitch;
 and the penis in the male seal is exceptionally large.
 
-Part 3
+## Part 3
 
 Oviparous quadrupeds cover one another in the same way. That is to
 say, in some cases the male mounts the female precisely as in the
@@ -4766,7 +4766,7 @@ these creatures have an organ in which the ducts converge, and with
 which they perform the act of copulation, as is also observed in the
 toad, the frog, and all other animals of the same group.
 
-Part 4
+## Part 4
 
 Long animals devoid of feet, like serpents and muraenae, intertwine
 in coition, belly to belly. And, in fact, serpents coil round one
@@ -4774,7 +4774,7 @@ another so tightly as to present the appearance of a single serpent
 with a pair of heads. The same mode is followed by the saurians; that
 is to say, they coil round one another in the act of coition.
 
-Part 5
+## Part 5
 
 All fishes, with the exception of the flat selachians, lie down side
 by side, and copulate belly to belly. Fishes, however, that are flat
@@ -4857,7 +4857,7 @@ seldom accurately observed, owing to the fact that they very soon
 fall aside and slip asunder. But, for all that, the process has been
 observed to take place in the manner above described.
 
-Part 6
+## Part 6
 
 Molluscs, such as the octopus, the sepia, and the calamary, have sexual
 intercourse all in the same way; that is to say, they unite at the
@@ -4880,7 +4880,7 @@ other frontwards during the operation. And the female lays its spawn
 by the so-called 'blow-hole'; and, by the way, some declare that it
 is at this organ that the coition really takes place.
 
-Part 7
+## Part 7
 
 Crustaceans copulate, as the crawfish, the lobster, the carid and
 the like, just like the opisthuretic quadrupeds, when the one animal
@@ -4900,7 +4900,7 @@ eggs and in the same neighbourhood is the outlet of the residuum.
 In the copulative process of these animals there is no protrusion
 of a member from one animal into the other.
 
-Part 8
+## Part 8
 
 Insects copulate at the hinder end, and the smaller individuals mount
 the larger; and the smaller individual is I I is the male. The female
@@ -4961,7 +4961,7 @@ halcyon days about the time of the winter solstice, but in the Sicilian
 seas this season of calm is almost periodical. The bird lays about
 five eggs.
 
-Part 9
+## Part 9
 
 (The aithyia, or diver, and the larus, or gull, lay their eggs on
 rocks bordering on the sea, two or three at a time; but the gull lays
@@ -5002,7 +5002,7 @@ takes place in December before the solstice, and the latter spawning
 in the spring. The male tunny differs from the female in being unprovided
 with the fin beneath the belly which is called aphareus.
 
-Part 10
+## Part 10
 
 Of cartilaginous fishes, the rhina or angelfish is the only one that
 breeds twice; for it breeds at the beginning of autumn, and at the
@@ -5034,7 +5034,7 @@ labrax or basse, breed best where rivers run into the sea. The orcys
 or large-sized tunny, the scorpis, and many other species spawn in
 the open sea.
 
-Part 11
+## Part 11
 
 Fish for the most part breed some time or other during the three months
 between the middle of March and the middle of June. Some few breed
@@ -5069,7 +5069,7 @@ much to do not only in regard to the size and vigour of the creature,
 but also in regard to its parturition and its copulations, causing
 the same species to breed oftener in one place and seldomer in another.
 
-Part 12
+## Part 12
 
 The molluscs also breed in spring. Of the marine molluscs one of the
 first to breed is the sepia. It spawns at all times of the day and
@@ -5103,7 +5103,7 @@ winter; and these urchins are small but full of eggs.
 Snails are found by observations to become in all cases impregnated
 about the same season.
 
-Part 13
+## Part 13
 
 (Of birds the wild species, as has been stated, as a general rule
 pair and breed only once a year. The swallow, however, and the blackbird
@@ -5132,7 +5132,7 @@ summer. The spring brood is the best, or the autumn brood. At all
 events, without doubt, the produce of the hot season, the summer brood,
 is the poorest of the three.)
 
-Part 14
+## Part 14
 
 Further, animals differ from one another in regard to the time of
 life that is best adapted for sexual intercourse.
@@ -5301,7 +5301,7 @@ the female is two years; and only one young animal is produced at
 a time, in other words it is uniparous. And the embryo is the size
 of a calf two or three months old.
 
-Part 15
+## Part 15
 
 So much for the copulations of such animals as copulate.
 
@@ -5432,7 +5432,7 @@ or the like, and very often into the shell of the small ceryx. After
 entering new shell, it carries it about, and begins again to feed,
 and, by and by, as it grows, it shifts again into another larger one.
 
-Part 16
+## Part 16
 
 Moreover, the animals that are unfurnished with shells grow spontaneously,
 like the testaceans, as, for instance, the sea-nettles and the sponges
@@ -5519,7 +5519,7 @@ are under any circumstances black.
 
 And so much with regard to sponges and to generation in the testaceans.
 
-Part 17
+## Part 17
 
 Of crustaceans, the female crawfish after copulation conceives and
 retains its eggs for about three months, from about the middle of
@@ -5580,7 +5580,7 @@ so-called 'old-age' or slough), both directly after birth and in later
 life; this is true both of crabs and crawfish. And, by the way, all
 crawfish are long lived.
 
-Part 18
+## Part 18
 
 Molluscs, after pairing and copulation, lay a white spawn; and this
 spawn, as in the case of the testacean, gets granular in time. The
@@ -5656,7 +5656,7 @@ breasts, with which the male is unprovided. In the sepia, apart from
 this distinction in the sexes, the male, as has been stated, is more
 mottled than the female.
 
-Part 19
+## Part 19
 
 With regard to insects, that the male is less than the female and
 that he mounts upon her back, and how he performs the act of copulation
@@ -5813,7 +5813,7 @@ at first by filaments resembling the threads of a spider's web.
 Such is the mode of generation of the insects above enumerated. but
 if the latter impregnation takes placeduring the change of the yellow
 
-Part 20
+## Part 20
 
 The wasps that are nicknamed 'the ichneumons' (or hunters), less in
 size, by the way, than the ordinary wasp, kill spiders and carry off
@@ -5840,7 +5840,7 @@ of their organs, just as the larger animals die of old age.
 Winged insects die in autumn from the shrinking of their wings. The
 myops dies from dropsy in the eyes.
 
-Part 21
+## Part 21
 
 With regard to the generation of bees different hypotheses are in
 vogue. Some affirm that bees neither copulate nor give birth to young,
@@ -5874,7 +5874,7 @@ The rulers are provided with stings, but they never use them; and
 this latter circumstance will account for the belief of some people
 that they have no stings at all.
 
-Part 22
+## Part 22
 
 Of bees there are various species. The best kind is a little round
 mottled insect; another is long, and resembles the anthrena; a third
@@ -5976,7 +5976,7 @@ and these honeycombs supply honey but never contain grubs. But the
 honeycombs in these places are not all of this sort, nor do all the
 bees construct them.
 
-Part 23
+## Part 23
 
 Anthrenae and wasps construct combs for their young. When they have
 no king, but are wandering about in search of one, the anthrene constructs
@@ -5999,7 +5999,7 @@ spring but in the autumn; and their growth is especially discernible
 in times of full moon. And, by the way, the eggs and the grubs never
 rest at the bottom of the cells, but always cling on to the side wall.
 
-Part 24
+## Part 24
 
 There is a kind of humble-bee that builds a cone-shaped nest of clay
 against a stone or in some similar situation, besmearing the clay
@@ -6010,21 +6010,21 @@ wrapped in a black membrane. Apart from the membrane there is found
 some wax in the honeycomb; and this a wax is much sallower in hue
 than the wax in the honeycomb of the bee.
 
-Part 25
+## Part 25
 
 Ants copulate and engender grubs; and these grubs attach themselves
 to nothing in particular, but grow on and on from small and rounded
 shapes until they become elongated and defined in shape: and they
 are engendered in spring-time.
 
-Part 26
+## Part 26
 
 The land-scorpion also lays a number of egg shaped grubs, and broods
 over them. When the hatching is completed, the parent animal, as happens
 with the parent spider, is ejected and put to death by the young ones;
 for very often the young ones are about eleven in number.
 
-Part 27
+## Part 27
 
 Spiders in all cases copulate in the way above mentioned, and generate
 at first small grubs. And these grubs metamorphose in their entirety,
@@ -6054,7 +6054,7 @@ the mother in the hatching. The brood of a single phalangium is sometimes
 three hundred in number. The spider attains its full growth in about
 four weeks.
 
-Part 28
+## Part 28
 
 Grasshoppers (or locusts) copulate in the same way as other insects;
 that is to say, with the lesser covering the larger, for the male
@@ -6082,7 +6082,7 @@ for the fact is they lay their eggs in cracks of the soil. During
 the winter their eggs remain in the ground; and with the coming of
 summer the last year's larva develops into the perfect grasshopper.
 
-Part 29
+## Part 29
 
 The attelabi or locusts lay their eggs and die in like manner after
 laying them. Their eggs are subject to destruction by the autumn rains,
@@ -6091,7 +6091,7 @@ locusts are exceedingly numerous, from the absence of any destructive
 cause, since their destruction seems then to be a matter of accident
 and to depend on luck.
 
-Part 30
+## Part 30
 
 Of the cicada there are two kinds; one, small in size, the first to
 come and the last to disappear; the other, large, the singing one
@@ -6145,7 +6145,7 @@ it will set to climbing your finger: for the creature is so weak-sighted
 that it will take to climbing your finger as though that were a moving
 leaf.
 
-Part 31
+## Part 31
 
 Of insects that are not carnivorous but that live on the juices of
 living flesh, such as lice and fleas and bugs, all, without exception,
@@ -6199,7 +6199,7 @@ on the dolphin, which is called the 'dolphin's louse'. This fish gets
 exceedingly fat from enjoying an abundance of food while the dolphin
 is out in pursuit of its prey.
 
-Part 32
+## Part 32
 
 Other animalcules besides these are generated, as we have already
 remarked, some in wool or in articles made of wool, as the ses or
@@ -6242,7 +6242,7 @@ off; and with a view to this phenomenon, country folk are in the habit
 of tying wild figs on to fig-trees, and of planting wild fig-trees
 near domesticated ones.
 
-Part 33
+## Part 33
 
 In the case of animals that are quadrupeds and red-blooded and oviparous,
 generation takes place in the spring, but copulation does not take
@@ -6277,7 +6277,7 @@ the full-grown animal attains the length of twenty-six feet; in fact,
 it is actually stated that the animal goes on growing to the end of
 its days.
 
-Part 34
+## Part 34
 
 With regard to serpents or snakes, the viper is externally viviparous,
 having been previously oviparous internally. The egg, as with the
@@ -6295,7 +6295,7 @@ and hatches the eggs in the following year.
 
 # BOOK VI
 
-Part 1
+## Part 1
 
 So much for the generative processes in snakes and insects, and also
 in oviparous quadrupeds. Birds without exception lay eggs, but the
@@ -6337,7 +6337,7 @@ there without making any sort of nest. The circus builds either under
 a dwelling-roof or on cliffs. The tetrix, called ourax in Athens,
 builds neither on the ground nor on trees, but on low-lying shrubs.
 
-Part 2
+## Part 2
 
 The egg in the case of all birds alike is hard-shelled, if it be the
 produce of copulation and be laid by a healthy hen-for some hens lay
@@ -6467,7 +6467,7 @@ Though they do not impregnate one another they lay more eggs under
 these than under ordinary circumstances; no chicks, however, result
 therefrom, but all such eggs are wind-eggs.
 
-Part 3
+## Part 3
 
 Generation from the egg proceeds in an identical manner with all birds,
 but the full periods from conception to birth differ, as has been
@@ -6571,7 +6571,7 @@ twins out of them all, except those that were wind-eggs; the rest
 were fertile (though, by the way, one of the twins is always bigger
 than the other), but the eighteenth was abnormal or monstrous.
 
-Part 4
+## Part 4
 
 Birds of the pigeon kind, such as the ringdove and the turtle-dove,
 lay two eggs at a time; that is to say, they do so as a general rule,
@@ -6612,7 +6612,7 @@ difficulty. (The ring-dove, according to all accounts, lives up to
 forty years. The partridge lives over sixteen., After one brood the
 pigeon is ready for another within thirty days.)
 
-Part 5
+## Part 5
 
 The vulture builds its nest on inaccessible cliffs; for which reason
 its nest and young are rarely seen. And therefore Herodorus, father
@@ -6628,7 +6628,7 @@ The swallow is the only carnivorous bird that builds a nest twice.
 If you prick out the eyes of swallow chicks while they are yet young,
 the birds will get well again and will see by and by.)
 
-Part 6
+## Part 6
 
 The eagle lays three eggs and hatches two of them, as it is said in
 the verses ascribed to Musaeus:
@@ -6666,7 +6666,7 @@ This bird for a considerable time takes charge of her young; for,
 even when her young can fly, she flies alongside of them and supplies
 them with food.
 
-Part 7
+## Part 7
 
 The cuckoo is said by some to be a hawk transformed, because at the
 time of the cuckoo's coming, the hawk, which it resembles, is never
@@ -6693,7 +6693,7 @@ is about this time that the bird becomes fat and palatable. (The young
 of hawks also get palatable and fat. One species builds a nest in
 the wilderness and on sheer and inaccessible cliffs.)
 
-Part 8
+## Part 8
 
 With most birds, as has been said of the pigeon, the hatching is carried
 on by the male and the female in turns: with some birds, however,
@@ -6716,7 +6716,7 @@ one and the female on the other. After hatching, each of the parent
 birds rears its brood. But the male, when he first takes his young
 out of the nest, treads them.
 
-Part 9
+## Part 9
 
 Peafowl live for about twenty-five years, breed about the third year,
 and at the same time take on their spangled plumage. They hatch their
@@ -6743,7 +6743,7 @@ salacious birds, such as the barn-door cock and the cock partridge;
 the peculiarity is less conspicuous in such birds as are intermittent
 in regard to pairing.
 
-Part 10
+## Part 10
 
 So much for the conception and generation of birds.
 It has been previously stated that fishes are not all oviparous. Fishes
@@ -6851,7 +6851,7 @@ is the only one of these fishes that is not viviparous.
 So much for the varieties of the cartilaginous species and for their
 modes of generation from the egg.
 
-Part 11
+## Part 11
 
 At the breeding season the sperm-ducts of the male are filled with
 sperm, so much so that if they be squeezed the sperm flows out spontaneously
@@ -6896,7 +6896,7 @@ and the flat fishes, such as the electric ray, the ray, the smooth
 skate, and the trygon, are first oviparous and then viviparous in
 the way above mentioned, (as are also the saw-fish and the ox-ray.)
 
-Part 12
+## Part 12
 
 The dolphin, the whale, and all the rest of the Cetacea, all, that
 is to say, that are provided with a blow-hole instead of gills, are
@@ -6953,7 +6953,7 @@ all other respects it resembles the female of the human species.
 So much for the phenomena of generation and of parturition in animals
 that live in water and are viviparous either internally or externally.
 
-Part 13
+## Part 13
 
 Oviparous fishes have their womb bifurcate and placed low down, as
 was said previously-and, by the way, all scaly fish are oviparous,
@@ -7035,7 +7035,7 @@ fish of these localities feed on this substance, and some of the inhabitants
 of these maritime districts say that the purple murex derives its
 peculiar colour from it.
 
-Part 14
+## Part 14
 
 Marsh-fishes and river-fishes conceive at the age of five months as
 a general rule, and deposit their spawn towards the close of the year
@@ -7106,7 +7106,7 @@ eel, the male is devoid of milt, and the female of spawn. The mullet
 goes up from the sea to marshes and rivers; the eels, on the contrary,
 make their way down from the marshes and rivers to the sea.
 
-Part 15
+## Part 15
 
 The great majority of fish, then, as has been stated, proceed from
 eggs. However, there are some fish that proceed from mud and sand,
@@ -7170,7 +7170,7 @@ stated, for at last only head and eyes are left. However, the fishermen
 of late have hit upon a method of transporting it to a distance, as
 when salted it keeps for a considerable time.
 
-Part 16
+## Part 16
 
 Eels are not the issue of pairing, neither are they oviparous; nor
 was an eel ever found supplied with either milt or spawn, nor are
@@ -7199,7 +7199,7 @@ edge; for it is near to the water's edge that sun-heat has its chief
 power and produces putrefaction. So much for the generation of the
 eel.
 
-Part 17
+## Part 17
 
 Fish do not all bring forth their young at the same season nor all
 in like manner, neither is the period of gestation for all of the
@@ -7297,7 +7297,7 @@ feels smooth and the egg rough. Some congers are provided with fat
 but not with any spawn, others are unprovided with fat but have egg-spawn
 as here described.
 
-Part 18
+## Part 18
 
 We have, then, treated pretty fully of the animals that fly in the
 air or swim in the water, and of such of those that walk on dry land
@@ -7467,7 +7467,7 @@ eyes knocked out, is almost sure to die soon afterwards. Swine for
 the most part live for fifteen years, but some fall little short of
 the twenty.
 
-Part 19
+## Part 19
 
 Ewes conceive after three or four copulations with the ram. If rain
 falls after intercourse, the ram impregnates the ewe again; and it
@@ -7506,7 +7506,7 @@ season the elders of the flock are eager for intercourse, the shepherds
 say that it bodes well for the flock; if the younger ones, that the
 flock is going to be bad.
 
-Part 20
+## Part 20
 
 Of dogs there are several breeds. Of these the Laconian hound of either
 sex is fit for breeding purposes when eight months old: at about the
@@ -7573,7 +7573,7 @@ sheds the rest in due turn. Men discern the age of a dog by inspection
 of its teeth; with young dogs the teeth are white and sharp pointed,
 with old dogs black and blunted.
 
-Part 21
+## Part 21
 
 The bull impregnates the cow at a single mount, and mounts with such
 vigour as to weigh down the cow; if his effort be unsuccessful, the
@@ -7622,7 +7622,7 @@ on to the autumn. When kine in large numbers receive the bull and
 conceive, it is looked upon as prognostic of rain and stormy weather.
 Kine herd together like mares, but in lesser degree.
 
-Part 22
+## Part 22
 
 In the case of horses, the stallion and the mare are first fitted
 for breeding purposes when two years old. Instances, however, of such
@@ -7739,7 +7739,7 @@ the ass will destroy the previously formed embryo.
 appoint a bull as leader to a herd, and for this reason that the horse
 is not steady but quick-tempered and skittish.)
 
-Part 23
+## Part 23
 
 The ass of both sexes is capable of breeding, and sheds its first
 teeth at the age of two and a half years; it sheds its second teeth
@@ -7782,7 +7782,7 @@ the she-ass under mares, which foals are technically spoken of as
 'mare-suckled'. These asses, thus reared, mount the mares in the open
 pastures, mastering them by force as the stallions do.
 
-Part 24
+## Part 24
 
 A mule is fitted for commerce with the female after the first shedding
 of its teeth, and at the age of seven will impregnate effectually;
@@ -7809,14 +7809,14 @@ menstruates by the act of voiding her urine, and that the mule owes
 the prematurity of his decay to his habit of smelling at the urine.
 So much for the modes of generation in connexion with these animals.
 
-Part 25
+## Part 25
 
 Breeders and trainers can distinguish between young and old quadrupeds.
 If, when drawn back from the jaw, the skin at once goes back to its
 place, the animal is young; if it remains long wrinkled up, the animal
 is old.
 
-Part 26
+## Part 26
 
 The camel carries its young for ten months, and bears but one at a
 time and never more; the young camel is removed from the mother when
@@ -7826,7 +7826,7 @@ conception. Its flesh and milk are exceptionally palatable. The milk
 is drunk mixed with water in the proportion of either two to one or
 three to one.
 
-Part 27
+## Part 27
 
 The elephant of either sex is fitted for breeding before reaching
 the age of twenty. The female carries her young, according to some
@@ -7838,7 +7838,7 @@ obviously suffers greatly during the process. The young one, immediately
 after birth, sucks the mother, not with its trunk but with the mouth;
 and can walk about and see distinctly the moment it is born.
 
-Part 28
+## Part 28
 
 The wild sow submits to the boar at the beginning of winter, and in
 the spring-time retreats for parturition to a lair in some district
@@ -7858,7 +7858,7 @@ Wild boars become castrated owing to an itch befalling them in early
 life in the region of the testicles, and the castration is superinduced
 by their rubbing themselves against the trunks of trees.
 
-Part 29
+## Part 29
 
 The hind, as has been stated, submits to the stag as a rule only under
 compulsion, as she is unable to endure the male often owing to the
@@ -7914,7 +7914,7 @@ the gut is so slender and weak that, if you strike the animal ever
 so softly, it is apt to break asunder, though the hide of the animal
 remains sound and uninjured.
 
-Part 30
+## Part 30
 
 Bears, as has been previously stated, do not copulate with the male
 mounting the back of the female, but with the female lying down under
@@ -7933,7 +7933,7 @@ goes with young the same number of days as the she-bear, and in all
 respects as to parturition resembles this animal. When a she-bear
 is with young, it is a very hard task to catch her.
 
-Part 31
+## Part 31
 
 It has already been stated that the lion and lioness copulate rearwards,
 and that these animals are opisthuretic. They do not copulate nor
@@ -7954,7 +7954,7 @@ is peculiar to the lion. The lion sheds only the four so-called canines,
 two in the upper jaw and two in the lower; and it sheds them when
 it is six months old.
 
-Part 32
+## Part 32
 
 The hyena in colour resembles the wolf, but is more shaggy, and is
 furnished with a mane running all along the spine. What is recounted
@@ -7973,7 +7973,7 @@ animals of the same kind. It is an exceedingly rare circumstance to
 meet with a female hyena. At least a hunter said that out of eleven
 hyenas he had caught, only one was a female.
 
-Part 33
+## Part 33
 
 Hares copulate in a rearward posture, as has been stated, for the
 animal is opisthuretic. They breed and bear at all seasons, superfoetate
@@ -7986,7 +7986,7 @@ while suckling her young. The milk in consistency resembles sow's
 milk. The young are born blind, as is the case with the greater part
 Of the fissipeds or toed animals.
 
-Part 34
+## Part 34
 
 The fox mounts the vixen in copulation, and the vixen bears young
 like the she-bear; in fact, her young ones are even more inarticulately
@@ -7995,7 +7995,7 @@ it is a great rarity for a vixen to be caught while pregnant. After
 parturition she warms her young and gets them into shape by licking
 them. She bears four at most at a birth.
 
-Part 35
+## Part 35
 
 The wolf resembles the dog in regard to the time of conception and
 parturition, the number of the litter, and the blindness of the newborn
@@ -8021,7 +8021,7 @@ It is long in the body and low in stature; but not withstanding the
 shortness of its legs it is exceptionally fleet of foot, owing to
 the suppleness of its frame and its capacity for leaping.
 
-Part 36
+## Part 36
 
 There is found in Syria a so-called mule. It is not the same as the
 cross between the horse and ass, but resembles it just as a wild ass
@@ -8034,7 +8034,7 @@ the father of Pharnabazus, and the animal is there still. The number
 originally introduced was nine, and there are three there at the present
 day.
 
-Part 37
+## Part 37
 
 The phenomena of generation in regard to the mouse are the most astonishing
 both for the number of the young and for the rapidity of recurrence
@@ -8074,7 +8074,7 @@ to.
 
 # BOOK VII
 
-Part 1
+## Part 1
 
 As to Man's growth, first within his mother's womb and afterward
 to old age, the course of nature, in so far as man is specially concerned,
@@ -8171,7 +8171,7 @@ likely to produce male children, but when thin and unclotted it is
 apt to produce female offspring. And it is about this time of life
 that in men the beard makes its appearance.
 
-Part 2
+## Part 2
 
 The onset of the catamenia in women takes place towards the end of
 the month; and on this account the wiseacres assert that the moon
@@ -8231,7 +8231,7 @@ women of a fair complexion discharge a more plentiful secretion than
 the dark; and furthermore, a watery and pungent diet conduces to this
 phenomenon.
 
-Part 3
+## Part 3
 
 It is a sign of conception in women when the place is dry immediately
 after intercourse. If the lips of the orifice be smooth conception
@@ -8298,7 +8298,7 @@ to come to perfection. But after birth, the females pass more quickly
 than the males through youth and maturity and age; and this is especially
 true of those that bear many children, as indeed I have already said.
 
-Part 4
+## Part 4
 
 When the womb has conceived the seed, straightway in the majority
 of cases it closes up until seven months are fulfilled; but in the
@@ -8445,7 +8445,7 @@ child is in most cases born covered over with a slimy fluid. Often
 also the child is found to be replete with food of which the mother
 had partaken.
 
-Part 5
+## Part 5
 
 When women have partaken of salt in overabundance their children are
 apt to be born destitute of nails.
@@ -8468,7 +8468,7 @@ their fortieth year; but with those in whom it goes on longer it lasts
 even to the fiftieth year, and women of that age have been known to
 bear children. But beyond that age there is no case on record.
 
-Part 6
+## Part 6
 
 Men in most cases continue to be sexually competent until they are
 sixty years old, and if that limit be overpassed then until seventy
@@ -8530,7 +8530,7 @@ that take after themselves, and others children that take after the
 husband; and this latter case is like that of the celebrated mare
 in Pharsalus, that got the name of the Honest Wife.
 
-Part 7
+## Part 7
 
 In the emission of sperm there is a preliminary discharge of air,
 and the outflow is manifestly caused by a blast of air; for nothing
@@ -8552,7 +8552,7 @@ the former one, which latter is for the most part attached to the
 womb, but is in part separated from it and contains fluid. In between
 is a watery or sanguineous fluid, which the women folk call the forewaters.
 
-Part 8
+## Part 8
 
 All animals, or all such as have a navel, grow by the navel. And the
 navel is attached to the cotyledon in all such as possess cotyledons,
@@ -8593,7 +8593,7 @@ more to dwindle in size. And also as the embryo matures it comes down
 into the hollow of the womb and is observed to move here, and sometimes
 rolls over in the vicinity of the groin.
 
-Part 9
+## Part 9
 
 When women are in labour, their pains determine towards many divers
 parts of the body, and in most cases to one or other of the thighs.
@@ -8616,7 +8616,7 @@ First of all, when the embryo starts to move and the membranes burst,
 there issues forth the watery flood; then afterwards comes the embryo,
 while the womb everts and the afterbirth comes out from within.
 
-Part 10
+## Part 10
 
 The cutting of the navel-string, which is the nurse's duty, is a matter
 calling for no little care and skill. For not only in cases of difficult
@@ -8674,7 +8674,7 @@ in the seventh month; and the front teeth are the first to come through,
 sometimes the upper and sometimes the lower ones. And the warmer the
 nurses' milk so much the quicker are the children's teeth to come.
 
-Part 11
+## Part 11
 
 After parturition and the cleasing flood the milk comes in plenty,
 and in some women it flows not only from the nipples but at divers
@@ -8699,7 +8699,7 @@ to their suffering from varices, when the fluids issue from the pelvic
 region before entering into the womb. And patients who during suppression
 of the menses happen to vomit blood are no whit the worse.
 
-Part 12
+## Part 12
 
 Children are very commonly subject to convulsions, more especially
 such of them as are more than ordinarily well-nourished on rich or
@@ -8716,7 +8716,7 @@ when the spasms begin in the child's back.
 
 # BOOK VIII
 
-Part 1
+## Part 1
 
 We have now discussed the physical characteristics of animals and
 their methods of generation. Their habits and their modes of living
@@ -8792,7 +8792,7 @@ constituted; for the source of their growth in all cases will be this
 substance. And whatsoever is in conformity with nature is pleasant,
 and all animals pursue pleasure in keeping with their nature.
 
-Part 2
+## Part 2
 
 Animals are also differentiated locally: that is to say, some live
 upon dry land, while others live in the water. And this differentiation
@@ -9049,7 +9049,7 @@ on his own species, on grass, or on roots, or on any chance food found
 in the mud. Their usual feeding-time is at night, and during the day-time
 they retreat into deep water. And so much for the food of fishes.
 
-Part 3
+## Part 3
 
 Of birds, such as have crooked talons are carnivorous without exception,
 and cannot swallow corn or bread-food even if it be put into their
@@ -9162,7 +9162,7 @@ drink at all, excepting a very few, and these drink very rarely; and
 this last observation is peculiarly applicable to the kestrel. The
 kite has been seen to drink, but he certainly drinks very seldom.
 
-Part 4
+## Part 4
 
 Animals that are coated with tessellates-such as the lizard and the
 other quadrupeds, and the serpents-are omnivorous: at all events they
@@ -9189,7 +9189,7 @@ Spiders and snakes can both go without food for a long time; and this
 remark may be verified by observation of specimens kept alive in the
 shops of the apothecaries.
 
-Part 5
+## Part 5
 
 Of viviparous quadrupeds such as are fierce and jag-toothed are without
 exception carnivorous; though, by the way, it is stated of the wolf,
@@ -9245,7 +9245,7 @@ bite a man, and it is said that whenever it bites it will never let
 go until it hears a bone crack. The hair of the beaver is rough, intermediate
 in appearance between the hair of the seal and the hair of the deer.
 
-Part 6
+## Part 6
 
 Jag-toothed animals drink by lapping, as do also some animals with
 teeth differently formed, as the mouse. Animals whose upper and lower
@@ -9282,7 +9282,7 @@ the blood, and the rest will weigh the other sixth. When suckling
 their young, swinelike all other animals-get attenuated. So much for
 these animals.
 
-Part 7
+## Part 7
 
 Cattle feed on corn and grass, and fatten on vegetables that tend
 to cause flatulency, such as bitter vetch or bruised beans or bean-stalks.
@@ -9306,7 +9306,7 @@ about four hundred in the world, that they are the private property
 of the Epirote royal family, that they cannot thrive out of Epirus,
 and that people elsewhere have tried to rear them, but without success.
 
-Part 8
+## Part 8
 
 Horses, mules, and asses feed on corn and grass, but are fattened
 chiefly by drink. Just in proportion as beasts of burden drink water,
@@ -9322,7 +9322,7 @@ a stream until he has trampled it into a turbid condition. And, by
 the way, the camel can go without water for as much as four days,
 but after that when he drinks, he drinks in immense quantities.
 
-Part 9
+## Part 9
 
 The elephant at the most can eat nine Macedonian medimni of fodder
 at one meal; but so large an amount is unwholesome. As a general rule
@@ -9336,7 +9336,7 @@ live much longer, and instances have been known of their living to
 the age of a hundred. The elephant is said by some to live for about
 two hundred years; by others, for three hundred.
 
-Part 10
+## Part 10
 
 Sheep and goats are graminivorous, but sheep browse assiduously and
 steadily, whereas goats shift their ground rapidly, and browse only
@@ -9373,7 +9373,7 @@ healthier than goats, but goats are stronger than sheep. (The fleeces
 and the wool of sheep that have been killed by wolves, as also the
 clothes made from them, are exceptionally infested with lice.)
 
-Part 11
+## Part 11
 
 Of insects, such as have teeth are omnivorous; such as have a tongue
 feed on liquids only, extracting with that organ juices from all quarters.
@@ -9388,7 +9388,7 @@ underground.
 
 So much for the food of animals of the leading genera.
 
-Part 12
+## Part 12
 
 The habits of animals are all connected with either breeding and the
 rearing of young, or with the procuring a due supply of food; and
@@ -9478,7 +9478,7 @@ than ever.
 Of birds, the following are migratory-the crane, the swan, the pelican,
 and the lesser goose.
 
-Part 13
+## Part 13
 
 Of fishes, some, as has been observed, migrate from the outer seas
 in towards shore, and from the shore towards the outer seas, to avoid
@@ -9593,7 +9593,7 @@ and the scallop at about the same period. But for the most part they
 go into concealment when the weather is either extremely cold or extremely
 hot.
 
-Part 14
+## Part 14
 
 Insects almost all go into hiding, with the exception of such of them
 as live in human habitations or perish before the completion of the
@@ -9608,7 +9608,7 @@ of the Pleiads until springtime.
 Animals take their winter-sleep or summer-sleep by concealing themselves
 in warm places, or in places where they have been used to lie concealed.
 
-Part 15
+## Part 15
 
 Several blooded animals take this sleep, such as the pholidotes or
 tessellates, namely, the serpent, the lizard, the gecko, and the river.
@@ -9672,7 +9672,7 @@ first one. Furthermore, after very heavy rains numerous specimens
 become visible of creatures that at other times are never seen at
 all or seen only at intervals.
 
-Part 16
+## Part 16
 
 A great number of birds also go into hiding; they do not all migrate,
 as is generally supposed, to warmer countries. Thus, certain birds
@@ -9694,7 +9694,7 @@ Some cushats hide; others, instead of hiding, migrate at the same
 time as the swallow. The thrush and the starling hide; and of birds
 with crooked talons the kite and the owl hide for a few days.
 
-Part 17
+## Part 17
 
 Of viviparous quadrupeds the porcupine and the bear retire into concealment.
 The fact that the bear hides is well established, but there are doubts
@@ -9772,7 +9772,7 @@ times at which, and the ways in which, they go; and so much also for
 the animals that slough off their old-age, and for the times at which
 they undergo the process.
 
-Part 18
+## Part 18
 
 Animals do not all thrive at the same seasons, nor do they thrive
 alike during all extremes of weather. Further animals of diverse species
@@ -9792,7 +9792,7 @@ spongy-lunged oviparous animals. Sickness in birds may be diagnosed
 from their plumage, which is ruffled when they are sickly instead
 of lying smooth as when they are well.
 
-Part 19
+## Part 19
 
 The majority of fishes, as has been stated, thrive best in rainy seasons.
 Not only have they food in greater abundance at this time, but in
@@ -9880,7 +9880,7 @@ fact that at times fishes in poor condition, and looking as though
 they were sick, and of altered colour, are caught in a large haul
 of well-conditioned fish of their own species. So much for sea-fishes.
 
-Part 20
+## Part 20
 
 River-fish and lake-fish also are exempt from diseases of a pestilential
 character, but certain species are subject to special and peculiar
@@ -9935,7 +9935,7 @@ yet in rivers, excepting a few bivalves here and there. Univalves,
 by the way, are very apt to freeze to death in extremely cold weather.
 So much for animals that live in water.
 
-Part 21
+## Part 21
 
 To turn to quadrupeds, the pig suffers from three diseases, one of
 which is called branchos, a disease attended with swellings about
@@ -9977,7 +9977,7 @@ it will miscarry, as is also the case with the ewe; and, indeed, the
 miscarriage is more certain in the case of the ewe than in the case
 of the sow. The pig is the only animal known to be subject to measles.
 
-Part 22
+## Part 22
 
 Dogs suffer from three diseases; rabies, quinsy, and sore feet. Rabies
 drives the animal mad, and ary animal whatever, excepting man, will
@@ -9988,7 +9988,7 @@ feet. The camel, like the dog, is subject to rabies. The elephant,
 which is reputed to enjoy immunity from all other illnesses, is occasionally
 subject to flatulency.
 
-Part 23
+## Part 23
 
 Cattle in herds are liable to two diseases, foot, sickness and craurus.
 In the former their feet suffer from eruptions, but the animal recovers
@@ -9999,7 +9999,7 @@ to fever in man. The symptoms of the disease are drooping of the ears
 and disinclination for food. The animal soon succumbs, and when the
 carcase is opened the lungs are found to be rotten.
 
-Part 24
+## Part 24
 
 Horses out at pasture are free from all diseases excepting disease
 of the feet. From this disease they sometimes lose their hooves: but
@@ -10066,7 +10066,7 @@ In regard to water the ox is the opposite of the horse; for if the
 water be impure or cold, or mixed up with alien matter, it will refuse
 to drink it.
 
-Part 25
+## Part 25
 
 The ass suffers chiefly from one particular disease which they call
 'melis'. It arises first in the head, and a clammy humour runs down
@@ -10076,7 +10076,7 @@ all animals on its of its kind it is the least capable of enduring
 extreme cold, which circumstance will account for the fact that the
 animal is not found on the shores of the Euxine, nor in Scythia.
 
-Part 26
+## Part 26
 
 Elephants suffer from flatulence, and when thus afflicted can void
 neither solid nor liquid residuum. If the elephant swallow earth-mould
@@ -10094,7 +10094,7 @@ it will pass out if the animal takes a drink of olive-oil; if the
 animal refuses olive-oil, they soak a root in the oil and give it
 the root to swallow. So much, then, for quadrupeds.
 
-Part 27
+## Part 27
 
 Insects, as a general rule, thrive best in the time of year in which
 they come into being, especially if the season be moist and warm,
@@ -10116,7 +10116,7 @@ All insects, without exception, die if they be smeared over with oil;
 and they die all the more rapidly if you smear their head with the
 oil and lay them out in the sun.
 
-Part 28
+## Part 28
 
 Variety in animal life may be produced by variety of locality: thus
 in one place an animal will not be found at all, in another it will
@@ -10197,7 +10197,7 @@ to a lonely spot and tie her up: if the tiger be in an amorous mood
 he will pair with her; if not he will eat her up, and this casualty
 is of frequent occurrence.
 
-Part 29
+## Part 29
 
 Locality will differentiate habits also: for instance, rugged highlands
 will not produce the same results as the soft lowlands. The animals
@@ -10231,7 +10231,7 @@ the flesh all round the wound will at once mortify. There is in India
 a small snake which is exceptional in this respect, that for its bite
 no specific whatever is known.
 
-Part 30
+## Part 30
 
 Animals also vary as to their condition of health in connexion with
 their pregnancy.
@@ -10282,7 +10282,7 @@ as though they were female, but they really are not so.
 
 # BOOK IX
 
-Part 1
+## Part 1
 
 Of the animals that are comparatively obscure and short-lived the
 characters or dispositions are not so obvious to recognition as are
@@ -10489,7 +10489,7 @@ Thus we see that in the case of the creatures above mentioned their
 mutual friendship or the is due to the food they feed on and the life
 they lead.
 
-Part 2
+## Part 2
 
 Of fishes, such as swim in shoals together are friendly to one another;
 such as do not so swim are enemies. Some fishes swarm during the spawning
@@ -10515,7 +10515,7 @@ the conger-eel by the muraena. There is war between the larger and
 the lesser fishes: for the big fishes prey on the little ones. So
 much on the subject of marine animals.
 
-Part 3
+## Part 3
 
 The characters of animals, as has been observed, differ in respect
 to timidity, to gentleness, to courage, to tameness, to intelligence,
@@ -10549,7 +10549,7 @@ Sheep and goats lie crowded together, kin by kin. When the sun turns
 early towards its setting, the goats are said to lie no longer face
 to face, but back to back.
 
-Part 4
+## Part 4
 
 Cattle at pasture keep together in their accustomed herds, and if
 one animal strays away the rest will follow; consequently if the herdsmen
@@ -10563,7 +10563,7 @@ its dam, will tend it with all the solicitude of a mother, but, as
 it will be unprovided with mother's milk, its solicitude will prove
 fatal to its charge.
 
-Part 5
+## Part 5
 
 Among wild quadrupeds the hind appears to be pre-eminently intelligent;
 for example, in its habit of bringing forth its young on the sides
@@ -10623,7 +10623,7 @@ at a signal given by the confederate. If the animal has its ears cocked,
 it can hear well and you cannot escape its ken; if its ears are down,
 you can.
 
-Part 6
+## Part 6
 
 When bears are running away from their pursuers they push their cubs
 in front of them, or take them up and carry them; when they are being
@@ -10691,7 +10691,7 @@ consists of bone: the organ of the male is supposed to be a cure for
 strangury; doctors scrape it into powder, and administer it in that
 form.
 
-Part 7
+## Part 7
 
 In a general way in the lives of animals many resemblances to human
 life may be observed. Pre-eminent intelligence will be seen more in
@@ -10751,7 +10751,7 @@ is rendered manifest by the hardness about their beaks. Turtle-doves
 in summer live in cold places, (and in warm places during the winter);
 chaffinches affect warm habitations in summer and cold ones in winter.
 
-Part 8
+## Part 8
 
 Birds of a heavy build, such as quails, partridges, and the like,
 build no nests; indeed, where they are incapable of flight, it would
@@ -10820,7 +10820,7 @@ flight. Further, for instance, of such birds, the lark and the woodcock,
 as well as the quail, do not perch on a branch, but squat upon the
 ground.
 
-Part 9
+## Part 9
 
 The woodpecker does not squat on the ground, but pecks at the bark
 of trees to drive out from under it maggots and gnats; when they emerge,
@@ -10839,7 +10839,7 @@ was seen to insert an almond into a hole in a piece of timber, so
 that it might remain steady under its pecking; at the third peck it
 split the shell of the fruit, and then ate the kernel.
 
-Part 10
+## Part 10
 
 Many indications of high intelligence are given by cranes. They will
 fly to a great distance and up in the air, to command an extensive
@@ -10857,7 +10857,7 @@ after cooking them inside the crop that precedes the stomach, they
 spit them out, so that, now when their shells are open, they may pick
 the flesh out and eat it.
 
-Part 11
+## Part 11
 
 Of wild birds, the nests are fashioned to meet the exigencies of existence
 and ensure the security of the young. Some of these birds are fond
@@ -10891,7 +10891,7 @@ ease, and is something of a mechanic. It goes by the nickname of 'old
 man' or 'king'; and the story goes that for this reason the eagle
 is at war with him.
 
-Part 12
+## Part 12
 
 Some birds live on the sea-shore, as the wagtail; the bird is of a
 mischievous nature, hard to capture, but when caught capable of complete
@@ -10931,7 +10931,7 @@ in caverns. Cranes also fight so desperately among themselves as to
 be caught when fighting, for they will not leave off; the crane lays
 two eggs.
 
-Part 13
+## Part 13
 
 The jay has a great variety of notes: indeed, might almost say it
 had a different note for every day in the year. It lays about nine
@@ -10963,7 +10963,7 @@ top branches. They say that the inhabitants attach leaden weights
 to the tips of their arrows and therewith bring down the nests, and
 from the intertexture collect the cinnamon sticks.
 
-Part 14
+## Part 14
 
 The halcyon is not much larger than the sparrow. Its colour is dark
 blue, green, and light purple; the whole body and wings, and especially
@@ -10986,7 +10986,7 @@ on fish. Besides living on the shore, it ascends fresh-water streams.
 It lays generally about five eggs, and lays eggs all its life long,
 beginning to do so at the age of four months.
 
-Part 15
+## Part 15
 
 The hoopoe usually constructs its nest out of human excrement. It
 changes its appearance in summer and in winter, as in fact do the
@@ -11002,7 +11002,7 @@ The aegithus finds its food with ease, has many young, and walks with
 a limp. The golden oriole is apt at learning, is clever at making
 a living, but is awkward in flight and has an ugly plumage.
 
-Part 16
+## Part 16
 
 The reed-warbler makes its living as easily as any other bird, sits
 in summer in a shady spot facing the wind, in winter in a sunny and
@@ -11012,7 +11012,7 @@ plumage, makes a living cleverly, and is graceful in form; it appears
 to be alien to our country; at all events it is seldom seen at a distance
 from its own immediate home.
 
-Part 17
+## Part 17
 
 The crake is quarrelsome, clever at making a living, but in other
 ways an unlucky bird. The bird called sitta is quarrelsome, but clever
@@ -11027,7 +11027,7 @@ makes a living with ease, and has a loud clear note. The acanthis
 finds its food with difficulty; its plumage is poor, but its note
 is musical.
 
-Part 18
+## Part 18
 
 Of the herons, the ashen-coloured one, as has been said, unites with
 the female not without pain; it is full of resource, carries its food
@@ -11044,7 +11044,7 @@ that it is more prone than any other bird to peck at the eyes of an
 assailant or its prey; it is at war with the harpy, as the two birds
 live on the same food.
 
-Part 19
+## Part 19
 
 There are two kinds of owsels; the one is black, and is found everywhere,
 the other is quite white, about the same size as the other, and with
@@ -11053,7 +11053,7 @@ found nowhere else. The laius, or blue-thrush, is like the black owsel,
 only a little smaller; it lives on cliffs or on tile roofings; it
 has not a red beak as the black owsel has.
 
-Part 20
+## Part 20
 
 Of thrushes there are three species. One is the misselthrush; it feeds
 only on mistletoe and resin; it is about the size of the jay. A second
@@ -11061,7 +11061,7 @@ is the song-thrush; it has a sharp pipe, and is about the size of
 the owsel. There is another species called the Illas; it is the smallest
 species of the three, and is less variegated in plumage than the others.
 
-Part 21
+## Part 21
 
 There is a bird that lives on rocks, called the blue-bird from its
 colour. It is comparatively common in Nisyros, and is somewhat less
@@ -11070,7 +11070,7 @@ claws, and climbs on the face of the rocks. It is steel-blue all over;
 its beak is long and slender; its legs are short, like those of the
 woodpecker.
 
-Part 22
+## Part 22
 
 The oriole is yellow all over; it is not visible during winter, but
 puts in an appearance about the time of the summer solstice, and departs
@@ -11082,7 +11082,7 @@ its beak is strong, small, and round; it is ashen-coloured all over;
 is fleet of foot, but slow of wing. The bird-catcher usually catches
 it by help of the owl.
 
-Part 23
+## Part 23
 
 There is also the pardalus. As a rule, it is seen in flocks and not
 singly; it is ashen-coloured all over, and about the size of the birds
@@ -11094,34 +11094,34 @@ at all times. Further, there are the birds that live as a rule in
 towns, the raven and the crow. These also are visible at all seasons,
 never shift their place of abode, and never go into winter quarters.
 
-Part 24
+## Part 24
 
 Of daws there are three species. One is the chough; it is as large
 as the crow, but has a red beak. There is another, called the 'wolf';
 and further there is the little daw, called the 'railer'. There is
 another kind of daw found in Lybia and Phrygia, which is web-footed.
 
-Part 25
+## Part 25
 
 Of larks there are two kinds. One lives on the ground and has a crest
 on its head; the other is gregarious, and not sporadic like the first;
 it is, however, of the same coloured plumage, but is smaller, and
 has no crest; it is an article of human food.
 
-Part 26
+## Part 26
 
 The woodcock is caught with nets in gardens. It is about the size
 of a barn-door hen; it has a long beak, and in plumage is like the
 francolin-partridge. It runs quickly, and is pretty easily domesticated.
 The starling is speckled; it is of the same size as the owsel.
 
-Part 27
+## Part 27
 
 Of the Egyptian ibis there are two kinds, the white and the black.
 The white ones are found over Egypt, excepting in Pelusium; the black
 ones are found in Pelusium, and nowhere else in Egypt.
 
-Part 28
+## Part 28
 
 Of the little horned owls there are two kinds, and one is visible
 at all seasons, and for that reason has the nickname of 'all-the-year-round
@@ -11133,7 +11133,7 @@ it has no note, but the other species has. With regard to their origin,
 nothing is known from ocular observation; the only fact known for
 certain is that they are first seen when a west wind is blowing.
 
-Part 29
+## Part 29
 
 The cuckoo, as has been said elsewhere, makes no nest, but deposits
 its eggs in an alien nest, generally in the nest of the ring-dove,
@@ -11160,7 +11160,7 @@ nest. The truth is, this bird is pre-eminent among birds in the way
 of cowardice; it allows itself to be pecked at by little birds, and
 flies away from their attacks.
 
-Part 30
+## Part 30
 
 It has already been stated that the footless bird, which some term
 the cypselus, resembles the swallow; indeed, it is not easy to distinguish
@@ -11178,7 +11178,7 @@ it is said that, after it has sucked the teat of the animal, the teat
 dries up and the animal goes blind. It is dim-sighted in the day-time,
 but sees well enough by night.
 
-Part 31
+## Part 31
 
 In narrow circumscribed districts where the food would be insufficient
 for more birds than two, ravens are only found in isolated pairs;
@@ -11190,7 +11190,7 @@ and the Peloponnese were left destitute of ravens, from which it would
 appear that these birds have some means of intercommunicating with
 one another.
 
-Part 32
+## Part 32
 
 Of eagles there are several species. One of them, called 'the white-tailed
 eagle', is found on low lands, in groves, and in the neighbourhood
@@ -11260,7 +11260,7 @@ master with ease. It is a long-lived bird, and this fact might be
 inferred from the length of time during which the same nest is maintained
 in its place.
 
-Part 33
+## Part 33
 
 In Scythia there is found a bird as large as the great bustard. The
 female lays two eggs, but does not hatch them, but hides them in the
@@ -11269,7 +11269,7 @@ quest of prey, it keeps a watch on them on a high tree; if any man
 tries to climb the tree, it fights and strikes him with its wing,
 just as eagles do.
 
-Part 34
+## Part 34
 
 The owl and the night-raven and all the birds see poorly in the daytime
 seek their prey in the night, but not all the night through, but at
@@ -11304,14 +11304,14 @@ the bird or catches him on the surface. The eagle never attacks these
 birds when they are in a swarm, for they keep him off by raising a
 shower of water-drops with their wings.
 
-Part 35
+## Part 35
 
 The cepphus is caught by means of sea-foam; the bird snaps at the
 foam, and consequently fishermen catch it by sluicing with showers
 of sea-water. These birds grow to be plump and fat; their flesh has
 a good odour, excepting the hinder quarters, which smell of shoreweed.
 
-Part 36
+## Part 36
 
 Of hawks, the strongest is the buzzard; the next in point of courage
 is the merlin; and the circus ranks third; other diverse kinds are
@@ -11345,7 +11345,7 @@ with the fishermen, and if the fishermen decline to share with them,
 they tear their nets in pieces as they lie drying on the shore of
 the lake.
 
-Part 37
+## Part 37
 
 So much for the habits of birds.
 In marine creatures, also, one In marine creatures, also, one may
@@ -11509,7 +11509,7 @@ however, does not appear to be there from the beginning, but to grow
 in their cases as in that of other shell-fish; neither is it ascertained
 for certain whether the animal can live when stripped of the shell.
 
-Part 38
+## Part 38
 
 Of all insects, one may also say of all living creatures, the most
 industrious are the ant, the bee, the hornet, the wasp, and in point
@@ -11520,7 +11520,7 @@ they are engaged in putting away and storing up their food; all this
 may be seen, for they carry on their work even during bright moonlight
 nights.
 
-Part 39
+## Part 39
 
 Of spiders and phalangia there are many species. Of the venomous phalangia
 there are two; one that resembles the so-called wolf-spider, small,
@@ -11571,7 +11571,7 @@ its threads: in other words, it will attack a small lizard, run round
 and draw threads about its mouth until it closes the mouth up; then
 it comes up and bites it.
 
-Part 40
+## Part 40
 
 So much for the spider. Of insects, there is a genus that has no one
 name that comprehends all the species, though all the species are
@@ -11891,7 +11891,7 @@ from others when they are at work out of doors. If the spring be late,
 or if there be drought or blight, then grubs are all the fewer in
 the hives. So much for the habits of bees.
 
-Part 41
+## Part 41
 
 Of wasps, there are two kinds. Of these kinds one is wild and scarce,
 lives on the mountains, engenders grubs not underground but on oak-trees,
@@ -11972,7 +11972,7 @@ year wasps have been numerous and the weather rainy; they are captured
 in precipitous places, or in vertical clefts in the ground, and they
 all appear to be furnished with stings.
 
-Part 42
+## Part 42
 
 So much for the habits of wasps.
 Anthrenae do not subsist by culling from flowers as bees do, but for
@@ -12005,7 +12005,7 @@ be all furnished with stings: though, by the way, it would well be
 worth while to carry out investigation as to whether the anthrena-king
 has a sting or not.
 
-Part 43
+## Part 43
 
 Humble-bees produce their young under a stone, right on the ground,
 in a couple of cells or little more; in these cells is found an attempt
@@ -12017,7 +12017,7 @@ underground, and is very prolific; its nest is much bigger and longer
 than that of the wasp. So much for the methods of working and the
 habits of life of the bee, the wasp, and all the other similar insects.
 
-Part 44
+## Part 44
 
 As regards the disposition or temper of animals, as has been previously
 observed, one may detect great differences in respect to courage and
@@ -12073,7 +12073,7 @@ quadrupeds, this animal changes in appearance with the change of season.
 His colour in winter is not the same as it is in summer; in summer
 the animal is smooth-haired, in winter he is clothed in fur.
 
-Part 45
+## Part 45
 
 The bison is found in Paeonia on Mount Messapium, which separates
 Paeonia from Maedica; and the Paeonians call it the monapos. It is
@@ -12113,7 +12113,7 @@ young they scatter their dung in all directions, making a kind of
 circular rampart around them; for the animal has the faculty of ejecting
 excrement in most extraordinary quantities.
 
-Part 46
+## Part 46
 
 Of all wild animals the most easily tamed and the gentlest is the
 elephant. It can be taught a number of tricks, the drift and meaning
@@ -12133,7 +12133,7 @@ above the surface, for he blows with his trunk and breathes through
 it. The animal is a poor swimmer owing to the heavy weight of his
 body.
 
-Part 47
+## Part 47
 
 The male camel declines intercourse with its mother; if his keeper
 tries compulsion, he evinces disinclination. On one occasion, when
@@ -12150,7 +12150,7 @@ had intercourse; and that, when immediately afterwards the wrapper
 was removed and the head of the mare was rendered visible, the young
 horse ran way and hurled himself down a precipice.
 
-Part 48
+## Part 48
 
 Among the sea-fishes many stories are told about the dolphin, indicative
 of his gentle and kindly nature, and of manifestations of passionate
@@ -12181,7 +12181,7 @@ pairs, male and female. It is not known for what reason they run themselves
 aground on dry land; at all events, it is said that they do so at
 times, and for no obvious reason.
 
-Part 49
+## Part 49
 
 Just as with all animals a change of action follows a change of circumstance,
 so also a change of character follows a change of action, and often
@@ -12197,7 +12197,7 @@ as to cease crowing and indulging his sexual propensities. Some cock-birds
 are congenitally so feminine that they will submit patiently to other
 males who attempt to tread them.
 
-Part 50
+## Part 50
 
 Some animals change their form and character, not only at certain
 ages and at certain seasons, but in consequence of being castrated;

@@ -9,7 +9,7 @@ Translated by J. L. Stocks
 
 # BOOK I
 
-Part 1
+## Part 1
 
 The science which has to do with nature clearly concerns itself for
 the most part with bodies and magnitudes and their properties and
@@ -56,7 +56,7 @@ parts must necessarily be complete, and thus, in accordance with the
 meaning of the word, have being, not in some respect only, but in
 every respect.
 
-Part 2
+## Part 2
 
 The question as to the nature of the whole, whether it is infinite
 in size or limited in its total mass, is a matter for subsequent inquiry.
@@ -141,7 +141,7 @@ that are about us on this earth, different and separate from them;
 and that the superior glory of its nature is proportionate to its
 distance from this world of ours.
 
-Part 3
+## Part 3
 
 In consequence of what has been said, in part by way of assumption
 and in part by way of proof, it is clear that not every body either
@@ -235,7 +235,7 @@ body must itself be simple, and we assert that there are only these
 two simple motions, the circular and the straight, the latter being
 subdivided into motion away from and motion towards the centre.
 
-Part 4
+## Part 4
 
 That there is no other form of motion opposed as contrary to the circular
 may be proved in various ways. In the first place, there is an obvious
@@ -280,7 +280,7 @@ moving with its own movement, would be useless, in the sense in which
 a shoe is useless when it is not worn. But God and nature create nothing
 that has not its use.
 
-Part 5
+## Part 5
 
 This being clear, we must go on to consider the questions which remain.
 First, is there an infinite body, as the majority of the ancient philosophers
@@ -408,7 +408,7 @@ was equal to itself; therefore, it is itself finite.
 We have now shown that the body which moves in a circle is not endless
 or infinite, but has its limit.
 
-Part 6
+## Part 6
 
 Further, neither that which moves towards nor that which moves away
 from the centre can be infinite. For the upward and downward motions
@@ -509,7 +509,7 @@ there is any obstacle to our believing that there are other universes
 composed on the pattern of our own, more than one, though stopping
 short of infinity. First, however, let us treat of the infinite universally.
 
-Part 7
+## Part 7
 
 Every body must necessarily be either finite or infinite, and if infinite,
 either of similar or of dissimilar parts. If its parts are dissimilar,
@@ -656,7 +656,7 @@ Necessarily, therefore, not everything possesses weight or lightness,
 but some things do and some do not. From these arguments then it is
 clear that the body of the universe is not infinite.
 
-Part 8
+## Part 8
 
 We must now proceed to explain why there cannot be more than one heaven-the
 further question mentioned above. For it may be thought that we have
@@ -791,7 +791,7 @@ We have now said enough to make plain the character and number of
 the bodily elements, the place of each, and further, in general, how
 many in number the various places are.
 
-Part 9
+## Part 9
 
 We must show not only that the heaven is one, but also that more than
 one heaven is and, further, that, as exempt from decay and generation,
@@ -922,7 +922,7 @@ then, is also reasonable, since everything ceases to move when it
 comes to its proper place, but the body whose path is the circle has
 one and the same place for starting-point and goal.
 
-Part 10
+## Part 10
 
 Having established these distinctions, we may now proceed to the question
 whether the heaven is ungenerated or generated, indestructible or
@@ -1008,7 +1008,7 @@ have answered this view with arguments appropriate to the nature of
 the heaven: on the general question we shall attain clearness when
 we examine the matter universally.
 
-Part 11
+## Part 11
 
 We must first distinguish the senses in which we use the words 'ungenerated'
 and 'generated', 'destructible' and 'indestructible'. These have many
@@ -1084,7 +1084,7 @@ The maximum may be determined either in the power or in its object.
 The application of this is plain. Superior sight is sight of the smaller
 body, but superior speed is that of the greater body.
 
-Part 12
+## Part 12
 
 Having established these distinctions we car now proceed to the sequel.
 If there are thing! capable both of being and of not being, there
@@ -1297,7 +1297,7 @@ are the very same that destroy it.
 
 # BOOK II
 
-Part 1
+## Part 1
 
 That the heaven as a whole neither came into being nor admits of
 destruction, as some assert, but is one and eternal, with no end or
@@ -1345,7 +1345,7 @@ but also on this hypothesis alone are we able to advance a theory
 consistent with popular divinations of the divine nature. But of this
 enough for the present.
 
-Part 2
+## Part 2
 
 Since there are some who say that there is a right and a left in the
 heaven, with those who are known as Pythagoreans-to whom indeed the
@@ -1445,7 +1445,7 @@ at its end. Here we may end our discussion of the distinctions of
 parts created by the three dimensions and of the consequent differences
 of position.
 
-Part 3
+## Part 3
 
 Since circular motion is not the contrary of the reverse circular
 motion, we must consider why there is more than one motion, though
@@ -1492,7 +1492,7 @@ of the other bodies, follows on that of earth; and earth is required
 because eternal movement in one body necessitates eternal rest in
 another.
 
-Part 4
+## Part 4
 
 The shape of the heaven is of necessity spherical; for that is the
 shape most appropriate to its substance and also by nature primary.
@@ -1586,7 +1586,7 @@ of the enveloping body; since with each step away from earth the matter
 manifestly becomes finer in the same proportion as water is finer
 than earth.
 
-Part 5
+## Part 5
 
 Now there are two ways of moving along a circle, from A to B or from
 A to C, and we have already explained that these movements are not
@@ -1613,7 +1613,7 @@ in the best way possible, this may stand as the reason of the fact
 mentioned. For it is best to move with a movement simple and unceasing,
 and, further, in the superior of two possible directions.
 
-Part 6
+## Part 6
 
 We have next to show that the movement of the heaven is regular and
 not irregular. This applies only to the first heaven and the first
@@ -1687,7 +1687,7 @@ That there is one heaven, then, only, and that it is ungenerated and
 eternal, and further that its movement is regular, has now been sufficiently
 explained.
 
-Part 7
+## Part 7
 
 We have next to speak of the stars, as they are called, of their composition,
 shape, and movements. It would be most natural and consequent upon
@@ -1713,7 +1713,7 @@ in that part where the sun is attached to it. Hence warmth increases
 as the sun gets nearer or higher or overhead. Of the fact, then, that
 the stars are neither fiery nor move in fire, enough has been said.
 
-Part 8
+## Part 8
 
 Since changes evidently occur not only in the position of the stars
 but also in that of the whole heaven, there are three possibilities.
@@ -1813,7 +1813,7 @@ to move in one lace, and the stars are not required to move themselves
 forward, it is natural that both should be spherical-a shape which
 best suits the movement of the one and the immobility of the other.
 
-Part 9
+## Part 9
 
 From all this it is clear that the theory that the movement of the
 stars produces a harmony, i.e. that the sounds they make are concordant,
@@ -1868,7 +1868,7 @@ were other than it is, nothing on this earth could maintain its character.
 
 That the stars are spherical and are not selfmoved, has now been explained.
 
-Part 10
+## Part 10
 
 With their order-I mean the position of each, as involving the priority
 of some and the posteriority of others, and their respective distances
@@ -1889,7 +1889,7 @@ which is most strongly influenced, and the most remote, by reason
 of its distance, which is least affected, the influence on the intermediate
 bodies varying, as the mathematicians show, with their distance.
 
-Part 11
+## Part 11
 
 With regard to the shape of each star, the most reasonable view is
 that they are spherical. It has been shown that it is not in their
@@ -1906,7 +1906,7 @@ no other hypothesis accounts for the crescent shape of the sun's eclipses.
 One, then, of the heavenly bodies being spherical, clearly the rest
 will be spherical also.
 
-Part 12
+## Part 12
 
 There are two difficulties, which may very reasonably here be raised,
 of which we must now attempt to state the probable solution: for we
@@ -2009,7 +2009,7 @@ The characteristics of the stars which move with a circular motion,
 in respect of substance and shape, movement and order, have now been
 sufficiently explained.
 
-Part 13
+## Part 13
 
 It remains to speak of the earth, of its position, of the question
 whether it is at rest or in motion, and of its shape.
@@ -2253,7 +2253,7 @@ natural place.
 We have now outlined the views held as to the shape, position, and
 rest or movement of the earth.
 
-Part 14
+## Part 14
 
 Let us first decide the question whether the earth moves or is at
 rest. For, as we said, there are some who make it one of the stars,
@@ -2401,7 +2401,7 @@ size.
 
 # BOOK III
 
-Part 1
+## Part 1
 
 We have already discussed the first heaven and its parts, the moving
 stars within it, the matter of which these are composed and their
@@ -2543,7 +2543,7 @@ of numbers. For natural bodies are manifestly endowed with weight
 and lightness, but an assemblage of units can neither be composed
 to form a body nor possess weight.
 
-Part 2
+## Part 2
 
 The necessity that each of the simple bodies should have a natural
 movement may be shown as follows. They manifestly move, and if they
@@ -2678,7 +2678,7 @@ become such in actuality, But if the potential body was not already
 in actuality some other kind of body, the existence of an extra-corporeal
 void must be admitted.
 
-Part 3
+## Part 3
 
 It remains to say what bodies are subject to generation, and why.
 Since in every case knowledge depends on what is primary, and the
@@ -2712,7 +2712,7 @@ bodies and simple in simple, there must obviously be simple bodies;
 for there are simple movements. It is plain, then, that there are
 elements, and why.
 
-Part 4
+## Part 4
 
 The next question to consider is whether the elements are finite or
 infinite in number, and, if finite, what their number is. Let us first
@@ -2780,7 +2780,7 @@ movements is not infinite, because the simple motions are only two
 and the number of places is not infinite, on these grounds also we
 should have to deny that the number of elements is infinite.
 
-Part 5
+## Part 5
 
 Since the number of the elements must be limited, it remains to inquire
 whether there is more than one element. Some assume one only, which
@@ -2869,7 +2869,7 @@ of a plurality of natural movements, it is impossible that there should
 be only one element. But if the elements are not an infinity and not
 reducible to one, they must be several and finite in number.
 
-Part 6
+## Part 6
 
 First we must inquire whether the elements are eternal or subject
 to generation and destruction; for when this question has been answered
@@ -2923,7 +2923,7 @@ therefore cannot be generated from something incorporeal nor from
 a body which is not an element, and the only remaining alternative
 is that they are generated from one another.
 
-Part 7
+## Part 7
 
 We must, therefore, turn to the question, what is the manner of their
 generation from one another? Is it as Empedocles and Democritus say,
@@ -3010,7 +3010,7 @@ or a pyramid. Either, then, a part of fire is not fire, so that there
 is a body prior to the element-for every body is either an element
 or composed of elements-or not every body is divisible.
 
-Part 8
+## Part 8
 
 In general, the attempt to give a shape to each of the simple bodies
 is unsound, for the reason, first, that they will not succeed in filling
@@ -3106,7 +3106,7 @@ us to explain the differences of each from each.
 
 # BOOK IV
 
-Part 1
+## Part 1
 
 We have now to consider the terms 'heavy' and 'light'. We must ask
 what the bodies so called are, how they are constituted, and what
@@ -3153,7 +3153,7 @@ light we mean that one, of two bodies endowed with weight and equal
 in bulk, which is exceeded by the other in the speed of its natural
 downward movement.
 
-Part 2
+## Part 2
 
 Those of our predecessors who have entered upon this inquiry have
 for the most part spoken of light and heavy things only in the sense
@@ -3295,7 +3295,7 @@ of small atoms are heavier than a few large ones, it will follow that
 much air or fire is heavier than a little water or earth, which is
 impossible.
 
-Part 3
+## Part 3
 
 These, then, are the views which have been advanced by others and
 the terms in which they state them. We may begin our own statement
@@ -3373,7 +3373,7 @@ we tried to show how none of these things moves itself. The reason
 of the various motions of the various bodies, and the meaning of the
 motion of a body to its own place, have now been explained.
 
-Part 4
+## Part 4
 
 We have now to speak of the distinctive properties of these bodies
 and of the various phenomena connected with them. In accordance with
@@ -3469,7 +3469,7 @@ being is different, as that which is receptive of disease is the same
 as that which is receptive of health, though in being different from
 it, and therefore diseasedness is different from healthiness.
 
-Part 5
+## Part 5
 
 A thing then which has the one kind of matter is light and always
 moves upward, while a thing which has the opposite matter is heavy
@@ -3546,7 +3546,7 @@ in each, there will be a certain quantity of each at which water will
 excel a little air in the upward movement and air excel water in the
 downward movement, as we have already often said.
 
-Part 6
+## Part 6
 
 The shape of bodies will not account for their moving upward or downward
 in general, though it will account for their moving faster or slower.

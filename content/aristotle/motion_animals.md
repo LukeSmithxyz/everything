@@ -6,7 +6,7 @@ author: "Aristotle"
 
 Translated by A. S. L. Farquharson
 
-Part 1
+## Part 1
 
 Elsewhere we have investigated in detail the movement of animals
 after their various kinds, the differences between them, and the reasons
@@ -45,7 +45,7 @@ must have within itself a point at rest, whence will be the origin
 of that which is moved, and supporting itself upon which it will be
 moved both as a complete whole and in its members.
 
-Part 2
+## Part 2
 
 But the point of rest in the animal is still quite ineffectual unless
 there be something without which is absolutely at rest and immovable.
@@ -81,7 +81,7 @@ to move, and what he is fixing himself against is in his case the
 same. If, however, he pushes or pulls from outside he does move it,
 for the ground is no part of the boat.
 
-Part 3
+## Part 3
 
 Here we may ask the difficult question whether if something moves
 the whole heavens this mover must be immovable, and moreover be no
@@ -130,7 +130,7 @@ that which moves the heavens. But if that is impossible, it follows
 that the heavens cannot possibly be moved by any force of this kind
 inside them.
 
-Part 4
+## Part 4
 
 There is a further difficulty about the motions of the parts of the
 heavens which, as akin to what has gone before, may be considered
@@ -195,7 +195,7 @@ when they inspire and expire; for there is no essential difference
 between casting a great and a small weight, and this is what men do
 when they spit and cough and when they breathe in and breathe out.
 
-Part 5
+## Part 5
 
 But is it only in that which moves itself in place that there must
 be a point at rest, or does this hold also of that which causes its
@@ -213,7 +213,7 @@ nor can anything possibly be the cause of its own generation and decay,
 for the mover must exist before the moved, the begetter before the
 begotten, and nothing is prior to itself.
 
-Part 6
+## Part 6
 
 Now whether the soul is moved or not, and how it is moved if it be
 moved, has been stated before in our treatise concerning it. And since
@@ -256,7 +256,7 @@ what happens in the region of things happening, since the living creature
 is moved and goes forward by reason of desire or purpose, when some
 alteration has been set going on the occasion of sensation or imagination.
 
-Part 7
+## Part 7
 
 But how is it that thought (viz. sense, imagination, and thought proper)
 is sometimes followed by action, sometimes not; sometimes by movement,
@@ -325,7 +325,7 @@ imperceptibly small part of the heart, it produces a vast difference
 in the periphery of the body,- blushing, let us say, or turning white,
 goose-skin and shivers and their opposites.
 
-Part 8
+## Part 8
 
 But to return, the object we pursue or avoid in the field of action
 is, as has been explained, the original of movement, and upon the
@@ -391,7 +391,7 @@ is still something higher up, neither is the true original in the
 wrist, for once more if the elbow is at rest the whole part below
 it can be moved as a continuous whole.
 
-Part 9
+## Part 9
 
 Now since the left and the right sides are symmetrical, and these
 opposites are moved simultaneously, it cannot be that the left is
@@ -424,7 +424,7 @@ and so moving their legs. There must then be some one thing which
 moves both. This something is the soul, distinct from the spatial
 magnitude just described and yet located therein.
 
-Part 10
+## Part 10
 
 Although from the point of view of the definition of movement- a definition
 which gives the cause- desire is the middle term or cause, and desire
@@ -470,7 +470,7 @@ in a kind of central governing place of the body, and the remaining
 parts live by continuity of natural structure, and play the parts
 Nature would have them play.
 
-Part 11
+## Part 11
 
 So much then for the voluntary movements of animal bodies, and the
 reasons for them. These bodies, however, display in certain members

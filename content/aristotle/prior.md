@@ -9,7 +9,7 @@ Translated by A. J. Jenkinson
 
 # BOOK I
 
-Part 1
+## Part 1
 
 We must first state the subject of our inquiry and the faculty to
 which it belongs: its subject is demonstration and the faculty that
@@ -67,7 +67,7 @@ that one term is predicated of all of another, whenever no instance
 of the subject can be found of which the other term cannot be asserted:
 'to be predicated of none' must be understood in the same way.
 
-Part 2
+## Part 2
 
 Every premiss states that something either is or must be or may be
 the attribute of something else; of premisses of these three kinds
@@ -93,7 +93,7 @@ no B would be A. But if some B is not A, there is no necessity that
 some of the As should not be B; e.g. let B stand for animal and A
 for man. Not every animal is a man; but every man is an animal.
 
-Part 3
+## Part 3
 
 The same manner of conversion will hold good also in respect of necessary
 premisses. The universal negative converts universally; each of the
@@ -138,7 +138,7 @@ e.g. 'it is not-good' or 'it is not-white' or in a word 'it is not-this'.
 But this also will be proved in the sequel. In conversion these premisses
 will behave like the other affirmative propositions.
 
-Part 4
+## Part 4
 
 After these distinctions we now state by what means, when, and how
 every syllogism is produced; subsequently we must speak of demonstration.
@@ -240,7 +240,7 @@ originally taken) and that all conclusions are proved by this figure,
 viz. universal and particular, affirmative and negative. Such a figure
 I call the first.
 
-Part 5
+## Part 5
 
 Whenever the same thing belongs to all of one subject, and to none
 of another, or to all of each subject or to none of either, I call
@@ -354,7 +354,7 @@ as hypotheses, i.e. when we prove per impossibile. And it is evident
 that an affirmative conclusion is not attained by means of this figure,
 but all are negative, whether universal or particular.
 
-Part 6
+## Part 6
 
 But if one term belongs to all, and another to none, of a third, or
 if both belong to all, or to none, of it, I call such a figure the
@@ -463,7 +463,7 @@ It is clear also that all the syllogisms in this figure are imperfect
 that it will not be possible to reach a universal conclusion by means
 of this figure, whether negative or affirmative.
 
-Part 7
+## Part 7
 
 It is evident also that in all the figures, whenever a proper syllogism
 does not result, if both the terms are affirmative or negative nothing
@@ -520,7 +520,7 @@ or does not belong to something else are constituted, both how syllogisms
 of the same figure are constituted in themselves, and how syllogisms
 of different figures are related to one another.
 
-Part 8
+## Part 8
 
 Since there is a difference according as something belongs, necessarily
 belongs, or may belong to something else (for many things belong indeed,
@@ -553,7 +553,7 @@ must hold of some of that term in which this part is included: for
 the part taken is just some of that. And each of the resulting syllogisms
 is in the appropriate figure.
 
-Part 9
+## Part 9
 
 It happens sometimes also that when one premiss is necessary the conclusion
 is necessary, not however when either premiss is necessary, but only
@@ -586,7 +586,7 @@ necessary: for from the denial of such a conclusion nothing impossible
 results, just as it does not in the universal syllogisms. The same
 is true of negative syllogisms. Try the terms movement, animal, white.
 
-Part 10
+## Part 10
 
 In the second figure, if the negative premiss is necessary, then the
 conclusion will be necessary, but if the affirmative, not necessary.
@@ -641,7 +641,7 @@ Nor again, if the negative statement is necessary but particular,
 will the conclusion be necessary. The point can be demonstrated by
 means of the same terms.
 
-Part 11
+## Part 11
 
 In the last figure when the terms are related universally to the middle,
 and both premisses are affirmative, if one of the two is necessary,
@@ -718,7 +718,7 @@ should not belong to some animal. But when the negative proposition
 being particular is necessary, take the terms 'biped', 'moving', 'animal',
 'animal' being middle.
 
-Part 12
+## Part 12
 
 It is clear then that a simple conclusion is not reached unless both
 premisses are simple assertions, but a necessary conclusion is possible
@@ -730,7 +730,7 @@ if the conclusion is necessary, the premiss must be necessary. Consequently
 this also is clear, that the conclusion will be neither necessary
 nor simple unless a necessary or simple premiss is assumed.
 
-Part 13
+## Part 13
 
 Perhaps enough has been said about the proof of necessity, how it
 comes about and how it differs from the proof of a simple statement.
@@ -808,7 +808,7 @@ one premiss is a simple assertion, the other a problematic. Consequently
 we must start from premisses which are similar in form, as in the
 other cases.
 
-Part 14
+## Part 14
 
 Whenever A may possibly belong to all B, and B to all C, there will
 be a perfect syllogism to prove that A may possibly belong to all
@@ -881,7 +881,7 @@ imperfect in the second. But possibility must be understood according
 to the definition laid down, not as covering necessity. This is sometimes
 forgotten.
 
-Part 15
+## Part 15
 
 If one premiss is a simple proposition, the other a problematic, whenever
 the major premiss indicates possibility all the syllogisms will be
@@ -1045,7 +1045,7 @@ evident then that if the major premiss is universal, a syllogism always
 results, but if the minor is universal nothing at all can ever be
 proved.
 
-Part 16
+## Part 16
 
 Whenever one premiss is necessary, the other problematic, there will
 be a syllogism when the terms are related as before; and a perfect
@@ -1132,7 +1132,7 @@ premiss is necessary the conclusion is both problematic and negative
 assertoric. [It is clear also that all the syllogisms are imperfect
 and are perfected by means of the figures above mentioned.]
 
-Part 17
+## Part 17
 
 In the second figure whenever both premisses are problematic, no syllogism
 is possible, whether the premisses are affirmative or negative, universal
@@ -1213,7 +1213,7 @@ or in whatever other way the premisses can be altered, the proof will
 always proceed through the same terms. Clearly then, if both the premisses
 are problematic, no syllogism results.
 
-Part 18
+## Part 18
 
 But if one premiss is assertoric, the other problematic, if the affirmative
 is assertoric and the negative problematic no syllogism will be possible,
@@ -1248,7 +1248,7 @@ whether the other premiss is affirmative or negative. Nor can a conclusion
 be drawn when both premisses are indefinite, whether affirmative or
 negative, or particular. The proof is the same and by the same terms.
 
-Part 19
+## Part 19
 
 If one of the premisses is necessary, the other problematic, then
 if the negative is necessary a syllogistic conclusion can be drawn,
@@ -1325,7 +1325,7 @@ under the same conditions whether the mode of the premisses is assertoric
 or necessary. And it is clear that all the syllogisms are imperfect,
 and are completed by means of the figures mentioned.
 
-Part 20
+## Part 20
 
 In the last figure a syllogism is possible whether both or only one
 of the premisses is problematic. When the premisses are problematic
@@ -1367,7 +1367,7 @@ to all B and sometimes to no B. To illustrate the affirmative relation
 take the terms animal-man-white; to illustrate the negative, take
 the terms horse-man-white--white being the middle term.
 
-Part 21
+## Part 21
 
 If one premiss is pure, the other problematic, the conclusion will
 be problematic, not pure; and a syllogism will be possible under the
@@ -1403,7 +1403,7 @@ Whenever both premisses are indefinite or particular, no syllogism
 will be possible. The demonstration is the same as was given in the
 case of universal premisses, and proceeds by means of the same terms.
 
-Part 22
+## Part 22
 
 If one of the premisses is necessary, the other problematic, when
 the premisses are affirmative a problematic affirmative conclusion
@@ -1458,7 +1458,7 @@ be formed, and when the conclusion is problematic, and when it is
 pure. It is evident also that all syllogisms in this figure are imperfect,
 and that they are made perfect by means of the first figure.
 
-Part 23
+## Part 23
 
 It is clear from what has been said that the syllogisms in these figures
 are made perfect by means of universal syllogisms in the first figure
@@ -1533,7 +1533,7 @@ figures mentioned above. But when this has been shown it is clear
 that every syllogism is perfected by means of the first figure and
 is reducible to the universal syllogisms in this figure.
 
-Part 24
+## Part 24
 
 Further in every syllogism one of the premisses must be affirmative,
 and universality must be present: unless one of the premisses is universal
@@ -1574,7 +1574,7 @@ it cannot; and when a valid, when a perfect syllogism can be formed;
 and that if a syllogism is formed the terms must be arranged in one
 of the ways that have been mentioned.
 
-Part 25
+## Part 25
 
 It is clear too that every demonstration will proceed through three
 terms and no more, unless the same conclusion is established by different
@@ -1660,7 +1660,7 @@ term is inserted in the middle: for in relation to one term only,
 a syllogism will not be constructed. Consequently the conclusions
 will be much more numerous than the terms or the premisses.
 
-Part 26
+## Part 26
 
 Since we understand the subjects with which syllogisms are concerned,
 what sort of conclusion is established in each figure, and in how
@@ -1700,7 +1700,7 @@ premisses to one another, the character of the problem proved in each
 figure, and the number of the figures appropriate to each problem,
 all these matters are clear from what has been said.
 
-Part 27
+## Part 27
 
 We must now state how we may ourselves always have a supply of syllogisms
 in reference to the problem proposed and by what road we may reach
@@ -1774,7 +1774,7 @@ We must not however choose attributes which are consequent upon all
 the terms: for no syllogism can be made out of such premisses. The
 reason why this is so will be clear in the sequel.
 
-Part 28
+## Part 28
 
 If men wish to establish something about some whole, they must look
 to the subjects of that which is being established (the subjects of
@@ -1894,7 +1894,7 @@ out then that those who inquire in this manner are looking gratuitously
 for some other way than the necessary way because they have failed
 to observe the identity of the Bs with the Hs.
 
-Part 29
+## Part 29
 
 Syllogisms which lead to impossible conclusions are similar to ostensive
 syllogisms; they also are formed by means of the consequents and antecedents
@@ -1965,7 +1965,7 @@ other terms than the consequents and antecedents of the terms in question:
 for from these we obtain the premisses and find the middle term. Consequently
 a syllogism cannot be formed by means of other terms.
 
-Part 30
+## Part 30
 
 The method is the same in all cases, in philosophy, in any art or
 study. We must look for the attributes and the subjects of both our
@@ -1999,7 +1999,7 @@ In general then we have explained fairly well how we must select premisses:
 we have discussed the matter accurately in the treatise concerning
 dialectic.
 
-Part 31
+## Part 31
 
 It is easy to see that division into classes is a small part of the
 method we have described: for division is, so to speak, a weak syllogism;
@@ -2055,7 +2055,7 @@ From what has been said it is clear from what elements demonstrations
 are formed and in what manner, and to what points we must look in
 each problem.
 
-Part 32
+## Part 32
 
 Our next business is to state how we can reduce syllogisms to the
 aforementioned figures: for this part of the inquiry still remains.
@@ -2119,7 +2119,7 @@ for all the figures, but for that which is appropriate to the thesis
 in hand. If the thesis is established in more figures than one, we
 shall recognize the figure by the position of the middle term.
 
-Part 33
+## Part 33
 
 Men are frequently deceived about syllogisms because the inference
 is necessary, as has been said above; sometimes they are deceived
@@ -2147,7 +2147,7 @@ This deception then arises through ignoring a small distinction. For
 if we accept the conclusion as though it made no difference whether
 we said 'This belong to that' or 'This belongs to all of that'.
 
-Part 34
+## Part 34
 
 Men will frequently fall into fallacies through not setting out the
 terms of the premiss well, e.g. suppose A to be health, B disease,
@@ -2178,7 +2178,7 @@ are substituted, no fallacy arises. It is clear then that in such
 premisses what possesses the condition ought always to be substituted
 for the condition and taken as the term.
 
-Part 35
+## Part 35
 
 We must not always seek to set out the terms a single word: for we
 shall often have complexes of words to which a single name is not
@@ -2193,7 +2193,7 @@ proposition AB, although it is demonstrable. For it is clear that
 the middle must not always be assumed to be an individual thing, but
 sometimes a complex of words, as happens in the case mentioned.
 
-Part 36
+## Part 36
 
 That the first term belongs to the middle, and the middle to the extreme,
 must not be understood in the sense that they can always be predicated
@@ -2252,7 +2252,7 @@ or the genitive, e.g. 'double of this', or the accusative, e.g. 'that
 which strikes or sees this', or the nominative, e.g. 'man is an animal',
 or in whatever other way the word falls in the premiss.
 
-Part 37
+## Part 37
 
 The expressions 'this belongs to that' and 'this holds true of that'
 must be understood in as many ways as there are different categories,
@@ -2261,7 +2261,7 @@ and further as simple or compound: the same holds good of the corresponding
 negative expressions. We must consider these points and define them
 better.
 
-Part 38
+## Part 38
 
 A term which is repeated in the premisses ought to be joined to the
 first extreme, not to the middle. I mean for example that if a syllogism
@@ -2300,7 +2300,7 @@ it is good, but that it is; e.g. let A stand for knowledge that it
 is, B for being, C for good. Clearly then in syllogisms which are
 thus limited we must take the terms in the way stated.
 
-Part 39
+## Part 39
 
 We ought also to exchange terms which have the same value, word for
 word, and phrase for phrase, and word and phrase, and always take
@@ -2312,7 +2312,7 @@ the opinable is not identical with a particular kind of supposable
 take as the terms the supposable and the opinable in preference to
 the phrase suggested.
 
-Part 40
+## Part 40
 
 Since the expressions 'pleasure is good' and 'pleasure is the good'
 are not identical, we must not set out the terms in the same way;
@@ -2320,7 +2320,7 @@ but if the syllogism is to prove that pleasure is the good, the term
 must be 'the good', but if the object is to prove that pleasure is
 good, the term will be 'good'. Similarly in all other cases.
 
-Part 41
+## Part 41
 
 It is not the same, either in fact or in speech, that A belongs to
 all of that to which B belongs, and that A belongs to all of that
@@ -2354,7 +2354,7 @@ the process of setting out terms like perception by sense, not as
 though it were impossible to demonstrate without these illustrative
 terms, as it is to demonstrate without the premisses of the syllogism.
 
-Part 42
+## Part 42
 
 We should not forget that in the same syllogism not all conclusions
 are reached through one figure, but one through one figure, another
@@ -2363,7 +2363,7 @@ with this. Since not every problem is proved in every figure, but
 certain problems in each figure, it is clear from the conclusion in
 what figure the premisses should be sought.
 
-Part 43
+## Part 43
 
 In reference to those arguments aiming at a definition which have
 been directed to prove some part of the definition, we must take as
@@ -2372,7 +2372,7 @@ whole definition: for so we shall be less likely to be disturbed by
 the length of the term: e.g. if a man proves that water is a drinkable
 liquid, we must take as terms drinkable and water.
 
-Part 44
+## Part 44
 
 Further we must not try to reduce hypothetical syllogisms; for with
 the given premisses it is not possible to reduce them. For they have
@@ -2409,7 +2409,7 @@ which hypothetical arguments are formed: but at present this much
 must be clear, that it is not possible to resolve such arguments into
 the figures. And we have explained the reason.
 
-Part 45
+## Part 45
 
 Whatever problems are proved in more than one figure, if they have
 been established in one figure by syllogism, can be reduced to another
@@ -2495,7 +2495,7 @@ by reduction to what is impossible.
 It is clear from what we have said how we ought to reduce syllogisms,
 and that the figures may be resolved into one another.
 
-Part 46
+## Part 46
 
 In establishing or refuting, it makes some difference whether we suppose
 the expressions 'not to be this' and 'to be not-this' are identical
@@ -2625,7 +2625,7 @@ to one term.
 
 # BOOK II
 
-Part 1
+## Part 1
 
 We have already explained the number of the figures, the character
 and number of the premisses, when and how a syllogism is formed; further
@@ -2681,7 +2681,7 @@ demonstrated: consequently either a conclusion is not possible in
 the case of universal syllogisms or else it is possible also in the
 case of particular syllogisms.
 
-Part 2
+## Part 2
 
 It is possible for the premisses of the syllogism to be true, or to
 be false, or to be the one true, the other false. The conclusion is
@@ -2853,7 +2853,7 @@ belongs to nothing black. Consequently if it is assumed that A belongs
 to no B, and B to some C, then A does not belong to some C. The conclusion
 then is true, but the premisses arc false.
 
-Part 3
+## Part 3
 
 In the middle figure it is possible in every way to reach a true conclusion
 through false premisses, whether the syllogisms are universal or particular,
@@ -2940,7 +2940,7 @@ not follow every man. If then A is assumed to belong to the whole
 of B, and not to follow some C, the premisses are false but the conclusion
 is true.
 
-Part 4
+## Part 4
 
 In the last figure a true conclusion may come through what is false,
 alike when both premisses are wholly false, when each is partly false,
@@ -3044,7 +3044,7 @@ For if B is not great, A will necessarily not be white. If then when
 this is not white B must be great, it results that if B is not great,
 it is great, just as if it were proved through three terms.
 
-Part 5
+## Part 5
 
 Circular and reciprocal proof means proof by means of the conclusion,
 i.e. by converting one of the premisses simply and inferring the premiss
@@ -3123,7 +3123,7 @@ is converted as in the universal syllogism, i.e 'B belongs to some
 of that to some of which A does not belong': otherwise no syllogism
 results because the particular premiss is negative.
 
-Part 6
+## Part 6
 
 In the second figure it is not possible to prove an affirmative proposition
 in this way, but a negative proposition may be proved. An affirmative
@@ -3151,7 +3151,7 @@ a syllogism will not be possible. But the proof will proceed as in
 the universal syllogisms, if it is assumed that A belongs to some
 of that to some of which B does not belong.
 
-Part 7
+## Part 7
 
 In the third figure, when both premisses are taken universally, it
 is not possible to prove them reciprocally: for that which is universal
@@ -3201,7 +3201,7 @@ that in the third figure and in the middle figure those syllogisms
 which are not made through those figures themselves either are not
 of the nature of circular proof or are imperfect.
 
-Part 8
+## Part 8
 
 To convert a syllogism means to alter the conclusion and make another
 syllogism to prove that either the extreme cannot belong to the middle
@@ -3260,7 +3260,7 @@ that A belongs to all C, both premisses are refuted: but if the assumption
 is that A belongs to some C, neither premiss is refuted. The proof
 is the same as before.
 
-Part 9
+## Part 9
 
 In the second figure it is not possible to refute the premiss which
 concerns the major extreme by establishing something contrary to it,
@@ -3300,7 +3300,7 @@ it was assumed to belong to some C. Again if B belongs to all C and
 A to some C, A will belong to some B. The same proof can be given
 if the universal statement is affirmative.
 
-Part 10
+## Part 10
 
 In the third figure when the conclusion is converted into its contrary,
 neither of the premisses can be refuted in any of the syllogisms,
@@ -3358,7 +3358,7 @@ first and the middle figures; the premiss which concerns the major
 is always refuted through the first figure, the premiss which concerns
 the minor through the middle figure.
 
-Part 11
+## Part 11
 
 It is clear then what conversion is, how it is effected in each figure,
 and what syllogism results. The syllogism per impossibile is proved
@@ -3457,7 +3457,7 @@ for it is not necessary that if the universal negative is false, the
 universal affirmative should be true, nor is it generally accepted
 that if the one is false the other is true.
 
-Part 12
+## Part 12
 
 It is clear then that in the first figure all problems except the
 universal affirmative are proved per impossibile. But in the middle
@@ -3490,7 +3490,7 @@ is impossible: so that it is true that A does not belong to all B.
 It is clear then that all the syllogisms can be formed in the middle
 figure.
 
-Part 13
+## Part 13
 
 Similarly they can all be formed in the last figure. Suppose that
 A does not belong to some B, but C belongs to all B: then A does not
@@ -3523,7 +3523,7 @@ the contradictory must be assumed. And it is plain that in the middle
 figure an affirmative conclusion, and in the last figure a universal
 conclusion, are proved in a way.
 
-Part 14
+## Part 14
 
 Demonstration per impossibile differs from ostensive proof in that
 it posits what it wishes to refute by reduction to a statement admitted
@@ -3603,7 +3603,7 @@ will be solved. It is clear then that every thesis can be proved in
 both ways, i.e. per impossibile and ostensively, and it is not possible
 to separate one method from the other.
 
-Part 15
+## Part 15
 
 In what figure it is possible to draw a conclusion from premisses
 which are opposed, and in what figure this is not possible, will be
@@ -3698,7 +3698,7 @@ or we must argue from two syllogisms. In no other way than this, as
 was said before, is it possible that the premisses should be really
 contrary.
 
-Part 16
+## Part 16
 
 To beg and assume the original question is a species of failure to
 demonstrate the problem proposed; but this happens in many ways. A
@@ -3761,7 +3761,7 @@ In scientific demonstrations the question is begged when the terms
 are really related in the manner described, in dialectical arguments
 when they are according to common opinion so related.
 
-Part 17
+## Part 17
 
 The objection that 'this is not the reason why the result is false',
 which we frequently make in argument, is made primarily in the case
@@ -3827,7 +3827,7 @@ e.g. that parallels meet, both on the assumption that the interior
 angle is greater than the exterior and on the assumption that a triangle
 contains more than two right angles.
 
-Part 18
+## Part 18
 
 A false argument depends on the first false statement in it. Every
 syllogism is made out of two or more premisses. If then the false
@@ -3839,7 +3839,7 @@ propositions must be false, and on this the argument depends: for
 A and B are inferred by means of D, E, F, and G. Therefore the conclusion
 and the error results from one of them.
 
-Part 19
+## Part 19
 
 In order to avoid having a syllogism drawn against us we must take
 care, whenever an opponent asks us to admit the reason without the
@@ -3864,7 +3864,7 @@ C, and so on. If the syllogism is drawn through one middle term, he
 ought to begin with that: in this way he will most likely deceive
 his opponent.
 
-Part 20
+## Part 20
 
 Since we know when a syllogism can be formed and how its terms must
 be related, it is clear when refutation will be possible and when
@@ -3883,7 +3883,7 @@ follow that a refutation is possible. Similarly refutation is not
 possible if nothing is conceded universally: since the fields of refutation
 and syllogism are defined in the same way.
 
-Part 21
+## Part 21
 
 It sometimes happens that just as we are deceived in the arrangement
 of the terms, so error may arise in our thought about them, e.g. if
@@ -3990,7 +3990,7 @@ that any one could suppose the essence of good to be the essence of
 bad, save incidentally. For it is possible to think this in many different
 ways. But we must consider this matter better.
 
-Part 22
+## Part 22
 
 Whenever the extremes are convertible it is necessary that the middle
 should be convertible with both. For if A belongs to C through B,
@@ -4060,7 +4060,7 @@ end. Intercourse then either is not an end at all or is an end relative
 to the further end, the receiving of affection. And indeed the same
 is true of the other desires and arts.
 
-Part 23
+## Part 23
 
 It is clear then how the terms are related in conversion, and in respect
 of being in a higher degree objects of aversion or of desire. We must
@@ -4095,7 +4095,7 @@ third. In the order of nature, syllogism through the middle term is
 prior and better known, but syllogism through induction is clearer
 to us.
 
-Part 24
+## Part 24
 
 We have an 'example' when the major term is proved to belong to the
 middle by means of a term which resembles the third. It ought to be
@@ -4124,7 +4124,7 @@ conclusion to the minor term, whereas argument by example does make
 this application and does not draw its proof from all the particular
 cases.
 
-Part 25
+## Part 25
 
 By reduction we mean an argument in which the first term clearly belongs
 to the middle, but the relation of the middle to the last term is
@@ -4147,7 +4147,7 @@ the intermediate terms are not few, I do not call this reduction:
 nor again when the statement BC is immediate: for such a statement
 is knowledge.
 
-Part 26
+## Part 26
 
 An objection is a premiss contrary to a premiss. It differs from a
 premiss, because it may be particular, but a premiss either cannot
@@ -4205,7 +4205,7 @@ from contraries, from similars, and from common opinion, and inquire
 whether a particular objection cannot be elicited from the first figure
 or a negative objection from the second.
 
-Part 27
+## Part 27
 
 A probability and a sign are not identical, but a probability is a
 generally approved proposition: what men know to happen or not to

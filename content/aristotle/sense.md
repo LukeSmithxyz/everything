@@ -9,7 +9,7 @@ Translated by J. I. Beare
 
 # SECTION 1
 
-Part 1
+## Part 1
 
 Having now definitely considered the soul, by itself, and its several
 faculties, we must next make a survey of animals and all living things,
@@ -86,7 +86,7 @@ is composed of words, and each word is a thought-symbol. Accordingly,
 of persons destitute from birth of either sense, the blind are more
 intelligent than the deaf and dumb.
 
-Part 2
+## Part 2
 
 Of the distinctive potency of each of the faculties of sense enough
 has been said already.
@@ -251,7 +251,7 @@ of the brain.
 This then is the way in which the characteristics of the bodily organs
 of sense must be determined.
 
-Part 3
+## Part 3
 
 Of the sensibles corresponding to each sensory organ, viz. colour,
 sound, odour, savour, touch, we have treated in On the Soul in general
@@ -430,7 +430,7 @@ Why colours, as well as savours and sounds, consist of species determinate
 [in themselves] and not infinite [in number] is a question which we
 shall discuss hereafter.
 
-Part 4
+## Part 4
 
 We have now explained what colour is, and the reason why there are
 many colours; while before, in our work On the Soul, we explained
@@ -618,7 +618,7 @@ in connection with the natural history of Plants.
 
 # SECTION 2
 
-Part 5
+## Part 5
 
 Our conception of the nature of Odours must be analogous to that
 of Savours; inasmuch as the Sapid Dry effects in air and water alike,
@@ -846,7 +846,7 @@ and in relation to the bodies nourished.
 
 This then must conclude our discussion of the several organs of sense-perception.
 
-Part 6
+## Part 6
 
 One might ask: if every body is infinitely divisible, are its sensible
 qualities- Colour, Savour, Odour, Sound, Weight, Cold or Heat, [Heaviness
@@ -1016,7 +1016,7 @@ object are not all affected at once- except in the case of Light [illumination]
 for the reason above stated, and also in the case of seeing, for the
 same reason; for Light is an efficient cause of seeing.
 
-Part 7
+## Part 7
 
 Another question respecting sense-perception is as follows: assuming,
 as is natural, that of two [simultaneous] sensory stimuli the stronger

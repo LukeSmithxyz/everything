@@ -9,7 +9,7 @@ Translated by William Ogle
 
 # BOOK I
 
-Part 1
+## Part 1
 
 Every systematic science, the humblest and the noblest alike, seems
 to admit of two distinct kinds of proficiency; one of which may be
@@ -367,7 +367,7 @@ In the foregoing we have an example of the method which we must adopt,
 and also an example of the kind of phenomena, the causes of which
 we have to investigate.
 
-Part 2
+## Part 2
 
 Some writers propose to reach the definitions of the ultimate forms
 of animal life by bipartite division. But this method is often difficult,
@@ -390,7 +390,7 @@ such breaking up and dislocation. The group of the Many-footed, for
 instance, would, under this method, have to be dismembered, and some
 of its kinds distributed among land animals, others among water animals.
 
-Part 3
+## Part 3
 
 Again, privative terms inevitably form one branch of dichotomous division,
 as we see in the proposed dichotomies. But privative terms in their
@@ -534,7 +534,7 @@ belonging to one and the same animal.
 It is impossible then to reach any of the ultimate animal forms by
 dichotomous division.
 
-Part 4
+## Part 4
 
 It deserves inquiry why a single name denoting a higher group was
 not invented by mankind, as an appellation to comprehend the two groups
@@ -599,7 +599,7 @@ for its professed purposes.
 
 Having laid this foundation, let us pass on to our next topic.
 
-Part 5
+## Part 5
 
 Of things constituted by nature some are ungenerated, imperishable,
 and eternal, while others are subject to generation and decay. The
@@ -705,7 +705,7 @@ nature.
 
 # BOOK II
 
-Part 1
+## Part 1
 
 The nature and the number of the parts of which animals are severally
 composed are matters which have already been set forth in detail in
@@ -847,7 +847,7 @@ be formed. Such, then, are the reasons why the viscera are of sanguineous
 aspect; and why in one point of view they are homogeneous, in another
 heterogeneous.
 
-Part 2
+## Part 2
 
 Of the homogeneous parts of animals, some are soft and fluid, others
 hard and solid; and of the former some are fluid permanently, others
@@ -1033,7 +1033,7 @@ will also be used with like ambiguity.
 So much then as to the signification of the terms hot and cold, hotter
 and colder.
 
-Part 3
+## Part 3
 
 In natural sequence we have next to treat of solid and fluid. These
 terms are used in various senses. Sometimes, for instance, they denote
@@ -1135,7 +1135,7 @@ purpose all that need be said is that the blood exists for the sake
 of nutrition, that is the nutrition of the parts; and with this much
 let us therefore content ourselves.
 
-Part 4
+## Part 4
 
 What are called fibres are found in the blood of some animals but
 not of all. There are none, for instance, in the blood of deer and
@@ -1195,7 +1195,7 @@ so that one part of the serum is the resultant of a necessary process,
 while another part is material intended to serve for the formation
 of the blood.
 
-Part 5
+## Part 5
 
 The differences between lard and suet correspond to differences of
 blood. For both are blood concocted into these forms as a result of
@@ -1240,7 +1240,7 @@ seed is used up in the production of lard and suet, which are nothing
 but concocted blood; so that in these animals there is either no reproductive
 excretion at all, or only a scanty amount.
 
-Part 6
+## Part 6
 
 So much then of blood and serum, and of lard and suet. Each of these
 has been described, and the purposes told for which they severally
@@ -1305,7 +1305,7 @@ the sanguineous nutriment apportioned to the bones and fish-spines,
 which has undergone concoction owing to its being enclosed within
 them.
 
-Part 7
+## Part 7
 
 From the marrow we pass on in natural sequence to the brain. For there
 are many who think that the brain itself consists of marrow, and that
@@ -1432,7 +1432,7 @@ former of these fluids is the very starting-point of the generative
 process, and the latter has no other ground of existence than generative
 purposes.
 
-Part 8
+## Part 8
 
 We have now to consider the remaining homogeneous parts, and will
 begin with flesh, and with the substance that, in animals that have
@@ -1507,7 +1507,7 @@ such a character as to be more flesh-like than bone, and more earthy
 and bone-like than flesh. The purpose of this is to make the body
 of the insect less liable to get broken into pieces.
 
-Part 9
+## Part 9
 
 There is a resemblance between the osseous and the vascular systems;
 for each has a central part in which it begins, and each forms a continuous
@@ -1648,7 +1648,7 @@ suitable place for their examination, seeing that the former of the
 two is the very foundation of the thing generated, while the latter
 is its nourishment.
 
-Part 10
+## Part 10
 
 Let us now make, as it were, a fresh beginning, and consider the heterogeneous
 parts, taking those first which are the first in importance. For in
@@ -1775,7 +1775,7 @@ side on a level with each other, to avail themselves of the inspiratory
 motion. In other animals than man the arrangement of these sense-organs
 is also such as is adapted in each case to the special requirements.
 
-Part 11
+## Part 11
 
 For instance, in quadrupeds the ears stand out freely from the head
 and are set to all appearance above the eyes. Not that they are in
@@ -1785,7 +1785,7 @@ the usual attitude of the animal when in motion, it is of advantage
 that its ears shall be high up and movable; for by turning themselves
 about they can the better take in sounds from every quarter.
 
-Part 12
+## Part 12
 
 In birds, on the other hand, there are no ears, but only the auditory
 passages. This is because their skin is hard and because they have
@@ -1797,7 +1797,7 @@ the seal, that has no ears but only the auditory passages. The explanation
 of this is that the seal, though a quadruped, is a quadruped of stunted
 formation.
 
-Part 13
+## Part 13
 
 Men, and Birds, and Quadrupeds, viviparous and oviparous alike, have
 their eyes protected by lids. In the Vivipara there are two of these;
@@ -1878,7 +1878,7 @@ of collision being thus small, nature, who makes nothing in vain,
 has given no eyelids to fishes, while to counterbalance the opacity
 of the water she has made their eyes of fluid consistency.
 
-Part 14
+## Part 14
 
 All animals that have hairs on the body have lashes on the eyelids;
 but birds and animals with scale-like plates, being hairless, have
@@ -1933,7 +1933,7 @@ these lashes owe their existence. We must therefore defer any further
 remarks we may have to make on these matters till the proper occasion
 arises and then return to their consideration.
 
-Part 15
+## Part 15
 
 Both eyebrows and eyelashes exist for the protection of the eyes;
 the former that they may shelter them, like the eaves of a house,
@@ -1948,7 +1948,7 @@ where these endings occur, the exudation of moisture of a corporeal
 character necessitates the growth of hairs, unless there be some operation
 of nature which interferes, by diverting the moisture to another purpose.
 
-Part 16
+## Part 16
 
 Viviparous quadrupeds, as a rule, present no great variety of form
 in the organ of smell. In those of them, however, whose jaws project
@@ -2056,7 +2056,7 @@ Therefore are they made of flesh, and flesh is softer in man than
 in any other animal, the reason for this being that of all animals
 man has the most delicate sense of touch.
 
-Part 17
+## Part 17
 
 The tongue is placed under the vaulted roof of the mouth. In land
 animals it presents but little diversity. But in other animals it
@@ -2172,7 +2172,7 @@ In all other animals the tongue agrees with description already given.
 
 # BOOK III
 
-Part 1
+## Part 1
 
 We have next to consider the teeth, and with these the mouth, that
 is the cavity which they enclose and form. The teeth have one invariable
@@ -2304,7 +2304,7 @@ the only animal that stands erect, he is also the only one that looks
 directly in front (proso) and the only one whose voice is emitted
 in that direction.
 
-Part 2
+## Part 2
 
 We have now to treat of horns; for these also, when present, are appendages
 of the head. They exist in none but viviparous animals; though in
@@ -2437,7 +2437,7 @@ horns projecting from the jaws.
 
 So much, then, of the parts which appertain to the head.
 
-Part 3
+## Part 3
 
 Below the head lies the neck, in such animals as have one. This is
 the case with those only that have the parts to which a neck is subservient.
@@ -2537,7 +2537,7 @@ part invariably is placed uppermost, in front, and on the right, rather
 than in the opposite positions, unless some more important object
 stands in the way.
 
-Part 4
+## Part 4
 
 We have now dealt with the neck, the oesophagus, and the windpipe,
 and have next to treat of the viscera. These are peculiar to sanguineous
@@ -2759,7 +2759,7 @@ they are found on dissection to have morbid affections of the heart.
 Thus much of the heart, its nature, and the end and cause of its existence
 in such animals as have it.
 
-Part 5
+## Part 5
 
 In due sequence we have next to discuss the blood-vessels, that is
 to say the great vessel and the aorta. For it is into these two that
@@ -2877,7 +2877,7 @@ So much, then, as concerns the heart and the blood-vessels. We must
 now pass on to the other viscera and apply the same method of inquiry
 to them.
 
-Part 6
+## Part 6
 
 The lung, then, is an organ found in all the animals of a certain
 class, because they live on land. For there must of necessity be some
@@ -2943,7 +2943,7 @@ class. Yet the possession of a lung is a part of their essence, just
 as much as the presence of certain characters constitutes the essence
 of a bird.
 
-Part 7
+## Part 7
 
 Of the viscera some appear to be single, as the heart and lung; others
 to be double, as the kidneys; while of a third kind it is doubtful
@@ -3067,7 +3067,7 @@ be enumerated. For not a word has yet been said of the midriff, which
 is one of the parts that environ the viscera and therefore has to
 be considered with them.
 
-Part 8
+## Part 8
 
 It is not every animal that has a bladder; those only being apparently
 intended by nature to have one, whose lung contains blood. To such
@@ -3101,7 +3101,7 @@ special part is required to receive and hold it. This then is the
 reason why these animals, alone of their kind, have a bladder, the
 sea-tortoise a large one, the land-tortoises an extremely small one.
 
-Part 9
+## Part 9
 
 What has been said of the bladder is equally true of the kidneys.
 For these also are wanting in all animals that are clad with feathers
@@ -3215,7 +3215,7 @@ forthwith reaches the heart, passing thither by the aorta and the
 great vessel, the ducts which connect these with the kidneys being
 of unbroken continuity.
 
-Part 10
+## Part 10
 
 We have now dealt with the heart and the lung, as also with the liver,
 spleen, and kidneys. The latter are separated from the former by the
@@ -3301,7 +3301,7 @@ and coagulated, that the substance of the viscera is formed. Thus
 they are of a bloody character, and in substance resemble each other
 while they differ from other parts.
 
-Part 11
+## Part 11
 
 The viscera are enclosed each in a membrane. For they require some
 covering to protect them from injury, and require, moreover, that
@@ -3315,7 +3315,7 @@ are the parts which require most protection, seeing that they are
 the main governing powers of life, and that it is to governing powers
 that guard is due.
 
-Part 12
+## Part 12
 
 Some animals have all the viscera that have been enumerated; others
 have only some of them. In what kind of animals this latter is the
@@ -3353,7 +3353,7 @@ the dog. While in animals with solid hoofs it is of a form intermediate
 to these two, being broad in one part, narrow in another. Such, for
 example, is its shape in the horse, the mule, and the ass.
 
-Part 13
+## Part 13
 
 The viscera differ from the flesh not only in the turgid aspect of
 their substance, but also in position; for they lie within the body,
@@ -3362,7 +3362,7 @@ is that these parts partake of the character of blood-vessels, and
 that while the former exist for the sake of the vessels, the latter
 cannot exist without them.
 
-Part 14
+## Part 14
 
 Below the midriff lies the stomach, placed at the end of the oesophagus
 when there is one, and in immediate contiguity with the mouth when
@@ -3546,7 +3546,7 @@ for the time occupied in the transition of food is but brief. In females
 this jejunum may occupy any part whatsoever of the upper intestine,
 but in males it comes just before the caecum and the lower stomach.
 
-Part 15
+## Part 15
 
 What is known as rennet is found in all animals that have a multiple
 stomach, and in the hare among animals whose stomach is single. In
@@ -3566,7 +3566,7 @@ stomachs has been stated in the Problems.
 
 # BOOK IV
 
-Part 1
+## Part 1
 
 The account which has now been given of the viscera, the stomach,
 and the other several parts holds equally good not only for the oviparous
@@ -3603,7 +3603,7 @@ all, excepting fishes, a lung and a windpipe. The relative positions,
 moreover, of the windpipe and the oesophagus are precisely similar
 in them all; and the reason is the same as has already been given.
 
-Part 2
+## Part 2
 
 Almost all sanguineous animals have a gall-bladder. In some this is
 attached to the liver, in others separated from that organ and attached
@@ -3687,7 +3687,7 @@ another in that, would be as great an absurdity as to suppose mucus
 or the dejections of the stomach to vary in character according to
 locality and not to be excremental wherever found.
 
-Part 3
+## Part 3
 
 So much then of the gall-bladder, and of the reasons why some animals
 have one, while others have not. We have still to speak of the mesentery
@@ -3720,7 +3720,7 @@ is fat. This too explains why it hangs from the middle of the stomach;
 for the upper part of the stomach has no need of it, being assisted
 in concoction by the adjacent liver. Thus much as concerns the omentum.
 
-Part 4
+## Part 4
 
 The so-called mesentery is also a membrane; and extends continuously
 from the long stretch of intestine to the great vessel and the aorta.
@@ -3754,7 +3754,7 @@ of male and female. But, inasmuch as we shall have to deal specially
 with generation hereafter, it will be more convenient to defer the
 consideration of these parts to that occasion.
 
-Part 5
+## Part 5
 
 Very different from the animals we have as yet considered are the
 Cephalopoda and the Crustacea. For these have absolutely no viscera
@@ -4150,7 +4150,7 @@ from these, which require less discussion, our account may have more
 time to spend on the perfect kinds of animals, those namely that have
 blood.
 
-Part 6
+## Part 6
 
 We will begin with Insects. These animals, though they present no
 great multiplicity of parts, are not without diversities when compared
@@ -4257,7 +4257,7 @@ shall be deflected inwards, and such is never the case with the anterior
 limbs. The whole number of legs, including those used in leaping,
 is six in all these insects.
 
-Part 7
+## Part 7
 
 In the Testacea the body consists of but few parts, the reason being
 that these animals live a stationary life. For such animals as move
@@ -4282,7 +4282,7 @@ this the animal filters fluid free from salt and absorbs its nutriment.
 In all there is a head; but none of the parts, excepting this recipient
 of food, has any distinctive name.
 
-Part 8
+## Part 8
 
 All the Crustacea can crawl as well as swim, and accordingly they
 are provided with numerous feet. There are four main genera, viz.
@@ -4346,7 +4346,7 @@ position and their differences, those parts being also included which
 distinguish the sexes, reference must be made to the treatises on
 Anatomy and to the Researches concerning Animals.
 
-Part 9
+## Part 9
 
 We come now to the Cephalopoda. Their internal organs have already
 been described with those of other animals. Externally there is the
@@ -4470,7 +4470,7 @@ The Insects, the Crustacea, the Testacea, and the Cephalopoda, have
 now been dealt with in turn; and their parts have been described,
 whether internal or external.
 
-Part 10
+## Part 10
 
 We must now go back to the animals that have blood, and consider such
 of their parts, already enumerated, as were before passed over. We
@@ -4879,7 +4879,7 @@ digits are of no great length. The toes, finally, are furnished with
 nails for the same reason as are the fingers, namely because such
 projecting parts are weak and therefore require special protection.
 
-Part 11
+## Part 11
 
 We have now done with such sanguineous animals as live on land and
 bring forth their young alive; and, having dealt with all their main
@@ -5025,7 +5025,7 @@ done with such sanguineous animals as are quadrupedous and also such
 as are apodous, and have stated with sufficient completeness what
 external parts they possess, and for what reason they have them.
 
-Part 12
+## Part 12
 
 The differences of birds compared one with another are differences
 of magnitude, and of the greater or smaller development of parts.
@@ -5230,7 +5230,7 @@ is not inclined forward so much as that of other birds. All birds
 have testicles; but they are inside the body. The reason for this
 will be given in the treatise On the Generation of Animals.
 
-Part 13
+## Part 13
 
 Thus then are fashioned the parts of birds. But in fishes a still
 further stunting has occurred in the external parts. For here, for
@@ -5420,7 +5420,7 @@ it has barbed feathers, has the tail of a bird; for a bird's tail
 is composed of such feathers. As for a quadruped's tail, it would
 be an actual impediment, if present among the feathers.
 
-Part 14
+## Part 14
 
 Much the same may be said also of the Libyan ostrich. For it has some
 of the characters of a bird, some of the characters of a quadruped.

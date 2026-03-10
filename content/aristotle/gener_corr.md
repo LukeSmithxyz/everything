@@ -9,7 +9,7 @@ Translated by H. H. Joachim
 
 # BOOK I
 
-Part 1
+## Part 1
 
 Our next task is to study coming-to-be and passing-away. We are to
 distinguish the causes, and to state the definitions, of these processes
@@ -132,7 +132,7 @@ motion'. On the other hand, in so far as the One results from composition
 the Many are more 'elementary' than the One, and prior to it in their
 nature.
 
-Part 2
+## Part 2
 
 We have therefore to discuss the whole subject of 'unqualified' coming-to-be
 and passingaway; we have to inquire whether these changes do or do
@@ -354,7 +354,7 @@ be taken as established-viz. that coming-to-be cannot be 'association',
 at least not the kind of 'association' some philosophers assert it
 to be.
 
-Part 3
+## Part 3
 
 Now that we have established the preceding distinctions, we must first
 consider whether there is anything which comes-to-be and passes-away
@@ -590,7 +590,7 @@ but in another sense different. For that which underlies them, whatever
 its nature may be qua underlying them, is the same: but its actual
 being is not the same. So much, then, on these topics.
 
-Part 4
+## Part 4
 
 Next we must state what the difference is between coming-to-be and
 'alteration'-for we maintain that these changes are distinct from
@@ -642,7 +642,7 @@ questions (i) whether coming-to-be 'is' or 'is not'-i.e. what are
 the precise conditions of its occurrence and (ii) what 'alteration'
 is: but we have still to treat of growth.
 
-Part 5
+## Part 5
 
 We must explain (i) wherein growth differs from coming-to-be and from
 'alteration', and ii) what is the process of growing and the sprocess
@@ -900,7 +900,7 @@ just as water, continually mixed in greater and greater quantity with
 wine, in the end makes the wine watery and converts it into water-then
 it will cause a diminution of the quantum; though still the form persists.
 
-Part 6
+## Part 6
 
 (In discussing the causes of coming-tobe) we must first investigate
 the matter, i.e. the so-called 'elements'. We must ask whether they
@@ -1007,7 +1007,7 @@ man who grieves us 'touches' us, but not that we 'touch' him.
 The account just given may serve to distinguish and define the 'contact'
 which occurs in the things of Nature.
 
-Part 7
+## Part 7
 
 Next in order we must discuss 'action' and 'passion'. The traditional
 theories on the subject are conflicting. For (i) most thinkers are
@@ -1128,7 +1128,7 @@ We have thus explained what action and passion are, what things exhibit
 them, why they do so, and in what manner. We must go on to discuss
 how it is possible for action and passion to take place.
 
-Part 8
+## Part 8
 
 Some philosophers think that the 'last' agent-the 'agent' in the strictest
 sense-enters in through certain pores, and so the patient suffers
@@ -1337,7 +1337,7 @@ some thinkers conceive them. But since bodies are divisible through
 and through, the postulate of pores is ridiculous: for, qua divisible,
 a body can fall into separate parts.
 
-Part 9
+## Part 9
 
 Let explain the way in which things in fact possess the power of generating,
 and of acting and suffering action: and let us start from the principle
@@ -1392,7 +1392,7 @@ act and suffer action, reciprocally; and to distinguish the way in
 which these processes can occur from the (impossible) way in which
 some thinkers say they occur.
 
-Part 10
+## Part 10
 
 But we have still to explain 'combination', for that was the third
 of the subjects we originally proposed to discuss. Our explanation
@@ -1547,7 +1547,7 @@ of the 'combinables', resulting from their 'alteration'.
 
 # BOOK II
 
-Part 1
+## Part 1
 
 We have explained under what conditions 'combination', 'contact',
 and 'action-passion' are attributable to the things which undergo
@@ -1617,7 +1617,7 @@ and how many of them, are to be accounted 'originative sources' of
 body? For all the other thinkers assume and use them without explaining
 why they are these or why they are just so many.
 
-Part 2
+## Part 2
 
 Since, then, we are looking for 'originative sources' of perceptible
 body; and since 'perceptible' is equivalent to 'tangible', and 'tangible'
@@ -1696,7 +1696,7 @@ not essentially moist or dry, nor the moist essentially hot or cold:
 nor are the cold and the dry derivative forms, either of one another
 or of the hot and the moist. Hence these must be four.
 
-Part 3
+## Part 3
 
 The elementary qualities are four, and any four terms can be combined
 in six couples. Contraries, however, refuse to be coupled: for it
@@ -1752,7 +1752,7 @@ a single quality: Earth by dry rather than by cold, Water by cold
 rather than by moist, Air by moist rather than by hot, and Fire by
 hot rather than by dry.
 
-Part 4
+## Part 4
 
 It has been established before' that the coming-to-be of the 'simple'
 bodies is reciprocal. At the same time, it is manifest, even on the
@@ -1845,7 +1845,7 @@ them; and we have explained the manner in which their mutual conversion
 takes place. Let us nevertheless supplement our theory by the following
 speculations concerning them.
 
-Part 5
+## Part 5
 
 If Water, Air, and the like are a 'matter' of which the natural bodies
 consist, as some thinkers in fact believe, these 'clements' must be
@@ -1960,7 +1960,7 @@ of Air into Fire, if the contrarieties are infinitely many: moreover
 the 'elements' above F must belong to those below F, and vice versa:
 hence they will all be one.
 
-Part 6
+## Part 6
 
 As for those who agree with Empedocles that the 'elements' of body
 are more than one, so that they are not transformed into one another-one
@@ -2064,7 +2064,7 @@ characterize Fire qua Fire: while if it be compounded out of the elements',
 only the corporeal modifications will occur in it. But the changes
 we have mentioned are none of them corporeal.
 
-Part 7
+## Part 7
 
 The discussion of these difficulties, however, is a task appropriate
 to a different investigation:' let us return to the 'elements' of
@@ -2144,7 +2144,7 @@ and not indivisible. Similarly, it is qua reduced to a 'mean' condition
 that the dry and the moist, as well as the contraries we have used
 as examples, produce flesh and bone and the remaining compounds.
 
-Part 8
+## Part 8
 
 All the compound bodies-all of which exist in the region belonging
 to the central body-are composed of all the 'simple' bodies. For they
@@ -2184,7 +2184,7 @@ them all is at the limits.
 Thus we have explained that all the compound bodies are composed of
 all the 'simple' bodies.
 
-Part 9
+## Part 9
 
 Since some things are such as to come-to-be and pass-away, and since
 coming-to-be in fact occurs in the region about the centre, we must
@@ -2270,7 +2270,7 @@ it may be that Fire is active, i.e. sets things moving, there is a
 further point they fail to observe-viz. that Fire is inferior to the
 tools or instruments in the manner in which it sets things moving.
 
-Part 10
+## Part 10
 
 As to our own theory-we have given a general account of the causes
 in an earlier work,' we have now explained and distinguished the 'matter'
@@ -2397,7 +2397,7 @@ movement. The conclusion therefore is that this is what produces continuous
 movement, viz. the body which is being moved in a circle; and its
 movement makes time continuous.
 
-Part 11
+## Part 11
 
 Wherever there is continuity in any process (coming-to-be or 'alteration'
 or any kind of change whatever) we observe consecutiveness', i.e.

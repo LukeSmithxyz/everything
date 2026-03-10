@@ -9,7 +9,7 @@ Translated by W. D. Ross
 
 # BOOK I
 
-Part 1
+## Part 1
 
 "ALL men by nature desire to know. An indication of this is the delight
 we take in our senses; for even apart from their usefulness they are
@@ -1022,7 +1022,7 @@ later difficulties.
 
 # BOOK II
 
-Part 1
+## Part 1
 
 "
 
@@ -1183,7 +1183,7 @@ of things).
 
 # BOOK III
 
-Part 1
+## Part 1
 
 "
 
@@ -1866,7 +1866,7 @@ them.
 
 # BOOK IV
 
-Part 1
+## Part 1
 
 "
 
@@ -1884,7 +1884,7 @@ being not by accident but just because it is being. Therefore it is
 of being as being that we also must grasp the first causes.
 "
 
-Part 2
+## Part 2
 
 "There are many senses in which a thing may be said to 'be', but all
 that 'is' is related to one central point, one definite kind of thing,
@@ -2732,7 +2732,7 @@ unmoved.
 
 # BOOK V
 
-Part 1
+## Part 1
 
 "
 
@@ -3476,7 +3476,7 @@ act in one way is good, and that which can do so in another--the contrary--way
 is vicious. Good and evil indicate quality especially in living things,
 and among these especially in those which have purpose.
 
-Part 15
+## Part 15
 
 "Things are 'relative' (1) as double to half, and treble to a third,
 and in general that which contains something else many times to that
@@ -3921,7 +3921,7 @@ sort is. This is explained elsewhere.
 
 # BOOK VI
 
-Part 1
+## Part 1
 
 "
 
@@ -4146,7 +4146,7 @@ has several meanings.)
 
 # BOOK VII
 
-Part 1
+## Part 1
 
 "
 
@@ -5404,7 +5404,7 @@ e.g. a and b are the elements of the syllable.
 
 # BOOK VIII
 
-Part 1
+## Part 1
 
 "
 
@@ -5766,7 +5766,7 @@ no matter are without qualification essentially unities.
 
 # BOOK IX
 
-Part 1
+## Part 1
 
 "
 
@@ -6380,7 +6380,7 @@ true or false, it is implied that the fact is eternal.
 
 # BOOK X
 
-Part 1
+## Part 1
 
 "
 
@@ -7050,7 +7050,7 @@ farther apart than those which differ in form.
 
 # BOOK XI
 
-Part 1
+## Part 1
 
 "
 
@@ -7948,7 +7948,7 @@ but not between two of the latter.
 
 # BOOK XII
 
-Part 1
+## Part 1
 
 "
 
@@ -8639,7 +8639,7 @@ world refuses to be governed badly. "
 
 # BOOK XIII
 
-Part 1
+## Part 1
 
 "
 
@@ -9424,7 +9424,7 @@ But they deny this; at least they generate the 2 first. Again, if
 the 2-itself is a unity and the 3-itself is one also, both form a
 2. From what, then, is this 2 produced?
 
-Part 9
+## Part 9
 
 "Since there is not contact in numbers, but succession, viz. between
 the units between which there is nothing, e.g. between those in 2
@@ -9628,7 +9628,7 @@ a sense it is not.
 
 # BOOK XIV
 
-Part 1
+## Part 1
 
 "
 
@@ -9983,7 +9983,7 @@ to let them off from the present inquiry; for we are investigating
 the principles at work in unchangeable things, so that it is numbers
 of this kind whose genesis we must study.
 
-Part 4
+## Part 4
 
 "These thinkers say there is no generation of the odd number, which
 evidently implies that there is generation of the even; and some present

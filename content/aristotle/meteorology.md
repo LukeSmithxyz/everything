@@ -9,7 +9,7 @@ Translated by E. W. Webster
 
 # BOOK I
 
-Part 1
+## Part 1
 
 We have already discussed the first causes of nature, and all natural
 motion, also the stars ordered in the motion of the heavens, and the
@@ -36,7 +36,7 @@ have been carried out.
 
 After this introduction let us begin by discussing our immediate subject.
 
-Part 2
+## Part 2
 
 We have already laid down that there is one physical element which
 makes up the system of the bodies that move in a circle, and besides
@@ -58,7 +58,7 @@ in this world (meaning by material what is subject and is affected),
 but must assign causality in the sense of the originating principle
 of motion to the influence of the eternally moving bodies.
 
-Part 3
+## Part 3
 
 Let us first recall our original principles and the distinctions already
 drawn and then explain the 'milky way' and comets and the other phenomena
@@ -233,7 +233,7 @@ yet the more and the faster a thing moves, the more apt it is to take
 fire. Besides, the sun, which most of all the stars is considered
 to be hot, is really white and not fiery in colour.
 
-Part 4
+## Part 4
 
 Having determined these principles let us explain the cause of the
 appearance in the sky of burning flames and of shooting-stars, and
@@ -310,7 +310,7 @@ that of things thrown by us; for it is because they are close to us,
 that these latter seem far to exceed in speed the stars, the sun,
 and the moon.
 
-Part 5
+## Part 5
 
 Sometimes on a fine night we see a variety of appearances that form
 in the sky: 'chasms' for instance and 'trenches' and blood-red colours.
@@ -344,7 +344,7 @@ These then must be taken to be the causes of 'shooting-stars' and
 the phenomena of combustion and also of the other transient appearances
 of this kind.
 
-Part 6
+## Part 6
 
 Let us go on to explain the nature of comets and the 'milky way',
 after a preliminary discussion of the views of others.
@@ -436,7 +436,7 @@ their conjunction will not make them look any bigger.
 Enough has been said, without further argument, to show that the causes
 brought forward to explain comets are false.
 
-Part 7
+## Part 7
 
 We consider a satisfactory explanation of phenomena inaccessible to
 observation to have been given when our account of them is free from
@@ -518,7 +518,7 @@ to be secreted but also dissolves it when it is gathering. But the
 chief reason is that most of this stuff collects in the region of
 the milky way.
 
-Part 8
+## Part 8
 
 Let us now explain the origin, cause, and nature of the milky way.
 And here too let us begin by discussing the statements of others on
@@ -642,7 +642,7 @@ terrestrial world which is continuous with the motions of the heavens,
 namely, shooting-stars and the burning flame, comets and the milky
 way, these being the chief affections that appear in that region.
 
-Part 9
+## Part 9
 
 Let us go on to treat of the region which follows next in order after
 this and which immediately surrounds the earth. It is the region common
@@ -680,7 +680,7 @@ varieties are distinguished by special names. When the water falls
 in small drops it is called a drizzle; when the drops are larger it
 is rain.
 
-Part 10
+## Part 10
 
 Some of the vapour that is formed by day does not rise high because
 the ratio of the fire that is raising it to the water that is being
@@ -726,7 +726,7 @@ to accumulate.
 Water, once formed, does not freeze on the surface of the earth, in
 the way that it does in the region of the clouds.
 
-Part 11
+## Part 11
 
 From the latter there fall three bodies condensed by cold, namely
 rain, snow, hail. Two of these correspond to the phenomena on the
@@ -755,7 +755,7 @@ the lower, and to rain in the upper region, dew in the lower. But
 there is nothing here to correspond to hail in the upper region. Why
 this is so will be clear when we have explained the nature of hail.
 
-Part 12
+## Part 12
 
 But we must go on to collect the facts bearing on the origin of it,
 both those which raise no difficulties and those which seem paradoxical.
@@ -846,7 +846,7 @@ of the country cools the clouds quickly.
 So much for an account of the nature and causes of rain, dew, snow,
 hoar-frost, and hail.
 
-Part 13
+## Part 13
 
 Let us explain the nature of winds, and all windy vapours, also of
 rivers and of the sea. But here, too, we must first discuss the difficulties
@@ -1005,7 +1005,7 @@ but in three places. And in Liguria a river equal in size to the Rhodanus
 is swallowed up and appears again elsewhere: the Rhodanus being a
 navigable river.
 
-Part 14
+## Part 14
 
 The same parts of the earth are not always moist or dry, but they
 change according as rivers come into existence and dry up. And so
@@ -1167,7 +1167,7 @@ and others not.
 
 # BOOK II
 
-Part 1
+## Part 1
 
 Let us explain the nature of the sea and the reason why such a large
 mass of water is salt and the way in which it originally came to be.
@@ -1248,7 +1248,7 @@ night.
 So much to prove that there cannot be sources of the sea and to explain
 its observed flow.
 
-Part 2
+## Part 2
 
 We must now discuss the origin of the sea, if it has an origin, and
 the cause of its salt and bitter taste.
@@ -1396,7 +1396,7 @@ rivers, while salt water is stationary, and to show that the sea is
 the end rather than the source of water, analogous to the residual
 matter of all food, and especially liquid food, in animal bodies.
 
-Part 3
+## Part 3
 
 We must now explain why the sea is salt, and ask whether it eternally
 exists as identically the same body, or whether it did not exist at
@@ -1638,7 +1638,7 @@ We have now given an account of waters and the sea, why they persist,
 how they change, what their nature is, and have explained most of
 their natural operations and affections.
 
-Part 4
+## Part 4
 
 Let us proceed to the theory of winds. Its basis is a distinction
 we have already made. We recognize two kinds of evaporation, one moist,
@@ -1768,7 +1768,7 @@ drought and rains, the reason why rain stops wind and wind rises after
 rain, the prevalence of north and south winds and also why wind moves
 in the way it does.
 
-Part 5
+## Part 5
 
 The sun both checks the formation of winds and stimulates it. When
 the evaporation is small in amount and faint the sun wastes it and
@@ -1890,7 +1890,7 @@ to the south.
 The origin of these winds and their relation to one another has now
 been explained.
 
-Part 6
+## Part 6
 
 Let us now explain the position of the winds, their oppositions, which
 can blow simultaneously with which, and which cannot, their names
@@ -2033,7 +2033,7 @@ far as Apeliotes.
 So much for the winds, their origin and nature and the properties
 common to them all or peculiar to each.
 
-Part 7
+## Part 7
 
 We must go on to discuss earthquakes next, for their cause is akin
 to our last subject.
@@ -2083,7 +2083,7 @@ to be getting fewer, and should come to an end entirely some day:
 the notion of contraction by packing together implies this. So this
 is impossible the theory must be impossible too.
 
-Part 8
+## Part 8
 
 We have already shown that wet and dry must both give rise to an evaporation:
 earthquakes are a necessary consequence of this fact. The earth is
@@ -2317,7 +2317,7 @@ shaken too.
 We have now explained earthquakes, their nature and cause, and the
 most important of the circumstances attendant on their appearance.
 
-Part 9
+## Part 9
 
 Let us go on to explain lightning and thunder, and further whirlwind,
 fire-wind, and thunderbolts: for the cause of them all is the same.
@@ -2419,7 +2419,7 @@ So much for thunder and lightning.
 
 # BOOK III
 
-Part 1
+## Part 1
 
 Let us explain the remaining operations of this secretion in the
 same way as we have treated the rest. When this exhalation is secreted
@@ -2517,7 +2517,7 @@ We have now explained thunder and lightning and hurricane, and further
 firewinds, whirlwinds, and thunderbolts, and shown that they are all
 of them forms of the same thing and wherein they all differ.
 
-Part 2
+## Part 2
 
 Let us now explain the nature and cause of halo, rainbow, mock suns,
 and rods, since the same account applies to them all.
@@ -2585,7 +2585,7 @@ However, we must accept the account we have given of these things
 in the theory of sensation, and take some things for granted while
 we explain others.
 
-Part 3
+## Part 3
 
 Let us begin by explaining the shape of the halo; why it is a circle
 and why it appears round the sun or the moon or one of the other stars:
@@ -2648,7 +2648,7 @@ Haloes are formed round stars for the same reasons, but they are not
 prognostic in the same way because the condensation they imply is
 so insignificant as to be barren.
 
-Part 4
+## Part 4
 
 We have already stated that the rainbow is a reflection: we have now
 to explain what sort of reflection it is, to describe its various
@@ -2797,7 +2797,7 @@ or more are not found because even the second is fainter, so that
 the third reflection can have no strength whatever and cannot reach
 the sun at all. (See diagram.)
 
-Part 5
+## Part 5
 
 The rainbow can never be a circle nor a segment of a circle greater
 than a semicircle. The consideration of the diagram will prove this
@@ -2900,7 +2900,7 @@ from the earth. But in the days near the winter solstice the visible
 arcs are small, and the contrary is necessarily the case: for the
 sun is on the meridian before the point H has risen far.
 
-Part 6
+## Part 6
 
 Mock suns, and rods too, are due to the causes we have described.
 A mock sun is caused by the reflection of sight to the sun. Rods are
@@ -2989,7 +2989,7 @@ each kind of them and discuss it separately.
 
 # BOOK IV
 
-Part 1
+## Part 1
 
 We have explained that the qualities that constitute the elements
 are four, and that their combinations determine the number of the
@@ -3069,7 +3069,7 @@ the particles secreted with it.
 
 So much for the nature of becoming and of destruction.
 
-Part 2
+## Part 2
 
 We must now describe the next kinds of processes which the qualities
 already mentioned set up in actually existing natural objects as matter.
@@ -3118,7 +3118,7 @@ are the natural matter of anything.
 
 So much for the definition of concoction and inconcoction.
 
-Part 3
+## Part 3
 
 Ripening is a sort of concoction; for we call it ripening when there
 is a concoction of the nutriment in fruit. And since concoction is
@@ -3256,7 +3256,7 @@ be produced, but too little for concoction to take place.
 We have now explained concoction and inconcoction, ripening and rawness,
 boiling and broiling, and their opposites.
 
-Part 4
+## Part 4
 
 We must now describe the forms taken by the passive qualities the
 moist and the dry. The elements of bodies, that is, the passive ones,
@@ -3295,7 +3295,7 @@ that which is hard and soft absolutely, and touch is that which we
 use as a standard or mean. So we call that which exceeds it hard and
 that which falls short of it soft.
 
-Part 5
+## Part 5
 
 A body determined by its own boundary must be either hard or soft;
 for it either yields or does not.
@@ -3348,7 +3348,7 @@ off the moisture in vapour. By external heat I mean as where things
 are boiled: by internal where the heat breathes out and takes away
 and uses up its moisture. So much for drying.
 
-Part 6
+## Part 6
 
 Liquefaction is, first, condensation into water; second, the melting
 of a solidified body. The first, condensation, is due to the cooling
@@ -3412,7 +3412,7 @@ them, but oil does not. For the opposite of the dry-hot is the cold-moist
 and what the one solidified the other will dissolve, and so opposites
 will have opposite effects.
 
-Part 7
+## Part 7
 
 If a body contains more water than earth fire only thickens it: if
 it contains more earth fire solidifies it. Hence natron and salt and
@@ -3498,7 +3498,7 @@ cannot dissolve it either.
 So solidification and melting, their causes, and the kinds of subjects
 in which they occur have been described.
 
-Part 8
+## Part 8
 
 All this makes it clear that bodies are formed by heat and cold and
 that these agents operate by thickening and solidifying. It is because
@@ -3551,7 +3551,7 @@ of effervescence), and those which do possess some water but have
 a preponderance of air, like oil and quicksilver, and all viscous
 substances such as pitch and birdlime.
 
-Part 9
+## Part 9
 
 Those bodies admit of softening which are not (like ice) made up of
 water, but in which earth predominates. All their moisture must not
@@ -3756,7 +3756,7 @@ effected), but burn very readily in conjunction with something else.
 those bodies that give off fumes, like oil and pitch, belong rather
 to the moist, but those that burn to the dry.
 
-Part 10
+## Part 10
 
 Homogeneous bodies differ to touch-by these affections and differences,
 as we have said. They also differ in respect of their smell, taste,
@@ -3856,7 +3856,7 @@ consequently its solidifies by refrigeration and is melted by liquids;
 if not, it is of water and therefore does not solidify. Semen solidifies
 by refrigeration, its moisture leaving it together with its heat.
 
-Part 11
+## Part 11
 
 We must investigate in the light of the results we have arrived at
 what solid or liquid bodies are hot and what cold.
@@ -3897,7 +3897,7 @@ highest temperature by foreign heat; for the most solid and the hardest
 bodies are coldest when deprived of heat and most burning after exposure
 to fire: thus water is more burning than smoke and stone than water.
 
-Part 12
+## Part 12
 
 Having explained all this we must describe the nature of flesh, bone,
 and the other homogeneous bodies severally.

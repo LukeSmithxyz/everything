@@ -6,7 +6,7 @@ author: "Aristotle"
 
 Translated by J. I. Beare
 
-Part 1
+## Part 1
 
 We must, in the next place, investigate the subject of the dream,
 and first inquire to which of the faculties of the soul it presents
@@ -92,7 +92,7 @@ what we call a dream): it manifestly follows that dreaming is an activity
 of the faculty of sense-perception, but belongs to this faculty qua
 presentative.
 
-Part 2
+## Part 2
 
 We can best obtain a scientific view of the nature of the dream and
 the manner in which it originates by regarding it in the light of
@@ -228,7 +228,7 @@ only it be stimulated in the same manner as it is by the object. For
 example, to persons sailing past the land seems to move, when it is
 really the eye that is being moved by something else [the moving ship.]
 
-Part 3
+## Part 3
 
 From this it is manifest that the stimulatory movements based upon
 sensory impressions, whether the latter are derived from external

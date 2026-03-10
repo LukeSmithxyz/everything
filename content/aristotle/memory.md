@@ -6,7 +6,7 @@ author: "Aristotle"
 
 Translated by J. I. Beare
 
-Part 1
+## Part 1
 
 We have, in the next place, to treat of Memory and Remembering, considering
 its nature, its cause, and the part of the soul to which this experience,
@@ -184,7 +184,7 @@ question of which of the faculties within us memory is a function,
 (it has been shown) that it is a function of the primary faculty of
 sense-perception, i.e. of that faculty whereby we perceive time.
 
-Part 2
+## Part 2
 
 Next comes the subject of Recollection, in dealing with which we must
 assume as fundamental the truths elicited above in our introductory

@@ -8,7 +8,7 @@ Translated by E. M. Edghill
 
 # SECTION 1
 
-Part 1
+## Part 1
 
 Things are said to be named 'equivocally' when, though they have
 a common name, the definition corresponding with the name differs
@@ -32,7 +32,7 @@ from some other name, but differ from it in termination. Thus the
 grammarian derives his name from the word 'grammar', and the courageous
 man from the word 'courage'.
 
-Part 2
+## Part 2
 
 Forms of speech are either simple or composite. Examples of the latter
 are such expressions as 'the man runs', 'the man wins'; of the former
@@ -64,7 +64,7 @@ a subject. Yet in some cases there is nothing to prevent such being
 present in a subject. Thus a certain point of grammatical knowledge
 is present in a subject.
 
-Part 3
+## Part 3
 
 When one thing is predicated of another, all that which is predicable
 of the predicate will be predicable also of the subject. Thus, 'man'
@@ -84,7 +84,7 @@ prevent their having the same differentiae: for the greater class
 is predicated of the lesser, so that all the differentiae of the predicate
 will be differentiae also of the subject.
 
-Part 4
+## Part 4
 
 Expressions which are in no way composite signify substance, quantity,
 quality, relation, place, time, position, state, action, or affection.
@@ -103,7 +103,7 @@ arise. For every assertion must, as is admitted, be either true or
 false, whereas expressions which are not in any way composite such
 as 'man', 'white', 'runs', 'wins', cannot be either true or false.
 
-Part 5
+## Part 5
 
 Substance, in the truest and primary and most definite sense of the
 word, is that which is neither predicable of a subject nor present
@@ -348,7 +348,7 @@ itself.
 
 Let these remarks suffice on the subject of substance.
 
-Part 6
+## Part 6
 
 Quantity is either discrete or continuous. Moreover, some quantities
 are such that each part of the whole has a relative position to the
@@ -509,7 +509,7 @@ be called equal and unequal.
 
 # SECTION 2
 
-Part 7
+## Part 7
 
 Those things are called relative, which, being either said to be
 of something else or related to something else, are explained by reference
@@ -742,7 +742,7 @@ is perhaps a difficult matter, in such cases, to make a positive statement
 without more exhaustive examination, but to have raised questions
 with regard to details is not without advantage.
 
-Part 8
+## Part 8
 
 By 'quality' I mean that in virtue of which people are said to be
 such and such.
@@ -992,7 +992,7 @@ heads.
 
 # SECTION 3
 
-Part 9
+## Part 9
 
 Action and affection both admit of contraries and also of variation
 of degree. Heating is the contrary of cooling, being heated of being
@@ -1011,7 +1011,7 @@ I say no more about them than was said at the beginning, that in the
 category of state are included such states as 'shod', 'armed', in
 that of place 'in the Lyceum' and so on, as was explained before.
 
-Part 10
+## Part 10
 
 The proposed categories have, then, been adequately dealt with.
 
@@ -1234,7 +1234,7 @@ the term is used with reference to affirmation and negation, that
 the rule holds good, that one of the pair must be true and the other
 false.
 
-Part 11
+## Part 11
 
 That the contrary of a good is an evil is shown by induction: the
 contrary of health is disease, of courage, cowardice, and so on. But
@@ -1267,7 +1267,7 @@ justice and injustice, to contrary genera, virtue and vice; while
 good and evil do not belong to genera, but are themselves actual genera,
 with terms under them.
 
-Part 12
+## Part 12
 
 There are four senses in which one thing can be said to be 'prior'
 to another. Primarily and most properly the term has reference to
@@ -1315,7 +1315,7 @@ or not being.
 
 Thus the word 'prior' may be used in five senses.
 
-Part 13
+## Part 13
 
 The term 'simultaneous' is primarily and most appropriately applied
 to those things the genesis of the one of which is simultaneous with
@@ -1356,7 +1356,7 @@ within the same genus. Those things, moreover, are 'simultaneous'
 in the unqualified sense of the word which come into being at the
 same time.
 
-Part 14
+## Part 14
 
 There are six sorts of movement: generation, destruction, increase,
 diminution, alteration, and change of place.
@@ -1402,7 +1402,7 @@ this way becoming white is the contrary of becoming black; there is
 alteration in the contrary direction, since a change of a qualitative
 nature takes place.
 
-Part 15
+## Part 15
 
 The term 'to have' is used in various senses. In the first place it
 is used with reference to habit or disposition or any other quality,

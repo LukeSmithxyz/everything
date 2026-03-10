@@ -9,7 +9,7 @@ Translated by G. R. T. Ross
 
 # SECTION 1
 
-Part 1
+## Part 1
 
 We must now treat of youth and old age and life and death. We must
 probably also at the same time state the causes of respiration as
@@ -52,7 +52,7 @@ for there is a correspondence between the roots in a plant and what
 is called the mouth in animals, by means of which they take in their
 food, whether the source of supply be the earth or each other's bodies.
 
-Part 2
+## Part 2
 
 All perfectly formed animals are to be divided into three parts, one
 that by which food is taken in, one that by which excrement is discharged,
@@ -95,7 +95,7 @@ some psychical susceptibility; the animals continue to move after
 the vitals have been abstracted: tortoises, for example, do so even
 after the heart has been removed.
 
-Part 3
+## Part 3
 
 The same phenomenon is evident both in plants and in animals, and
 in plants we note it both in their propagation by seed and in grafts
@@ -146,7 +146,7 @@ with the heart, while others are situated in the head. (It is this
 fact that causes some people to think that it is in virtue of the
 brain that the function of perception belongs to animals.)
 
-Part 4
+## Part 4
 
 Thus if, on the one hand, we look to the observed facts, what we have
 said makes it clear that the source of the sensitive soul, together
@@ -182,7 +182,7 @@ part, which in sanguineous animals is the heart and in the bloodless
 order the analogous member. Hence, of necessity, life must be coincident
 with the maintenance of heat, and what we call death is its destruction.
 
-Part 5
+## Part 5
 
 However, it is to be noticed that there are two ways in which fire
 ceases to exist; it may go out either by exhaustion or by extinction.
@@ -219,7 +219,7 @@ banking up and covering up a fire, have the opposite effects (in the
 one case the fire goes out, in the other it continues alive for a
 considerable time).
 
-Part 6
+## Part 6
 
 Everything living has soul, and it, as we have said, cannot exist
 without the presence of heat in the constitution. In plants the natural
@@ -243,7 +243,7 @@ water in the one case, air in the other. We must proceed-and it will
 require further application on our part-to give an account of the
 way and manner in which this refrigeration occurs.
 
-Part 7
+## Part 7
 
 A few of the previous physical philosophers have spoken of respiration.
 The reason, however, why it exists in animals they have either not
@@ -269,7 +269,7 @@ animals which have the lung charged with blood have greater need of
 respiration on account of the amount of their heat, while none at
 all of the others which do not possess lungs breathe.
 
-Part 8
+## Part 8
 
 Democritus of Abdera and certain others who have treated of respiration,
 while saying nothing definite about the lungless animals, nevertheless
@@ -302,7 +302,7 @@ the same time. Hence, if respiring creatures must both exhale and
 inhale the air, and if none of these animals can breathe out, evidently
 none can respire at all.
 
-Part 9
+## Part 9
 
 Further, the assertion that they draw in air out of the mouth or out
 of the water by means of the mouth is an impossibility, for, not having
@@ -347,7 +347,7 @@ does. If they had asked for what purpose respiration exists in animals,
 and had considered this with reference to the organs, e.g. the gills
 and the lungs, they would have discovered the reason more speedily.
 
-Part 10
+## Part 10
 
 Democritus, however, does teach that in the breathing animals there
 is a certain result produced by respiration; he asserts that it prevents
@@ -400,7 +400,7 @@ hot, people breathe rapidly, because they must do so in order to cool
 themselves, just when the theory of Democritus would make them add
 fire to fire.
 
-Part 11
+## Part 11
 
 The theory found in the Timaeus, of the passing round of the breath
 by pushing, by no means determines how, in the case of the animals
@@ -442,7 +442,7 @@ in breathing, for, because what enters does not adequately perform
 its cooling function, we have as a consequence to draw the breath
 frequently.
 
-Part 12
+## Part 12
 
 It is certain, however, that we must not entertain the notion that
 it is for purposes of nutrition that respiration is designed, and
@@ -458,7 +458,7 @@ A consequence also of this theory is that the nutriment would enter
 and the refuse be discharged by the same channel, but this does not
 appear to occur in the other instances.
 
-Part 13
+## Part 13
 
 Empedocles also gives an account of respiration without, however,
 making clear what its purpose is, or whether or not it is universal
@@ -539,7 +539,7 @@ respiration.
 
 # SECTION 2
 
-Part 14
+## Part 14
 
 We have already stated that life and the presence of soul involve
 a certain heat. Not even the digesting process to which is due the
@@ -631,7 +631,7 @@ for most fishes also live though among earth, yet in a motionless
 state, and are to be found by digging. For all animals that have no
 lung at all or have a bloodless one require less refrigeration.
 
-Part 16
+## Part 16
 
 Concerning the bloodless animals we have declared that in some cases
 it is the surrounding air, in others fluid, that aids the maintenance
@@ -666,7 +666,7 @@ and if there were two organs one would be purposeless, this is the
 reason why some animals have gills, others lungs, but none possess
 both.
 
-Part 17
+## Part 17
 
 Every animal in order to exist requires nutriment, in order to prevent
 itself from dying, refrigeration; and so Nature employs the same organ
@@ -700,7 +700,7 @@ of their food is rapid, and their teeth are sharp and in almost all
 cases arranged in a saw-like fashion, for they are debarred from chewing
 their food.
 
-Part 18
+## Part 18
 
 Among water-animals the cetaceans may give rise to some perplexity,
 though they too can be rationally explained.
@@ -736,7 +736,7 @@ Thus it has been explained that the cause of the admission of the
 water is refrigeration, and the fact that animals constituted for
 a life in water must feed in it.
 
-Part 19
+## Part 19
 
 An account must next be given of refrigeration and the manner in which
 it occurs in respiring animals and those possessed of gills. We have
@@ -761,7 +761,7 @@ of water; while winged and terrestrial animals have an excess of air
 and fire respectively. It is always in the region proper to the element
 preponderating in the scheme of their constitution that things exist.
 
-Part 20
+## Part 20
 
 Empedocles is then in error when he says that those animals which
 have the most warmth and fire live in the water to counterbalance
@@ -816,7 +816,7 @@ to the heat in their constitution that some animals are aquatic, others
 terrestrial, as Empedocles maintains, and of why some possess lungs
 and others do not.
 
-Part 21
+## Part 21
 
 The explanation of the admission of air and respiration in those animals
 in which a lung is found, and especially in those in which it is full
@@ -836,7 +836,7 @@ manifest; the more heat there is, the greater is the need for refrigeration,
 and at the same time breath can easily pass to the source of heat
 in the heart.
 
-Part 22
+## Part 22
 
 In order to understand the way in which the heart is connected with
 the lung by means of passages, we must consult both dissections and
@@ -874,7 +874,7 @@ refrigeration and, when respiring animals can no longer move the lung
 aquatic animals their gills, whether owing to discase or old age,
 their death ensues.
 
-Part 23
+## Part 23
 
 To be born and to die are common to all animals, but there are specifically
 diverse ways in which these phenomena occur; of destruction there
@@ -925,7 +925,7 @@ happens in fevers, accelerate the breathing owing to the inability
 of the lung to move far either upwards or downwards. Finally, when
 motion is no longer possible, the breath is given out and death ensues.
 
-Part 24
+## Part 24
 
 Generation is the initial participation, mediated by warm substance,
 in the nutritive soul, and life is the maintenance of this participation.
@@ -941,7 +941,7 @@ on the part of the organ, owing to old age, to produce refrigeration.
 This then is our account of generation and life and death, and the
 reason for their occurrence in animals.
 
-Part 25
+## Part 25
 
 It is hence also clear why respiring animals are suffocated in water
 and fishes in air. For it is by water in the latter class, by air
@@ -954,7 +954,7 @@ which effects the admission and expulsion of the breath or of water.
 The following, moreover, is the manner of the constitution of the
 organ.
 
-Part 26
+## Part 26
 
 In connexion with the heart there are three phenomena, which, though
 apparently of the same nature, are really not so, namely palpitation,
@@ -999,7 +999,7 @@ with it.
 Palpitation, then, is the recoil of the heart against the compression
 due to cold; and pulsation is the volatilization of the heated fluid.
 
-Part 27
+## Part 27
 
 Respiration takes place when the hot substance which is the seat of
 the nutritive principle increases. For it, like the rest of the body,

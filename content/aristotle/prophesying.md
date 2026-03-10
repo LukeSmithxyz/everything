@@ -6,7 +6,7 @@ author: "Aristotle"
 
 Translated by J. I. Beare
 
-Part 1
+## Part 1
 
 As to the divination which takes place in sleep, and is said to be
 based on dreams, we cannot lightly either dismiss it with contempt
@@ -88,7 +88,7 @@ fulfilment, but a mere coincidence. Hence the fact that many dreams
 have no 'fulfilment', for coincidence do not occur according to any
 universal or general law.
 
-Part 2
+## Part 2
 
 On the whole, forasmuch as certain of the lower animals also dream,
 it may be concluded that dreams are not sent by God, nor are they

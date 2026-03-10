@@ -6,7 +6,7 @@ author: "Aristotle"
 
 Translated by G. R. T. Ross
 
-Part 1
+## Part 1
 
 The reasons for some animals being long-lived and others short-lived,
 and, in a word, causes of the length and brevity of life call for
@@ -40,7 +40,7 @@ countries have longer life, those living in a cold climate live a
 shorter time. Likewise there are similar differences among individuals
 occupying the same locality.
 
-Part 2
+## Part 2
 
 In order to find premisses for our argument, we must answer the question,
 What is that which, in natural objects, makes them easily destroyed,
@@ -68,7 +68,7 @@ body is destroyed. But since evidently it does not admit of this dual
 dissolution, the soul must stand in a different case in respect of
 its union with the body.
 
-Part 3
+## Part 3
 
 Perhaps one might reasonably raise the question whether there is any
 place where what is corruptible becomes incorruptible, as fire does
@@ -113,7 +113,7 @@ so that if it involves locality they show change of situation, if
 quantity, increase and diminution, while if it involves qualitative
 affection we find alteration of character.
 
-Part 4
+## Part 4
 
 We find that a superior immunity from decay attaches neither to the
 largest animals (the horse has shorter life than man) nor to those
@@ -136,7 +136,7 @@ also it is a general rule that the larger live longer than the smaller,
 for the other long-lived animals too happen to be of a large size,
 as are also those I have mentioned.
 
-Part 5
+## Part 5
 
 The following considerations may enable us to understand the reasons
 for all these facts. We must remember that an animal is by nature
@@ -209,7 +209,7 @@ protected by great size, for there is neither fatness nor sweetness
 about them. In animals fat is sweet, and hence bees are longer-lived
 than other animals of larger size.
 
-Part 6
+## Part 6
 
 It is amongst the plants that we find the longest life-more than among
 the animals, for, in the first place, they are less watery and hence

@@ -9,7 +9,7 @@ Translated by E. M. Edghill
 
 # SECTION 1
 
-Part 1
+## Part 1
 
 First we must define the terms 'noun' and 'verb', then the terms
 'denial' and 'affirmation', then 'proposition' and 'sentence.'
@@ -33,7 +33,7 @@ has significance, but there is no truth or falsity about it, unless
 'is' or 'is not' is added, either in the present or in some other
 tense.
 
-Part 2
+## Part 2
 
 By a noun we mean a sound significant by convention, which has no
 reference to time, and of which no part is significant apart from
@@ -63,7 +63,7 @@ does, under these conditions. Take the words 'of Philo is' or 'of
 or 'of Philo is not'; these words do not, as they stand, form either
 a true or a false proposition.
 
-Part 3
+## Part 3
 
 A verb is that which, in addition to its proper meaning, carries with
 it the notion of time. No part of it has any independent meaning,
@@ -96,7 +96,7 @@ the participle 'being' significant of any fact, unless something is
 added; for they do not themselves indicate anything, but imply a copulation,
 of which we cannot form a conception apart from the things coupled.
 
-Part 4
+## Part 4
 
 A sentence is a significant portion of speech, some parts of which
 have an independent meaning, that is to say, as an utterance, though
@@ -120,7 +120,7 @@ Let us therefore dismiss all other types of sentence but the proposition,
 for this last concerns our present inquiry, whereas the investigation
 of the others belongs rather to the study of rhetoric or of poetry.
 
-Part 5
+## Part 5
 
 The first class of simple propositions is the simple affirmation,
 the next, the simple denial; all others are only one by conjunction.
@@ -151,7 +151,7 @@ with meaning, as to the presence of something in a subject or its
 absence, in the present, past, or future, according to the divisions
 of time.
 
-Part 6
+## Part 6
 
 An affirmation is a positive assertion of something about something,
 a denial a negative assertion.
@@ -170,7 +170,7 @@ and of predicate must not be 'equivocal'. Indeed there are definitive
 qualifications besides this, which we make to meet the casuistries
 of sophists.
 
-Part 7
+## Part 7
 
 Some things are universal, others individual. By the term 'universal'
 I mean that which is of such a nature as to be predicated of many
@@ -256,7 +256,7 @@ false. We have pointed out, moreover, what the reason of this is and
 under what circumstances the truth of the one involves the falsity
 of the other.
 
-Part 8
+## Part 8
 
 An affirmation or denial is single, if it indicates some one fact
 about some one subject; it matters not whether the subject is universal
@@ -279,7 +279,7 @@ man is not a horse.
 This, then, is another instance of those propositions of which both
 the positive and the negative forms may be true or false simultaneously.
 
-Part 9
+## Part 9
 
 In the case of that which is or which has taken place, propositions,
 whether positive or negative, must be true or false. Again, in the
@@ -418,7 +418,7 @@ potentially, but not actually, the rule which applies to that which
 exists actually does not hold good. The case is rather as we have
 indicated.
 
-Part 10
+## Part 10
 
 An affirmation is the statement of a fact with regard to a subject,
 and this subject is either a noun or that which has no name; the subject
@@ -558,7 +558,7 @@ and denials.
 
 # SECTION 2
 
-Part 11
+## Part 11
 
 There is no unity about an affirmation or denial which, either positively
 or negatively, predicates one thing of many subjects, or many things
@@ -658,7 +658,7 @@ that which is not, it is not true to say that because it is the object
 of opinion, it is; for the opinion held about it is that it is not,
 not that it is.
 
-Part 12
+## Part 12
 
 As these distinctions have been made, we must consider the mutual
 relation of those affirmations and denials which assert or deny possibility
@@ -749,7 +749,7 @@ It is impossible.    It is not impossible.
 It is necessary.    It is not necessary.
 It is true.       It is not true.
 
-Part 13
+## Part 13
 
 Logical sequences follow in due course when we have arranged the propositions
 thus. From the proposition 'it may be' it follows that it is contingent,
@@ -908,7 +908,7 @@ which are actual but also potential, whose actuality is in nature
 prior to their potentiality, though posterior in time; a third class
 comprises those things which are never actualized, but are pure potentialities.
 
-Part 14
+## Part 14
 
 The question arises whether an affirmation finds its contrary in a
 denial or in another affirmation; whether the proposition 'every man

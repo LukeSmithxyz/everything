@@ -9,7 +9,7 @@ Translated by W. Rhys Roberts
 
 # BOOK I
 
-Part 1
+## Part 1
 
 Rhetoric is the counterpart of Dialectic. Both alike are concerned
 with such things as come, more or less, within the general ken of
@@ -171,7 +171,7 @@ Rhetoric itself-of the right method and means of succeeding in the
 object we set before us. We must make as it were a fresh start, and
 before going further define what rhetoric is.
 
-Part 2
+## Part 2
 
 Rhetoric may be defined as the faculty of observing in any given case
 the available means of persuasion. This is not a function of any other
@@ -416,7 +416,7 @@ rhetoric into its varieties. Having distinguished these we may deal
 with them one by one, and try to discover the elements of which each
 is composed, and the propositions each must employ.
 
-Part 3
+## Part 3
 
 Rhetoric falls into three divisions, determined by the three classes
 of listeners to speeches. For of the three elements in speech-making--speaker,
@@ -506,7 +506,7 @@ to master the propositions relevant to them. We must now discuss each
 particular class of these subjects in turn, namely those dealt with
 in political, in ceremonial, and lastly in legal, oratory.
 
-Part 4
+## Part 4
 
 First, then, we must ascertain what are the kinds of things, good
 or bad, about which the political orator offers counsel. For he does
@@ -618,7 +618,7 @@ political speaker must possess. Let us now go back and state the premisses
 from which he will have to argue in favour of adopting or rejecting
 measures regarding these and other matters.
 
-Part 5
+## Part 5
 
 It may be said that every individual man and all men in common aim
 at a certain end which determines what they choose and what they avoid.
@@ -777,7 +777,7 @@ As to virtue, it is most closely connected with the subject of Eulogy,
 and therefore we will wait to define it until we come to discuss that
 subject.
 
-Part 6
+## Part 6
 
 It is now plain what our aims, future or actual, should be in urging,
 and what in depreciating, a proposal; the latter being the opposite
@@ -927,7 +927,7 @@ lovers of honour for honour, money-loving men for money, and so with
 the rest. These, then, are the sources from which we must derive our
 means of persuasion about Good and Utility.
 
-Part 7
+## Part 7
 
 Since, however, it often happens that people agree that two things
 are both useful but do not agree about which is the more so, the next
@@ -1191,7 +1191,7 @@ dearly prized.
 The grounds on which we must base our arguments, when we are speaking
 for or against a proposal, have now been set forth more or less completely.
 
-Part 8
+## Part 8
 
 The most important and effective qualification for success in persuading
 audiences and speaking well on public affairs is to understand all
@@ -1246,7 +1246,7 @@ of government-only, however, to the extent demanded by the present
 occasion; a detailed account of the subject has been given in the
 Politics.
 
-Part 9
+## Part 9
 
 We have now to consider Virtue and Vice, the Noble and the Base, since
 these are the objects of praise and blame. In doing so, we shall at
@@ -1486,7 +1486,7 @@ censure and vituperation is needed. Knowing the above facts, we know
 their contraries; and it is out of these that speeches of censure
 are made.
 
-Part 10
+## Part 10
 
 We have next to treat of Accusation and Defence, and to enumerate
 and describe the ingredients of the syllogisms used therein. There
@@ -1608,7 +1608,7 @@ in connexion with political oratory; let us now proceed to examine
 the pleasant. Our various definitions must be regarded as adequate,
 even if they are not exact, provided they are clear.
 
-Part 11
+## Part 11
 
 We may lay it down that Pleasure is a movement, a movement by which
 the soul as a whole is consciously brought into its normal state of
@@ -1798,7 +1798,7 @@ the ludicrous separately in the treatise on the Art of Poetry.
 So much for the subject of pleasant things: by considering their opposites
 we can easily see what things are unpleasant.
 
-Part 12
+## Part 12
 
 The above are the motives that make men do wrong to others; we are
 next to consider the states of mind in which they do it, and the persons
@@ -1952,7 +1952,7 @@ which men do wrong to others, of the sort of wrongs they do, of the
 sort of persons to whom they do them, and of their reasons for doing
 them.
 
-Part 13
+## Part 13
 
 It will now be well to make a complete classification of just and
 unjust actions. We may begin by observing that they have been defined
@@ -2077,7 +2077,7 @@ of securing full power for equity.
 
 The above may be taken as a sufficient account of the nature of equity.
 
-Part 14
+## Part 14
 
 The worse of two acts of wrong done to others is that which is prompted
 by the worse disposition. Hence the most trifling acts may be the
@@ -2124,7 +2124,7 @@ who commits crimes for which terrible penalties are provided will
 not hesitate over crimes for which no penalty is provided at all.-So
 much, then, for the comparative badness of criminal actions.
 
-Part 15
+## Part 15
 
 There are also the so-called 'non-technical' means of persuasion;
 and we must now take a cursory view of these, since they are specially
@@ -2360,7 +2360,7 @@ for the 'non-technical' modes of persuasion.]
 
 # BOOK II
 
-Part 1
+## Part 1
 
 We have now considered the materials to be used in supporting or
 opposing a political measure, in pronouncing eulogies or censures,
@@ -2423,7 +2423,7 @@ in any one. The same is true of the other emotions. So just as earlier
 in this work we drew up a list of useful propositions for the orator,
 let us now proceed in the same way to analyse the subject before us.
 
-Part 2
+## Part 2
 
 Anger may be defined as an impulse, accompanied by pain, to a conspicuous
 revenge for a conspicuous slight directed without justification towards
@@ -2595,7 +2595,7 @@ a frame of mind that will dispose them to anger, and to represent
 his adversaries as open to such charges and possessed of such qualities
 as do make people angry.
 
-Part 3
+## Part 3
 
 Since growing calm is the opposite of growing angry, and calmness
 the opposite of anger, we must ascertain in what frames of mind men
@@ -2687,7 +2687,7 @@ frame of mind, and represent those with whom they are angry as formidable,
 or as worthy of reverence, or as benefactors, or as involuntary agents,
 or as much distressed at what they have done.
 
-Part 4
+## Part 4
 
 Let us now turn to Friendship and Enmity, and ask towards whom these
 feelings are entertained, and why. We will begin by defining and friendly
@@ -2809,7 +2809,7 @@ to be so, we can refute their claim; and if it is disputed whether
 an action was due to anger or to hatred, we can attribute it to whichever
 of these we prefer.
 
-Part 5
+## Part 5
 
 To turn next to Fear, what follows will show things and persons of
 which, and the states of mind in which, we feel afraid. Fear may be
@@ -2930,7 +2930,7 @@ the side of the wronged. Also when, at the outset of an enterprise,
 we believe that we cannot and shall not fail, or that we shall succeed
 completely.-So much for the causes of fear and confidence.
 
-Part 6
+## Part 6
 
 We now turn to Shame and Shamelessness; what follows will explain
 the things that cause these feelings, and the persons before whom,
@@ -3068,7 +3068,7 @@ of these spectators should see you to-morrow?'
 So much for Shame; to understand Shamelessness, we need only consider
 the converse cases, and plainly we shall have all we need.
 
-Part 7
+## Part 7
 
 To take Kindness next: the definition of it will show us towards whom
 it is felt, why, and in what frames of mind. Kindness-under the influence
@@ -3112,7 +3112,7 @@ person helped. Or we may point out that the thing desired was worthless
 and that the helper knew it: no one will admit that he is in need
 of what is worthless.
 
-Part 8
+## Part 8
 
 So much for Kindness and Unkindness. Let us now consider Pity, asking
 ourselves what things excite pity, and for what persons, and in what
@@ -3195,7 +3195,7 @@ pity is especially excited, because their innocence, as well as the
 setting of their misfortunes before our eyes, makes their misfortunes
 seem close to ourselves.
 
-Part 9
+## Part 9
 
 Most directly opposed to pity is the feeling called Indignation. Pain
 at unmerited good fortune is, in one sense, opposite to pain at unmerited
@@ -3300,7 +3300,7 @@ frame of mind as that indicated and shows that those who claim pity
 on certain definite grounds do not deserve to secure pity but do deserve
 not to secure it, it will be impossible for the judges to feel pity.
 
-Part 10
+## Part 10
 
 To take Envy next: we can see on what grounds, against what persons,
 and in what states of mind we feel it. Envy is pain at the sight of
@@ -3359,7 +3359,7 @@ pity, or the award of something desirable, is claimed are such as
 have been described, it is obvious that they will win no pity from
 us.
 
-Part 11
+## Part 11
 
 We will next consider Emulation, showing in what follows its causes
 and objects, and the state of mind in which it is felt. Emulation
@@ -3409,7 +3409,7 @@ This completes our discussion of the means by which the several emotions
 may be produced or dissipated, and upon which depend the persuasive
 arguments connected with the emotions.
 
-Part 12
+## Part 12
 
 Let us now consider the various types of human character, in relation
 to the emotions and moral qualities, showing how they correspond to
@@ -3473,7 +3473,7 @@ he is: they judge their neighbour by their own harmless natures, and
 so cannot think he deserves to be treated in that way. They are fond
 of fun and therefore witty, wit being well-bred insolence.
 
-Part 13
+## Part 13
 
 Such, then is the character of the Young. The character of Elderly
 Men-men who are past their prime-may be said to be formed for the
@@ -3533,7 +3533,7 @@ think well of speeches adapted to, and reflecting, their own character:
 and we can now see how to compose our speeches so as to adapt both
 them and ourselves to our audiences.
 
-Part 14
+## Part 14
 
 As for Men in their Prime, clearly we shall find that they have a
 character between that of the young and that of the old, free from
@@ -3552,7 +3552,7 @@ are united in the prime of life, while all their excesses or defects
 are replaced by moderation and fitness. The body is in its prime from
 thirty to five-and-thirty; the mind about forty-nine.
 
-Part 15
+## Part 15
 
 So much for the types of character that distinguish youth, old age,
 and the prime of life. We will now turn to those Gifts of Fortune
@@ -3573,7 +3573,7 @@ towards the insane type of character, like the descendants of Alcibiades
 or of the elder Dionysius; a steady stock towards the fatuous and
 torpid type, like the descendants of Cimon, Pericles, and Socrates.
 
-Part 16
+## Part 16
 
 The type of character produced by Wealth lies on the surface for all
 to see. Wealthy men are insolent and arrogant; their possession of
@@ -3601,7 +3601,7 @@ means, so to speak, no education in riches. The wrongs they do others
 are not meant to injure their victims, but spring from insolence or
 self-indulgence, e.g. those that end in assault or in adultery.
 
-Part 17
+## Part 17
 
 As to Power: here too it may fairly be said that the type of character
 it produces is mostly obvious enough. Some elements in this type it
@@ -3630,7 +3630,7 @@ of age or fortune may end here; for to arrive at the opposite types
 to those described, namely, those of the poor, the unfortunate, and
 the powerless, we have only to ask what the opposite qualities are.
 
-Part 18
+## Part 18
 
 The use of persuasive speech is to lead to decisions. (When we know
 a thing, and have decided about it, there is no further use in speaking
@@ -3676,7 +3676,7 @@ that concerned with the Past, to forensic speeches, where the required
 decision is always about the past; that concerned with Possibility
 and the Future, to political speeches.
 
-Part 19
+## Part 19
 
 Let us first speak of the Possible and Impossible. It may plausibly
 be argued: That if it is possible for one of a pair of contraries
@@ -3782,7 +3782,7 @@ Enough has now been said about these questions of possibility and
 the reverse, of past or future fact, and of the relative greatness
 or smallness of things.
 
-Part 20
+## Part 20
 
 The special forms of oratorical argument having now been discussed,
 we have next to treat of those which are common to all kinds of oratory.
@@ -3863,7 +3863,7 @@ even a single witness will serve if he is a good one. It has now been
 stated how many varieties of argument by Example there are, and how
 and when they are to be employed.
 
-Part 21
+## Part 21
 
 We now turn to the use of Maxims, in order to see upon what subjects
 and occasions, and for what kind of speaker, they will appropriately
@@ -4012,7 +4012,7 @@ to a general declaration of moral principles: so that, if the maxims
 are sound, they display the speaker as a man of sound moral character.
 So much for the Maxim-its nature, varieties, proper use, and advantages.
 
-Part 22
+## Part 22
 
 We now come to the Enthymemes, and will begin the subject with some
 general consideration of the proper way of looking for them, and then
@@ -4115,7 +4115,7 @@ represent valid syllogisms. Having made all this clear, we will proceed
 to classify Objections and Refutations, showing how they can be brought
 to bear upon enthymemes.
 
-Part 23
+## Part 23
 
 1. One line of positive proof is based upon consideration of the opposite
 of the thing in question. Observe whether that opposite has the opposite
@@ -4517,7 +4517,7 @@ we feel is at our own intelligent anticipation; or those which we
 follow well enough to see the point of them as soon as the last word
 has been uttered.
 
-Part 24
+## Part 24
 
 Besides genuine syllogisms, there may be syllogisms that look genuine
 but are not; and since an enthymeme is merely a syllogism of a particular
@@ -4680,7 +4680,7 @@ Protagoras undertook to give them. It was a fraud; the probability
 it handled was not genuine but spurious, and has a place in no art
 except Rhetoric and Eristic.
 
-Part 25
+## Part 25
 
 Enthymemes, genuine and apparent, have now been described; the next
 subject is their Refutation.
@@ -4777,7 +4777,7 @@ that it does, and that it is an Infallible Sign, refutation now becomes
 impossible: for this is equivalent to a demonstration which is clear
 in every respect.
 
-Part 26
+## Part 26
 
 Amplification and Depreciation are not an element of enthymeme. By
 'an element of enthymeme' I mean the same thing as a line of enthymematic
@@ -4809,7 +4809,7 @@ to discuss (2) Style, and (3) Arrangement.
 
 # BOOK III
 
-Part 1
+## Part 1
 
 In making a speech one must study three points: first, the means
 of producing persuasion; second, the style, or language, to be used;
@@ -4896,7 +4896,7 @@ of it which concerns our present subject, rhetoric. The other--the
 poetical--part of it has been discussed in the treatise on the Art
 of Poetry.
 
-Part 2
+## Part 2
 
 We may, then, start from the observations there made, including the
 definition of style. Style to be good must be clear, as is proved
@@ -5032,7 +5032,7 @@ Aristophanes in the Babylonians where he uses 'goldlet' for 'gold',
 alike in using epithets and in using diminutives we must be wary and
 must observe the mean.
 
-Part 3
+## Part 3
 
 Bad taste in language may take any of four forms:
 (1) The misuse of compound words. Lycophron, for instance, talks of
@@ -5106,7 +5106,7 @@ you could not call her act shameful; considering her as a girl, you
 could; and so it was a good gibe to address her as what she was once
 and not as what she is.
 
-Part 4
+## Part 4
 
 The Simile also is a metaphor; the difference is but slight. When
 the poet says of Achilles that he
@@ -5148,7 +5148,7 @@ of its co-ordinate terms. For instance, if a drinking-bowl is the
 shield of Dionysus, a shield may fittingly be called the drinking-bowl
 of Ares.
 
-Part 5
+## Part 5
 
 Such, then, are the ingredients of which speech is composed. The foundation
 of good style is correctness of language, which falls under five heads.
@@ -5211,7 +5211,7 @@ meant, after telling him this, that and the other thing, to set out',
 rather than something of this kind 'I meant to set out after telling
 him; then this, that, and the other thing occurred.'
 
-Part 6
+## Part 6
 
 The following suggestions will help to give your language impressiveness.
 (1) Describe a thing instead of naming it: do not say 'circle', but
@@ -5248,7 +5248,7 @@ source that the poets draw expressions such as the 'stringless' or
 is popular in proportional metaphors, as when the trumpet's note is
 called 'a lyreless melody'.
 
-Part 7
+## Part 7
 
 Your language will be appropriate if it expresses emotion and character,
 and if it corresponds to its subject. 'Correspondence to subject'
@@ -5315,7 +5315,7 @@ an inspired thing. This language, then, should be used either under
 stress of emotion, or ironically, after the manner of Gorgias and
 of the passages in the Phaedrus.
 
-Part 8
+## Part 8
 
 The form of a prose composition should be neither metrical nor destitute
 of rhythm. The metrical form destroys the hearer's trust by its artificial
@@ -5379,7 +5379,7 @@ in the margin, but by the rhythm itself.
 We have now seen that our language must be rhythmical and not destitute
 of rhythm, and what rhythms, in what particular shape, make it so.
 
-Part 9
+## Part 9
 
 The language of prose must be either free-running, with its parts
 united by nothing except the connecting words, like the preludes in
@@ -5524,7 +5524,7 @@ antitheses, like that of Epicharmus-
 
 "And they were my hosts on another day. "
 
-Part 10
+## Part 10
 
 We may now consider the above points settled, and pass on to say something
 about the way to devise lively and taking sayings. Their actual invention
@@ -5625,7 +5625,7 @@ signs of victory. So is 'A country pays a heavy reckoning in being
 condemned by the judgement of mankind', for a reckoning is damage
 deservedly incurred.
 
-Part 11
+## Part 11
 
 It has already been mentioned that liveliness is got by using the
 proportional type of metaphor and being making (ie. making your hearers
@@ -5823,7 +5823,7 @@ use them more than other people.
 (The Attic orators are particularly fond of this method of speech.)
 Consequently it does not suit an elderly speaker.
 
-Part 12
+## Part 12
 
 It should be observed that each kind of rhetoric has its own appropriate
 style. The style of written prose is not that of spoken oratory, nor
@@ -5915,7 +5915,7 @@ This concludes our discussion of style, both in its general aspects
 and in its special applications to the various branches of rhetoric.
 We have now to deal with Arrangement.
 
-Part 13
+## Part 13
 
 A speech has two parts. You must state your case, and you must prove
 it. You cannot either state your case and omit to prove it, or prove
@@ -5951,7 +5951,7 @@ a real species with distinct specific qualities; otherwise the practice
 is pointless and silly, like the way Licymnius invented names in his
 Art of Rhetoric-'Secundation', 'Divagation', 'Ramification'.
 
-Part 14
+## Part 14
 
 The Introduction is the beginning of a speech, corresponding to the
 prologue in poetry and the prelude in flute-music; they are all beginnings,
@@ -6101,7 +6101,7 @@ remarks, feeling that otherwise they will have a casual air, like
 Gorgias' eulogy of the Eleans, in which, without any preliminary sparring
 or fencing, he begins straight off with 'Happy city of Elis!'
 
-Part 15
+## Part 15
 
 In dealing with prejudice, one class of argument is that whereby you
 can dispel objectionable suppositions about yourself. It makes no
@@ -6170,7 +6170,7 @@ the best man for the purpose; and you might reply to this that it
 was, on the contrary, because he was the only hero so worthless that
 Diomedes need not fear his rivalry.
 
-Part 16
+## Part 16
 
 We may now pass from the subject of calumny to that of Narration.
 
@@ -6289,7 +6289,7 @@ such particulars as will be expected. Thus Carcinus' Jocasta, in his
 Oedipus, keeps guaranteeing the truth of her answers to the inquiries
 of the man who is seeking her son; and so with Haemon in Sophocles.
 
-Part 17
+## Part 17
 
 The duty of the Arguments is to attempt demonstrative proofs. These
 proofs must bear directly upon the question in dispute, which must
@@ -6428,7 +6428,7 @@ would run, 'If we ought to come to terms when doing so will enable
 us to gain the greatest advantage, then we ought to come to terms
 in the hour of success.'
 
-Part 18
+## Part 18
 
 Next as to Interrogation. The best moment to a employ this is when
 your opponent has so answered one question that the putting of just
@@ -6492,7 +6492,7 @@ gentleman, others are not; see that you choose such as become you.
 Irony better befits a gentleman than buffoonery; the ironical man
 jokes to amuse himself, the buffoon to amuse other people.
 
-Part 19
+## Part 19
 
 The Epilogue has four parts. You must (1) make the audience well-disposed
 towards yourself and ill-disposed towards your opponent (2) magnify

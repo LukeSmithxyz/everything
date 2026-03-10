@@ -8,7 +8,7 @@ Translated by Sir Frederic G. Kenyon
 
 # SECTION 1
 
-Part 1
+## Part 1
 
 ...[They were tried] by a court empanelled from among the noble families,
 and sworn upon the sacrifices. The part of accuser was taken by Myron.
@@ -17,7 +17,7 @@ out of their graves and their race banished for evermore. In view
 of this expiation, Epimenides the Cretan performed a purification
 of the city.
 
-Part 2
+## Part 2
 
 After this event there was contention for a long time between the
 upper classes and the populace. Not only was the constitution at this
@@ -34,7 +34,7 @@ in the eyes of the masses was their state of serfdom. Not but what
 they were also discontented with every other feature of their lot;
 for, to speak generally, they had no part nor share in anything.
 
-Part 3
+## Part 3
 
 Now the ancient constitution, as it existed before the time of Draco,
 was organized as follows. The magistrates were elected according to
@@ -88,7 +88,7 @@ had served as Archons; for which latter reason the membership of the
 Areopagus is the only office which has continued to be a life-magistracy
 to the present day.
 
-Part 4
+## Part 4
 
 Such was, in outline, the first constitution, but not very long after
 the events above recorded, in the archonship of Aristaichmus, Draco
@@ -121,7 +121,7 @@ what law was broken by the wrong done to him. But, as has been said
 before, loans were secured upon the persons of the debtors, and the
 land was in the hands of a few.
 
-Part 5
+## Part 5
 
 Since such, then, was the organization of the constitution, and the
 many were in slavery to the few, the people rose against the upper
@@ -157,7 +157,7 @@ and accordingly at the beginning of the poem he says that he fears
 'the love of wealth and an overweening mind', evidently meaning that
 it was through these that the quarrel arose.
 
-Part 6
+## Part 6
 
 As soon as he was at the head of affairs, Solon liberated the people
 once and for all, by prohibiting all loans on the security of the
@@ -187,7 +187,7 @@ he mentions it himself repeatedly in his poems, and it is universally
 admitted. We are therefore bound to consider this accusation to be
 false.
 
-Part 7
+## Part 7
 
 Next Solon drew up a constitution and enacted new laws; and the ordinances
 of Draco ceased to be used, with the exception of those relating to
@@ -228,7 +228,7 @@ even at the present day, when a candidate for any office is asked
 to what class he belongs, no one would think of saying that he belonged
 to the Thetes.
 
-Part 8
+## Part 8
 
 The elections to the various offices Solon enacted should be by lot,
 out of candidates selected by each of the tribes. Each tribe selected
@@ -264,7 +264,7 @@ who, in a time civil factions, did not take up arms with either party,
 should lose his rights as a citizen and cease to have any part in
 the state.
 
-Part 9
+## Part 9
 
 Such, then, was his legislation concerning the magistracies. There
 are three points in the constitution of Solon which appear to be its
@@ -286,7 +286,7 @@ perfection when framing a law in general terms; for we must judge
 of his intentions, not from the actual results in the present day,
 but from the general tenor of the rest of his legislation.
 
-Part 10
+## Part 10
 
 These seem to be the democratic features of his laws; but in addition,
 before the period of his legislation, he carried through his abolition
@@ -299,7 +299,7 @@ made weights corresponding with the coinage, sixty-three minas going
 to the talent; and the odd three minas were distributed among the
 staters and the other values.
 
-Part 11
+## Part 11
 
 When he had completed his organization of the constitution in the
 manner that has been described, he found himself beset by people coming
@@ -322,7 +322,7 @@ a despot by attaching himself to whichever party he chose, but he
 preferred, though at the cost of incurring the enmity of both, to
 be the saviour of his country and the ideal lawgiver.
 
-Part 12
+## Part 12
 
 The truth of this view of Solon's policy is established alike by common
 consent, and by the mention he has himself made of the matter in his
@@ -411,7 +411,7 @@ Til he had robbed the richness of the milk.
 But I stood forth a landmark in the midst,
 And barred the foes from battle.
 
-Part 13
+## Part 13
 
 Such then, were Solon's reasons for his departure from the country.
 After his retirement the city was still torn by divisions. For four
@@ -446,7 +446,7 @@ on the ground that many persons were partaking in the franchise without
 having a right to it. The names given to the respective parties were
 derived from the districts in which they held their lands.
 
-Part 14
+## Part 14
 
 Pisistratus had the reputation of being an extreme democrat, and he
 also had distinguished himself greatly in the war with Megara. Taking
@@ -483,7 +483,7 @@ and brought her into the city with Pisistratus. The latter drove in
 on a chariot with the woman beside him, and the inhabitants of the
 city, struck with awe, received him with adoration.
 
-Part 15
+## Part 15
 
 In this manner did his first return take place. He did not, however,
 hold his power long, for about six years after his return he was again
@@ -514,7 +514,7 @@ what had happened to their arms; adding that they were not to be surprised
 or alarmed, but go home and attend to their private affairs, while
 he would himself for the future manage all the business of the state.
 
-Part 16
+## Part 16
 
 Such was the origin and such the vicissitudes of the tyranny of Pisistratus.
 His administration was temperate, as has been said before, and more
@@ -563,7 +563,7 @@ shall make an attempt to establish a tyranny, or if any person shall
 join in setting up a tyranny, he shall lose his civic rights, both
 himself and his whole house.'
 
-Part 17
+## Part 17
 
 Thus did Pisistratus grow old in the possession of power, and he died
 a natural death in the archonship of Philoneos, three and thirty years
@@ -587,7 +587,7 @@ his side in the battle at Pallene. Some authorities say that this
 marriage took place after his first expulsion from Athens, others
 while he was in possession of the government.
 
-Part 18
+## Part 18
 
 Hippias and Hipparchus assumed the control of affairs on grounds alike
 of standing and of age; but Hippias, as being also naturally of a
@@ -635,7 +635,7 @@ hand to the murderer of his brother, till Hippias, in a frenzy of
 rage, lost control of himself and snatched out his dagger and dispatched
 him.
 
-Part 19
+## Part 19
 
 After this event the tyranny became much harsher. In consequence of
 his vengeance for his brother, and of the execution and banishment
@@ -686,7 +686,7 @@ place in the archonship of Harpactides, after they had held the tyranny
 for about seventeen years since their father's death, or in all, including
 the period of their father's rule, for nine-and-forty years.
 
-Part 20
+## Part 20
 
 After the overthrow of the tyranny, the rival leaders in the state
 were Isagoras son of Tisander, a partisan of the tyrants, and Cleisthenes,
@@ -718,7 +718,7 @@ Pour a health yet again, boy, to Cedon; forget not this duty to do,
 
 If a health is an honour befitting the name of a good man and true.
 
-Part 21
+## Part 21
 
 The people, therefore, had good reason to place confidence in Cleisthenes.
 Accordingly, now that he was the popular leader, three years after
@@ -754,7 +754,7 @@ according to ancestral custom. The names given to the tribes were
 the ten which the Pythia appointed out of the hundred selected national
 heroes.
 
-Part 22
+## Part 22
 
 By these reforms the constitution became much more democratic than
 that of Solon. The laws of Solon had been obliterated by disuse during
@@ -811,7 +811,7 @@ civic rights irrevocably.
 
 # SECTION 2
 
-Part 23
+## Part 23
 
 So far, then, had the city progressed by this time, growing gradually
 with the growth of the democracy; but after the Persian wars the Council
@@ -844,7 +844,7 @@ and it was he who took the oath of offensive and defensive alliance
 with the Ionians, on which occasion they cast the masses of iron into
 the sea.
 
-Part 24
+## Part 24
 
 After this, seeing the state growing in confidence and much wealth
 accumulated, he advised the people to lay hold of the leadership of
@@ -870,7 +870,7 @@ with crews amounting to 2,000 men, selected by lot; and besides these
 there were the persons maintained at the Prytaneum, and orphans, and
 gaolers, since all these were supported by the state.
 
-Part 25
+## Part 25
 
 Such was the way in which the people earned their livelihood. The
 supremacy of the Areopagus lasted for about seventeen years after
@@ -902,7 +902,7 @@ succeeded in depriving it of its power. Not long afterwards, however,
 Ephialtes was assassinated by Aristodicus of Tanagra. In this way
 was the Council of Areopagus deprived of its guardianship of the state.
 
-Part 26
+## Part 26
 
 After this revolution the administration of the state became more
 and more lax, in consequence of the eager rivalry of candidates for
@@ -932,7 +932,7 @@ in the number of citizens, it was resolved, on the motion of Pericles,
 that no one should admitted to the franchise who was not of citizen
 birth by both parents.
 
-Part 27
+## Part 27
 
 After this Pericles came forward as popular leader, having first distinguished
 himself while still a young man by prosecuting Cimon on the audit
@@ -969,7 +969,7 @@ to introduce it being Anytus, after his command at Pylos. He was prosecuted
 by certain individuals on account of his loss of Pylos, but escaped
 by bribing the jury.
 
-Part 28
+## Part 28
 
 So long, however, as Pericles was leader of the people, things went
 tolerably well with the state; but when he was dead there was a great
@@ -1017,7 +1017,7 @@ he was able, as every good citizen should be, to live under any form
 of constitution, while he refused to countenance illegality and was
 its constant enemy.
 
-Part 29
+## Part 29
 
 So long as the fortune of the war continued even, the Athenians preserved
 the democracy; but after the disaster in Sicily, when the Lacedaemonians
@@ -1065,7 +1065,7 @@ over forty years of age, were to be elected from each tribe to draw
 up the list of the Five Thousand, after taking an oath on a full and
 perfect sacrifice.
 
-Part 30
+## Part 30
 
 These were the recommendations of the committee; and when they had
 been ratified the Five Thousand elected from their own number a hundred
@@ -1110,7 +1110,7 @@ balloting. Any member of the Council who did not enter the Council-house
 at the time named should be fined a drachma for each day, unless he
 was away on leave of absence from the Council.
 
-Part 31
+## Part 31
 
 Such was the constitution which they drew up for the time to come,
 but for the immediate present they devised the following scheme. There
@@ -1138,7 +1138,7 @@ future distribution of the Four Hundred into the four successive sections,
 the hundred commissioners must divide them whenever the time comes
 for the citizens to join in the Council along with the rest.
 
-Part 32
+## Part 32
 
 The hundred commissioners appointed by the Five Thousand drew up the
 constitution as just stated; and after it had been ratified by the
@@ -1161,7 +1161,7 @@ of the war on the basis of the existing Position; but as the Lacedaemonians
 refused to listen to them unless they would also abandon the command
 of the sea, they broke off the negotiations.
 
-Part 33
+## Part 33
 
 For about four months the constitution of the Four Hundred lasted,
 and Mnasilochus held office as Archon of their nomination for two
@@ -1181,7 +1181,7 @@ During this period the constitution of the state seems to have been
 admirable, since it was a time of war and the franchise was in the
 hands of those who possessed a military equipment.
 
-Part 34
+## Part 34
 
 The people, however, in a very short time deprived the Five Thousand
 of their monopoly of the government. Then, six years after the overthrow
@@ -1217,7 +1217,7 @@ side of the oligarchical party, and the popular Assembly was compelled
 by sheer intimidation to pass a vote establishing the oligarchy. The
 motion to this effect was proposed by Dracontides of Aphidna.
 
-Part 35
+## Part 35
 
 In this way were the Thirty established in power, in the archonship
 of Pythodorus. As soon, however, as they were masters of the city,
@@ -1251,7 +1251,7 @@ all whom they had reason to fear, while they also wished to lay hands
 on their possessions; and in a short time they put to death not less
 than fifteen hundred persons.
 
-Part 36
+## Part 36
 
 Theramenes, however, seeing the city thus falling into ruin, was displeased
 with their proceedings, and counselled them to cease such unprincipled
@@ -1275,7 +1275,7 @@ upon it; and every time they did decide to publish it they proceeded
 to strike out some of those who had been included in it, and insert
 others who had been omitted.
 
-Part 37
+## Part 37
 
 Now when winter had set in, Thrasybulus and the exiles occupied Phyle,
 and the force which the Thirty led out to attack them met with a reverse.
@@ -1297,7 +1297,7 @@ of Theramenes and to ask for help; and the Lacedaemonians, in answer
 to their appeal, sent Callibius as military governor with about seven
 hundred troops, who came and occupied the Acropolis.
 
-Part 38
+## Part 38
 
 These events were followed by the occupation of Munichia by the exiles
 from Phyle, and their victory over the Thirty and their partisans.
@@ -1336,7 +1336,7 @@ in the city or of the exiles that had returned from the Piraeus, brought
 any complaint against them. On the contrary, Rhinon was immediately
 elected general on account of his conduct in this office.
 
-Part 39
+## Part 39
 
 This reconciliation was effected in the archonship of Eucleides, on
 the following terms. All persons who, having remained in the city
@@ -1375,7 +1375,7 @@ magistrates in the city before a court of those rated in the city.
 On these terms those who wished to do so might secede. Each party
 was to repay separately the money which it had borrowed for the war.
 
-Part 40
+## Part 40
 
 When the reconciliation had taken place on these terms, those who
 had fought on the side of the Thirty felt considerable apprehensions,
@@ -1413,7 +1413,7 @@ of making a general redistribution of the land. A final reconciliation
 was made with the secessionists at Eleusis two years after the secession,
 in the archonship of Xenaenetus.
 
-Part 41
+## Part 41
 
 This, however, took place at a later date; at the time of which we
 are speaking the people, having secured the control of the state,
@@ -1457,7 +1457,7 @@ Agyrrhius, in the first instance, made a provision of one obol a day,
 which Heracleides of Clazomenae, nicknamed 'the king', increased to
 two obols, and Agyrrhius again to three.
 
-Part 42
+## Part 42
 
 The present state of the constitution is as follows. The franchise
 is open to all who are of citizen birth by both parents. They are
@@ -1504,7 +1504,7 @@ they thereupon take their position among the other citizens. Such
 is the manner of the enrollment of the citizens and the training of
 the youths.
 
-Part 43
+## Part 43
 
 All the magistrates that are concerned with the ordinary routine of
 administration are elected by lot, except the Military Treasurer,
@@ -1550,7 +1550,7 @@ a preliminary vote of the Assembly to take them into consideration.
 Heralds and envoys appear first before the Prytanes, and the bearers
 of dispatches also deliver them to the same officials.
 
-Part 44
+## Part 44
 
 There is a single President of the Prytanes, elected by lot, who presides
 for a night and a day; he may not hold the office for more than that
@@ -1578,7 +1578,7 @@ to be a preliminary consideration by the Council in this case also.
 
 # SECTION 3
 
-Part 45
+## Part 45
 
 In former times the Council had full powers to inflict fines and
 imprisonment and death; but when it had consigned Lysimachus to the
@@ -1610,7 +1610,7 @@ it has first been considered by the Council and placed on the programme
 by the Prytanes; since a person who carries a motion in the Assembly
 is liable to an action for illegal proposal on these grounds.
 
-Part 46
+## Part 46
 
 The Council also superintends the triremes that are already in existence,
 with their tackle and sheds, and builds new triremes or quadriremes,
@@ -1624,7 +1624,7 @@ The Council also inspects all public buildings, and if it is of opinion
 that the state is being defrauded, it reports the culprit to the Assembly,
 and on condemnation hands him over to the law-courts.
 
-Part 47
+## Part 47
 
 The Council also co-operates with other magistrates in most of their
 duties. First there are the treasurers of Athena, ten in number, elected
@@ -1667,7 +1667,7 @@ and struck off on that day, and delivers it to the Receivers-General.
 The rest are kept apart, in order that no sum may be struck off before
 it is paid.
 
-Part 48
+## Part 48
 
 There are ten Receivers-General (Apodectae), elected by lot, one from
 each tribe. These officers receive the tablets, and strike off the
@@ -1705,7 +1705,7 @@ Thesmothetae accept it, they bring the accounts of this magistrate
 once more before the law-court, and the decision of the jury stands
 as the final judgement.
 
-Part 49
+## Part 49
 
 The Council also inspects the horses belonging to the state. If a
 man who has a good horse is found to keep it in bad condition, he
@@ -1748,7 +1748,7 @@ The Council also, speaking broadly, cooperates in most of the duties
 of all the other magistrates; and this ends the list of the functions
 of that body.
 
-Part 50
+## Part 50
 
 There are ten Commissioners for Repairs of Temples, elected by lot,
 who receive a sum of thirty minas from the Receivers-General, and
@@ -1767,7 +1767,7 @@ or having doors which open outwards; they also remove the corpses
 of those who die in the streets, for which purpose they have a body
 of state slaves assigned to them.
 
-Part 51
+## Part 51
 
 Market Commissioners (Agoranomi) are elected by lot, five for Piraeus,
 five for the city. Their statutory duty is to see that all articles
@@ -1792,7 +1792,7 @@ is to superintend the Mart, and to compel merchants to bring up into
 the city two-thirds of the corn which is brought by sea to the Corn
 Mart.
 
-Part 52
+## Part 52
 
 The Eleven also are appointed by lot to take care of the prisoners
 in the state gaol. Thieves, kidnappers, and pickpockets are brought
@@ -1821,7 +1821,7 @@ Those in which the sum concerned is not more than ten drachmas they
 can decide summarily, but all above that amount they bring into the
 law-courts as 'monthly' cases.
 
-Part 53
+## Part 53
 
 The Forty are also elected by lot, four from each tribe, before whom
 suitors bring all other cases. Formerly they were thirty in number,
@@ -1873,7 +1873,7 @@ a notice is put up stating that the men from such-and such an Archon
 and Eponymus to such-and such another Archon and Eponymus are to go
 on the expedition.
 
-Part 54
+## Part 54
 
 The following magistrates also are elected by lot: Five Commissioners
 of Roads (Hodopoei), who, with an assigned body of public slaves,
@@ -1922,7 +1922,7 @@ These officers celebrate the Dionysia in these two places, and appoint
 Choregi. In Salamis, moreover, the name of the Archon is publicly
 recorded.
 
-Part 55
+## Part 55
 
 All the foregoing magistrates are elected by lot, and their powers
 are those which have been stated. To pass on to the nine Archons,
@@ -1965,7 +1965,7 @@ performance of their duties, or, if they do, to dedicate a golden
 statue. When they have taken this oath they proceed to the Acropolis,
 and there they repeat it; after this they enter upon their office.
 
-Part 56
+## Part 56
 
 The Archon, the King, and the Polemarch have each two assessors, nominated
 by themselves. These officers are examined in the lawcourt before
@@ -2025,7 +2025,7 @@ them; and if the guardians fail to provide the necessary food for
 the children under their charge, he exacts it from them. Such are
 the duties of the Archon.
 
-Part 57
+## Part 57
 
 The King in the first place superintends the mysteries, in conjunction
 with the Superintendents of Mysteries. The latter are elected in the
@@ -2063,7 +2063,7 @@ offender is unknown, the writ runs against 'the doer of the deed'.
 The King and the tribe-kings also hear the cases in which the guilt
 rests on inanimate objects and the lower animal.
 
-Part 58
+## Part 58
 
 The Polemarch performs the sacrifices to Artemis the huntress and
 to Enyalius, and arranges the contest at the funeral of those who
@@ -2080,7 +2080,7 @@ also of inheritances and wards of state where aliens are concerned;
 and in fact, generally, whatever the Archon does for citizens, the
 Polemarch does for aliens.
 
-Part 59
+## Part 59
 
 The Thesmothetae in the first place have the power of prescribing
 on what days the lawcourts are to sit, and next of assigning them
@@ -2110,7 +2110,7 @@ by all the nine Archons, with the clerk to the Thesmothetae as the
 tenth, each performing the duty for his own tribe. Such are the duties
 of the nine Archons.
 
-Part 60
+## Part 60
 
 There are also ten Commissioners of Games (Athlothetae), elected by
 lot, one from each tribe. These officers, after passing an examination,
@@ -2136,7 +2136,7 @@ competitors. The prizes for the victors in the musical contest consist
 of silver and gold, for the victors in manly vigour, of shields, and
 for the victors in the gymnastic contest and the horse-race, of oil.
 
-Part 61
+## Part 61
 
 All officers connected with military service are elected by open vote.
 In the first place, ten Generals (Strategi), who were formerly elected
@@ -2172,7 +2172,7 @@ infantry. There is also a Hipparch for Lemnos, elected by open vote,
 who has charge of the cavalry in Lemnos. There is also a treasurer
 of the Paralus, and another of the Ammonias, similarly elected.
 
-Part 62
+## Part 62
 
 Of the magistrates elected by lot, in former times some including
 the nine Archons, were elected out of the tribe as a whole, while
@@ -2198,7 +2198,7 @@ their maintenance. The military offices may be held any number of
 times, but none of the others more than once, except the membership
 of the Council, which may be held twice.
 
-Part 63
+## Part 63
 
 The juries for the law-courts are chosen by lot by the nine Archons,
 each for their own tribe, and by the clerk to the Thesmothetae for
@@ -2227,7 +2227,7 @@ in each letter. When the Thesmothetes has decided by lot which letters
 are required to attend at the courts, the servant puts up above each
 court the letter which has been assigned to it by the lot.
 
-Part 64
+## Part 64
 
 The ten chests above mentioned are placed in front of the entrance
 used by each tribe, and are inscribed with the letters of the alphabet
@@ -2258,7 +2258,7 @@ purpose chests are placed near the Archon, as many in number as there
 are courts to be filled that day, bearing the letters of the courts
 on which the lot has fallen.
 
-Part 65
+## Part 65
 
 The juror thereupon, after showing his counter again to the attendant,
 passes through the barrier into the court. The attendant gives him
@@ -2279,7 +2279,7 @@ that court, and hand them over to the officials assigned to the duty
 of giving back their tickets to the jurors in each court, so that
 these officials may call them up by name and pay them their fee.
 
-Part 66
+## Part 66
 
 When all the courts are full, two ballot boxes are placed in the first
 court, and a number of brazen dice, bearing the colours of the several
@@ -2309,7 +2309,7 @@ the object being that the jurors may be broken up into small groups
 for the reception of their pay, and not all crowd together and impede
 one another.
 
-Part 67
+## Part 67
 
 These preliminaries being concluded, the cases are called on. If it
 is a day for private cases, the private litigants are called. Four
@@ -2334,7 +2334,7 @@ of the days in the month Poseideon.... The measured day is employed
 in cases when imprisonment, death, exile, loss of civil rights, or
 confiscation of goods is assigned as the penalty.
 
-Part 68
+## Part 68
 
 Most of the courts consist of 500 members...; and when it is necessary
 to bring public cases before a jury of 1,000 members, two courts combine
@@ -2366,7 +2366,7 @@ hand closed over the stem so as not to show either the pierced or
 the solid ballot to the litigants, casts the one which is to count
 into the brazen urn, and the other into the wooden urn.
 
-Part 69
+## Part 69
 
 When all the jurors have voted, the attendants take the urn containing
 the effective votes and discharge them on to a reckoning board having

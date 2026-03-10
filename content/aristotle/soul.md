@@ -9,7 +9,7 @@ Translated by J. A. Smith
 
 # BOOK I
 
-Part 1
+## Part 1
 
 Holding as we do that, while knowledge of any kind is a thing to
 be honoured and prized, one kind of it may, either by reason of its
@@ -151,7 +151,7 @@ are inseparable from the material substratum of animal life, to which
 we have seen that such affections, e.g. passion and fear, attach,
 and have not the same mode of being as a line or a plane.
 
-Part 2
+## Part 2
 
 For our study of soul it is necessary, while formulating the problems
 of which in our further advance we are to find the solutions, to call
@@ -333,7 +333,7 @@ the process of respiration and (katapsuxis). Such are the traditional
 opinions concerning soul, together with the grounds on which they
 are maintained.
 
-Part 3
+## Part 3
 
 We must begin our examination with movement; for doubtless, not only
 is it false that the essence of soul is correctly described by those
@@ -516,7 +516,7 @@ for each body seems to have a form and shape of its own. It is as
 absurd as to say that the art of carpentry could embody itself in
 flutes; each art must use its tools, each soul its body.
 
-Part 4
+## Part 4
 
 There is yet another theory about soul, which has commended itself
 to many as no less probable than any of those we have hitherto mentioned,
@@ -659,7 +659,7 @@ contain points or an infinity of points.
 Further, how is it possible for these points to be isolated or separated
 from their bodies, seeing that lines cannot be resolved into points?
 
-Part 5
+## Part 5
 
 The result is, as we have said, that this view, while on the one side
 identical with that of those who maintain that soul is a subtle kind
@@ -873,7 +873,7 @@ latter without the former.
 
 # BOOK II
 
-Part 1
+## Part 1
 
 Let the foregoing suffice as our account of the views concerning
 the soul which have been handed on by our predecessors; let us now
@@ -968,7 +968,7 @@ sense in which the sailor is the actuality of the ship.
 This must suffice as our sketch or outline determination of the nature
 of soul.
 
-Part 2
+## Part 2
 
 Since what is clear or logically more evident emerges from what in
 itself is confused but more observable by us, we must reconsider our
@@ -1076,7 +1076,7 @@ potentially that thing, i.e. in a matter of its own appropriate to
 it. From all this it follows that soul is an actuality or formulable
 essence of something that possesses a potentiality of being besouled.
 
-Part 3
+## Part 3
 
 Of the psychic powers above enumerated some kinds of living things,
 as we have said, possess all, some less than all, others one only.
@@ -1139,7 +1139,7 @@ It is evident that the way to give the most adequate definition of
 soul is to seek in the case of each of its forms for the most appropriate
 definition.
 
-Part 4
+## Part 4
 
 It is necessary for the student of these forms of soul first to find
 a definition of each, expressive of what it is, and then to investigate
@@ -1299,7 +1299,7 @@ that has soul in it possesses warmth.
 We have now given an outline account of the nature of food; further
 details must be given in the appropriate place.
 
-Part 5
+## Part 5
 
 Having made these distinctions let us now speak of sensation in the
 widest sense. Sensation depends, as we have said, on a process of
@@ -1411,7 +1411,7 @@ of its being acted upon the two interacting factors are dissimilar,
 at the end the one acted upon is assimilated to the other and is identical
 in quality with it.
 
-Part 6
+## Part 6
 
 In dealing with each of the senses we shall have first to speak of
 the objects which are perceptible by each. The term 'object of sense'
@@ -1446,7 +1446,7 @@ of special objects of the several senses-constitute the objects of
 sense in the strictest sense of the term and it is to them that in
 the nature of things the structure of each several sense is adapted.
 
-Part 7
+## Part 7
 
 The object of sight is the visible, and what is visible is (a) colour
 and (b) a certain kind of object which can be described in words but
@@ -1553,7 +1553,7 @@ because man and all other land animals that breathe, perceive smells
 only when they breathe air in. The explanation of this too will be
 given later.
 
-Part 8
+## Part 8
 
 Now let us, to begin with, make certain distinctions about sound and
 hearing.
@@ -1710,7 +1710,7 @@ also why fish are voiceless; they have no windpipe. And they have
 no windpipe because they do not breathe or take in air. Why they do
 not is a question belonging to another inquiry.
 
-Part 9
+## Part 9
 
 Smell and its object are much less easy to determine than what we
 have hitherto discussed; the distinguishing characteristic of the
@@ -1789,7 +1789,7 @@ and that they cannot do under water.
 Smells come from what is dry as flavours from what is moist. Consequently
 the organ of smell is potentially dry.
 
-Part 10
+## Part 10
 
 What can be tasted is always something that can be touched, and just
 for that reason it cannot be perceived through an interposed foreign
@@ -1854,7 +1854,7 @@ varieties of flavour. It follows that what has the power of tasting
 is what is potentially of that kind, and that what is tasteable is
 what has the power of making it actually what it itself already is.
 
-Part 11
+## Part 11
 
 Whatever can be said of what is tangible, can be said of touch, and
 vice versa; if touch is not a single sense but a group of senses,
@@ -1984,7 +1984,7 @@ destructive things do.
 
 We have now given an outline account of each of the several senses.
 
-Part 12
+## Part 12
 
 The following results applying to any and every sense may now be formulated.
 
@@ -2047,7 +2047,7 @@ an observing of the result produced?
 
 # BOOK III
 
-Part 1
+## Part 1
 
 That there is no sixth sense in addition to the five enumerated-sight,
 hearing, smell, taste, touch-may be established by the following considerations:
@@ -2127,7 +2127,7 @@ and magnitude. As it is, the fact that the common sensibles are given
 in the objects of more than one sense reveals their distinction from
 each and all of the special sensibles.
 
-Part 2
+## Part 2
 
 Since it is through sense that we are aware that we are seeing or
 hearing, it must be either by sight that we are aware of seeing, or
@@ -2271,7 +2271,7 @@ time.
 About the principle in virtue of which we say that animals are percipient,
 let this discussion suffice.
 
-Part 3
+## Part 3
 
 There are two distinctive peculiarities by reference to which we characterize
 the soul (1) local movement and (2) thinking, discriminating, and
@@ -2416,7 +2416,7 @@ or disease or sleep.
 
 About imagination, what it is and why it exists, let so much suffice.
 
-Part 4
+## Part 4
 
 Turning now to the part of the soul with which the soul knows and
 thinks (whether this is separable from the others in definition only,
@@ -2515,7 +2515,7 @@ they will not have mind in them (for mind is a potentiality of them
 only in so far as they are capable of being disengaged from matter)
 mind may yet be thinkable.
 
-Part 5
+## Part 5
 
 Since in every class of things, as in nature as a whole, we find two
 factors involved, (1) a matter which is potentially all the particulars
@@ -2544,7 +2544,7 @@ is immortal and eternal (we do not, however, remember its former activity
 because, while mind in this sense is impassible, mind as passive is
 destructible), and without it nothing thinks.
 
-Part 6
+## Part 6
 
 The thinking then of the simple objects of thought is found in those
 cases where falsehood is impossible: where the alternative of true
@@ -2602,7 +2602,7 @@ special object of sight can never be in error, the belief that the
 white object seen is a man may be mistaken, so too in the case of
 objects which are without matter.
 
-Part 7
+## Part 7
 
 Actual knowledge is identical with its object: potential knowledge
 in the individual is in time prior to actual knowledge but in the
@@ -2671,7 +2671,7 @@ Whether it is possible for it while not existing separate from spatial
 conditions to think anything that is separate, or not, we must consider
 later.
 
-Part 8
+## Part 8
 
 Let us now summarize our results about soul, and repeat that the soul
 is in a way all existing things; for existing things are either sensible
@@ -2706,7 +2706,7 @@ concepts differ from images? Must we not say that neither these nor
 even our other concepts are images, though they necessarily involve
 them?
 
-Part 9
+## Part 9
 
 The soul of animals is characterized by two faculties, (a) the faculty
 of discrimination which is the work of thought and sense, and (b)
@@ -2782,7 +2782,7 @@ fully for movement; for those who successfully resist temptation have
 appetite and desire and yet follow mind and refuse to enact that for
 which they have appetite.
 
-Part 10
+## Part 10
 
 These two at all events appear to be sources of movement: appetite
 and mind (if one may venture to regard imagination as a kind of thinking;
@@ -2865,7 +2865,7 @@ of appetite without possessing imagination; and all imagination is
 either (1) calculative or (2) sensitive. In the latter an animals,
 and not only man, partake.
 
-Part 11
+## Part 11
 
 We must consider also in the case of imperfect animals, sc. those
 which have no sense but touch, what it is that in them originates
@@ -2901,7 +2901,7 @@ is the latter opinion that really originates movement, not the universal;
 or rather it is both, but the one does so while it remains in a state
 more like rest, while the other partakes in movement.
 
-Part 12
+## Part 12
 
 The nutritive soul then must be possessed by everything that is alive,
 and every such thing is endowed with soul from its birth to its death.
@@ -2971,7 +2971,7 @@ shape and colour. On a smooth surface the air possesses unity; hence
 it is that it in turn sets the sight in motion, just as if the impression
 on the wax were transmitted as far as the wax extends.
 
-Part 13
+## Part 13
 
 It is clear that the body of an animal cannot be simple, i.e. consist
 of one element such as fire or air. For without touch it is impossible

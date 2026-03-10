@@ -9,7 +9,7 @@ Translated by G. R. G. Mure
 
 # BOOK I
 
-Part 1
+## Part 1
 
 All instruction given or received by way of argument proceeds from
 pre-existent knowledge. This becomes evident upon a survey of all
@@ -71,7 +71,7 @@ in another not knowing it. The strange thing would be, not if in some
 sense he knew what he was learning, but if he were to know it in that
 precise sense and manner in which he was learning it.
 
-Part 2
+## Part 2
 
 We suppose ourselves to possess unqualified scientific knowledge of
 a thing, as opposed to knowing it in the accidental way in which the
@@ -165,7 +165,7 @@ as contradicting the fundamental premisses which lead to the opposed
 and erroneous conclusion. For indeed the conviction of pure science
 must be unshakable.
 
-Part 3
+## Part 3
 
 Some hold that, owing to the necessity of knowing the primary premisses,
 there is no scientific knowledge. Others think there is, but that
@@ -240,7 +240,7 @@ occur rarely in actual demonstrations, it is clearly frivolous and
 impossible to say that demonstration is reciprocal and that therefore
 everything can be demonstrated.
 
-Part 4
+## Part 4
 
 Since the object of pure scientific knowledge cannot be other than
 it is, the truth obtained by demonstrative knowledge will be necessary.
@@ -344,7 +344,7 @@ to which it attaches is demonstration only in a secondary and unessential
 sense. Nor again (2) is equality to two right angles a commensurately
 universal attribute of isosceles; it is of wider application.
 
-Part 5
+## Part 5
 
 We must not fail to observe that we often fall into error because
 our conclusion is not in fact primary and commensurately universal
@@ -411,7 +411,7 @@ of triangle that the attribute belongs to all the other subjects of
 which it is predicable, and triangle is the subject to which it can
 be demonstrated as belonging commensurately and universally.
 
-Part 6
+## Part 6
 
 Demonstrative knowledge must rest on necessary basic truths; for the
 object of scientific knowledge cannot be other than it is. Now attributes
@@ -513,7 +513,7 @@ its reason); but to have reasoned knowledge of a conclusion is to
 know it through its cause. We may conclude that the middle must be
 consequentially connected with the minor, and the major with the middle.
 
-Part 7
+## Part 7
 
 It follows that we cannot in demonstrating pass from one genus to
 another. We cannot, for instance, prove geometrical truths by arithmetic.
@@ -547,7 +547,7 @@ of the circle; for these qualities do not belong to lines in virtue
 of their peculiar genus, but through some property which it shares
 with other genera.
 
-Part 8
+## Part 8
 
 It is also clear that if the premisses from which the syllogism proceeds
 are commensurately universal, the conclusion of such i.e. in the unqualified
@@ -569,7 +569,7 @@ moon-are, as such, clearly eternal: whereas so far as they are not
 eternal they are not fully commensurate. Other subjects too have properties
 attaching to them in the same way as eclipse attaches to the moon.
 
-Part 9
+## Part 9
 
 It is clear that if the conclusion is to show an attribute inhering
 as such, nothing can be demonstrated except from its 'appropriate'
@@ -622,7 +622,7 @@ scientific knowledge if we have reasoned from true and primary premisses.
 But that is not so: the conclusion must be homogeneous with the basic
 facts of the science.
 
-Part 10
+## Part 10
 
 I call the basic truths of every genus those clements in it the existence
 of which cannot be proved. As regards both these primary truths and
@@ -699,7 +699,7 @@ diagrams symbolize. A further distinction is that all hypotheses and
 illegitimate postulates are either universal or particular, whereas
 a definition is neither.
 
-Part 11
+## Part 11
 
 So demonstration does not necessarily imply the being of Forms nor
 a One beside a Many, but it does necessarily imply the possibility
@@ -744,7 +744,7 @@ not be interrogative; for the interrogative method is barred to the
 demonstrator, who cannot use the opposite facts to prove the same
 nexus. This was shown in my work on the syllogism.
 
-Part 12
+## Part 12
 
 If a syllogistic question is equivalent to a proposition embodying
 one of the two sides of a contradiction, and if each science has its
@@ -834,7 +834,7 @@ determinate odd number; C any particular odd number. We can then predicate
 A of C. Next let D represent determinate even number, and E even number.
 Then A is predicable of E.
 
-Part 13
+## Part 13
 
 Knowledge of the fact differs from knowledge of the reasoned fact.
 To begin with, they differ within the same science and in two ways:
@@ -920,7 +920,7 @@ points; e.g. medicine and geometry: it is the physician's business
 to know that circular wounds heal more slowly, the geometer's to know
 the reason why.
 
-Part 14
+## Part 14
 
 Of all the figures the most scientific is the first. Thus, it is the
 vehicle of the demonstrations of all the mathematical sciences, such
@@ -941,7 +941,7 @@ their intervals closepacked until immediate premisses are reached.
 
 Clearly, therefore, the first figure is the primary condition of knowledge.
 
-Part 15
+## Part 15
 
 Just as an attribute A may (as we saw) be atomically connected with
 a subject B, so its disconnexion may be atomic. I call 'atomic' connexions
@@ -976,7 +976,7 @@ both premisses are negative.
 Hence it is clear that one thing may be atomically disconnected from
 another, and we have stated when and how this is possible.
 
-Part 16
+## Part 16
 
 Ignorance-defined not as the negation of knowledge but as a positive
 state of mind-is error produced by inference.
@@ -1064,7 +1064,7 @@ It is thus clear that in the case of atomic propositions erroneous
 inference will be possible not only when both premisses are false
 but also when only one is false.
 
-Part 17
+## Part 17
 
 In the case of attributes not atomically connected with or disconnected
 from their subjects, (a, i) as long as the false conclusion is inferred
@@ -1130,7 +1130,7 @@ Thus we have made it clear how many varieties of erroneous inference
 are liable to happen and through what kinds of premisses they occur,
 in the case both of immediate and of demonstrable truths.
 
-Part 18
+## Part 18
 
 It is also clear that the loss of any one of the senses entails the
 loss of a corresponding portion of knowledge, and that, since we learn
@@ -1148,7 +1148,7 @@ they cannot be objects of scientific knowledge, because neither can
 universals give us knowledge of them without induction, nor can we
 get it through induction without sense-perception.
 
-Part 19
+## Part 19
 
 Every syllogism is effected by means of three terms. One kind of syllogism
 serves to prove that A inheres in C by showing that A inheres in B
@@ -1212,7 +1212,7 @@ in number. These questions then cannot be asked-unless, indeed, the
 terms can reciprocate by two different modes, by accidental predication
 in one relation and natural predication in the other.
 
-Part 20
+## Part 20
 
 Now, it is clear that if the predications terminate in both the upward
 and the downward direction (by 'upward' I mean the ascent to the more
@@ -1232,7 +1232,7 @@ of F must be finite or infinite: where the infinite series starts,
 whether from the first term or from a later one, is of no moment,
 for the succeeding terms in any case are infinite in number.
 
-Part 21
+## Part 21
 
 Further, if in affirmative demonstration the series terminates in
 both directions, clearly it will terminate too in negative demonstration.
@@ -1282,7 +1282,7 @@ of negative demonstration, if it does so also in the case of affirmative
 demonstration. That in fact the regress terminates in both these cases
 may be made clear by the following dialectical considerations.
 
-Part 22
+## Part 22
 
 In the case of predicates constituting the essential nature of a thing,
 it clearly terminates, seeing that if definition is possible, or in
@@ -1447,7 +1447,7 @@ and descending series of predication terminate; and of this fact,
 which before was shown dialectically, analytic proof has now been
 given.
 
-Part 23
+## Part 23
 
 It is an evident corollary of these conclusions that if the same attribute
 A inheres in two terms C and D predicable either not at all, or not
@@ -1513,7 +1513,7 @@ beyond E, and E is the subject of which D is to be denied in the conclusion.
 (3) In the third figure the middle will never fall beyond the limits
 of the subject and the attribute denied of it.
 
-Part 24
+## Part 24
 
 Since demonstrations may be either commensurately universal or particular,
 and either affirmative or negative; the question arises, which form
@@ -1668,7 +1668,7 @@ either potentially or actually. Moreover, commensurately universal
 demonstration is through and through intelligible; particular demonstration
 issues in sense-perception.
 
-Part 25
+## Part 25
 
 The preceding arguments constitute our defence of the superiority
 of commensurately universal to particular demonstration. That affirmative
@@ -1728,7 +1728,7 @@ basic premisses is superior.
 (4) Affirmative demonstration is more of the nature of a basic form
 of proof, because it is a sine qua non of negative demonstration.
 
-Part 26
+## Part 26
 
 Since affirmative demonstration is superior to negative, it is clearly
 superior also to reductio ad impossibile. We must first make certain
@@ -1765,7 +1765,7 @@ will have an unqualified superiority to reductio ad impossibile, and
 affirmative demonstration, being superior to negative, will consequently
 be superior also to reductio ad impossibile.
 
-Part 27
+## Part 27
 
 The science which is knowledge at once of the fact and of the reasoned
 fact, not of the fact by itself without the reasoned fact, is the
@@ -1780,7 +1780,7 @@ additional elements. What I mean by 'additional elements' is this:
 a unit is substance without position, while a point is substance with
 position; the latter contains an additional element.
 
-Part 28
+## Part 28
 
 A single science is one whose domain is a single genus, viz. all the
 subjects constituted out of the primary entities of the genus-i.e.
@@ -1793,7 +1793,7 @@ of a science, for they must be within one genus with its conclusions:
 and this again is verified if the conclusions proved by means of them
 fall within one genus-i.e. are homogeneous.
 
-Part 29
+## Part 29
 
 One can have several demonstrations of the same connexion not only
 by taking from the same series of predication middles which are other
@@ -1812,7 +1812,7 @@ must both be attributable to some one subject.
 A further point worth investigating is how many ways of proving the
 same conclusion can be obtained by varying the figure,
 
-Part 30
+## Part 30
 
 There is no knowledge by demonstration of chance conjunctions; for
 chance conjunctions exist neither by necessity nor as general connexions
@@ -1823,7 +1823,7 @@ being necessary if the premisses are necessary and general if the
 premisses are general. Consequently, if chance conjunctions are neither
 general nor necessary, they are not demonstrable.
 
-Part 31
+## Part 31
 
 Scientific knowledge is not possible through the act of perception.
 Even if perception as a faculty is of 'the such' and not merely of
@@ -1865,7 +1865,7 @@ the reason of the kindling would be clear to us because we should
 at the same time see it in each instance and intuit that it must be
 so in all instances.
 
-Part 32
+## Part 32
 
 All syllogisms cannot have the same basic truths. This may be shown
 first of all by the following dialectical considerations. (1) Some
@@ -1931,7 +1931,7 @@ which are premisses of demonstration and the subject-genus; and though
 the former are common, the latter-number, for instance, and magnitude-are
 peculiar.
 
-Part 33
+## Part 33
 
 Scientific knowledge and its object differ from opinion and the object
 of opinion in that scientific knowledge is commensurately universal
@@ -2007,7 +2007,7 @@ under the heads of discursive thought, intuition, science, art, practical
 wisdom, and metaphysical thinking, belongs rather partly to natural
 science, partly to moral philosophy.
 
-Part 34
+## Part 34
 
 Quick wit is a faculty of hitting upon the middle term instantaneously.
 It would be exemplified by a man who saw that the moon has her bright
@@ -2026,7 +2026,7 @@ her light', is predicable of B. So A is predicable of C through B.
 
 # BOOK II
 
-Part 1
+## Part 1
 
 The kinds of question we ask are as many as the kinds of things which
 we know. They are in fact four:-(1) whether the connexion of an attribute
@@ -2051,7 +2051,7 @@ as opposed to 'is or is not [e.g.] white'.) On the other hand, when
 we have ascertained the thing's existence, we inquire as to its nature,
 asking, for instance, 'what, then, is God?' or 'what is man?'.
 
-Part 2
+## Part 2
 
 These, then, are the four kinds of question we ask, and it is in the
 answers to these questions that our knowledge consists.
@@ -2117,7 +2117,7 @@ said without qualification to he as opposed to being possessed of
 some attribute, and in so far as they are said to be possessed of
 some attribute such as equal to right angles, or greater or less.
 
-Part 3
+## Part 3
 
 It is clear, then, that all questions are a search for a 'middle'.
 Let us now state how essential nature is revealed and in what way
@@ -2191,7 +2191,7 @@ and demonstration are neither identical nor contained either within
 the other: if they were, their objects would be related either as
 identical or as whole and part.
 
-Part 4
+## Part 4
 
 So much, then, for the first stage of our problem. The next step is
 to raise the question whether syllogism-i.e. demonstration-of the
@@ -2248,7 +2248,7 @@ of C: but if one does so take them, in assuming B one will have assumed,
 before drawing the conclusion, what the definable form of C is; so
 that there has been no inference, for one has begged the question.
 
-Part 5
+## Part 5
 
 Nor, as was said in my formal logic, is the method of division a process
 of inference at all, since at no point does the characterization of
@@ -2296,7 +2296,7 @@ taken in its entirety is not definition; so that even if division
 does demonstrate its formula, definition at any rate does not turn
 out to be a conclusion of inference.
 
-Part 6
+## Part 6
 
 Can we nevertheless actually demonstrate what a thing essentially
 and substantially is, but hypothetically, i.e. by premising (1) that
@@ -2339,7 +2339,7 @@ ensure that the predicates shall constitute a genuine unity and not
 merely belong to a single subject as do musical and grammatical when
 predicated of the same man.
 
-Part 7
+## Part 7
 
 How then by definition shall we prove substance or essential nature?
 We cannot show it as a fresh fact necessarily following from the assumption
@@ -2399,7 +2399,7 @@ that definition neither demonstrates nor proves anything, and that
 knowledge of essential nature is not to be obtained either by definition
 or by demonstration.
 
-Part 8
+## Part 8
 
 We must now start afresh and consider which of these conclusions are
 sound and which are not, and what is the nature of definition, and
@@ -2484,7 +2484,7 @@ neither can the essential nature of anything which has a cause distinct
 from itself be known without demonstration, nor can it be demonstrated;
 and this is what we contended in our preliminary discussions.
 
-Part 9
+## Part 9
 
 Now while some things have a cause distinct from themselves, others
 have not. Hence it is evident that there are essential natures which
@@ -2497,7 +2497,7 @@ demonstration the essential nature of things which have a 'middle',
 i.e. a cause of their substantial being other than that being itself;
 but we do not thereby demonstrate it.
 
-Part 10
+## Part 10
 
 Since definition is said to be the statement of a thing's nature,
 obviously one kind of definition will be a statement of the meaning
@@ -2541,7 +2541,7 @@ essential nature, and in what sense and of what things it does not;
 the same thing is both definable and demonstrable and how far it is
 not.
 
-Part 11
+## Part 11
 
 We think we have scientific knowledge when we know the cause, and
 there are four causes: (1) the definable form, (2) an antecedent which
@@ -2737,7 +2737,7 @@ rule. So connexions which embody a general rule-i.e. which exist or
 come to be as a general rule-will also derive from immediate basic
 premisses.
 
-Part 13
+## Part 13
 
 We have already explained how essential nature is set out in the terms
 of a demonstration, and the sense in which it is or is not demonstrable
@@ -2914,7 +2914,7 @@ We may add that if dialectical disputation must not employ metaphors,
 clearly metaphors and metaphorical expressions are precluded in definition:
 otherwise dialectic would involve metaphors.
 
-Part 14
+## Part 14
 
 In order to formulate the connexions we wish to prove we have to select
 our analyses and divisions. The method of selection consists in laying
@@ -2946,7 +2946,7 @@ a single identical name to give to a squid's pounce, a fish's spine,
 and an animal's bone, although these too possess common properties
 as if there were a single osseous nature.
 
-Part 15
+## Part 15
 
 Some connexions that require proof are identical in that they possess
 an identical 'middle' e.g. a whole group might be proved through 'reciprocal
@@ -2965,7 +2965,7 @@ its close the month is more stormy. Why is the month more stormy towards
 its close? Because the moon is waning. Here the one cause is subordinate
 to the other.
 
-Part 16
+## Part 16
 
 The question might be raised with regard to cause and effect whether
 when the effect is present the cause also is present; whether, for
@@ -3020,7 +3020,7 @@ the coagulation of sap, then if a tree is deciduous, coagulation must
 be present, and if coagulation is present-not in any subject but in
 a tree-then that tree must be deciduous.
 
-Part 17
+## Part 17
 
 Can the cause of an identical effect be not identical in every instance
 of the effect but different? Or is that impossible? Perhaps it is
@@ -3091,7 +3091,7 @@ but not in subjects specifically identical. For instance, the cause
 of longevity in quadrupeds is lack of bile, in birds a dry constitution-or
 certainly something different.
 
-Part 18
+## Part 18
 
 If immediate premisses are not reached at once, and there is not merely
 one middle but several middles, i.e. several causes; is the cause
@@ -3104,7 +3104,7 @@ the cause of B's inherence in D; hence C is the cause of A's inherence
 in D, B of A's inherence in C, while the cause of A's inherence in
 B is B itself.
 
-Part 19
+## Part 19
 
 As regards syllogism and demonstration, the definition of, and the
 conditions required to produce each of them, are now clear, and with

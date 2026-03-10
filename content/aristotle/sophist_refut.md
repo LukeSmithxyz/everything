@@ -9,7 +9,7 @@ Translated by W. A. Pickard-Cambridge
 
 # SECTION 1
 
-Part 1
+## Part 1
 
 Let us now discuss sophistic refutations, i.e. what appear to be
 refutations but are really fallacies instead. We will begin in the
@@ -71,7 +71,7 @@ arguments, and how many in number are the elements of which this faculty
 is composed, and how many branches there happen to be of this inquiry,
 and the other factors that contribute to this art.
 
-Part 2
+## Part 2
 
 Of arguments in dialogue form there are four classes:
 Didactic, Dialectical, Examination-arguments, and Contentious arguments.
@@ -90,7 +90,7 @@ while that of dialectic arguments and examination-arguments has been
 discussed elsewhere: let us now proceed to speak of the arguments
 used in competitions and contests.
 
-Part 3
+## Part 3
 
 First we must grasp the number of aims entertained by those who argue
 as competitors and rivals to the death. These are five in number,
@@ -104,7 +104,7 @@ or fourthly to reduce him to solecism, i.e. to make the answerer,
 in consequence of the argument, to use an ungrammatical expression;
 or, as a last resort, to make him repeat himself.
 
-Part 4
+## Part 4
 
 There are two styles of refutation: for some depend on the language
 used, while some are independent of language. Those ways of producing
@@ -210,7 +210,7 @@ some qualification of respect or place, or time, or relation:
 (6) stating as cause what is not the cause:
 (7) the making of more than one question into one.
 
-Part 5
+## Part 5
 
 Fallacies, then, that depend on Accident occur whenever any attribute
 is claimed to belong in like manner to a thing and to its accident.
@@ -349,7 +349,7 @@ that cannot see though nature designed them to do so. Whenever, then,
 one thing can see while another cannot, they will either both be able
 to see or else both be blind; which is impossible.
 
-Part 6
+## Part 6
 
 The right way, then, is either to divide apparent proofs and refutations
 as above, or else to refer them all to ignorance of what 'refutation'
@@ -474,7 +474,7 @@ the contradiction, which is the distinctive mark of a refutation,
 is merely apparent, and the rest failing to conform to the definition
 of a proof.
 
-Part 7
+## Part 7
 
 The deception comes about in the case of arguments that depend on
 ambiguity of words and of phrases because we are unable to divide
@@ -523,7 +523,7 @@ as one: for in all of them the deception lies in the smallness of
 the difference: for our failure to be quite exact in our definition
 of 'premiss' and of 'proof' is due to the aforesaid reason.
 
-Part 8
+## Part 8
 
 Since we know on how many points apparent syllogisms depend, we know
 also on how many sophistical syllogisms and refutations may depend.
@@ -580,7 +580,7 @@ for they have not secured a statement that does have a single meaning,
 but only one that appears to have, and that only from this particular
 man.
 
-Part 9
+## Part 9
 
 The number of considerations on which depend the refutations of those
 who are refuted, we ought not to try to grasp without a knowledge
@@ -626,7 +626,7 @@ the formation, through the common first principles, of a refutation
 that is either real or apparent, i.e. either dialectical or apparently
 dialectical, or suitable for an examination.
 
-Part 10
+## Part 10
 
 It is no true distinction between arguments which some people draw
 when they say that some arguments are directed against the expression,
@@ -731,7 +731,7 @@ himself, the other should merely ask questions.
 
 # SECTION 2
 
-Part 11
+## Part 11
 
 Moreover, to claim a 'Yes' or 'No' answer is the business not of
 a man who is showing something, but of one who is holding an examination.
@@ -847,7 +847,7 @@ belongs to the dialectician to study these, and to be able to effect
 them, is not difficult to see: for the investigation of premisses
 comprises the whole of this study.
 
-Part 12
+## Part 12
 
 So much, then, for apparent refutations. As for showing that the answerer
 is committing some fallacy, and drawing his argument into paradox-for
@@ -926,7 +926,7 @@ lead him into the opposition of the standards of nature and law: for
 the law represents the opinion of the majority, whereas philosophers
 speak according to the standard of nature and the truth.
 
-Part 13
+## Part 13
 
 Paradoxes, then, you should seek to elicit by means of these common-place
 rules. Now as for making any one babble, we have already said what
@@ -961,7 +961,7 @@ same meaning, or a different one; but they draw their conclusion straight
 away. Still it seems, inasmuch as the word is the same, to have the
 same meaning as well.
 
-Part 14
+## Part 14
 
 We have said before what kind of thing 'solecism' is.' It is possible
 both to commit it, and to seem to do so without doing so, and to do
@@ -1014,7 +1014,7 @@ be arranged in a certain manner with a view to concealment, as in
 the case of dialectics. Following then upon what we have said, this
 must be discussed first.
 
-Part 15
+## Part 15
 
 With a view then to refutation, one resource is length-for it is difficult
 to keep several things in view at once; and to secure length the elementary
@@ -1104,7 +1104,7 @@ not, the same. One must not ask one's conclusion in the form of a
 premiss, while some conclusions should not even be put as questions
 at all; one should take and use it as granted.
 
-Part 16
+## Part 16
 
 We have now therefore dealt with the sources of questions, and the
 methods of questioning in contentious disputations: next we have to
@@ -1141,7 +1141,7 @@ the figure, but not construct it again: so too in refutations, though
 we know the thing on which the connexion of the argument depends,
 we still are at a loss to split the argument apart.
 
-Part 17
+## Part 17
 
 First then, just as we say that we ought sometimes to choose to prove
 something in the general estimation rather than in truth, so also
@@ -1303,7 +1303,7 @@ Moreover, whenever one foresees any question coming, one should put
 in one's objection and have one's say beforehand: for by doing so
 one is likely to embarrass the questioner most effectually.
 
-Part 18
+## Part 18
 
 Inasmuch as a proper solution is an exposure of false reasoning, showing
 on what kind of question the falsity depends, and whereas 'false reasoning'
@@ -1330,7 +1330,7 @@ a very great deal of difference between solving an argument when being
 subjected to questions and when not: for to foresee traps is difficult,
 whereas to see them at one's leisure is easier.
 
-Part 19
+## Part 19
 
 Of the refutations, then, that depend upon ambiguity and amphiboly
 some contain some question with more than one meaning, while others
@@ -1367,7 +1367,7 @@ in a quite unambiguous manner, one should contend that what he has
 negated is not the fact which one has asserted but only its name;
 and that therefore there is no refutation.
 
-Part 20
+## Part 20
 
 It is evident also how one should solve those refutations that depend
 upon the division and combination of words: for if the expression
@@ -1422,7 +1422,7 @@ his argument.
 
 # SECTION 3
 
-Part 21
+## Part 21
 
 Accentuation gives rise to no fallacious arguments, either as written
 or as spoken, except perhaps some few that might be made up; e.g.
@@ -1432,7 +1432,7 @@ ou katalueis is a house: therefore the house is a negation.' How one
 should solve this, is clear: for the word does not mean the same when
 spoken with an acuter and when spoken with a graver accent.
 
-Part 22
+## Part 22
 
 It is clear also how one must meet those fallacies that depend on
 the identical expressions of things that are not identical, seeing
@@ -1555,7 +1555,7 @@ applying to a class universally is an individual substance, but must
 say that denotes either a quality, or a relation, or a quantity, or
 something of that kind.
 
-Part 23
+## Part 23
 
 It is a general rule in dealing with arguments that depend on language
 that the solution always follows the opposite of the point on which
@@ -1577,7 +1577,7 @@ but not the things that he knows, collectively.' Also a man treads,
 perhaps, on any thing he walks through, but not on the time he walks
 through. Likewise also in the case of the other examples.
 
-Part 24
+## Part 24
 
 In dealing with arguments that depend on Accident, one and the same
 solution meets all cases. For since it is indeterminate when an attribute
@@ -1677,7 +1677,7 @@ meanings merely suppose we express it elliptically: for we express
 'Give me the Iliad' by quoting half a line of it, e.g. 'Give me "Sing,
 goddess, of the wrath..."'
 
-Part 25
+## Part 25
 
 Those arguments which depend upon an expression that is valid of a
 particular thing, or in a particular respect, or place, or manner,
@@ -1757,7 +1757,7 @@ the victory goes to him who speaks unjust things: for he speaks of
 things that are just to speak of, though absolutely, i.e. to suffer,
 they are unjust.
 
-Part 26
+## Part 26
 
 Refutations that depend on the definition of a refutation must, according
 to the plan sketched above, be met by comparing together the conclusion
@@ -1778,7 +1778,7 @@ cubits in length; 'now what is 'greater' is greater than a 'less':
 accordingly the thing in question will be both greater and less than
 itself in the same respect.
 
-Part 27
+## Part 27
 
 As to refutations that depend on begging and assuming the original
 point to be proved, suppose the nature of the question to be obvious,
@@ -1792,7 +1792,7 @@ under the impression that he intended not to use it as a premiss,
 but to reason against it, in the opposite way from that adopted in
 refutations on side issues.
 
-Part 28
+## Part 28
 
 Also, those refutations that bring one to their conclusion through
 the consequent you should show up in the course of the argument itself.
@@ -1808,7 +1808,7 @@ come to be has a beginning, that which has not come to be has none,
 so that if the heaven has not come to be, it is also eternal. But
 that is not so; for the sequence is vice versa.
 
-Part 29
+## Part 29
 
 In the case of any refutations whose reasoning depends on some addition,
 look and see if upon its subtraction the absurdity follows none the
@@ -1817,7 +1817,7 @@ that he granted the addition not because he really thought it, but
 for the sake of the argument, whereas the questioner has not used
 it for the purpose of his argument at all.
 
-Part 30
+## Part 30
 
 To meet those refutations which make several questions into one, one
 should draw a distinction between them straight away at the start.
@@ -1858,7 +1858,7 @@ it is clear that if there be not put a single question on a number
 of points, but the answerer has affirmed or denied one attribute only
 of one subject only, the absurdity will not come to pass.
 
-Part 31
+## Part 31
 
 With regard to those who draw one into repeating the same thing a
 number of times, it is clear that one must not grant that predications
@@ -1888,7 +1888,7 @@ snubness is not a concave nose but something (e.g. an affection) belonging
 to a nose: hence, there is no absurdity in supposing that the snub
 nose is a nose possessing the concavity that belongs to a nose.
 
-Part 32
+## Part 32
 
 With regard to solecisms, we have previously said what it is that
 appears to bring them about; the method of their solution will be
@@ -1941,7 +1941,7 @@ Thus that arguments of this kind do not prove solecism but merely
 appear to do so, and both why they so appear and how you should meet
 them, is clear from what has been said.
 
-Part 33
+## Part 33
 
 We must also observe that of all the arguments aforesaid it is easier
 with some to see why and where the reasoning leads the hearer astray,
@@ -2020,7 +2020,7 @@ marshal one's questions and reasoning both against the thesis, and
 against the answerer and against the time, whenever the solution requires
 a longer time to examine than the period available.
 
-Part 34
+## Part 34
 
 As to the number, then, and kind of sources whence fallacies arise
 in discussion, and how we are to show that our opponent is committing

@@ -6,7 +6,7 @@ author: "Aristotle"
 
 Translated by A. S. L. Farquharson
 
-Part 1
+## Part 1
 
 We have now to consider the parts which are useful to animals for
 movement in place (locomotion); first, why each part is such as it
@@ -39,7 +39,7 @@ We have to examine the reasons for all these facts, and others cognate
 to them; that the facts are such is clear from our Natural History,
 we have now to ask reasons for the facts.
 
-Part 2
+## Part 2
 
 At the beginning of the inquiry we must postulate the principles we
 are accustomed constantly to use for our scientific investigation
@@ -56,7 +56,7 @@ in place are thrusts and pulls. (These are the essential place-movements,
 it is only accidentally that what is carried by another is moved;
 it is not thought to move itself, but to be moved by something else.)
 
-Part 3
+## Part 3
 
 After these preliminaries, we go on to the next questions in order.
 
@@ -83,7 +83,7 @@ then that nothing without parts can move itself in this way, for it
 has not in it the distinction of the part which is passive and that
 which is active.
 
-Part 4
+## Part 4
 
 Again, the boundaries by which living beings are naturally determined
 are six in number, superior and inferior, before and behind, right
@@ -157,7 +157,7 @@ most detached. In man, too, the other starting-points are found most
 naturally and clearly distinct, the superior part that is and the
 front.
 
-Part 5
+## Part 5
 
 Animals which, like men and birds, have the superior part distinguished
 from the front are two-footed (biped). In them, of the four points
@@ -189,7 +189,7 @@ the back, and the right than the left. Or we may reverse the argument
 and say quite well that these parts are more honourable than their
 opposites just because the starting-points are in them.
 
-Part 6
+## Part 6
 
 The above discussion has made it clear that the original of movement
 is in the parts on the right. Now every continuous whole, one part
@@ -231,7 +231,7 @@ each animal must have this original at a point where it is equally
 or nearly equally related to each of the centres in the four parts
 described.
 
-Part 7
+## Part 7
 
 It is clear then how locomotion belongs to those animals only which
 make their changes of place by means of two or four points in their
@@ -289,7 +289,7 @@ to live on land, for example all the eels, move with fewer flexions
 in a fluid than on land, while the kind of cestreus which has two
 fins, by its flexion in a fluid makes up the remaining points.
 
-Part 8
+## Part 8
 
 The reason why snakes are limbless is first that nature makes nothing
 without purpose, but always regards what is the best possible for
@@ -332,7 +332,7 @@ supports instead of one section of the opposite sides being unoccupied
 by a limb. A walking creature advances from each of its members alternately,
 for in this way it recovers the same figure that it had at first.
 
-Part 9
+## Part 9
 
 The fact that all animals have an even number of feet, and the reasons
 for the fact have been set forth. What follows will explain that if
@@ -406,7 +406,7 @@ the absent pair of fins. Quite flat fish, like the Ray, produce their
 swimming movement with the actual fins and with the two extremes or
 semicircles of their body, bending and straightening themselves alternately.
 
-Part 10
+## Part 10
 
 A difficulty might perhaps be raised about birds. How, it may be said,
 can they, either when they fly or when they walk, be said to move
@@ -457,7 +457,7 @@ and without exhaustion. The hind-quarters, too, are light and taper
 again, in order to conform to the movement of the front and not by
 their breadth to suck the air.
 
-Part 11
+## Part 11
 
 So much then for these questions. But why an animal that is to stand
 erect must necessarily be not only a biped, but must also have the
@@ -493,7 +493,7 @@ be moved at more than four points, but also because to have wings
 would be useless to it when moving naturally. And Nature makes nothing
 contrary to her own nature.
 
-Part 12
+## Part 12
 
 We have stated above that without flexion in the legs or shoulders
 and hips no Sanguineous animal with feet could progress, and that
@@ -551,7 +551,7 @@ their legs to bend thus when they are suckling their young, with a
 view to such ministrations. If the flexion were inwards it would be
 difficult to keep their young under them and to shelter them.
 
-Part 13
+## Part 13
 
 Now there are four modes of flexion if we take the combinations in
 pairs. Fore and hind may bend either both backwards, as the figures
@@ -573,7 +573,7 @@ this respect to the upper, because the first joints are opposites,
 the shoulder bending forwards, the hip backwards; wherefore also the
 ankle bends backwards, and the wrist of the hand forwards.
 
-Part 14
+## Part 14
 
 This is the way then the limbs bend, and for the reasons given. But
 the hind limbs move criss-cross with the fore limbs; after the off
@@ -606,7 +606,7 @@ eyes able to conform to its limbs, for its eyes can move themselves
 obliquely, and therefore after a fashion crabs are no exception but
 in this sense move forwards.
 
-Part 15
+## Part 15
 
 Birds bend their legs in the same way as quadrupeds. For their natural
 construction is broadly speaking nearly the same. That is, in birds
@@ -648,7 +648,7 @@ tuck in their thighs and put them under them in order to achieve the
 lifting of the whole body. In view of this they cannot bend them otherwise
 than outwards.
 
-Part 16
+## Part 16
 
 We have already stated the fact that non-sanguineous animals with
 limbs are polypods and none of them quadrupeds. And the reason why
@@ -678,7 +678,7 @@ crocodiles and most of the oviparous quadrupeds. And the explanation
 is that some of them in their breeding periods, and some all their
 life, live in holes.
 
-Part 17
+## Part 17
 
 Now the rest have bandy legs because they are soft-skinned, but the
 crayfish is hard-skinned and its limbs are for swimming and not for
@@ -713,7 +713,7 @@ the length of their limbs; instead of length she gives stoutness to
 the legs and breadth to the feet. Broad feet are more useful than
 long for pushing away the water when they are swimming.
 
-Part 18
+## Part 18
 
 There is reason, too, for winged creatures having feet, but fish none.
 The former have their home in the dry medium, and cannot remain always
@@ -727,7 +727,7 @@ parts and near the wings; similarly, most fish have two fins on the
 under parts and near the pectorals. Birds, too, have a tail and fish
 a tail-fin.
 
-Part 19
+## Part 19
 
 A difficulty may be suggested as to the movements of molluscs, that
 is, as to where that movement originates; for they have no distinction

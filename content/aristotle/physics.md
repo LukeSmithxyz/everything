@@ -9,7 +9,7 @@ Translated by R. P. Hardie and R. K. Gaye
 
 # BOOK I
 
-Part 1
+## Part 1
 
 When the objects of an inquiry, in any department, have principles,
 conditions, or elements, it is through acquaintance with these that
@@ -39,7 +39,7 @@ analyses this into its particular senses. Similarly a child begins
 by calling all men 'father', and all women 'mother', but later on
 distinguishes each of them.
 
-Part 2
+## Part 2
 
 The principles in question must be either (a) one or (b) more than
 one. If (a) one, it must be either (i) motionless, as Parmenides and
@@ -163,7 +163,7 @@ that the one was many-as if there was any difficulty about the same
 thing being both one and many, provided that these are not opposites;
 for 'one' may mean either 'potentially one' or 'actually one'.
 
-Part 3
+## Part 3
 
 If, then, we approach the thesis in this way it seems impossible for
 all things to be one. Further, the arguments they use to prove their
@@ -269,7 +269,7 @@ been said.
 
 It is, then, clearly impossible for Being to be one in this sense.
 
-Part 4
+## Part 4
 
 The physicists on the other hand have two modes of explanation.
 
@@ -379,7 +379,7 @@ come 'from' a house and again a house 'from' bricks; and it is better
 to assume a smaller and finite number of principles, as Empedocles
 does.
 
-Part 5
+## Part 5
 
 All thinkers then agree in making the contraries principles, both
 those who describe the All as one and unmoved (for even Parmenides
@@ -466,7 +466,7 @@ to the latter.
 
 It is clear then that our principles must be contraries.
 
-Part 6
+## Part 6
 
 The next question is whether the principles are two or three or more
 in number.
@@ -542,7 +542,7 @@ It is clear then that the number of elements is neither one nor more
 than two or three; but whether two or three is, as I said, a question
 of considerable difficulty.
 
-Part 7
+## Part 7
 
 We will now give our own account, approaching the question first with
 reference to becoming in its widest sense: for we shall be following
@@ -683,7 +683,7 @@ is clear.
 So much then for the question of the number and the nature of the
 principles.
 
-Part 8
+## Part 8
 
 We will now proceed to show that the difficulty of the early thinkers,
 as well as our own, is solved in this way alone.
@@ -754,7 +754,7 @@ turn so far aside from the road which leads to coming to be and passing
 away and change generally. If they had come in sight of this nature,
 all their ignorance would have been dispelled.
 
-Part 9
+## Part 9
 
 Others, indeed, have apprehended the nature in question, but not adequately.
 
@@ -817,7 +817,7 @@ make a fresh start and proceed.
 
 # BOOK II
 
-Part 1
+## Part 1
 
 Of things that exist, some exist by nature, some from other causes.
 
@@ -935,7 +935,7 @@ privation too is in a way form. But whether in unqualified coming
 to be there is privation, i.e. a contrary to what comes to be, we
 must consider later.
 
-Part 2
+## Part 2
 
 We have distinguished, then, the different ways in which the term
 'nature' is used.
@@ -1024,7 +1024,7 @@ do not exist apart from matter. Man is begotten by man and by the
 sun as well. The mode of existence and essence of the separable it
 is the business of the primary type of philosophy to define.
 
-Part 3
+## Part 3
 
 Now that we have established these distinctions, we must proceed to
 consider causes, their character and number. Knowledge is the object
@@ -1139,7 +1139,7 @@ operating causes to things which are actually being effected.
 This must suffice for our account of the number of causes and the
 modes of causation.
 
-Part 4
+## Part 4
 
 But chance also and spontaneity are reckoned among causes: many things
 are said both to be and to come to be as a result of chance and spontaneity.
@@ -1200,7 +1200,7 @@ and full of mystery.
 Thus we must inquire what chance and spontaneity are, whether they
 are the same or different, and how they fit into our division of causes.
 
-Part 5
+## Part 5
 
 First then we observe that some things always come to pass in the
 same way, and others for the most part. It is clearly of neither of
@@ -1288,7 +1288,7 @@ the sphere of things which are capable of coming to pass not necessarily,
 nor normally, and with reference to such of these as might come to
 pass for the sake of something.
 
-Part 6
+## Part 6
 
 They differ in that 'spontaneity' is the wider term. Every result
 of chance is from what is spontaneous, but not everything that is
@@ -1357,7 +1357,7 @@ intelligence and nature. Hence, however true it may be that the heavens
 are due to spontaneity, it will still be true that intelligence and
 nature will be prior causes of this All and of many things in it besides.
 
-Part 7
+## Part 7
 
 It is clear then that there are causes, and that the number of them
 is what we have stated. The number is the same as that of the things
@@ -1406,7 +1406,7 @@ this was the essence of the thing; and (4) because it is better thus
 (not without qualification, but with reference to the essential nature
 in each case).
 
-Part 8
+## Part 8
 
 We must explain then (1) that Nature belongs to the class of causes
 which act for the sake of something; (2) about the necessary and its
@@ -1523,7 +1523,7 @@ nature is like that.
 It is plain then that nature is a cause, a cause that operates for
 a purpose.
 
-Part 9
+## Part 9
 
 As regards what is 'of necessity', we must ask whether the necessity
 is 'hypothetical', or 'simple' as well. The current view places what
@@ -1586,7 +1586,7 @@ there are some parts that are, as it were, its matter.
 
 # BOOK III
 
-Part 1
+## Part 1
 
 Nature has been defined as a 'principle of motion and change', and
 it is the subject of our inquiry. We must therefore see that we understand
@@ -1692,7 +1692,7 @@ being built must be the kind of actuality required But building is
 a kind of motion, and the same account will apply to the other kinds
 also.
 
-Part 2
+## Part 2
 
 The soundness of this definition is evident both when we consider
 the accounts of motion that the others have given, and also from the
@@ -1733,7 +1733,7 @@ The mover or agent will always be the vehicle of a form, either a
 of the change, e.g. the full-formed man begets man from what is potentially
 man.
 
-Part 3
+## Part 3
 
 The solution of the difficulty that is raised about the motion-whether
 it is in the movable-is plain. It is the fulfilment of this potentiality,
@@ -1811,7 +1811,7 @@ the fulfilment of what can act and what can be acted on, as such)-generally
 and again in each particular case, building, healing, &c. A similar
 definition will apply to each of the other kinds of motion.
 
-Part 4
+## Part 4
 
 The science of nature is concerned with spatial magnitudes and motion
 and time, and each of these at least is necessarily infinite or finite,
@@ -1937,7 +1937,7 @@ gone through or does not actually reach an end.
 Further, everything that is infinite may be so in respect of addition
 or division or both.
 
-Part 5
+## Part 5
 
 Now it is impossible that the infinite should be a thing which is
 itself infinite, separable from sensible objects. If the infinite
@@ -2140,7 +2140,7 @@ six differences of position: but each of these is a limit.
 It is plain from these arguments that there is no body which is actually
 infinite.
 
-Part 6
+## Part 6
 
 But on the other hand to suppose that the infinite does not exist
 in any way leads obviously to many impossible consequences: there
@@ -2270,7 +2270,7 @@ things the great and the small ought to contain them. But it is absurd
 and impossible to suppose that the unknowable and indeterminate should
 contain and determine.
 
-Part 7
+## Part 7
 
 It is reasonable that there should not be held to be an infinite in
 respect of addition such as to surpass every magnitude, but that there
@@ -2326,7 +2326,7 @@ other thinkers, too, evidently treat the infinite as matter-that is
 why it is inconsistent in them to make it what contains, and not what
 is contained.
 
-Part 8
+## Part 8
 
 It remains to dispose of the arguments which are supposed to support
 the view that the infinite exists not only potentially but as a separate
@@ -2364,7 +2364,7 @@ and of the way in which it does not exist, and of what it is.
 
 # BOOK IV
 
-Part 1
+## Part 1
 
 The physicist must have a knowledge of Place, too, as well as of
 the infinite-namely, whether there is such a thing or not, and the
@@ -2468,7 +2468,7 @@ By asking these questions, then, we must raise the whole problem about
 place-not only as to what it is, but even whether there is such a
 thing.
 
-Part 2
+## Part 2
 
 We may distinguish generally between predicating B of A because it
 (A) is itself, and because it is something else; and particularly
@@ -2541,7 +2541,7 @@ This concludes my statement of the reasons why space must be something,
 and again of the difficulties that may be raised about its essential
 nature.
 
-Part 3
+## Part 3
 
 The next step we must take is to see in how many senses one thing
 is said to be 'in' another.
@@ -2633,7 +2633,7 @@ are parts of what is contained.
 
 This then may serve as a critical statement of the difficulties involved.
 
-Part 4
+## Part 4
 
 What then after all is place? The answer to this question may be elucidated
 as follows.
@@ -2794,7 +2794,7 @@ as it were a vessel, i.e. a container of the thing.
 Further, place is coincident with the thing, for boundaries are coincident
 with the bounded.
 
-Part 5
+## Part 5
 
 If then a body has another body outside it and containing it, it is
 in place, and if not, not. That is why, even if there were to be water
@@ -2873,7 +2873,7 @@ actually one.
 This concludes my account of place-both of its existence and of its
 nature.
 
-Part 6
+## Part 6
 
 The investigation of similar questions about the void, also, must
 be held to belong to the physicist-namely whether it exists or not,
@@ -2947,7 +2947,7 @@ their nature.
 These, then, and so many, are the main grounds on which people have
 argued for and against the existence of the void.
 
-Part 7
+## Part 7
 
 As a step towards settling which view is true, we must determine the
 meaning of the name.
@@ -3021,7 +3021,7 @@ is increased by means of void. The same argument applies to the ashes.
 It is evident, then, that it is easy to refute the arguments by which
 they prove the existence of the void.
 
-Part 8
+## Part 8
 
 Let us explain again that there is no void existing separately, as
 some maintain. If each of the simple bodies has a natural locomotion,
@@ -3204,7 +3204,7 @@ discrimination of the tangible is by touch.]
 It is clear, then, from these considerations that there is no separate
 void.
 
-Part 9
+## Part 9
 
 There are some who think that the existence of rarity and density
 shows that there is a void. If rarity and density do not exist, they
@@ -3308,7 +3308,7 @@ qualitative change.
 So much, then, for the discussion of the void, and of the sense in
 which it exists and the sense in which it does not exist.
 
-Part 10
+## Part 10
 
 Next for discussion after the subjects mentioned is Time. The best
 plan will be to begin by working out the difficulties connected with
@@ -3394,7 +3394,7 @@ kind of it.
 Clearly then it is not movement. (We need not distinguish at present
 between 'movement' and 'change'.)
 
-Part 11
+## Part 11
 
 But neither does time exist without change; for when the state of
 our own minds does not change at all, or we have not noticed its changing,
@@ -3529,7 +3529,7 @@ It is clear, then, that time is 'number of movement in respect of
 the before and after', and is continuous since it is an attribute
 of what is continuous.
 
-Part 12
+## Part 12
 
 The smallest number, in the strict sense of the word 'number', is
 two. But of number as concrete, sometimes there is a minimum, sometimes
@@ -3663,7 +3663,7 @@ hence this eternally is not, because it is contrary to what eternally
 is. A thing whose contrary is not eternal can be and not be, and it
 is of such things that there is coming to be and passing away.
 
-Part 13
+## Part 13
 
 The 'now' is the link of time, as has been said (for it connects past
 and future time), and it is a limit of time (for it is the beginning
@@ -3738,7 +3738,7 @@ We have stated, then, that time exists and what it is, and in how
 many senses we speak of the 'now', and what 'at some time', 'lately',
 'presently' or 'just', 'long ago', and 'suddenly' mean.
 
-Part 14
+## Part 14
 
 These distinctions having been drawn, it is evident that every change
 and everything that moves is in time; for the distinction of faster
@@ -3847,7 +3847,7 @@ to the consideration of it.
 
 # BOOK V
 
-Part 1
+## Part 1
 
 Everything which changes does so in one of three senses. It may change
 (1) accidentally, as for instance when we say that something musical
@@ -3984,7 +3984,7 @@ Time, Relation, Quantity, and Activity or Passivity, it necessarily
 follows that there are three kinds of motion-qualitative, quantitative,
 and local.
 
-Part 2
+## Part 2
 
 In respect of Substance there is no motion, because Substance has
 no contrary among things that are. Nor is there motion in respect
@@ -4112,7 +4112,7 @@ The foregoing remarks are sufficient to explain the essential nature
 of motion and rest, the number of kinds of change, and the different
 varieties of motion.
 
-Part 3
+## Part 3
 
 Let us now proceed to define the terms 'together' and 'apart', 'in
 contact', 'between', 'in succession', 'contiguous', and 'continuous',
@@ -4187,7 +4187,7 @@ We have now defined what is meant by 'together' and 'apart', 'contact',
 'between' and 'in succession', 'contiguous' and 'continuous': and
 we have shown in what circumstances each of these terms is applicable.
 
-Part 4
+## Part 4
 
 There are many senses in which motion is said to be 'one': for we
 use the term 'one' in many senses.
@@ -4336,7 +4336,7 @@ specifically the same cannot be one and continuous: for how should
 a motion composed of alteration and locomotion be regular? If a motion
 is to be regular its parts ought to fit one another.
 
-Part 5
+## Part 5
 
 We have further to determine what motions are contrary to each other,
 and to determine similarly how it is with rest. And we have first
@@ -4405,7 +4405,7 @@ has been said above. Thus we see that two motions are contrary to
 each other only when one is a motion from a contrary to the opposite
 contrary and the other is a motion from the latter to the former.
 
-Part 6
+## Part 6
 
 But since a motion appears to have contrary to it not only another
 motion but also a state of rest, we must determine how this is so.
@@ -4540,7 +4540,7 @@ seem to be a sense in which a state of rest and a motion are opposites.]
 
 # BOOK VI
 
-Part 1
+## Part 1
 
 Now if the terms 'continuous', 'in contact', and 'in succession'
 are understood as defined above things being 'continuous' if their
@@ -4642,7 +4642,7 @@ less of it in less time, the time must also be divisible, and conversely,
 if the time in which a thing is carried over the section A is divisible,
 this section A must also be divisible.
 
-Part 2
+## Part 2
 
 And since every magnitude is divisible into magnitudes-for we have
 shown that it is impossible for anything continuous to be composed
@@ -4784,7 +4784,7 @@ will be divisible, and that which has no parts will be passed over
 not in an indivisible but in a greater time. It is evident, therefore,
 that nothing continuous is without parts.
 
-Part 3
+## Part 3
 
 The present also is necessarily indivisible-the present, that is,
 not in the sense in which the word is applied to one thing in virtue
@@ -4855,7 +4855,7 @@ there can be no rest in it.
 It follows then that the motion of that which is in motion and the
 rest of that which is at rest must occupy time.
 
-Part 4
+## Part 4
 
 Further, everything that changes must be divisible. For since every
 change is from something to something, and when a thing is at the
@@ -4956,7 +4956,7 @@ the first instance to the thing that changes. That divisibility does
 so we have already shown: that infinity does so will be made clear
 in what follows?
 
-Part 5
+## Part 5
 
 Since everything that changes changes from something to something,
 that which has changed must at the moment when it has first changed
@@ -5078,7 +5078,7 @@ get a like result, for here too the change is in something continuous.
 It is evident, then, that only in qualitative motion can there be
 anything essentially indivisible.
 
-Part 6
+## Part 6
 
 Now everything that changes changes time, and that in two senses:
 for the time in which a thing is said to change may be the primary
@@ -5189,7 +5189,7 @@ Consequently no absolutely first stage of change can be represented
 by any particular part of space or time which the changing thing may
 occupy.
 
-Part 7
+## Part 7
 
 Now since the motion of everything that is in motion occupies a period
 of time, and a greater magnitude is traversed in a longer time, it
@@ -5284,7 +5284,7 @@ whether we take the motion or the magnitude to be infinite? If either
 of the two is infinite, the other must be so likewise: for all locomotion
 is in space.
 
-Part 8
+## Part 8
 
 Since everything to which motion or rest is natural is in motion or
 at rest in the natural time, place, and manner, that which is coming
@@ -5376,7 +5376,7 @@ not in motion and is opposite some particular thing, it cannot in
 a period of time be over against that which is at rest: for that would
 involve the conclusion that that which is in locomotion is at rest.
 
-Part 9
+## Part 9
 
 Zeno's reasoning, however, is fallacious, when he says that if everything
 when it occupies an equal space is at rest, and if that which is in
@@ -5474,7 +5474,7 @@ Thus one orbit is always changing into another, and the thing will
 never be at rest. And it is the same with the sphere and everything
 else whose motion is confined within the space that it occupies.
 
-Part 10
+## Part 10
 
 Our next point is that that which is without parts cannot be in motion
 except accidentally: i.e. it can be in motion only in so far as the
@@ -5587,7 +5587,7 @@ time that it occupies, with the single exception of rotatory locomotion.
 
 # BOOK VII
 
-Part 1
+## Part 1
 
 Everything that is in motion must be moved by something. For if it
 has not the source of its motion in itself it is evident that it is
@@ -5694,7 +5694,7 @@ the assumption of a particular case is immaterial, since the case
 assumed is theoretically possible, and the assumption of a theoretically
 possible case ought not to give rise to any impossible result.
 
-Part 2
+## Part 2
 
 That which is the first movement of a thing-in the sense that it supplies
 not 'that for the sake of which' but the source of the motion-is always
@@ -5825,7 +5825,7 @@ It is evident, therefore, that between the extremities of the moved
 and the movent that are respectively first and last in reference to
 the moved there is nothing intermediate.
 
-Part 3
+## Part 3
 
 Everything, we say, that undergoes alteration is altered by sensible
 causes, and there is alteration only in things that are said to be
@@ -5969,7 +5969,7 @@ argument that alteration and being altered occur in sensible things
 and in the sensitive part of the soul, and, except accidentally, in
 nothing else.
 
-Part 4
+## Part 4
 
 A difficulty may be raised as to whether every motion is commensurable
 with every other or not. Now if they are all commensurable and if
@@ -6153,7 +6153,7 @@ both relations, nor are there terms to express each of them separately
 in the same way as we indicate a higher degree or preponderance of
 an affection by 'more', of a quantity by 'greater.'
 
-Part 5
+## Part 5
 
 Now since wherever there is a movent, its motion always acts upon
 something, is always in something, and always extends to something
@@ -6223,7 +6223,7 @@ at all, the case being the same as with the weight.
 
 # BOOK VIII
 
-Part 1
+## Part 1
 
 It remains to consider the following question. Was there ever a becoming
 of motion before which it had no being, and is it perishing again
@@ -6402,7 +6402,7 @@ have to say in support of our contention that there never was a time
 when there was not motion, and never will be a time when there will
 not be motion.
 
-Part 2
+## Part 2
 
 The arguments that may be advanced against this position are not difficult
 to dispose of. The chief considerations that might be thought to indicate
@@ -6477,7 +6477,7 @@ asleep: though there is then no perceptive motion in them, there is
 some motion that causes them to wake up again. But we will leave this
 point also to be elucidated at a later stage in our discussion.
 
-Part 3
+## Part 3
 
 Our enquiry will resolve itself at the outset into a consideration
 of the above-mentioned problem-what can be the reason why some things
@@ -6604,7 +6604,7 @@ in motion and of being at rest, or whether, while some things are
 so constituted, some are always at rest and some are always in motion:
 for it is this last view that we have to show to be true.
 
-Part 4
+## Part 4
 
 Now of things that cause motion or suffer motion, to some the motion
 is accidental, to others essential: thus it is accidental to what
@@ -6750,7 +6750,7 @@ light and heavy, or by that which released what was hindering and
 preventing it); then all things that are in motion must be moved by
 something.
 
-Part 5
+## Part 5
 
 Now this may come about in either of two ways. Either the movent is
 not itself responsible for the motion, which is to be referred to
@@ -7007,7 +7007,7 @@ from what is in motion but moves itself and stops its own motion,
 on both suppositions we have the result that in all cases of things
 being in motion that which primarily imparts motion is unmoved.
 
-Part 6
+## Part 6
 
 Since there must always be motion without intermission, there must
 necessarily be something, one thing or it may be a plurality, that
@@ -7160,7 +7160,7 @@ must change. But the unmoved movent, as has been said, since it remains
 permanently simple and unvarying and in the same state, will cause
 motion that is one and simple.
 
-Part 7
+## Part 7
 
 This matter will be made clearer, however, if we start afresh from
 another point. We must consider whether it is or is not possible that
@@ -7311,7 +7311,7 @@ we have fair grounds for inferring the same to be true of the other
 kinds of change, since it would be in the natural order of things
 that they should be uniform in this respect.
 
-Part 8
+## Part 8
 
 Let us now proceed to maintain that it is possible that there should
 be an infinite motion that is single and continuous, and that this
@@ -7620,7 +7620,7 @@ We need now say no more in support of the position that there is no
 process of change that admits of infinity or continuity except rotatory
 locomotion.
 
-Part 9
+## Part 9
 
 It can now be shown plainly that rotation is the primary locomotion.
 Every locomotion, as we said before, is either rotatory or rectilinear
@@ -7715,7 +7715,7 @@ explained further which is the primary motion and which is the only
 motion that can be eternal: and we have pronounced the first movent
 to be unmoved.
 
-Part 10
+## Part 10
 
 We have now to assert that the first movent must be without parts
 and without magnitude, beginning with the establishment of the premisses

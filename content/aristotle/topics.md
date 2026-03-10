@@ -9,7 +9,7 @@ Translated by W. A. Pickard-Cambridge
 
 # BOOK I
 
-Part 1
+## Part 1
 
 Our treatise proposes to find a line of inquiry whereby we shall
 be able to reason from opinions that are generally accepted about
@@ -69,7 +69,7 @@ them in outline; we consider it quite enough from the point of view
 of the line of inquiry before us to be able to recognize each of them
 in some sort of way.
 
-Part 2
+## Part 2
 
 Next in order after the foregoing, we must say for how many and for
 what purposes the treatise is useful. They are three-intellectual
@@ -93,7 +93,7 @@ this task belongs properly, or most appropriately, to dialectic: for
 dialectic is a process of criticism wherein lies the path to the principles
 of all inquiries.
 
-Part 3
+## Part 3
 
 We shall be in perfect possession of the way to proceed when we are
 in a position like that which we occupy in regard to rhetoric and
@@ -103,7 +103,7 @@ every method that the rhetorician will employ to persuade, or the
 doctor to heal; still, if he omits none of the available means, we
 shall say that his grasp of the science is adequate.
 
-Part 4
+## Part 4
 
 First, then, we must see of what parts our inquiry consists. Now if
 we were to grasp (a) with reference to how many, and what kind of,
@@ -137,7 +137,7 @@ in other cases. Naturally, then, problems and propositions are equal
 in number: for out of every proposition you will make a problem if
 you change the turn of the phrase.
 
-Part 5
+## Part 5
 
 We must now say what are 'definition', 'property', 'genus', and 'accident'.
 A 'definition' is a phrase signifying a thing's essence. It is rendered
@@ -220,7 +220,7 @@ to those who are not sitting. So then, there is nothing to prevent
 an accident from becoming both a relative and a temporary property;
 but a property absolutely it will never be.
 
-Part 6
+## Part 6
 
 We must not fail to observe that all remarks made in criticism of
 a 'property' and 'genus' and 'accident' will be applicable to 'definitions'
@@ -245,7 +245,7 @@ to which it most naturally belongs, speaking of them as 'definitory'
 and 'generic' questions. The questions I mean have practically been
 already assigned to their several branches.
 
-Part 7
+## Part 7
 
 First of all we must define the number of senses borne by the term
 'Sameness'. Sameness would be generally regarded as falling, roughly
@@ -291,7 +291,7 @@ so we bid him call to us 'the man who is sitting' or 'who is conversing
 over there'-clearly supposing ourselves to be indicating the same
 object by its name and by its accident.
 
-Part 8
+## Part 8
 
 Of 'sameness' then, as has been said,' three senses are to be distinguished.
 Now one way to confirm that the elements mentioned above are those
@@ -314,7 +314,7 @@ clearly it would be an accident, for accident was said' to be what
 belongs as an attribute to a subject without being either its definition
 or its genus or a property.
 
-Part 9
+## Part 9
 
 Next, then, we must distinguish between the classes of predicates
 in which the four orders in question are found. These are ten in number:
@@ -342,7 +342,7 @@ subjects on which arguments take place, and the materials with which
 they start. How we are to acquire them, and by what means we are to
 become well supplied with them, falls next to be told.
 
-Part 10
+## Part 10
 
 First, then, a definition must be given of a 'dialectical proposition'
 and a 'dialectical problem'. For it is not every proposition nor yet
@@ -390,7 +390,7 @@ those who have made a study of these things, e.g. on a question of
 medicine they will agree with the doctor, and on a question of geometry
 with the geometrician; and likewise also in other cases.
 
-Part 11
+## Part 11
 
 A dialectical problem is a subject of inquiry that contributes either
 to choice and avoidance, or to truth and knowledge, and that either
@@ -449,7 +449,7 @@ of demonstration, nor yet be too far removed from it: for the former
 cases admit of no doubt, while the latter involve difficulties too
 great for the art of the trainer.
 
-Part 12
+## Part 12
 
 Having drawn these definitions, we must distinguish how many species
 there are of dialectical arguments. There is on the one hand Induction,
@@ -462,7 +462,7 @@ it is more readily learnt by the use of the senses, and is applicable
 generally to the mass of men, though reasoning is more forcible and
 effective against contradictious people.
 
-Part 13
+## Part 13
 
 The classes, then, of things about which, and of things out of which,
 arguments are constructed, are to be distinguished in the way we have
@@ -480,7 +480,7 @@ is like that of the vigorous to vigour'. The first proposition depends
 upon the use of one term in several senses, the second upon the differences
 of things, the third upon their likenesses.
 
-Part 14
+## Part 14
 
 Propositions should be selected in a number of ways corresponding
 to the number of distinctions drawn in regard to the proposition:
@@ -531,7 +531,7 @@ divided, as long as division is possible, e.g. the knowledge of 'good
 and evil', of 'white and black', or 'cold and hot'. Likewise also
 in other cases.
 
-Part 15
+## Part 15
 
 On the formation, then, of propositions, the above remarks are enough.
 As regards the number of senses a term bears, we must not only treat
@@ -726,7 +726,7 @@ as applied to a body is a species of colour, whereas in the case of
 a note it is a differentia; for one note is differentiated from another
 by being 'clear'.
 
-Part 16
+## Part 16
 
 The presence, then, of a number of meanings in a term may be investigated
 by these and like means. The differences which things present to each
@@ -737,7 +737,7 @@ provided they be not very much too far apart, e.g. 'Wherein does sensation
 differ from knowledge?: for in the case of genera that are very far
 apart, the differences are entirely obvious.
 
-Part 17
+## Part 17
 
 Likeness should be studied, first, in the case of things belonging
 to different genera, the formulae being 'A:B = C:D' (e.g. as knowledge
@@ -752,7 +752,7 @@ if any identical attribute belongs to them all, e.g. to a man and
 a horse and a dog; for in so far as they have any identical attribute,
 in so far they are alike.
 
-Part 18
+## Part 18
 
 It is useful to have examined the number of meanings of a term both
 for clearness' sake (for a man is more likely to know what it is he
@@ -826,7 +826,7 @@ are as follows.
 
 # BOOK II
 
-Part 1
+## Part 1
 
 Of problems some are universal, others particular. Universal problems
 are such as 'Every pleasure is good' and 'No pleasure is good'; particular
@@ -867,7 +867,7 @@ say that an attribute belongs to thing which does not belong to it,
 commit error; and those who call objects by the names of other objects
 (e.g. calling a planetree a 'man') transgress the established terminology.
 
-Part 2
+## Part 2
 
 Now one commonplace rule is to look and see if a man has ascribed
 as an accident what belongs in some other way. This mistake is most
@@ -950,7 +950,7 @@ most men: but in saying whether the object before us tends to produce
 health or not, we should adopt the language no longer of the multitude
 but of the doctor.
 
-Part 3
+## Part 3
 
 Moreover, if a term be used in several senses, and it has been laid
 down that it is or that it is not an attribute of S, you should show
@@ -1031,7 +1031,7 @@ desires it. His desire for it is therefore accidental. This rule is
 useful in dealing with relative terms: for cases of this kind are
 generally cases of relative terms.
 
-Part 4
+## Part 4
 
 Moreover, it is well to alter a term into one more familiar, e.g.
 to substitute 'clear' for 'exact' in describing a conception, and
@@ -1114,7 +1114,7 @@ to know things present and future (e.g. that there will be an eclipse),
 whereas it is impossible to remember anything save what is in the
 past.
 
-Part 5
+## Part 5
 
 Moreover, there is the sophistic turn of argument, whereby we draw
 our opponent into the kind of statement against which we shall be
@@ -1157,7 +1157,7 @@ statement is demolished as well. But you should beware here too of
 making a change to a more difficult subject: for sometimes the consequence,
 and sometimes the original thesis, is the easier to demolish.
 
-Part 6
+## Part 6
 
 In regard to subjects which must have one and one only of two predicates,
 as (e.g.) a man must have either a disease or health, supposing we
@@ -1210,7 +1210,7 @@ If then any one says that joyfulness is an accidental attribute of
 cheerfulness, he would be declaring it to be an accidental attribute
 of itself.
 
-Part 7
+## Part 7
 
 Inasmuch as contraries can be conjoined with each other in six ways,
 and four of these conjunctions constitute a contrariety, we must grasp
@@ -1292,7 +1292,7 @@ is capable of the contrary, we shall not indeed as yet have shown
 that the accident asserted does belong as well; our proof will merely
 have gone to this point, that it is possible for it to belong.
 
-Part 8
+## Part 8
 
 Seeing that the modes of opposition are four in number, you should
 look for arguments among the contradictories of your terms, converting
@@ -1357,7 +1357,7 @@ Moreover, the principle stated is just as useful for the contrary
 purpose, e.g. to show that the object of sensation is not an object
 of knowledge, on the ground that neither is sensation knowledge.
 
-Part 9
+## Part 9
 
 Again look at the case of the co-ordinates and inflected forms of
 the terms in the thesis, both in demolishing and in establishing it.
@@ -1410,7 +1410,7 @@ also to things tending to produce and destroy: for things whose productive
 causes are good, themselves also rank as good; whereas if causes destructive
 of them are good, they themselves rank as evil.
 
-Part 10
+## Part 10
 
 Again, look at things which are like the subject in question, and
 see if they are in like case; e.g. if one branch of knowledge has
@@ -1471,7 +1471,7 @@ neither does the remaining predicate belong to the remaining subject,
 while if the one predicate does belong to the one subject, the remaining
 predicate belongs to the remaining subject as well.
 
-Part 11
+## Part 11
 
 You can argue, then, from greater or less or like degrees of truth
 in the aforesaid number of ways. Moreover, you should argue from the
@@ -1537,7 +1537,7 @@ be said to be so 'absolutely'.
 
 # BOOK III
 
-Part 1
+## Part 1
 
 The question which is the more desirable, or the better, of two or
 more things, should be examined upon the following lines: only first
@@ -1643,7 +1643,7 @@ but for something else: for no one prizes wealth for itself but always
 for something else, whereas we prize friendship for itself, even though
 nothing else is likely to come to us from it.
 
-Part 2
+## Part 2
 
 Moreover, whenever two things are very much like one another, and
 we cannot see any superiority in the one over the other of them, we
@@ -1771,7 +1771,7 @@ Moreover, that is more desirable in whose absence it is less blameworthy
 for people to be vexed; and that is more desirable in whose absence
 it is more blameworthy for a man not to be vexed.
 
-Part 3
+## Part 3
 
 Moreover, of things that belong to the same species one which possesses
 the peculiar virtue of the species is more desirable than one which
@@ -1846,7 +1846,7 @@ objectionable and desirable: for a thing of such a character that
 a man might well desire and object to it alike is less desirable than
 the other which is desirable only.
 
-Part 4
+## Part 4
 
 Comparisons of things together should therefore be conducted in the
 manner prescribed. The same commonplace rules are useful also for
@@ -1861,7 +1861,7 @@ also that each of them, or the one of them, is desirable, e.g. whenever
 we call the one good 'by nature' and the other 'not by nature': for
 dearly what is good by nature is desirable.
 
-Part 5
+## Part 5
 
 The commonplace rules relating to comparative degrees and amounts
 ought to be taken in the most general possible form: for when so taken
@@ -1897,7 +1897,7 @@ e.g. if the definition of 'white' be 'a colour which pierces the vision',
 then that is whiter which is in a greater degree a colour that pierces
 the vision.
 
-Part 6
+## Part 6
 
 If the question be put in a particular and not in a universal form,
 in the first place the universal constructive or destructive commonplace
@@ -2030,7 +2030,7 @@ and in this manner.
 
 # BOOK IV
 
-Part 1
+## Part 1
 
 Next we must go on to examine questions relating to Genus and Property.
 These are elements in the questions that relate to definitions, but
@@ -2143,7 +2143,7 @@ For the aforesaid term is not the genus of divisible lines, and these
 do not differ as regards their species from indivisible: for straight
 lines are never different from each other as regards their species.
 
-Part 2
+## Part 2
 
 Look and see, also, if there be any other genus of the given species
 which neither embraces the genus rendered nor yet falls under it,
@@ -2286,7 +2286,7 @@ then neither of the terms stated could be its genus or its differentia:
 for the general view is that the genus and the differentia accompany
 the species, as long as it exists.
 
-Part 3
+## Part 3
 
 Look and see, also, if what is placed in the genus partakes or could
 possibly partake of any contrary of the genus: for in that case the
@@ -2383,7 +2383,7 @@ to all; e.g. if justice be a particular form of knowledge, then also
 if any of these things be not so, then neither is any of the rest
 of them.
 
-Part 4
+## Part 4
 
 Again, consider the case of things that bear a like relation to one
 another. Thus (e.g.) the relation of the pleasant to pleasure is like
@@ -2542,7 +2542,7 @@ that 'abiding' is the genus of memory, or to allege that it is an
 accident of it. For if in any way whatever memory be the abiding of
 knowledge, the same argument in regard to it will apply.
 
-Part 5
+## Part 5
 
 Again, see if he has placed what is a 'state' inside the genus 'activity',
 or an activity inside the genus 'state', e.g. by defining 'sensation'
@@ -2697,7 +2697,7 @@ species. Likewise neither is wine 'fermented water', as Empedocles
 speaks of 'water fermented in wood';' for it simply is not water at
 all.
 
-Part 6
+## Part 6
 
 Moreover, see whether the term rendered fail to be the genus of anything
 at all; for then clearly it also fails to be the genus of the species
@@ -2843,7 +2843,7 @@ the ways described.
 
 # BOOK V
 
-Part 1
+## Part 1
 
 The question whether the attribute stated is or is not a property,
 should be examined by the following methods:
@@ -2926,7 +2926,7 @@ it belongs to the one thing and not to the other: on the other hand,
 permanent and essential properties should be considered by the following
 methods.
 
-Part 2
+## Part 2
 
 First, see whether the property has or has not been rendered correctly.
 Of a rendering being incorrect or correct, one test is to see whether
@@ -3076,7 +3076,7 @@ liquid to be a 'body adaptable to every shape' has rendered as its
 property a single character and not several, and so the property of
 'liquid' would in this respect have been correctly stated.
 
-Part 3
+## Part 3
 
 Next, for destructive purposes, see whether he has employed either
 the actual subject whose property he is rendering, or any of its species:
@@ -3216,7 +3216,7 @@ knowledge', has rendered the property after placing the subject within
 its essence, and so the property of 'man' would in this respect have
 been correctly rendered.
 
-Part 4
+## Part 4
 
 The inquiry, then, whether the property has been correctly rendered
 or no, should be made by these means. The question, on the other hand,
@@ -3390,7 +3390,7 @@ of Science is wrong too: one should say not 'it' but 'she is incontrovertible
 by argument'. For against an objector who sticks at nothing the defence
 should stick at nothing.
 
-Part 5
+## Part 5
 
 Next, for destructive purposes, see if, while intending to render
 an attribute that naturally belongs, he states it in his language
@@ -3540,7 +3540,7 @@ falls downwards, it is a property of the various particular pieces
 of earth taken as 'the Earth', so that it would be a property of 'earth'
 'naturally to fall downwards'.
 
-Part 6
+## Part 6
 
 Next, look from the point of view of the respective opposites, and
 first (a) from that of the contraries, and see, for destructive purposes,
@@ -3683,7 +3683,7 @@ of the inflexion of the other opposite. Thus (e.g.) inasmuch as 'best'
 is a property of 'the good', 'worst' also will be a property of 'the
 evil'.
 
-Part 7
+## Part 7
 
 Next, look from the point of view of things that are in a like relation,
 and see, for destructive purposes, if what is in a relation like that
@@ -3770,7 +3770,7 @@ belongs to 'living-creature-itself' to be compounded of soul and body,
 and further this belongs to it qua 'living-creature', it would be
 a property of 'living-creature' to be compounded of soul and body.
 
-Part 8
+## Part 8
 
 Next look from the point of view of greater and less degrees, and
 first (a) for destructive purposes, see if what is more-P fails to
@@ -3939,7 +3939,7 @@ respect have been correctly stated.
 
 # BOOK VI
 
-Part 1
+## Part 1
 
 The discussion of Definitions falls into five parts. For you have
 to show either (1) that it is not true at all to apply the expression
@@ -3983,7 +3983,7 @@ is necessary: for all additional matter in a definition is superfluous.
 Again, each of the aforesaid branches is divided into a number of
 others.
 
-Part 2
+## Part 2
 
 One commonplace rule, then, in regard to obscurity is, See if the
 meaning intended by the definition involves an ambiguity with any
@@ -4039,7 +4039,7 @@ stated by itself, it is not evident what it defines: just as in the
 works of the old painters, unless there were an inscription, the figures
 used to be unrecognizable.
 
-Part 3
+## Part 3
 
 If, then, the definition be not clear, you should proceed to examine
 on lines such as these. If, on the other hand, he has phrased the
@@ -4132,7 +4132,7 @@ what makes for health in animals and men', or 'the law' as 'the image
 of what is by nature noble and just'; for what is just is a branch
 of what is noble, so that he says the same thing more than once.
 
-Part 4
+## Part 4
 
 Whether, then, a man defines a thing correctly or incorrectly you
 should proceed to examine on these and similar lines. But whether
@@ -4266,7 +4266,7 @@ that virtue is a certain kind of good: likewise, also, whoever employs
 the term 'half' employs the term 'even', for to be 'divided in half'
 means to be divided into two, and two is even.
 
-Part 5
+## Part 5
 
 Generally speaking, then, one commonplace rule relates to the failure
 to frame the expression by means of terms that are prior and more
@@ -4326,7 +4326,7 @@ of by name. On the other hand, he who mentions merely the higher genus
 by itself, does not state the subordinate genus as well: in saying
 'plant' a man does not specify 'a tree'.
 
-Part 6
+## Part 6
 
 Again, in regard to the differentiae, we must examine in like manner
 whether the differentiae, too, that he has stated be those of the
@@ -4555,7 +4555,7 @@ the present only or past, whereas what is meant by the word does not
 so belong, then the two could not be the same. So, then, this commonplace
 rule ought to be followed, as we have said.
 
-Part 7
+## Part 7
 
 You should look and see also whether the term being defined is applied
 in consideration of something other than the definition rendered.
@@ -4608,7 +4608,7 @@ Moreover, of both genera and differentiae and all the other terms
 rendered in definitions you should frame definitions in lieu of the
 terms, and then see if there be any discrepancy between them.
 
-Part 8
+## Part 8
 
 If the term defined be relative, either in itself or in respect of
 its genus, see whether the definition fails to mention that to which
@@ -4673,7 +4673,7 @@ and absolute wishing is for the absolutely good; they therefore cannot
 be for an apparent good or an apparently pleasant: for the existence
 of an absolutely-apparently-good or pleasant would be an absurdity.
 
-Part 9
+## Part 9
 
 Moreover, if the definition be of the state of anything, look at what
 is in the state, while if it be of what is in the state, look at the
@@ -4762,7 +4762,7 @@ no knowledge, but rather that which has been deceived, and for this
 reason we do not talk of inanimate things or of children as 'erring'.
 'Error', then, is not used to denote a mere privation of knowledge.
 
-Part 10
+## Part 10
 
 Moreover, see whether the like inflexions in the definition apply
 to the like inflexions of the term; e.g. if 'beneficial' means 'productive
@@ -4828,7 +4828,7 @@ the people, yet in a question of terminology one is bound to employ
 the received and traditional usage and not to upset matters of that
 sort.
 
-Part 11
+## Part 11
 
 Suppose now that a definition has been rendered of some complex term,
 take away the definition of one of the elements in the complex, and
@@ -4894,7 +4894,7 @@ be used in several senses, the sense here intended requires to be
 defined. So that this will either discredit the definition or prove
 that it is no definition at all.
 
-Part 12
+## Part 12
 
 Again, see if the term of which he renders the definition is a reality,
 whereas what is contained in the definition is not, e.g. Suppose 'white'
@@ -4948,7 +4948,7 @@ and it is better for a thing to be desirable in itself than to be
 desirable for something else, so that this is rather what the definition
 too ought to have indicated.
 
-Part 13
+## Part 13
 
 See also whether in defining anything a man has defined it as an 'A
 and B', or as a 'product of A and B' or as an 'A+B'. If he defines
@@ -5067,7 +5067,7 @@ of a consciousness of this sort that the pain occurs; but to occur
 'because of' a thing is not the same as to occur '+ a thing' in any
 of its aforesaid senses.
 
-Part 14
+## Part 14
 
 Again, if he have described the whole compounded as the 'composition'
 of these things (e.g. 'a living creature' as a 'composition of soul
@@ -5125,7 +5125,7 @@ As to definitions, then, let so much suffice.
 
 # BOOK VII
 
-Part 1
+## Part 1
 
 Whether two things are 'the same' or 'different', in the most literal
 of the meanings ascribed to 'sameness' (and we said' that 'the same'
@@ -5231,7 +5231,7 @@ the same in that sense that we are concerned.
 Moreover, see whether the one can exist without the other; for, if
 so, they could not be the same.
 
-Part 2
+## Part 2
 
 Such is the number of the commonplace rules that relate to 'sameness'.
 It is clear from what has been said that all the destructive commonplaces
@@ -5244,7 +5244,7 @@ to show the sameness of content between the expression and the term,
 in order to establish that the former is a definition, but a definition
 must have also all the other characters already announced.
 
-Part 3
+## Part 3
 
 This then is the way, and these the arguments, whereby the attempt
 to demolish a definition should always be made. If, on the other hand,
@@ -5347,7 +5347,7 @@ use when a single definition is compared with two things, or two definitions
 with one thing; for there cannot possibly be one definition of two
 things or two of the same thing.
 
-Part 4
+## Part 4
 
 The most handy of all the commonplace arguments are those just mentioned
 and those from co-ordinates and inflexions, and these therefore are
@@ -5364,7 +5364,7 @@ as though it were something different. So too if any other of the
 commonplace rules is of general application and effective, it should
 be employed.
 
-Part 5
+## Part 5
 
 That it is more difficult to establish than to overthrow a definition,
 is obvious from considerations presently to be urged. For to see for
@@ -5489,7 +5489,7 @@ been enumerated at about sufficient length.
 
 # BOOK VIII
 
-Part 1
+## Part 1
 
 Next there fall to be discussed the problems of arrangement and method
 in pitting questions. Any one who intends to frame questions must,
@@ -5658,7 +5658,7 @@ the illustrations be relevant and drawn from things that we know,
 as in Homer and not as in Choerilus; for then the proposition is likely
 to become clearer.
 
-Part 2
+## Part 2
 
 In dialectics, syllogism should be employed in reasoning against dialecticians
 rather than against the crowd: induction, on the other hand, is most
@@ -5778,7 +5778,7 @@ consists of a small number of premisses. If, on the other hand, he
 does it because the person questioned does not answer the questions,
 he is at fault in not taking him to task or breaking off the discussion.
 
-Part 3
+## Part 3
 
 There are certain hypotheses upon which it is at once difficult to
 bring, and easy to stand up to, an argument. Such (e.g.) are those
@@ -5858,7 +5858,7 @@ of its truth. Clearly, then, the circumstances under which such admissions
 should be claimed are different for a mere questioner and for a serious
 teacher.
 
-Part 4
+## Part 4
 
 As to the formulation, then, and arrangement of one's questions, about
 enough has been said.
@@ -5873,7 +5873,7 @@ only his position: for one may, perhaps, distinguish between the mistake
 of taking up a wrong position to start with, and that of not maintaining
 it properly, when once taken up.
 
-Part 5
+## Part 5
 
 Inasmuch as no rules are laid down for those who argue for the sake
 of training and of examination:-and the aim of those engaged in teaching
@@ -5949,7 +5949,7 @@ one has to say so. The same thing is done also by those who take on
 the defence of one another's positions; their aim being to speak as
 would the man who stated the position.
 
-Part 6
+## Part 6
 
 It is clear, then, what the aims of the answerer should be, whether
 the position he lays down be a view generally accepted without qualification
@@ -5980,7 +5980,7 @@ who try to draw an inference from premisses more generally rejected
 than the conclusion clearly do not reason correctly: hence, when men
 ask these things, they ought not to be granted.
 
-Part 7
+## Part 7
 
 The questioner should be met in a like manner also in the case of
 terms used obscurely, i.e. in several senses. For the answerer, if
@@ -6004,7 +6004,7 @@ I meant the other sense': for if a term or expression covers more
 than one thing, it is easy to disagree. If, however, the question
 is both clear and simple, he should answer either 'Yes' or 'No'.
 
-Part 8
+## Part 8
 
 A premiss in reasoning always either is one of the constituent elements
 in the reasoning, or else goes to establish one of these: (and you
@@ -6030,7 +6030,7 @@ to bring against it, clearly he is ill-tempered: for ill-temper in
 argument consists in answering in ways other than the above, so as
 to wreck the reasoning.
 
-Part 9
+## Part 9
 
 Before maintaining either a thesis or a definition the answerer should
 try his hand at attacking it by himself; for clearly his business
@@ -6047,7 +6047,7 @@ is better than to suffer it. For people then hate him, supposing him
 to maintain them not for the sake of argument but because he really
 thinks them.
 
-Part 10
+## Part 10
 
 Of all arguments that reason to a false conclusion the right solution
 is to demolish the point on which the fallacy that occurs depends:
@@ -6092,7 +6092,7 @@ There are then, as we said, four ways of making objections: but of
 them the first alone is a solution: the others are just hindrances
 and stumbling-blocks to prevent the conclusions.
 
-Part 11
+## Part 11
 
 Adverse criticism of an argument on its own merits, and of it when
 presented in the form of questions, are two different things. For
@@ -6232,7 +6232,7 @@ therefore 'this will be opinion in a more accurate sense'. Wherein
 lies the viciousness of the reasoning? Simply in that it conceals
 the ground on which the argument depends.
 
-Part 12
+## Part 12
 
 An argument is clear in one, and that the most ordinary, sense, if
 it be so brought to a conclusion as to make no further questions necessary:
@@ -6277,7 +6277,7 @@ rejected, it is bad: if they be both false and also entirely contrary
 to general opinion, clearly it is bad, either altogether or else in
 relation to the particular matter in hand.
 
-Part 13
+## Part 13
 
 Of the ways in which a questioner may beg the original question and
 also beg contraries the true account has been given in the Analytics:'
@@ -6329,7 +6329,7 @@ that we tell that the original question has been begged: whereas contrary
 views lie in the premisses, viz. in a certain relation which they
 bear to one another.
 
-Part 14
+## Part 14
 
 The best way to secure training and practice in arguments of this
 kind is in the first place to get into the habit of converting the
