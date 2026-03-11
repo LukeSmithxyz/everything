@@ -1,5 +1,5 @@
 ---
-title: "Tiberius and caius gracchus with agis and kleomenes"
+title: "Tiberius and Caius Gracchus with Agis and Kleomenes"
 author: "Plutarch"
 params:
  translator: "George Long and Aubrey Stewart"

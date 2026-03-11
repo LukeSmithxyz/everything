@@ -1,6 +1,8 @@
 ---
 title: "Life of Plutarch"
 author: "George Long"
+params:
+ order: 0
 ---
 
 Plutarch was born probably between A.D. 45 and A.D. 50, at the little

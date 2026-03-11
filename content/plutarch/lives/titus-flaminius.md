@@ -1,5 +1,5 @@
 ---
-title: "Titus flamininus"
+title: "Titus Flamininus"
 author: "Plutarch"
 params:
  translator: "George Long and Aubrey Stewart"

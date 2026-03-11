@@ -1,5 +1,5 @@
 ---
-title: "Sertorius and eumenes"
+title: "Sertorius and Eumenes"
 author: "Plutarch"
 params:
  translator: "George Long and Aubrey Stewart"

@@ -1,5 +1,5 @@
 ---
-title: "Nikias and crassus"
+title: "Nikias and Crassus"
 author: "Plutarch"
 params:
  translator: "George Long and Aubrey Stewart"

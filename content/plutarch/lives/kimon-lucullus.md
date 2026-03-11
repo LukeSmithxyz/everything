@@ -1,5 +1,5 @@
 ---
-title: "Kimon and lucullus"
+title: "Kimon and Lucullus"
 author: "Plutarch"
 params:
  translator: "George Long and Aubrey Stewart"

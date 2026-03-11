@@ -1,5 +1,5 @@
 ---
-title: "Philopœmen and titus"
+title: "Philopœmen and Titus"
 author: "Plutarch"
 params:
  translator: "George Long and Aubrey Stewart"

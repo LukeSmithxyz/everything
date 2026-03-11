@@ -1,5 +1,5 @@
 ---
-title: "Of pelopidas with marcellus"
+title: "Pelopidas with Marcellus"
 author: "Plutarch"
 params:
  translator: "George Long and Aubrey Stewart"

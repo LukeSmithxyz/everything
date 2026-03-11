@@ -1,5 +1,5 @@
 ---
-title: "Lysande"
+title: "Lysander"
 author: "Plutarch"
 params:
  translator: "George Long and Aubrey Stewart"

@@ -1,5 +1,5 @@
 ---
-title: "Aristeides and cato"
+title: "Aristeides and Cato"
 author: "Plutarch"
 params:
  translator: "George Long and Aubrey Stewart"

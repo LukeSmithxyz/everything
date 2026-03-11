@@ -1,5 +1,5 @@
 ---
-title: "Tiberius gracchus"
+title: "Tiberius Gracchus"
 author: "Plutarch"
 params:
  translator: "George Long and Aubrey Stewart"

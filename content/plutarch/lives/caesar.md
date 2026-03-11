@@ -1,5 +1,5 @@
 ---
-title: "C. cæsar"
+title: "C. Caesar"
 author: "Plutarch"
 params:
  translator: "George Long and Aubrey Stewart"
