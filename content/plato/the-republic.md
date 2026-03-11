@@ -1,6 +1,8 @@
 ﻿---
 title: "The Republic"
 author: "Plato"
+params:
+ translator: "Benjamin Jowett"
 ---
 
 # BOOK I.

@@ -1,77 +1,9 @@
 ﻿---
 title: "Alcibiades II"
 author: "Plato"
+params:
+ translator: "Benjamin Jowett"
 ---
-
-
-
-Produced by Sue Asscher
-
-
-
-
-
-ALCIBIADES II
-
-by An Imatator of Plato
-
-(see Appendix II)
-
-Translated by Benjamin Jowett
-
-
-
-
-APPENDIX II.
-
-The two dialogues which are translated in the second appendix are not
-mentioned by Aristotle, or by any early authority, and have no claim
-to be ascribed to Plato. They are examples of Platonic dialogues to be
-assigned probably to the second or third generation after Plato, when
-his writings were well known at Athens and Alexandria. They exhibit
-considerable originality, and are remarkable for containing several
-thoughts of the sort which we suppose to be modern rather than ancient,
-and which therefore have a peculiar interest for us. The Second
-Alcibiades shows that the difficulties about prayer which have perplexed
-Christian theologians were not unknown among the followers of Plato.
-The Eryxias was doubted by the ancients themselves: yet it may claim the
-distinction of being, among all Greek or Roman writings, the one which
-anticipates in the most striking manner the modern science of political
-economy and gives an abstract form to some of its principal doctrines.
-
-For the translation of these two dialogues I am indebted to my friend
-and secretary, Mr. Knight.
-
-That the Dialogue which goes by the name of the Second Alcibiades is a
-genuine writing of Plato will not be maintained by any modern critic,
-and was hardly believed by the ancients themselves. The dialectic is
-poor and weak. There is no power over language, or beauty of style; and
-there is a certain abruptness and agroikia in the conversation, which
-is very un-Platonic. The best passage is probably that about the
-poets:--the remark that the poet, who is of a reserved disposition, is
-uncommonly difficult to understand, and the ridiculous interpretation of
-Homer, are entirely in the spirit of Plato (compare Protag; Ion; Apol.).
-The characters are ill-drawn. Socrates assumes the 'superior person' and
-preaches too much, while Alcibiades is stupid and heavy-in-hand. There
-are traces of Stoic influence in the general tone and phraseology of the
-Dialogue (compare opos melesei tis...kaka: oti pas aphron mainetai):
-and the writer seems to have been acquainted with the 'Laws' of Plato
-(compare Laws). An incident from the Symposium is rather clumsily
-introduced, and two somewhat hackneyed quotations (Symp., Gorg.) recur.
-The reference to the death of Archelaus as having occurred 'quite
-lately' is only a fiction, probably suggested by the Gorgias, where the
-story of Archelaus is told, and a similar phrase occurs;--ta gar echthes
-kai proen gegonota tauta, k.t.l. There are several passages which
-are either corrupt or extremely ill-expressed. But there is a modern
-interest in the subject of the dialogue; and it is a good example of
-a short spurious work, which may be attributed to the second or third
-century before Christ.
-
-
-
-
-ALCIBIADES II
-
 
 PERSONS OF THE DIALOGUE: Socrates and Alcibiades.
 
