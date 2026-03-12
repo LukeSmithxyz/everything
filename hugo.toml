@@ -3,3 +3,6 @@ languageCode = 'en-us'
 title = 'My New Hugo Project'
 
 pluralizelisttitles = "false"
+
+[params]
+ #nextprev = "true"

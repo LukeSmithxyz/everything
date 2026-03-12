@@ -1,4 +1,10 @@
+---
+title: "TODO"
+---
+
 # todo
+
+## works to add
 
 - church:
 	- format the Bible
@@ -20,3 +26,7 @@
     - https://sites.pitt.edu/~dash/folklinks.html
 - literature
     - https://adamgagewalker.substack.com/p/the-complete-english-literature-reading
+
+## site funcionality
+
+- Get next/prev functions working for works sorted by `order`. Might be a solution here: https://gist.github.com/rordi/eab8606b377638eeaa984367bde0a2d0 . The issue is that Hugo can only naturally get `Next` or `Prev` articles sorted by name/date/weight/linktitle. We want the custom param `order` or something else.
