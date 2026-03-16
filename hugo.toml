@@ -6,3 +6,9 @@ pluralizelisttitles = "false"
 
 [params]
  #nextprev = "true"
+
+[markup]
+ [markup.goldmark]
+  [markup.goldmark.parser]
+   [markup.goldmark.parser.attribute]
+    block = true
