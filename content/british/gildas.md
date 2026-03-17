@@ -7,7 +7,6 @@ params:
 
 # Preface
 
-
 §1. Whatever in this my epistle I may write in my humble but
 well-meaning manner, rather by way of lamentation than for display, let
 no one suppose that it springs from contempt of others, or that I
@@ -21,7 +20,7 @@ been valiant in the field. I have kept silence, I confess, with
 much mental anguish, compunction of feeling and contrition of heart,
 whilst I revolved all these things within myself; and, as God the
 searcher of the reins is witness, for the space of even ten years or
-more, [ my inexperience, as at present also, and my unworthiness
+more, [[^229] my inexperience, as at present also, and my unworthiness
 preventing me from taking upon myself the character of a censor. But I
 read how the illustrious lawgiver, for one word's doubting, was not
 allowed to enter the desired land; that the sons of the high-priest, for
@@ -134,22 +133,25 @@ rebellion, second subjection and dreadful slavery--of her religion,
 persecution, holy martyrs, heresies of different kinds--of her tyrants,
 her two hostile and ravaging nations--of her first devastation, her
 defence, her second devastation and second taking vengeance--of her
-third devastation, of her famine, and the letters to Agitius--of
+third devastation, of her famine, and the letters to Agitius[^230]--of
 her victory and her crimes--of the sudden rumour of enemies--of her
 famous pestilence--of her counsels--of her last enemy, far more cruel
 than the first--of the subversion of her cities, and of the remnant that
 escaped; and finally, of the peace which, by the will of God, has been
 granted her in these our times.
 
+[^229]: All that follows, enclosed within brackets, up to page
+298, is omitted in some copies.
 
-# The History
+[^230]: Or Ætius, see page 307.
 
+# History
 
 §3. The island of Britain, situated on almost the utmost border of the
 earth, towards the south and west, and poised in the divine balance, as
 it is said, which supports the whole world, stretches out from the
 south-west towards the north pole, and is eight hundred miles long and
-two hundred broad, except where the headlands of sundry
+two hundred broad,[^231] except where the headlands of sundry
 promontories stretch farther into the sea. It is surrounded by the
 ocean, which forms winding bays, and is strongly defended by this ample,
 and, if I may so call it, impassable barrier, save on the south side,
@@ -167,7 +169,7 @@ feet of man, give it the appearance of a lovely picture. It is decked,
 like a man's chosen bride, with divers jewels, with lucid fountains and
 abundant brooks wandering over the snow white sands; with transparent
 rivers, flowing in gentle murmurs, and offering a sweet pledge of
-slumber to those who recline upon their banks, whilst it is
+slumber[^232] to those who recline upon their banks, whilst it is
 irrigated by abundant lakes, which pour forth cool torrents of
 refreshing water.
 
@@ -193,7 +195,7 @@ divine honour. I shall also pass over the bygone times of our cruel
 tyrants, whose notoriety was spread over to far distant countries; so
 that Porphyry, that dog who in the east was always so fierce against the
 church, in his mad and vain style added this also, that "Britain is a
-land fertile in tyrants." I will only endeavour to relate the
+land fertile in tyrants."[^233] I will only endeavour to relate the
 evils which Britain suffered in the times of the Roman emperors, and
 also those which she caused to distant states; but so far as lies in my
 power, I shall not follow the writings and records of my own country,
@@ -275,7 +277,7 @@ martyrs, whose places of burial and of martyrdom, had they not for our
 manifold crimes been interfered with and destroyed by the barbarians,
 would have still kindled in the minds of the beholders no small fire of
 divine charity. Such were St. Alban of Verulam, Aaron and Julius,
-citizens of Carlisle, and the rest, of both sexes, who in different
+citizens of Carlisle,[^235] and the rest, of both sexes, who in different
 places stood their ground in the Christian contest.
 
 §11. The first of these martyrs, St. Alban, for charity's sake saved
@@ -414,7 +416,7 @@ the sea; and then left the island never to return.
 §19. No sooner were they gone, than the Picts and Scots, like worms
 which in the heat of mid-day come forth from their holes, hastily land
 again from their canoes, in which they had been carried beyond the
-Cichican valley, differing one from another in manners, but
+Cichican[^236] valley, differing one from another in manners, but
 inspired with the same avidity for blood, and all more eager to shroud
 their villainous faces in bushy hair than to cover with decent clothing
 those parts of their body which required it. Moreover, having heard of
@@ -438,8 +440,8 @@ fellow countrymen. Thus foreign calamities were augmented by domestic
 feuds; so that the whole country was entirely destitute of provisions,
 save such as could be procured in the chase.
 
-§20. Again, therefore, the wretched remnant, sending to AEtius, a
-powerful Roman citizen, address him as follows:--"To AEtius, now
+§20. Again, therefore, the wretched remnant, sending to Ætius, a
+powerful Roman citizen, address him as follows:--"To Ætius,[^237] now
 consul for the third time: the groans of the Britons." And again a
 little further, thus:--"The barbarians drive us to the sea: the sea
 throws us back on the barbarians: thus two modes of death await us, we
@@ -490,7 +492,7 @@ valued things alike whether pleasing or displeasing to God, unless it so
 happened that what displeased him was pleasing to themselves. So that
 the words of the prophet, addressed to the people of old, might well be
 applied to our own countrymen: "Children without a law, have ye left God
-and provoked to anger the holy one of Israel? Why will ye still
+and provoked to anger the holy one of Israel?[^238] Why will ye still
 inquire, adding iniquity? Every head is languid and every heart is sad;
 from the sole of the foot to the crown, there is no health in him." And
 thus they did all things contrary to their salvation, as if no remedy
@@ -578,7 +580,7 @@ whilst the sword gleamed, and the flames crackled around them on every
 side. Lamentable to behold, in the midst of the streets lay the tops of
 lofty towers, tumbled to the ground, stones of high walls, holy altars,
 fragments of human bodies, covered with livid clots of coagulated blood,
-looking as if they had been squeezed together in a press; and with
+looking as if they had been squeezed together in a press;[^239] and with
 no chance of being buried, save in the ruins of the houses, or in the
 ravening bellies of wild beasts and birds; with reverence be it spoken
 for their blessed souls, if, indeed, there were many found who were
@@ -651,10 +653,34 @@ to Christ, who is our blessed God, world without end.
 For why shall their countrymen conceal what foreign nations round about
 now not only know, but also continually are casting in their teeth?
 
+[^231]: The description of Britain is given in very nearly the
+same terms, by Orosius, Bede, and others, but the numbers, denoting the
+length and breadth and other dimensions, are different in almost every
+MS. copy.
 
+[^232]: "Soporem" in some MSS., "saporem" in others; it is
+difficult from the turgidity and superabundance of the style to
+determine which is the best meaning.
 
-# The Epistle
+[^233]: Gildas here confuses the modern idea of a tyrant with
+that of an usurper. The latter is the sense in which Britain was said to
+be fertile in tyrants, viz. in usurpers of the imperial dignity.
 
+[^235]: Or Caerleon. See Bede's *Eccles. Hist.* p. 15, note
+
+[^236]: The meaning of this expression is not known. O'Connor
+thinks it is the Irish Sea.
+
+[^237]: Or _Ayitius_, according to another reading.
+
+[^238]: Isa. i. 4, 5. In most of these quotations there is great
+verbal variation from the authorised version: the author probably quoted
+from memory, if not from the Latin version.
+
+[^239]: These are the words of the old translation; the original
+is obscure, and perhaps corrupt.
+
+# Epistle
 
 §27. Britain has kings, but they are tyrants; she has judges, but
 unrighteous ones; generally engaged in plunder and rapine, but always
@@ -680,8 +706,8 @@ they have stood before the altar, swearing by the name of God, they go
 away and think no more of the holy altar than if it were a mere heap of
 dirty stones.
 
-§28. Of this horrid abomination, Constantine, the tyrannical whelp
-of the unclean lioness of Damnonia, is not ignorant.
+§28. Of this horrid abomination, Constantine,[^240] the tyrannical whelp
+of the unclean lioness of Damnonia,[^241] is not ignorant.
 
 This same year, after taking a dreadful oath (whereby he bound himself
 first before God, by a solemn protestation, and then called all the
@@ -730,7 +756,7 @@ instantly be tossed and tormented in the inevitable and dark floods of
 endless fire.
 
 §30. What dost thou also, thou lion's whelp (as the prophet saith),
-Aurelius Conanus? Art not thou as the former (if not far more foul)
+Aurelius Conanus?[^242] Art not thou as the former (if not far more foul)
 to thy utter destruction, swallowed up in the filthiness of horrible
 murders, fornications, and adulteries, as by an overwhelming flood of
 the sea? Hast not thou by hating, as a deadly serpent, the peace of thy
@@ -757,7 +783,7 @@ and in mischief, whose head now is growing grey, who art seated on a
 throne full of deceits, and from the bottom even to the top art stained
 with murder and adulteries, thou naughty son of a good king, like
 Manasses sprung from Ezechiah, Vortipore, thou foolish tyrant of the
-Demetians, why art thou so stiff? What! do not such violent gulfs
+Demetians,[^243] why art thou so stiff? What! do not such violent gulfs
 of sin (which thou dost swallow up like pleasant wine, nay rather which
 swallow thee up), as yet satisfy thee, especially since the end of thy
 life is daily now approaching? Why dost thou heavily clog thy miserable
@@ -777,7 +803,7 @@ contrite and humbled with fear of him. Otherwise, the worm of thy
 torture shall not die, and the fire of thy burning shall never be
 extinguished.
 
-§32. And thou too, Cuneglasse, why art thou fallen into the filth
+§32. And thou too, Cuneglasse,[^244] why art thou fallen into the filth
 of thy former naughtiness, yea, since the very first spring of thy
 tender youth, thou bear, thou rider and ruler of many, and guider of the
 chariot which is the receptacle of the bear, thou contemner of God, and
@@ -817,7 +843,7 @@ tyrants, as well of their kingdoms as of their lives, and though the
 last-mentioned in my writing, the first in mischief, exceeding many in
 power, and also in malice, more liberal than others in giving, more
 licentious in sinning, strong in arms, but stronger in working thine own
-soul's destruction, Maglocune, why art thou (as if soaked in the
+soul's destruction, Maglocune,[^245] why art thou (as if soaked in the
 wine of the Sodomitical grape) foolishly rolling in that black pool of
 thine offences? Why dost thou wilfully heap like a mountain, upon thy
 kingly shoulders, such a load of sins? Why dost thou show thyself unto
@@ -1138,7 +1164,7 @@ your thoughts from mine eyes: cease to do evil, learn to do well: seek
 for judgment, succour the oppressed, do justice to the pupil or orphan."
 And then assuming as it were the part of a reconciling mediator, he
 adds, "Though your sins shall be as scarlet, they shall be made white
-as snow: though they shall be as red as the little worm, they shall
+as snow: though they shall be as red as the little worm,[^246] they shall
 be as white as wool. If ye shall be willing to hear me, ye shall feed on
 the good things of the land; but if ye will not, but provoke me unto
 wrath, the sword shall devour you."
@@ -2813,7 +2839,7 @@ be piety."
 we any longer, as it were, tossed up and down in the silly boat of our
 simple understanding, on the waves of sundry interpretations? We have
 now therefore at length thought it necessary to have recourse to those
-lessons, which are gathered out of Holy Scriptures, to the end that
+lessons,[^247] which are gathered out of Holy Scriptures, to the end that
 they should not only be rehearsed, but also be assenting and assisting
 unto the benediction, wherewith the hands of priests, and others of
 inferior sacred orders, are first consecrated, and that thereby they may
@@ -3003,3 +3029,29 @@ preserve his few good pastors from all evil, and (the common enemy being
 overcome) make them free inhabitants of the heavenly city of Jerusalem,
 which is the congregation of all saints; grant this, O Father, Son, and
 Holy Ghost, to whom be honour and glory, world without end. Amen.
+
+[^240]: Probably Cystennyn of the Bards. Constantine is a name
+often occurring in the British royal families. The Constantine of Gildas
+is supposed to have been king of Cornwall, who abdicated his throne, and
+afterwards preached the gospel to the Picts and Scots. Some account of
+him will be found in the Aberdeen Breviary, in the Acta Sanctorum,
+March, vol. ii. p. 64, and in Whitaker's Cathedral of Cornwall, i. 325.
+
+[^241]: The present counties of Devon and Cornwall.
+
+[^242]: King of Powisland, which for some time formed a distinct
+kingdom.
+
+[^243]: Inhabitants of the counties of Cardigan, Pembroke, and
+Carmarthen.
+
+[^244]: His dominions were north of Cambria, between the Severn
+and the Western Sea.
+
+[^245]: Probably Maelgwn Gwynedd, king of North Wales.
+
+[^246]: Vermilion, the English version, seems derived from
+_vermes_, a worm.
+
+[^247]: Gildas, in this and the following section, evidently
+alludes to the Ordination Ritual of the Ancient British Church.
