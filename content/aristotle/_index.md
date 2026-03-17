@@ -1,5 +1,6 @@
 ---
 title: "Aristotle"
+author: "Aristotle"
 ---
 
 # todo

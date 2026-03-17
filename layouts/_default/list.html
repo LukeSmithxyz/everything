@@ -8,11 +8,10 @@
 <li>
 	{{- if .Param "datesinlist" }}<time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "2006 Jan 02" }}</time> &ndash; {{ end -}}
 	<a href="{{ .RelPermalink }}">{{ .Title }}</a>
+	{{- if ne .Parent.Params.author .Params.author }}
 	{{- if .Param "authorsinlist" }}
-	{{ with .Params.authors }}
-		by
-		{{ delimit . ", " " and " }}
-	{{end}}
+	{{- with .Params.author }} by {{ . -}}{{end -}}
+	{{ end -}}
 	{{ end -}}
 </li>
 {{- end }}

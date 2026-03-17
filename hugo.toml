@@ -6,6 +6,7 @@ pluralizelisttitles = "false"
 
 [params]
  #nextprev = "true"
+ authorsinlist = true
 
 [markup]
  [markup.goldmark]

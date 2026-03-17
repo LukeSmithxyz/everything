@@ -19,11 +19,14 @@
 <main>
 <a href="{{ .Site.Home.RelPermalink }}"><header>
 	<h1 id="tag_{{ replaceRE "(\\s)" "-" .Title }}">{{ block "title" . }}{{ end }}</h1>
-	{{- with .Param "subtitle" }}
-	<h2>{{ . }}</h2>
-	{{- end }}
 </header></a>
 <article>
+{{- with .Param "subtitle" }}
+<h2>{{ . }}</h2>
+{{- end }}
+{{- with .Param "author" }}
+{{ . }}
+{{- end }}
 {{ block "main" . -}}
 {{- .Content -}}
 {{ end -}}
