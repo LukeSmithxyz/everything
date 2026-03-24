@@ -1,6 +1,9 @@
 ---
-title: "XVI. How Paulinus preached in the province of Lindsey; and of the character of the reign of Edwin. [_Circ._ 628 A.D.]"
-author: "Bede"
+title: "XVI. How Paulinus preached in the province of Lindsey; and of the character of the reign of Edwin."
+author: "The Venerable Bede"
+params:
+ order: 50
+ humandate: "_Circ._ 628 A.D."
 ---
 
 

@@ -1,6 +1,9 @@
 ---
-title: "XX. How Edwin being slain, Paulinus returned into Kent, and had the bishopric of Rochester conferred upon him. [633 A.D.]"
-author: "Bede"
+title: "XX. How Edwin being slain, Paulinus returned into Kent, and had the bishopric of Rochester conferred upon him."
+author: "The Venerable Bede"
+params:
+ order: 54
+ humandate: "633 A.D."
 ---
 
 

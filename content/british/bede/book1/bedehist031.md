@@ -1,6 +1,9 @@
 ---
-title: "XXXI. How Pope Gregory, by letter, exhorted Augustine not to glory in his miracles. [601 A.D.]"
-author: "Bede"
+title: "XXXI. How Pope Gregory, by letter, exhorted Augustine not to glory in his miracles."
+author: "The Venerable Bede"
+params:
+ order: 31
+ humandate: "601 A.D."
 ---
 
 

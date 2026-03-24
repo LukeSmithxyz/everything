@@ -1,6 +1,9 @@
 ---
-title: "VII. How Bishop Mellitus by prayer quenched a fire in his city. [619 A.D.]"
-author: "Bede"
+title: "VII. How Bishop Mellitus by prayer quenched a fire in his city."
+author: "The Venerable Bede"
+params:
+ order: 41
+ humandate: "619 A.D."
 ---
 
 

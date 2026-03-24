@@ -1,6 +1,9 @@
 ---
-title: "XVII. How Edwin received letters of exhortation from Pope Honorius, who also sent the pall to Paulinus. [634 A.D.]"
-author: "Bede"
+title: "XVII. How Edwin received letters of exhortation from Pope Honorius, who also sent the pall to Paulinus."
+author: "The Venerable Bede"
+params:
+ order: 51
+ humandate: "634 A.D."
 ---
 
 

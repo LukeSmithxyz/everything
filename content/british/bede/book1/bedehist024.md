@@ -1,6 +1,9 @@
 ---
-title: "XXIV. How he wrote to the bishop of Arles to entertain them. [596 A.D.]"
-author: "Bede"
+title: "XXIV. How he wrote to the bishop of Arles to entertain them."
+author: "The Venerable Bede"
+params:
+ order: 24
+ humandate: "596 A.D."
 ---
 
 

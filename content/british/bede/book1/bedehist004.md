@@ -1,6 +1,9 @@
 ---
 title: "IV. How Lucius, king of Britain, writing to Pope Eleutherus, desired to be made a Christian."
-author: "Bede"
+author: "The Venerable Bede"
+params:
+ order: 4
+ humandate: ""
 ---
 
 

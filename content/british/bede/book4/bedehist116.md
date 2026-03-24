@@ -1,6 +1,9 @@
 ---
 title: "XXXII. Of one who was lately cured of a disease in his eye at the relics of St. Cuthbert."
-author: "Bede"
+author: "The Venerable Bede"
+params:
+ order: 116
+ humandate: ""
 ---
 
 

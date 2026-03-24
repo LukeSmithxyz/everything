@@ -1,6 +1,9 @@
 ---
-title: "XXVIII. How the same St. Cuthbert, living the life of an Anchorite, by his prayers obtained a spring in a dry soil, and had a crop from seed sown by the labour of his hands out of season. [676 A.D.]"
-author: "Bede"
+title: "XXVIII. How the same St. Cuthbert, living the life of an Anchorite, by his prayers obtained a spring in a dry soil, and had a crop from seed sown by the labour of his hands out of season."
+author: "The Venerable Bede"
+params:
+ order: 112
+ humandate: "676 A.D."
 ---
 
 

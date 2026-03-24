@@ -1,6 +1,9 @@
 ---
 title: "XVI. The account given in the aforesaid book of the place of our Lord’s Nativity, Passion, and Resurrection."
-author: "Bede"
+author: "The Venerable Bede"
+params:
+ order: 132
+ humandate: ""
 ---
 
 

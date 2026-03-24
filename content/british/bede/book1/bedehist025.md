@@ -1,6 +1,9 @@
 ---
-title: "XXV. How Augustine, coming into Britain, first preached in the Isle of Thanet to the King of Kent, and having obtained licence from him, went into Kent, in order to preach therein. [597 A.D.]"
-author: "Bede"
+title: "XXV. How Augustine, coming into Britain, first preached in the Isle of Thanet to the King of Kent, and having obtained licence from him, went into Kent, in order to preach therein."
+author: "The Venerable Bede"
+params:
+ order: 25
+ humandate: "597 A.D."
 ---
 
 

@@ -1,6 +1,9 @@
 ---
-title: "XIII. How Bishop Wilfrid converted the province of the South Saxons to Christ. [681 A.D.]"
-author: "Bede"
+title: "XIII. How Bishop Wilfrid converted the province of the South Saxons to Christ."
+author: "The Venerable Bede"
+params:
+ order: 97
+ humandate: "681 A.D."
 ---
 
 

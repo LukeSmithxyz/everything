@@ -1,6 +1,9 @@
 ---
-title: "X. How Pope Boniface, by letter, exhorted the same king to embrace the faith. [_Circ._ 625 A.D.]"
-author: "Bede"
+title: "X. How Pope Boniface, by letter, exhorted the same king to embrace the faith."
+author: "The Venerable Bede"
+params:
+ order: 44
+ humandate: "_Circ._ 625 A.D."
 ---
 
 

@@ -1,6 +1,9 @@
 ---
-title: "XIX. How Fursa built a monastery among the East Angles, and of his visions and sanctity, to which, his flesh remaining uncorrupted after death bore testimony. [_Circ._ 633 A.D.]"
-author: "Bede"
+title: "XIX. How Fursa built a monastery among the East Angles, and of his visions and sanctity, to which, his flesh remaining uncorrupted after death bore testimony."
+author: "The Venerable Bede"
+params:
+ order: 73
+ humandate: "_Circ._ 633 A.D."
 ---
 
 

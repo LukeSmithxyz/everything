@@ -1,6 +1,9 @@
 ---
-title: "XI. How the venerable Suidbert in Britain, and Wilbrord at Rome, were ordained bishops for Frisland. [692 A.D.]"
-author: "Bede"
+title: "XI. How the venerable Suidbert in Britain, and Wilbrord at Rome, were ordained bishops for Frisland."
+author: "The Venerable Bede"
+params:
+ order: 127
+ humandate: "692 A.D."
 ---
 
 

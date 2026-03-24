@@ -1,6 +1,9 @@
 ---
 title: "XXXI. Of one that was cured of a palsy at his tomb."
-author: "Bede"
+author: "The Venerable Bede"
+params:
+ order: 115
+ humandate: ""
 ---
 
 There was in that same monastery a brother whose name was Badudegn, who

@@ -1,6 +1,9 @@
 ---
-title: "XXIII. How the holy Pope Gregory sent Augustine, with other monks, to preach to the English nation, and encouraged them by a letter of exhortation, not to desist from their labour. [596 A.D.]"
-author: "Bede"
+title: "XXIII. How the holy Pope Gregory sent Augustine, with other monks, to preach to the English nation, and encouraged them by a letter of exhortation, not to desist from their labour."
+author: "The Venerable Bede"
+params:
+ order: 23
+ humandate: "596 A.D."
 ---
 
 

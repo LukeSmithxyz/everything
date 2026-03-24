@@ -1,6 +1,9 @@
 ---
-title: "XII. How one in the province of the Northumbrians, rose from the dead, and related many things which he had seen, some to be greatly dreaded and some to be desired. [Circ. 696 A.D.]"
-author: "Bede"
+title: "XII. How one in the province of the Northumbrians, rose from the dead, and related many things which he had seen, some to be greatly dreaded and some to be desired."
+author: "The Venerable Bede"
+params:
+ order: 128
+ humandate: "Circ. 696 A.D."
 ---
 
 

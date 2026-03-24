@@ -1,6 +1,9 @@
 ---
 title: "I. Of the Situation of Britain and Ireland, and of their ancient inhabitants."
-author: "Bede"
+author: "The Venerable Bede"
+params:
+ order: 1
+ humandate: ""
 ---
 
 

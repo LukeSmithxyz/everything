@@ -1,6 +1,9 @@
 ---
-title: "XVI. How the Isle of Wight received Christian inhabitants, and two royal youths of that island were killed immediately after Baptism. [686 A.D.]"
-author: "Bede"
+title: "XVI. How the Isle of Wight received Christian inhabitants, and two royal youths of that island were killed immediately after Baptism."
+author: "The Venerable Bede"
+params:
+ order: 100
+ humandate: "686 A.D."
 ---
 
 

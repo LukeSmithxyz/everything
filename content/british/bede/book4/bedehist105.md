@@ -1,6 +1,9 @@
 ---
-title: "XXI. How Bishop Theodore made peace between the kings Egfrid and Ethelred. [679 A.D.]"
-author: "Bede"
+title: "XXI. How Bishop Theodore made peace between the kings Egfrid and Ethelred."
+author: "The Venerable Bede"
+params:
+ order: 105
+ humandate: "679 A.D."
 ---
 
 

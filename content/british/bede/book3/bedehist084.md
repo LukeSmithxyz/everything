@@ -1,6 +1,9 @@
 ---
-title: "XXX. How the East Saxons, during a pestilence, returned to idolatry, but were soon brought back from their error by the zeal of Bishop Jaruman. [665 A.D.]"
-author: "Bede"
+title: "XXX. How the East Saxons, during a pestilence, returned to idolatry, but were soon brought back from their error by the zeal of Bishop Jaruman."
+author: "The Venerable Bede"
+params:
+ order: 84
+ humandate: "665 A.D."
 ---
 
 

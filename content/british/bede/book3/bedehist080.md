@@ -1,6 +1,9 @@
 ---
-title: "XXVI. How Colman, being worsted, returned home; and Tuda succeeded him in the bishopric; and of the state of the church under those teachers. [664 A.D.]"
-author: "Bede"
+title: "XXVI. How Colman, being worsted, returned home; and Tuda succeeded him in the bishopric; and of the state of the church under those teachers."
+author: "The Venerable Bede"
+params:
+ order: 80
+ humandate: "664 A.D."
 ---
 
 

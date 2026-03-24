@@ -1,6 +1,9 @@
 ---
-title: "XXI. How, when the Pelagian heresy began to spring up afresh, Germanus, returning to Britain with Severus, first restored bodily strength to a lame youth, then spiritual health to the people of God, having condemned or converted the Heretics. [447 A.D.]"
-author: "Bede"
+title: "XXI. How, when the Pelagian heresy began to spring up afresh, Germanus, returning to Britain with Severus, first restored bodily strength to a lame youth, then spiritual health to the people of God, having condemned or converted the Heretics."
+author: "The Venerable Bede"
+params:
+ order: 21
+ humandate: "447 A.D."
 ---
 
 

@@ -1,6 +1,9 @@
 ---
-title: "VII. How it was indicated by a light from heaven where the bodies of the nuns should be buried in the monastery of Berecingum. [675 A.D.?]"
-author: "Bede"
+title: "VII. How it was indicated by a light from heaven where the bodies of the nuns should be buried in the monastery of Berecingum."
+author: "The Venerable Bede"
+params:
+ order: 91
+ humandate: "675 A.D.?"
 ---
 
 

@@ -1,6 +1,9 @@
 ---
 title: "XXIV. Chronological recapitulation of the whole work: also concerning the author himself."
-author: "Bede"
+author: "The Venerable Bede"
+params:
+ order: 140
+ humandate: "I, 2."
 ---
 
 

@@ -1,6 +1,9 @@
 ---
 title: "XI. How during the reign of Honorius, Gratian and Constantine were created tyrants in Britain; and soon after the former was slain in Britain, and the latter in Gaul."
-author: "Bede"
+author: "The Venerable Bede"
+params:
+ order: 11
+ humandate: ""
 ---
 
 

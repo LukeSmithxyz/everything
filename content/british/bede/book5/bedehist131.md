@@ -1,6 +1,9 @@
 ---
-title: "XV. How divers churches of the Scots, at the instance of Adamnan, adopted the Catholic Easter; and how the same wrote a book about the holy places. [703 A.D.]"
-author: "Bede"
+title: "XV. How divers churches of the Scots, at the instance of Adamnan, adopted the Catholic Easter; and how the same wrote a book about the holy places."
+author: "The Venerable Bede"
+params:
+ order: 131
+ humandate: "703 A.D."
 ---
 
 

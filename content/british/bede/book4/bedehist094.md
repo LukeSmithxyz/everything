@@ -1,6 +1,9 @@
 ---
-title: "X. How a blind woman, praying in the burial-place of that monastery, was restored to her sight. [675 A.D.?]"
-author: "Bede"
+title: "X. How a blind woman, praying in the burial-place of that monastery, was restored to her sight."
+author: "The Venerable Bede"
+params:
+ order: 94
+ humandate: "675 A.D.?"
 ---
 
 

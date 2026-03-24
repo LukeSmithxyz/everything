@@ -1,6 +1,9 @@
 ---
-title: "XXIII. Of the present state of the English nation, or of all Britain. [725-731 A.D.]"
-author: "Bede"
+title: "XXIII. Of the present state of the English nation, or of all Britain."
+author: "The Venerable Bede"
+params:
+ order: 139
+ humandate: "725-731 A.D."
 ---
 
 

@@ -1,6 +1,9 @@
 ---
-title: "XVII. How a prop of the church on which Bishop Aidan was leaning when he died, could not be consumed when the rest of the Church was on fire; and concerning his inward life. [651 A.D.]"
-author: "Bede"
+title: "XVII. How a prop of the church on which Bishop Aidan was leaning when he died, could not be consumed when the rest of the Church was on fire; and concerning his inward life."
+author: "The Venerable Bede"
+params:
+ order: 71
+ humandate: "651 A.D."
 ---
 
 

@@ -1,6 +1,9 @@
 ---
-title: "VI. How Wynfrid being deposed, Sexwulf received his bishopric, and Earconwald was made bishop of the East Saxons. [675 A.D.]"
-author: "Bede"
+title: "VI. How Wynfrid being deposed, Sexwulf received his bishopric, and Earconwald was made bishop of the East Saxons."
+author: "The Venerable Bede"
+params:
+ order: 90
+ humandate: "675 A.D."
 ---
 
 

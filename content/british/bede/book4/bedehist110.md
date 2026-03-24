@@ -1,6 +1,9 @@
 ---
-title: "XXVI. Of the death of the Kings Egfrid and Hlothere. [684-685 A.D.]"
-author: "Bede"
+title: "XXVI. Of the death of the Kings Egfrid and Hlothere."
+author: "The Venerable Bede"
+params:
+ order: 110
+ humandate: "684-685 A.D."
 ---
 
 In the year of our Lord 684, Egfrid, king of the Northumbrians, sending

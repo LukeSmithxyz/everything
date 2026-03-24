@@ -1,6 +1,9 @@
 ---
-title: "III. How the same king Oswald, asking a bishop of the Scottish nation, had Aidan sent him, and granted him an episcopal see in the Isle of Lindisfarne. [635 A.D.]"
-author: "Bede"
+title: "III. How the same king Oswald, asking a bishop of the Scottish nation, had Aidan sent him, and granted him an episcopal see in the Isle of Lindisfarne."
+author: "The Venerable Bede"
+params:
+ order: 57
+ humandate: "635 A.D."
 ---
 
 

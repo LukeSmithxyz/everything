@@ -1,6 +1,9 @@
 ---
-title: "IX. Of the reign of King Edwin, and how Paulinus, coming to preach the Gospel, first converted his daughter and others to the mysteries of the faith of Christ. [625-626 A.D.]"
-author: "Bede"
+title: "IX. Of the reign of King Edwin, and how Paulinus, coming to preach the Gospel, first converted his daughter and others to the mysteries of the faith of Christ."
+author: "The Venerable Bede"
+params:
+ order: 43
+ humandate: "625-626 A.D."
 ---
 
 

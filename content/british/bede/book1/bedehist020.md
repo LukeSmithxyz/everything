@@ -1,6 +1,9 @@
 ---
-title: "XX. How the same Bishops brought help from Heaven to the Britons in a battle, and then returned home. [430 A.D.]"
-author: "Bede"
+title: "XX. How the same Bishops brought help from Heaven to the Britons in a battle, and then returned home."
+author: "The Venerable Bede"
+params:
+ order: 20
+ humandate: "430 A.D."
 ---
 
 

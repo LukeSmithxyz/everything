@@ -1,6 +1,9 @@
 ---
-title: "VIII. How Pope Boniface sent the Pall and a letter to Justus, successor to Mellitus. [624 A.D.]"
-author: "Bede"
+title: "VIII. How Pope Boniface sent the Pall and a letter to Justus, successor to Mellitus."
+author: "The Venerable Bede"
+params:
+ order: 42
+ humandate: "624 A.D."
 ---
 
 

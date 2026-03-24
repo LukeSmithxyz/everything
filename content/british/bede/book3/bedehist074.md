@@ -1,6 +1,9 @@
 ---
-title: "XX. How, when Honorius died, Deusdedit became Archbishop of Canterbury; and of those who were at that time bishops of the East Angles, and of the church of Rochester. [653 A.D.]"
-author: "Bede"
+title: "XX. How, when Honorius died, Deusdedit became Archbishop of Canterbury; and of those who were at that time bishops of the East Angles, and of the church of Rochester."
+author: "The Venerable Bede"
+params:
+ order: 74
+ humandate: "653 A.D."
 ---
 
 

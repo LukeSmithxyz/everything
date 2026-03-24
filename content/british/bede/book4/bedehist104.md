@@ -1,6 +1,9 @@
 ---
 title: "XX. A Hymn concerning her."
-author: "Bede"
+author: "The Venerable Bede"
+params:
+ order: 104
+ humandate: ""
 ---
 
 It seems fitting to insert in this history a hymn concerning virginity,

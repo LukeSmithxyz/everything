@@ -1,6 +1,9 @@
 ---
-title: "XVI. How the same Aidan, by his prayers, saved the royal city when it was fired by the enemy [Before 651 A.D.]"
-author: "Bede"
+title: "XVI. How the same Aidan, by his prayers, saved the royal city when it was fired by the enemy"
+author: "The Venerable Bede"
+params:
+ order: 70
+ humandate: "Before 651 A.D."
 ---
 
 

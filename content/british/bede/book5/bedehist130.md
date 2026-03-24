@@ -1,6 +1,9 @@
 ---
 title: "XIV. How another in like manner, being at the point of death, saw the place of punishment appointed for him in Hell."
-author: "Bede"
+author: "The Venerable Bede"
+params:
+ order: 130
+ humandate: ""
 ---
 
 

@@ -1,6 +1,9 @@
 ---
 title: "XVII. What he likewise wrote of the place of our Lord’s Ascension, and the tombs of the patriarchs."
-author: "Bede"
+author: "The Venerable Bede"
+params:
+ order: 133
+ humandate: ""
 ---
 
 

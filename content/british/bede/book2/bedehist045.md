@@ -1,6 +1,9 @@
 ---
-title: "XI. How Pope Boniface advised the king’s consort to use her best endeavours for his salvation. [_Circ._ 625 A.D.]"
-author: "Bede"
+title: "XI. How Pope Boniface advised the king’s consort to use her best endeavours for his salvation."
+author: "The Venerable Bede"
+params:
+ order: 45
+ humandate: "_Circ._ 625 A.D."
 ---
 
 

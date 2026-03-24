@@ -1,6 +1,9 @@
 ---
 title: "VII. The Passion of St. Alban and his companions, who at that time shed their blood for our Lord."
-author: "Bede"
+author: "The Venerable Bede"
+params:
+ order: 7
+ humandate: ""
 ---
 
 

@@ -1,6 +1,9 @@
 ---
-title: "III. How he healed a sick maiden by his prayers. [705 A.D.]"
-author: "Bede"
+title: "III. How he healed a sick maiden by his prayers."
+author: "The Venerable Bede"
+params:
+ order: 119
+ humandate: "705 A.D."
 ---
 
 The same Berthun told another miracle concerning the said bishop. When the

@@ -1,6 +1,9 @@
 ---
-title: "XIV. How King Edwin and his nation became Christians; and where Paulinus baptized them. [627 A.D.]"
-author: "Bede"
+title: "XIV. How King Edwin and his nation became Christians; and where Paulinus baptized them."
+author: "The Venerable Bede"
+params:
+ order: 48
+ humandate: "627 A.D."
 ---
 
 

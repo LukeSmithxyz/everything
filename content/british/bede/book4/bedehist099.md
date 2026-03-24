@@ -1,6 +1,9 @@
 ---
-title: "XV. How King Caedwalla, king of the Gewissae, having slain Ethelwalch, wasted that Province with cruel slaughter and devastation. [685 A.D.]"
-author: "Bede"
+title: "XV. How King Caedwalla, king of the Gewissae, having slain Ethelwalch, wasted that Province with cruel slaughter and devastation."
+author: "The Venerable Bede"
+params:
+ order: 99
+ humandate: "685 A.D."
 ---
 
 

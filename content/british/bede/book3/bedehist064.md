@@ -1,6 +1,9 @@
 ---
-title: "X. How the dust of that place prevailed against fire. [After 642 A.D.]"
-author: "Bede"
+title: "X. How the dust of that place prevailed against fire."
+author: "The Venerable Bede"
+params:
+ order: 64
+ humandate: "After 642 A.D."
 ---
 
 

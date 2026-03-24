@@ -1,6 +1,9 @@
 ---
-title: "XXVIII. How Pope Gregory wrote to the bishop of Arles to help Augustine in the work of God. [601 A.D.]"
-author: "Bede"
+title: "XXVIII. How Pope Gregory wrote to the bishop of Arles to help Augustine in the work of God."
+author: "The Venerable Bede"
+params:
+ order: 28
+ humandate: "601 A.D."
 ---
 
 

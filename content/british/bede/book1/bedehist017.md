@@ -1,6 +1,9 @@
 ---
-title: "XVII. How Germanus the Bishop, sailing into Britain with Lupus, first quelled the tempest of the sea, and afterwards that of the Pelagians, by Divine power. [429 A.D.]"
-author: "Bede"
+title: "XVII. How Germanus the Bishop, sailing into Britain with Lupus, first quelled the tempest of the sea, and afterwards that of the Pelagians, by Divine power."
+author: "The Venerable Bede"
+params:
+ order: 17
+ humandate: "429 A.D."
 ---
 
 

@@ -1,6 +1,9 @@
 ---
-title: "XXXII. How Pope Gregory sent letters and gifts to King Ethelbert. [601 A.D.]"
-author: "Bede"
+title: "XXXII. How Pope Gregory sent letters and gifts to King Ethelbert."
+author: "The Venerable Bede"
+params:
+ order: 32
+ humandate: "601 A.D."
 ---
 
 

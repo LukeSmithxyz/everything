@@ -1,6 +1,9 @@
 ---
-title: "IV. How Bishop Colman, having left Britain, built two monasteries in the country of the Scots; the one for the Scots, the other for the English whom he had taken along with him. [667 A.D.]"
-author: "Bede"
+title: "IV. How Bishop Colman, having left Britain, built two monasteries in the country of the Scots; the one for the Scots, the other for the English whom he had taken along with him."
+author: "The Venerable Bede"
+params:
+ order: 88
+ humandate: "667 A.D."
 ---
 
 

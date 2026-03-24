@@ -1,6 +1,9 @@
 ---
-title: "VI. How Laurentius, being reproved by the Apostle Peter, converted King Eadbald to Christ; and how the king soon recalled Mellitus and Justus to preach the Word. [617-618 A.D.]"
-author: "Bede"
+title: "VI. How Laurentius, being reproved by the Apostle Peter, converted King Eadbald to Christ; and how the king soon recalled Mellitus and Justus to preach the Word."
+author: "The Venerable Bede"
+params:
+ order: 40
+ humandate: "617-618 A.D."
 ---
 
 

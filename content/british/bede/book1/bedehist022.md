@@ -1,6 +1,9 @@
 ---
 title: "XXII. How the Britons, being for a time at rest from foreign invasions, wore themselves out by civil wars, and at the same time gave themselves up to more heinous crimes."
-author: "Bede"
+author: "The Venerable Bede"
+params:
+ order: 22
+ humandate: ""
 ---
 
 

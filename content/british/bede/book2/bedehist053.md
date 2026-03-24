@@ -1,6 +1,9 @@
 ---
-title: "XIX. How the aforesaid Honorius first, and afterwards John, wrote letters to the nation of the Scots, concerning the observance of Easter, and the Pelagian heresy. [640 A.D.]"
-author: "Bede"
+title: "XIX. How the aforesaid Honorius first, and afterwards John, wrote letters to the nation of the Scots, concerning the observance of Easter, and the Pelagian heresy."
+author: "The Venerable Bede"
+params:
+ order: 53
+ humandate: "640 A.D."
 ---
 
 

@@ -1,6 +1,9 @@
 ---
 title: "VI. Of the reign of Diocletian, and how he persecuted the Christians."
-author: "Bede"
+author: "The Venerable Bede"
+params:
+ order: 6
+ humandate: ""
 ---
 
 

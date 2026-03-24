@@ -1,6 +1,9 @@
 ---
-title: "XXX. A copy of the letter which Pope Gregory sent to the Abbot Mellitus, then going into Britain. [601 A.D.]"
-author: "Bede"
+title: "XXX. A copy of the letter which Pope Gregory sent to the Abbot Mellitus, then going into Britain."
+author: "The Venerable Bede"
+params:
+ order: 30
+ humandate: "601 A.D."
 ---
 
 

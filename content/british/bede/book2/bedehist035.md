@@ -1,6 +1,9 @@
 ---
-title: "I. Of the death of the blessed Pope Gregory.(143) [604 A.D.]"
-author: "Bede"
+title: "I. Of the death of the blessed Pope Gregory.(143)"
+author: "The Venerable Bede"
+params:
+ order: 35
+ humandate: "604 A.D."
 ---
 
 At this time, that is, in the year of our Lord 605,(144) the blessed Pope

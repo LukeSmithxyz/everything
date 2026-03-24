@@ -1,6 +1,9 @@
 ---
-title: "V. Of the death of the kings Oswy and Egbert, and of the synod held at the place Herutford,(560) in which Archbishop Theodore presided. [670-673 A.D.]"
-author: "Bede"
+title: "V. Of the death of the kings Oswy and Egbert, and of the synod held at the place Herutford,(560) in which Archbishop Theodore presided."
+author: "The Venerable Bede"
+params:
+ order: 89
+ humandate: "670-673 A.D."
 ---
 
 

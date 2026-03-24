@@ -1,6 +1,9 @@
 ---
 title: "IX. How during the reign of Gratian, Maximus, being created Emperor in Britain, returned into Gaul with a mighty army."
-author: "Bede"
+author: "The Venerable Bede"
+params:
+ order: 9
+ humandate: ""
 ---
 
 

@@ -1,6 +1,9 @@
 ---
-title: "XI. How Sebbi, king of the same province, ended his life in a monastery. [694 A.D.]"
-author: "Bede"
+title: "XI. How Sebbi, king of the same province, ended his life in a monastery."
+author: "The Venerable Bede"
+params:
+ order: 95
+ humandate: "694 A.D."
 ---
 
 

@@ -1,6 +1,9 @@
 ---
-title: "IX. Of the signs which were shown from Heaven when the mother of that community departed this life. [675 A.D.?]"
-author: "Bede"
+title: "IX. Of the signs which were shown from Heaven when the mother of that community departed this life."
+author: "The Venerable Bede"
+params:
+ order: 93
+ humandate: "675 A.D.?"
 ---
 
 

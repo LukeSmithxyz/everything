@@ -1,6 +1,9 @@
 ---
-title: "IV. When the nation of the Picts received the faith of Christ. [565 A.D.]"
-author: "Bede"
+title: "IV. When the nation of the Picts received the faith of Christ."
+author: "The Venerable Bede"
+params:
+ order: 58
+ humandate: "565 A.D."
 ---
 
 

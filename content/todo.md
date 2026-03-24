@@ -8,20 +8,13 @@ weight: 1
 ## works to add
 
 - church:
-	- format the Bible
-	- synaxaria and/or the prologue
+	- synaxaria
 	- canons/acts of the councils
 - british history:
-	- gildas
-	- bede
-	- gregory of monmoth (sp?)
 	- lives of english/british saints
 	- reformation
 - science
     - ray peat articles/emails/transcripts
-- antiquity
-    - plato, formatting, other works (Greater Hippias?)
-    - aesop's fables https://www.aesopfables.com/
 - folklore
     - https://sites.pitt.edu/~dash/folktexts.html
     - https://sites.pitt.edu/~dash/folklinks.html

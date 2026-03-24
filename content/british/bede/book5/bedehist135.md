@@ -1,6 +1,9 @@
 ---
-title: "XIX. How Coinred, king of the Mercians, and Offa, king of the East Saxons, ended their days at Rome, in the monastic habit; and of the life and death of Bishop Wilfrid. [709 A.D.]"
-author: "Bede"
+title: "XIX. How Coinred, king of the Mercians, and Offa, king of the East Saxons, ended their days at Rome, in the monastic habit; and of the life and death of Bishop Wilfrid."
+author: "The Venerable Bede"
+params:
+ order: 135
+ humandate: "709 A.D."
 ---
 
 

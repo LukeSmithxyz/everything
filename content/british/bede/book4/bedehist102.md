@@ -1,6 +1,9 @@
 ---
-title: "XVIII. Of John, the precentor of the Apostolic see, who came into Britain to teach. [680 A.D.]"
-author: "Bede"
+title: "XVIII. Of John, the precentor of the Apostolic see, who came into Britain to teach."
+author: "The Venerable Bede"
+params:
+ order: 102
+ humandate: "680 A.D."
 ---
 
 

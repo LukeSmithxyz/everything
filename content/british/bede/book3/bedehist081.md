@@ -1,6 +1,9 @@
 ---
-title: "XXVII. How Egbert, a holy man of the English nation, led a monastic life in Ireland. [664 A.D.]"
-author: "Bede"
+title: "XXVII. How Egbert, a holy man of the English nation, led a monastic life in Ireland."
+author: "The Venerable Bede"
+params:
+ order: 81
+ humandate: "664 A.D."
 ---
 
 

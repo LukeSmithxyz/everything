@@ -1,6 +1,9 @@
 ---
 title: "VI. How, both by his prayers and blessing, he recalled from death one of his clerks, who had bruised himself by a fall."
-author: "Bede"
+author: "The Venerable Bede"
+params:
+ order: 122
+ humandate: ""
 ---
 
 

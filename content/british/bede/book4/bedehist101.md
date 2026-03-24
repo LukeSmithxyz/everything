@@ -1,6 +1,9 @@
 ---
-title: "XVII. Of the Synod held in the plain of Haethfelth, Archbishop Theodore being president. [680 A.D.]"
-author: "Bede"
+title: "XVII. Of the Synod held in the plain of Haethfelth, Archbishop Theodore being president."
+author: "The Venerable Bede"
+params:
+ order: 101
+ humandate: "680 A.D."
 ---
 
 

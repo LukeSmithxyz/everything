@@ -1,6 +1,9 @@
 ---
-title: "II. How, among innumerable other miracles of healing wrought by the wood of the cross, which King Oswald, being ready to engage against the barbarians, erected, a certain man had his injured arm healed. [634 A.D.]"
-author: "Bede"
+title: "II. How, among innumerable other miracles of healing wrought by the wood of the cross, which King Oswald, being ready to engage against the barbarians, erected, a certain man had his injured arm healed."
+author: "The Venerable Bede"
+params:
+ order: 56
+ humandate: "634 A.D."
 ---
 
 

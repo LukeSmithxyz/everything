@@ -1,6 +1,9 @@
 ---
-title: "XVIII. How the some holy man gave sight to the blind daughter of a tribune, and then coming to St. Alban, there received of his relics, and left other relics of the blessed Apostles and other martyrs. [429 A.D.]"
-author: "Bede"
+title: "XVIII. How the some holy man gave sight to the blind daughter of a tribune, and then coming to St. Alban, there received of his relics, and left other relics of the blessed Apostles and other martyrs."
+author: "The Venerable Bede"
+params:
+ order: 18
+ humandate: "429 A.D."
 ---
 
 

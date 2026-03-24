@@ -1,6 +1,9 @@
 ---
 title: "IV. How he healed a thegn’s wife that was sick, with holy water."
-author: "Bede"
+author: "The Venerable Bede"
+params:
+ order: 120
+ humandate: ""
 ---
 
 The same abbot related another miracle, not unlike the former, of the

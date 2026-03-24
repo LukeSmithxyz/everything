@@ -1,6 +1,9 @@
 ---
-title: "XIX. How the same holy man, being detained there by sickness, by his prayers quenched a fire that had broken out among the houses, and was himself cured of his infirmity by a vision. [429 A.D.]"
-author: "Bede"
+title: "XIX. How the same holy man, being detained there by sickness, by his prayers quenched a fire that had broken out among the houses, and was himself cured of his infirmity by a vision."
+author: "The Venerable Bede"
+params:
+ order: 19
+ humandate: "429 A.D."
 ---
 
 

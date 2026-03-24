@@ -1,6 +1,9 @@
 ---
-title: "XX. How Albinus succeeded to the godly Abbot Hadrian, and Acca to Bishop Wilfrid. [709 A.D.]"
-author: "Bede"
+title: "XX. How Albinus succeeded to the godly Abbot Hadrian, and Acca to Bishop Wilfrid."
+author: "The Venerable Bede"
+params:
+ order: 136
+ humandate: "709 A.D."
 ---
 
 

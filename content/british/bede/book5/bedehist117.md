@@ -1,6 +1,9 @@
 ---
-title: "I. How Ethelwald, successor to Cuthbert, leading a hermit’s life, calmed a tempest by his prayers when the brethren were in danger at sea. [687-699 A.D.]"
-author: "Bede"
+title: "I. How Ethelwald, successor to Cuthbert, leading a hermit’s life, calmed a tempest by his prayers when the brethren were in danger at sea."
+author: "The Venerable Bede"
+params:
+ order: 117
+ humandate: "687-699 A.D."
 ---
 
 

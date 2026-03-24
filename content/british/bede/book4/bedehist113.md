@@ -1,6 +1,9 @@
 ---
-title: "XXIX. How this bishop foretold that his own death was at hand to the anchorite Herebert. [687 A.D.]"
-author: "Bede"
+title: "XXIX. How this bishop foretold that his own death was at hand to the anchorite Herebert."
+author: "The Venerable Bede"
+params:
+ order: 113
+ humandate: "687 A.D."
 ---
 
 

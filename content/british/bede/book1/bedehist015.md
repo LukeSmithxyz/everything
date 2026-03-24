@@ -1,6 +1,9 @@
 ---
 title: "XV. How the Angles, being invited into Britain, at first drove off the enemy; but not long after, making a league with them, turned their weapons against their allies."
-author: "Bede"
+author: "The Venerable Bede"
+params:
+ order: 15
+ humandate: ""
 ---
 
 

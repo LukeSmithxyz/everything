@@ -1,6 +1,9 @@
 ---
-title: "XVIII. Of the life and death of the religious King Sigbert. [_Circ._ 631 A.D.]"
-author: "Bede"
+title: "XVIII. Of the life and death of the religious King Sigbert."
+author: "The Venerable Bede"
+params:
+ order: 72
+ humandate: "_Circ._ 631 A.D."
 ---
 
 

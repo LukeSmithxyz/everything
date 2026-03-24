@@ -1,6 +1,9 @@
 ---
 title: "XII. How a little boy was cured of a fever at his tomb."
-author: "Bede"
+author: "The Venerable Bede"
+params:
+ order: 66
+ humandate: ""
 ---
 
 Some time after, there was a certain little boy in the said monastery, who

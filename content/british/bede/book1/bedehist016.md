@@ -1,6 +1,9 @@
 ---
 title: "XVI. How the Britons obtained their first victory over the Angles, under the command of Ambrosius, a Roman."
-author: "Bede"
+author: "The Venerable Bede"
+params:
+ order: 16
+ humandate: ""
 ---
 
 

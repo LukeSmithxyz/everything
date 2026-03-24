@@ -1,6 +1,9 @@
 ---
-title: "VII. How the West Saxons received the Word of God by the preaching of Birinus; and of his successors, Agilbert and Leutherius. [635-670 A.D.]"
-author: "Bede"
+title: "VII. How the West Saxons received the Word of God by the preaching of Birinus; and of his successors, Agilbert and Leutherius."
+author: "The Venerable Bede"
+params:
+ order: 61
+ humandate: "635-670 A.D."
 ---
 
 

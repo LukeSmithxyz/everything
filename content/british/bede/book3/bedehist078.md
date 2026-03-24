@@ -1,6 +1,9 @@
 ---
-title: "XXIV. How when King Penda was slain, the province of the Mercians received the faith of Christ, and Oswy gave possessions and territories to God, for building monasteries, as a thank offering for the victory obtained. [655 A.D.]"
-author: "Bede"
+title: "XXIV. How when King Penda was slain, the province of the Mercians received the faith of Christ, and Oswy gave possessions and territories to God, for building monasteries, as a thank offering for the victory obtained."
+author: "The Venerable Bede"
+params:
+ order: 78
+ humandate: "655 A.D."
 ---
 
 

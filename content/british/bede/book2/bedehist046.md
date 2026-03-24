@@ -1,6 +1,9 @@
 ---
-title: "XII. How Edwin was persuaded to believe by a vision which he had once seen when he was in exile. [_Circ._ 616 A.D.]"
-author: "Bede"
+title: "XII. How Edwin was persuaded to believe by a vision which he had once seen when he was in exile."
+author: "The Venerable Bede"
+params:
+ order: 46
+ humandate: "_Circ._ 616 A.D."
 ---
 
 

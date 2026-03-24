@@ -1,6 +1,9 @@
 ---
-title: "XIII. Of the Council he held with his chief men concerning their reception of the faith of Christ, and how the high priest profaned his own altars. [627 A.D.]"
-author: "Bede"
+title: "XIII. Of the Council he held with his chief men concerning their reception of the faith of Christ, and how the high priest profaned his own altars."
+author: "The Venerable Bede"
+params:
+ order: 47
+ humandate: "627 A.D."
 ---
 
 
