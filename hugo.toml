@@ -4,12 +4,10 @@ title = 'My New Hugo Project'
 
 pluralizelisttitles = "false"
 
-[params]
- #nextprev = "true"
- authorsinlist = true
-
 [markup]
  [markup.goldmark]
   [markup.goldmark.parser]
    [markup.goldmark.parser.attribute]
     block = true
+  [markup.goldmark.renderer]
+    unsafe = true

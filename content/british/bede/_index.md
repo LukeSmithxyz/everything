@@ -1,4 +1,4 @@
 ---
 title: "The Ecclessiastical History of the English People"
-author: "Bede"
+author: "The Venerable Bede"
 ---

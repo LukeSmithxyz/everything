@@ -20,7 +20,7 @@ been valiant in the field. I have kept silence, I confess, with
 much mental anguish, compunction of feeling and contrition of heart,
 whilst I revolved all these things within myself; and, as God the
 searcher of the reins is witness, for the space of even ten years or
-more, [[^229] my inexperience, as at present also, and my unworthiness
+more, [^229] my inexperience, as at present also, and my unworthiness
 preventing me from taking upon myself the character of a censor. But I
 read how the illustrious lawgiver, for one word's doubting, was not
 allowed to enter the desired land; that the sons of the high-priest, for

@@ -17,16 +17,13 @@
 <body>
 {{ if .Site.Menus.main }}{{ partial "nav.html" . }}{{ end -}}
 <main>
-<a href="{{ .Site.Home.RelPermalink }}"><header>
+<header>
 	<h1 id="tag_{{ replaceRE "(\\s)" "-" .Title }}">{{ block "title" . }}{{ end }}</h1>
-</header></a>
+{{- with .Param "subtitle" }}<h2>{{ . }}</h2>{{- end }}
+{{- with .Param "author" }}<span class="author">{{ . }}</span>{{- end }}
+<a href="{{ .Site.Home.RelPermalink }}">main</a>
+</header>
 <article>
-{{- with .Param "subtitle" }}
-<h2>{{ . }}</h2>
-{{- end }}
-{{- with .Param "author" }}
-{{ . }}
-{{- end }}
 {{ block "main" . -}}
 {{- .Content -}}
 {{ end -}}

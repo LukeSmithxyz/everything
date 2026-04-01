@@ -10,8 +10,12 @@ weight: 1
 - church:
 	- synaxaria
 	- canons/acts of the councils
+- Herodotus
 - british history:
 	- lives of english/british saints
+		- Passio Albani
+		- Vita Germani
+		- Life of Saint Mungo
 	- reformation
 - science
     - ray peat articles/emails/transcripts
