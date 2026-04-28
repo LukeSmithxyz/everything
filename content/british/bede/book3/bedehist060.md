@@ -4,8 +4,8 @@ author: "The Venerable Bede"
 params:
  da: "731"
  order: 60
- des: "635
- def: 642"
+ des: "635"
+ def: "642"
 ---
 
 King Oswald, with the English nation which he governed, being instructed

@@ -4,8 +4,8 @@ author: "The Venerable Bede"
 params:
  da: "731"
  order: 110
- des: "684
- def: 685"
+ des: "684"
+ def: "685"
 ---
 
 In the year of our Lord 684, Egfrid, king of the Northumbrians, sending
