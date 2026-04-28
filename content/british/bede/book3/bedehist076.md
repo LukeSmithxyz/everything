@@ -2,8 +2,9 @@
 title: "XXII. How under King Sigbert, through the preaching of Cedd, the East Saxons again received the faith, which they had before cast off."
 author: "The Venerable Bede"
 params:
+ da: "731"
  order: 76
- humandate: "653 A.D."
+ de: "653"
 ---
 
 

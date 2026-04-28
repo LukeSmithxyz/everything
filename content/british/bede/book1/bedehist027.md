@@ -2,8 +2,10 @@
 title: "XXVII. How St. Augustine, being made a bishop, sent to acquaint Pope Gregory with what had been done in Britain, and asked and received replies, of which he stood in need."
 author: "The Venerable Bede"
 params:
+ da: "731"
  order: 27
- humandate: "597-601 A.D."
+ des: "597
+ def: 601"
 ---
 
 

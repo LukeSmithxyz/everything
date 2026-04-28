@@ -2,8 +2,9 @@
 title: "XVIII. How Honorius, who succeeded Justus in the bishopric of Canterbury, received the pall and letters from Pope Honorius."
 author: "The Venerable Bede"
 params:
+ da: "731"
  order: 52
- humandate: "634 A.D."
+ de: "634"
 ---
 
 

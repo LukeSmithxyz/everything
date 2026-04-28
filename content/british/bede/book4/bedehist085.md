@@ -2,8 +2,10 @@
 title: "I. How when Deusdedit died, Wighard was sent to Rome to receive the episcopate; but he dying there, Theodore was ordained archbishop, and sent into Britain with the Abbot Hadrian."
 author: "The Venerable Bede"
 params:
+ da: "731"
  order: 85
- humandate: "664-669 A.D."
+ des: "664
+ def: 669"
 ---
 
 

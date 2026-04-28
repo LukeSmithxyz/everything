@@ -2,8 +2,9 @@
 title: "II. How Bishop John cured a dumb man by his blessing."
 author: "The Venerable Bede"
 params:
+ da: "731"
  order: 118
- humandate: "687 A.D."
+ de: "687"
 ---
 
 In the beginning of Aldfrid’s reign, Bishop Eata(771) died, and was

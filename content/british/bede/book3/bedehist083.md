@@ -2,8 +2,9 @@
 title: "XXIX. How the priest Wighard was sent from Britain to Rome, to be ordained archbishop; of his death there, and of the letters of the Apostolic Pope giving an account thereof."
 author: "The Venerable Bede"
 params:
+ da: "731"
  order: 83
- humandate: "667 A.D."
+ de: "667"
 ---
 
 

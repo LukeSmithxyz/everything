@@ -2,8 +2,10 @@
 title: "XIV. How a pestilence ceased through the intercession of King Oswald."
 author: "The Venerable Bede"
 params:
+ da: "731"
  order: 98
- humandate: "681-686 A.D."
+ des: "681
+ def: 686"
 ---
 
 

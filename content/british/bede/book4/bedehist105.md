@@ -2,8 +2,9 @@
 title: "XXI. How Bishop Theodore made peace between the kings Egfrid and Ethelred."
 author: "The Venerable Bede"
 params:
+ da: "731"
  order: 105
- humandate: "679 A.D."
+ de: "679"
 ---
 
 

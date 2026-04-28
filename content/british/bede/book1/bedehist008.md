@@ -2,8 +2,9 @@
 title: "VIII. How, when the persecution ceased, the Church in Britain enjoyed peace till the time of the Arian heresy."
 author: "The Venerable Bede"
 params:
+ da: "731"
  order: 8
- humandate: ""
+ de: ""
 ---
 
 

@@ -2,8 +2,9 @@
 title: "X. How Pope Boniface, by letter, exhorted the same king to embrace the faith."
 author: "The Venerable Bede"
 params:
+ da: "731"
  order: 44
- humandate: "_Circ._ 625 A.D."
+ de: "_Circ._ 625"
 ---
 
 
@@ -11,8 +12,8 @@ At this time he received a letter from Pope Boniface(217) exhorting him to
 embrace the faith, which was as follows:
 
 
-    COPY OF THE LETTER OF THE MOST BLESSED AND APOSTOLIC POPE OF THE
-    CHURCH OF THE CITY OF ROME, BONIFACE, ADDRESSED TO THE ILLUSTRIOUS
+    COPY OF THE LETTER OF THE MOST BLESSEDAPOSTOLIC POPE OF THE
+    CHURCH OF THE CITY OF ROME, BONIFACE,ESSED TO THE ILLUSTRIOUS
     EDWIN, KING OF THE ENGLISH.
 
     “_To the illustrious Edwin, king of the English, Bishop Boniface,

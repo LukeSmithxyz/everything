@@ -2,8 +2,9 @@
 title: "IX. How miracles of healing have been frequently wrought in the place where King Oswald was killed; and how, first, a traveller’s horse was restored and afterwards a young girl cured of the palsy."
 author: "The Venerable Bede"
 params:
+ da: "731"
  order: 63
- humandate: "642 A.D."
+ de: "642"
 ---
 
 

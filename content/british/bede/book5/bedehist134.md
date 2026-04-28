@@ -2,8 +2,9 @@
 title: "XVIII. How the South Saxons received Eadbert and Eolla, and the West Saxons, Daniel and Aldhelm, for their bishops; and of the writings of the same Aldhelm."
 author: "The Venerable Bede"
 params:
+ da: "731"
  order: 134
- humandate: "705 A.D."
+ de: "705"
 ---
 
 

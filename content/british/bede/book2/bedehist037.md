@@ -2,8 +2,9 @@
 title: "III. How St. Augustine made Mellitus and Justus bishops; and of his death."
 author: "The Venerable Bede"
 params:
+ da: "731"
  order: 37
- humandate: "604 A.D."
+ de: "604"
 ---
 
 

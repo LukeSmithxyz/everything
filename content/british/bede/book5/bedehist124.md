@@ -2,8 +2,9 @@
 title: "VIII. How, when Archbishop Theodore died, Bertwald succeeded him as archbishop, and, among many others whom he ordained, he made the learned Tobias bishop of the church of Rochester."
 author: "The Venerable Bede"
 params:
+ da: "731"
  order: 124
- humandate: "690 A.D."
+ de: "690"
 ---
 
 

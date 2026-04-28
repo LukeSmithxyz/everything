@@ -2,8 +2,9 @@
 title: "XI. How Pope Boniface advised the king’s consort to use her best endeavours for his salvation."
 author: "The Venerable Bede"
 params:
+ da: "731"
  order: 45
- humandate: "_Circ._ 625 A.D."
+ de: "_Circ._ 625"
 ---
 
 
@@ -11,7 +12,7 @@ The same pope also wrote to King Edwin’s consort, Ethelberg, to this
 effect:
 
 
-    THE COPY OF THE LETTER OF THE MOST BLESSED AND APOSTOLIC BONIFACE,
+    THE COPY OF THE LETTER OF THE MOST BLESSEDAPOSTOLIC BONIFACE,
     POPE OF THE CITY OF ROME, TO ETHELBERG, KING EDWIN’S QUEEN.
 
     “_To the illustrious lady his daughter, Queen Ethelberg, Boniface,

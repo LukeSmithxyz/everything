@@ -21,6 +21,8 @@
 	<h1 id="tag_{{ replaceRE "(\\s)" "-" .Title }}">{{ block "title" . }}{{ end }}</h1>
 {{- with .Param "subtitle" }}<h2>{{ . }}</h2>{{- end }}
 {{- with .Param "author" }}<span class="author">{{ . }}</span>{{- end }}
+{{- with .Param "de" }}<span class="eventdate">occuring {{ . }}</span>{{- end }}
+{{- with .Param "da" }}<span class="authorshipdate">written {{ . }}</span>{{- end }}
 <a href="{{ .Site.Home.RelPermalink }}">main</a>
 </header>
 <article>

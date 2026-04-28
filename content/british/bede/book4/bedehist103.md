@@ -2,8 +2,10 @@
 title: "XIX. How Queen Ethelthryth always preserved her virginity, and her body suffered no corruption in the grave."
 author: "The Venerable Bede"
 params:
+ da: "731"
  order: 103
- humandate: "660-696 A.D."
+ des: "660
+ def: 696"
 ---
 
 

@@ -2,8 +2,10 @@
 title: "XV. How the province of the East Angles received the faith of Christ."
 author: "The Venerable Bede"
 params:
+ da: "731"
  order: 49
- humandate: "627-628 A.D."
+ des: "627
+ def: 628"
 ---
 
 

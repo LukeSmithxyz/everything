@@ -2,8 +2,9 @@
 title: "II. How Augustine admonished the bishops of the Britons on behalf of Catholic peace, and to that end wrought a heavenly miracle in their presence; and of the vengeance that pursued them for their contempt."
 author: "The Venerable Bede"
 params:
+ da: "731"
  order: 36
- humandate: "_Circ._ 603 A.D."
+ de: "_Circ._ 603"
 ---
 
 

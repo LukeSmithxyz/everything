@@ -2,8 +2,9 @@
 title: "XXII. How the monks of Hii, and the monasteries subject to them, began to celebrate the canonical Easter at the preaching of Egbert."
 author: "The Venerable Bede"
 params:
+ da: "731"
  order: 138
- humandate: "716 A.D."
+ de: "716"
 ---
 
 

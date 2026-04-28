@@ -2,8 +2,9 @@
 title: "XXV. How the question arose about the due time of keeping Easter, with those that came out of Scotland.(454)"
 author: "The Venerable Bede"
 params:
+ da: "731"
  order: 79
- humandate: "664 A.D."
+ de: "664"
 ---
 
 

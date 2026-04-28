@@ -2,8 +2,10 @@
 title: "VI. How Laurentius, being reproved by the Apostle Peter, converted King Eadbald to Christ; and how the king soon recalled Mellitus and Justus to preach the Word."
 author: "The Venerable Bede"
 params:
+ da: "731"
  order: 40
- humandate: "617-618 A.D."
+ des: "617
+ def: 618"
 ---
 
 

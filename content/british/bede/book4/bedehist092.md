@@ -2,8 +2,9 @@
 title: "VIII. How a little boy, dying in the same monastery, called upon a virgin that was to follow him; and how another nun, at the point of leaving her body, saw some small part of the future glory."
 author: "The Venerable Bede"
 params:
+ da: "731"
  order: 92
- humandate: "675 A.D.?"
+ de: "675?"
 ---
 
 

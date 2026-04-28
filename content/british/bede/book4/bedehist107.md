@@ -2,8 +2,10 @@
 title: "XXIII. Of the life and death of the Abbess Hilda."
 author: "The Venerable Bede"
 params:
+ da: "731"
  order: 107
- humandate: "614-680 A.D."
+ des: "614
+ def: 680"
 ---
 
 In the year after this, that is the year of our Lord 680, the most

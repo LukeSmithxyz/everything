@@ -2,8 +2,9 @@
 title: "XXIX. How this bishop foretold that his own death was at hand to the anchorite Herebert."
 author: "The Venerable Bede"
 params:
+ da: "731"
  order: 113
- humandate: "687 A.D."
+ de: "687"
 ---
 
 

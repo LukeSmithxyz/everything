@@ -2,8 +2,9 @@
 title: "XXV. Of the vision that appeared to a certain man of God before the monastery of the city Coludi was burned down."
 author: "The Venerable Bede"
 params:
+ da: "731"
  order: 109
- humandate: ""
+ de: ""
 ---
 
 

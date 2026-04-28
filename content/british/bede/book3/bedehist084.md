@@ -2,8 +2,9 @@
 title: "XXX. How the East Saxons, during a pestilence, returned to idolatry, but were soon brought back from their error by the zeal of Bishop Jaruman."
 author: "The Venerable Bede"
 params:
+ da: "731"
  order: 84
- humandate: "665 A.D."
+ de: "665"
 ---
 
 

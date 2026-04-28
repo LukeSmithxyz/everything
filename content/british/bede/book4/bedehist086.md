@@ -2,8 +2,9 @@
 title: "II. How Theodore visited all places; how the Churches of the English began to be instructed in the study of Holy Scripture, and in the Catholic truth; and how Putta was made bishop of the Church of Rochester in the room of Damianus."
 author: "The Venerable Bede"
 params:
+ da: "731"
  order: 86
- humandate: "669 A.D."
+ de: "669"
 ---
 
 

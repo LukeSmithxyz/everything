@@ -2,8 +2,9 @@
 title: "XII. How Edwin was persuaded to believe by a vision which he had once seen when he was in exile."
 author: "The Venerable Bede"
 params:
+ da: "731"
  order: 46
- humandate: "_Circ._ 616 A.D."
+ de: "_Circ._ 616"
 ---
 
 

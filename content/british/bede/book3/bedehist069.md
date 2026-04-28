@@ -2,8 +2,9 @@
 title: "XV. How Bishop Aidan foretold to certain seamen that a storm would arise, and gave them some holy oil to calm it."
 author: "The Venerable Bede"
 params:
+ da: "731"
  order: 69
- humandate: "Between 642 and 645 A.D."
+ de: "Between 642 and 645"
 ---
 
 

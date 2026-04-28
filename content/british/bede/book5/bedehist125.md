@@ -2,8 +2,9 @@
 title: "IX. How the holy man, Egbert, would have gone into Germany to preach, but could not; and how Wictbert went, but because he availed nothing, returned into Ireland, whence he came."
 author: "The Venerable Bede"
 params:
+ da: "731"
  order: 125
- humandate: "Circ. 688 A.D."
+ de: "Circ. 688"
 ---
 
 

@@ -2,8 +2,9 @@
 title: "XXIV. That there was in her monastery a brother, on whom the gift of song was bestowed by Heaven.(709)"
 author: "The Venerable Bede"
 params:
+ da: "731"
  order: 108
- humandate: "680 A.D."
+ de: "680"
 ---
 
 

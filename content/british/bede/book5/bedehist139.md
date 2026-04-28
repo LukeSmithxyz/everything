@@ -2,8 +2,10 @@
 title: "XXIII. Of the present state of the English nation, or of all Britain."
 author: "The Venerable Bede"
 params:
+ da: "731"
  order: 139
- humandate: "725-731 A.D."
+ des: "725
+ def: 731"
 ---
 
 

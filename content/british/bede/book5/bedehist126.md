@@ -2,8 +2,9 @@
 title: "X. How Wilbrord, preaching in Frisland, converted many to Christ; and how his two companions, the Hewalds, suffered martyrdom."
 author: "The Venerable Bede"
 params:
+ da: "731"
  order: 126
- humandate: "690 A.D."
+ de: "690"
 ---
 
 

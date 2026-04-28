@@ -2,8 +2,9 @@
 title: "XXVI. How St. Augustine in Kent followed the doctrine and manner of life of the primitive Church, and settled his episcopal see in the royal city."
 author: "The Venerable Bede"
 params:
+ da: "731"
  order: 26
- humandate: "597 A.D."
+ de: "597"
 ---
 
 

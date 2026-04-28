@@ -2,8 +2,9 @@
 title: "XIX. How the aforesaid Honorius first, and afterwards John, wrote letters to the nation of the Scots, concerning the observance of Easter, and the Pelagian heresy."
 author: "The Venerable Bede"
 params:
+ da: "731"
  order: 53
- humandate: "640 A.D."
+ de: "640"
 ---
 
 

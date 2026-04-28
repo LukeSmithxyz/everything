@@ -2,8 +2,10 @@
 title: "XIV. How on the death of Paulinus, Ithamar was made bishop of Rochester in his stead; and of the wonderful humility of King Oswin, who was cruelly slain by Oswy."
 author: "The Venerable Bede"
 params:
+ da: "731"
  order: 68
- humandate: "644-651 A.D."
+ des: "644
+ def: 651"
 ---
 
 

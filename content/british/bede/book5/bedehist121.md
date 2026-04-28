@@ -2,8 +2,9 @@
 title: "V. How he likewise recalled by his prayers a thegn’s servant from death."
 author: "The Venerable Bede"
 params:
+ da: "731"
  order: 121
- humandate: ""
+ de: ""
 ---
 
 

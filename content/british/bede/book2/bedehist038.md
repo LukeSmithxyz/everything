@@ -2,8 +2,9 @@
 title: "IV. How Laurentius and his bishops admonished the Scots to observe the unity of the Holy Church, particularly in keeping of Easter; and how Mellitus went to Rome."
 author: "The Venerable Bede"
 params:
+ da: "731"
  order: 38
- humandate: ""
+ de: ""
 ---
 
 

@@ -2,8 +2,9 @@
 title: "XX. How the same Bishops brought help from Heaven to the Britons in a battle, and then returned home."
 author: "The Venerable Bede"
 params:
+ da: "731"
  order: 20
- humandate: "430 A.D."
+ de: "430"
 ---
 
 

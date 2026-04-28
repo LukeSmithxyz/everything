@@ -2,8 +2,9 @@
 title: "XXX. A copy of the letter which Pope Gregory sent to the Abbot Mellitus, then going into Britain."
 author: "The Venerable Bede"
 params:
+ da: "731"
  order: 30
- humandate: "601 A.D."
+ de: "601"
 ---
 
 

@@ -2,8 +2,9 @@
 title: "XII. How a little boy was cured of a fever at his tomb."
 author: "The Venerable Bede"
 params:
+ da: "731"
  order: 66
- humandate: ""
+ de: ""
 ---
 
 Some time after, there was a certain little boy in the said monastery, who

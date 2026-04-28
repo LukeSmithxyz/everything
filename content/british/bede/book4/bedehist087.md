@@ -2,8 +2,9 @@
 title: "III. How the above-mentioned Ceadda was made Bishop of the province of Mercians. Of his life, death, and burial."
 author: "The Venerable Bede"
 params:
+ da: "731"
  order: 87
- humandate: "669 A.D."
+ de: "669"
 ---
 
 

@@ -2,8 +2,9 @@
 title: "XXIV. Chronological recapitulation of the whole work: also concerning the author himself."
 author: "The Venerable Bede"
 params:
+ da: "731"
  order: 140
- humandate: "I, 2."
+ de: "I, 2."
 ---
 
 
@@ -387,6 +388,6 @@ tyrannical butcher; Oswin(1080) was also slain.
 
 In the year 765, King Aluchred came to the throne.(1081)
 
-In the year 766 A.D., Archbishop Egbert, of the royal race, and endued
+In the year 766, Archbishop Egbert, of the royal race, and endued
 with divine knowledge, as also Frithbert, both of them truly faithful
 bishops, departed to the Lord.

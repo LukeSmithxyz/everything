@@ -2,8 +2,10 @@
 title: "VI. Of King Oswald’s wonderful piety and religion."
 author: "The Venerable Bede"
 params:
+ da: "731"
  order: 60
- humandate: "635-642 A.D."
+ des: "635
+ def: 642"
 ---
 
 King Oswald, with the English nation which he governed, being instructed

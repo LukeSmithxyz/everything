@@ -2,8 +2,9 @@
 title: "X. How a blind woman, praying in the burial-place of that monastery, was restored to her sight."
 author: "The Venerable Bede"
 params:
+ da: "731"
  order: 94
- humandate: "675 A.D.?"
+ de: "675?"
 ---
 
 

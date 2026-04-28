@@ -2,8 +2,9 @@
 title: "XXI. How the province of the Midland Angles became Christian under King Peada."
 author: "The Venerable Bede"
 params:
+ da: "731"
  order: 75
- humandate: "653 A.D."
+ de: "653"
 ---
 
 

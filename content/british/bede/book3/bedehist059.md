@@ -2,8 +2,9 @@
 title: "V. Of the life of Bishop Aidan."
 author: "The Venerable Bede"
 params:
+ da: "731"
  order: 59
- humandate: "635 A.D."
+ de: "635"
 ---
 
 From this island, then, and the fraternity of these monks, Aidan was sent

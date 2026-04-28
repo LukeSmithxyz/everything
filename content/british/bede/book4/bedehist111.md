@@ -2,8 +2,9 @@
 title: "XXVII. How Cuthbert, a man of God, was made bishop; and how he lived and taught whilst still in the monastic life."
 author: "The Venerable Bede"
 params:
+ da: "731"
  order: 111
- humandate: "685 A.D."
+ de: "685"
 ---
 
 

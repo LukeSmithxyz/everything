@@ -2,8 +2,9 @@
 title: "XXII. How a certain captive’s chains fell off when Masses were sung for him."
 author: "The Venerable Bede"
 params:
+ da: "731"
  order: 106
- humandate: "679 A.D."
+ de: "679"
 ---
 
 

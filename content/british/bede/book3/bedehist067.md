@@ -2,8 +2,9 @@
 title: "XIII. How a certain person in Ireland was restored, when at the point of death, by his relics."
 author: "The Venerable Bede"
 params:
+ da: "731"
  order: 67
- humandate: ""
+ de: ""
 ---
 
 

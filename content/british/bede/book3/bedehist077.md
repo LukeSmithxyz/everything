@@ -2,8 +2,10 @@
 title: "XXIII. How Bishop Cedd, having a place for building a monastery given him by King Ethelwald, consecrated it to the Lord with prayer and fasting; and concerning his death."
 author: "The Venerable Bede"
 params:
+ da: "731"
  order: 77
- humandate: "659-664 A.D."
+ des: "659
+ def: 664"
 ---
 
 

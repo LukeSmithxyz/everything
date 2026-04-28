@@ -2,8 +2,9 @@
 title: "VIII. How Earconbert, King of Kent, ordered the idols to be destroyed; and of his daughter Earcongota, and his kinswoman Ethelberg, virgins consecrated to God."
 author: "The Venerable Bede"
 params:
+ da: "731"
  order: 62
- humandate: "640 A.D."
+ de: "640"
 ---
 
 

@@ -2,8 +2,9 @@
 title: "XXX. How his body was found altogether uncorrupted after it had been buried eleven years; and how his successor in the bishopric departed this world not long after."
 author: "The Venerable Bede"
 params:
+ da: "731"
  order: 114
- humandate: "698 A.D."
+ de: "698"
 ---
 
 

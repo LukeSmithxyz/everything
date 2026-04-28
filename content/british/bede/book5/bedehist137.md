@@ -2,8 +2,9 @@
 title: "XXI. How the Abbot Ceolfrid sent master-builders to the King of the Picts to build a church, and with them an epistle concerning the Catholic Easter and the Tonsure."
 author: "The Venerable Bede"
 params:
+ da: "731"
  order: 137
- humandate: "710 A.D."
+ de: "710"
 ---
 
 

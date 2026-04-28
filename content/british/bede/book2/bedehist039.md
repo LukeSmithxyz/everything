@@ -2,8 +2,9 @@
 title: "V. How, after the death of the kings Ethelbert and Sabert, their successors restored idolatry; for which reason, both Mellitus and Justus departed out of Britain."
 author: "The Venerable Bede"
 params:
+ da: "731"
  order: 39
- humandate: "616 A.D."
+ de: "616"
 ---
 
 

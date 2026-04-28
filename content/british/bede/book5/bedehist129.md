@@ -2,8 +2,10 @@
 title: "XIII. How another contrarywise before his death saw a book containing his sins, which was shown him by devils."
 author: "The Venerable Bede"
 params:
+ da: "731"
  order: 129
- humandate: "704-709 A.D."
+ des: "704
+ def: 709"
 ---
 
 

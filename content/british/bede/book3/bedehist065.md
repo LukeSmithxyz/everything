@@ -2,8 +2,10 @@
 title: "XI. How a light from Heaven stood all night over his relics, and how those possessed with devils were healed by them."
 author: "The Venerable Bede"
 params:
+ da: "731"
  order: 65
- humandate: "679-697 A.D."
+ des: "679
+ def: 697"
 ---
 
 

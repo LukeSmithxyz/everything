@@ -2,8 +2,9 @@
 title: "X. How the dust of that place prevailed against fire."
 author: "The Venerable Bede"
 params:
+ da: "731"
  order: 64
- humandate: "After 642 A.D."
+ de: "After 642"
 ---
 
 

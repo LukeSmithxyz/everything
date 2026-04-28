@@ -2,8 +2,10 @@
 title: "IX. Of the reign of King Edwin, and how Paulinus, coming to preach the Gospel, first converted his daughter and others to the mysteries of the faith of Christ."
 author: "The Venerable Bede"
 params:
+ da: "731"
  order: 43
- humandate: "625-626 A.D."
+ des: "625
+ def: 626"
 ---
 
 

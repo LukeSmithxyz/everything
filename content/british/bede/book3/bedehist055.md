@@ -2,8 +2,9 @@
 title: "I. How King Edwin’s next successors lost both the faith of their nation and the kingdom; but the most Christian King Oswald retrieved both."
 author: "The Venerable Bede"
 params:
+ da: "731"
  order: 55
- humandate: "633 A.D."
+ de: "633"
 ---
 
 

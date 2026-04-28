@@ -2,8 +2,9 @@
 title: "XXXIV. How Ethelfrid, king of the Northumbrians, having vanquished the nations of the Scots, expelled them from the territories of the English."
 author: "The Venerable Bede"
 params:
+ da: "731"
  order: 34
- humandate: "603 A.D."
+ de: "603"
 ---
 
 

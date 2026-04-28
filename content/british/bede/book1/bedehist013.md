@@ -2,8 +2,9 @@
 title: "XIII. How in the reign of Theodosius the younger, in whose time Palladius was sent to the Scots that believed in Christ, the Britons begging assistance of Ætius, the consul, could not obtain it."
 author: "The Venerable Bede"
 params:
+ da: "731"
  order: 13
- humandate: "446 A.D."
+ de: "446"
 ---
 
 

@@ -2,8 +2,9 @@
 title: "XVIII. Of the life and death of the religious King Sigbert."
 author: "The Venerable Bede"
 params:
+ da: "731"
  order: 72
- humandate: "_Circ._ 631 A.D."
+ de: "_Circ._ 631"
 ---
 
 

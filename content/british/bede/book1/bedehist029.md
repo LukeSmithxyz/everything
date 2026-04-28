@@ -2,8 +2,9 @@
 title: "XXIX. How the same Pope sent to Augustine the Pall and a letter, along with several ministers of the Word."
 author: "The Venerable Bede"
 params:
+ da: "731"
  order: 29
- humandate: "601 A.D."
+ de: "601"
 ---
 
 
