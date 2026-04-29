@@ -1,0 +1,20 @@
+header {
+	text-align: center ;
+}
+header h1 {
+	font-size: xx-large ;
+}
+
+h1 {
+	font-size: large ;
+}
+h2 {
+	font-size: normal ;
+}
+h3 {
+	font-size: normal ;
+}
+
+.author,.authorshipdate {
+	display: block ;
+}

@@ -3,6 +3,9 @@ title: "History of the Kings of the Goths, Vandals and Suevi"
 author: "St. Isidore of Seville"
 params:
  translator: "Aymenn Jawad Al-Tamimi"
+ des: "265"
+ def: "624"
+ da: "624"
 ---
 
 Of all the lands, which are from the west all the way to the Indian lands, you are the most beautiful, oh sacred one, and almost the happy one of the princes, and the mother of peoples, Hispania. You now by right the queen of all provinces, from which not only the West, but also the East borrows lights. You are what is proper, and the ornament of the world, the more illustrious portion of the Earth: in which the glorious fecundity of the Getic people rejoices much and flourishes bountifully.

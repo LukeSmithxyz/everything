@@ -3,6 +3,7 @@ title: "History of the Britons"
 author: "St. Nennius"
 params:
  translator: "J. A. Giles"
+ da: "830"
 ---
 
 # Prologue
@@ -867,8 +868,7 @@ Guotelin, were four brothers, who built Gloiuda, a great city upon the
 banks of the river Severn, and in British is called Cair Gloui, in
 Saxon, Gloucester. Enough has been said of Vortigern.
 
-§ 50 St. Germanus, after his death, returned into his own country.
-[^313] At that time, the Saxons greatly increased in Britain, both in
+§ 50 St. Germanus, after his death, returned into his own country.[^313] At that time, the Saxons greatly increased in Britain, both in
 strength and numbers. And Octa, after the death of his father Hengist,
 came from the sinistral part of the island to the kingdom of Kent, and
 from him have proceeded all the kings of that province, to the present

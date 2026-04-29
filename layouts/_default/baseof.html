@@ -23,9 +23,11 @@
 {{- with .Param "author" }}<span class="author">{{ . }}</span>{{- end }}
 {{ partial "humandate.html" . }}
 {{- with .Param "da" }}<span class="authorshipdate">written {{ . }}</span>{{- end }}
+{{ partial "translation.html" . }}
 <a href="{{ .Site.Home.RelPermalink }}">main</a>
 </header>
 <article>
+{{ if .Param "toc" }}{{ .TableOfContents }}{{ end }}
 {{ block "main" . -}}
 {{- .Content -}}
 {{ end -}}

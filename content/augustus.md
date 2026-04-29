@@ -1,10 +1,13 @@
 ---
 title: "The Deeds of the Divine Augustus"
 author: "Augustus"
+params:
+ translator: "Thomas Bushnell"
+ da: "14"
+ def: "14"
+ des: "-27"
 ---
 
-
-Translated by Thomas Bushnell, BSG
 
 A copy below of the deeds of the divine Augustus, by which he subjected
 the whole wide earth to the rule of the Roman people, and of the money

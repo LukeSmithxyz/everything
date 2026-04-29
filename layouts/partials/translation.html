@@ -1,0 +1,5 @@
+{{- if .Param "translator" -}}
+<span class="translation">Translated by {{ .Param "translator" }}
+	{{- with .Param "dt" }} in {{ . }}.{{ end -}}
+</span>
+{{- end -}}

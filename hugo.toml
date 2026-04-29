@@ -11,3 +11,7 @@ pluralizelisttitles = "false"
     block = true
   [markup.goldmark.renderer]
     unsafe = true
+  [markup.tableOfContents]
+    endLevel = 2
+    ordered = false
+    startLevel = 1

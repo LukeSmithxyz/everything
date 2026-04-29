@@ -2,16 +2,10 @@
 title: "The Life of St. Cuthbert, Bishop of Lindisfarne"
 params:
  humandate: "698"
+ da: "700"
 ---
 
 # Prologue
-
-
-written anonymously about the year A.D. 700.
-Edited by W. Forbes-Leith, S.J., F.S.A. Scot. [Edinburgh: printed for private circulation 1888].
-Further edited for style SJKP 2013. A liturgical
-service for St. Cuthbert and a later derivative Life
-were published in Living Orthodoxy #188 (MarchApril 2012)
 
 §1. Would that it were in my power, O holy
 bishop Edfrid,[^1] to fulfill your command, and the
@@ -1160,7 +1154,6 @@ he returned home glorifying God in his saints.
 
 §45. The Lord God has been willing to fulfill, in honor of this holy confessor of God and
 his incorruptible body, what Jesus Christ at His
-
 departure predicted of John the Evangelist, “I will
 that he remain thus till I come” (John 21:22), and
 many wonderful things are every day taking place
@@ -1221,7 +1214,6 @@ while omitting a far greater number which I have
 not included only lest the reader should be surfeited
 with their number, and so give up reading my narrative altogether. I will but say briefly, with reference
 to these, that in many places infirm and possessed
-
 persons acknowledged that the demons quit them
 at his coming, often even before he came, and they
 never returned; others were healed by his presence,

@@ -2,9 +2,9 @@
 title: "Annals of the Reign of Alfred the Great"
 params:
  translator: "J. A. Giles"
+ des: "849"
+ def: "887"
 ---
-
-FROM A.D. 849 TO A.D. 887.
 
 BY ASSER OF SAINT DAVID'S.
 

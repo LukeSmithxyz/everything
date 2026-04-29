@@ -2,6 +2,8 @@
 title: "The Chronicle of Fabius Ethelwerd"
 params:
  translator: "J. A. Giles"
+ des: "410"
+ def: "973"
 ---
 
 # Prologue

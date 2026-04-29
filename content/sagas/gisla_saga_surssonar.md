@@ -4,6 +4,8 @@ params:
  transdate: "1866"
  translator: "G. W. DaSent"
  oriname: "Gísla saga Súrssonar"
+ des: "860"
+ def: "980"
 ---
 
 
