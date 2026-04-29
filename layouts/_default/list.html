@@ -6,9 +6,8 @@
 <ul class=articlelist>
 {{- range .Pages.ByParam "order" }}
 <li>
-	{{- with .Params.de }} ({{ . }}){{ end }}
-	{{ if .Params.des }}({{ .Params.des }}-{{ .Params.def }}){{ end }}
 	<a href="{{ .RelPermalink }}">{{ .Title }}</a>
+	{{ partial "humandate.html" . }}
 	{{- if ne .Parent.Params.author .Params.author }}
 	{{- with .Params.author }} by {{ . -}}{{end -}}
 	{{ end -}}

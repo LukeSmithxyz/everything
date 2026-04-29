@@ -4,6 +4,8 @@ author: "Plutarch"
 params:
  translator: "George Long and Aubrey Stewart"
  order: 11
+ des: "-445"
+ def: "-365"
 ---
 
 

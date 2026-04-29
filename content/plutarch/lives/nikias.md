@@ -4,6 +4,8 @@ author: "Plutarch"
 params:
  translator: "George Long and Aubrey Stewart"
  order: 38
+ des: "-470"
+ def: "-413"
 ---
 
 As it appears to me that the life of Nikias forms a good
