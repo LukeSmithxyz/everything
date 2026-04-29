@@ -5,6 +5,10 @@ weight: 1
 
 # todo
 
+## edits
+
+- format dix's shape of liturgy
+
 ## works to add
 
 - church:
