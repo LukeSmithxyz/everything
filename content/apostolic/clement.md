@@ -1,5 +1,5 @@
 ---
-title: "The Epistle of Clement"
+title: "Epistle to the Corinthians"
 author: "St. Clement of Rome"
 params:
  translator: "J. B. Lightfoot"
