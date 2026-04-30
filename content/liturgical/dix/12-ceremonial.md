@@ -31,10 +31,10 @@ deliberate breach with the past and was quite unconscious of any new
 beginning. As we have seen, from the very fact that it was a corporate
 action the pre-Nicene eucharist had had an aspect of ceremony ever since
 the first formation of the liturgical eucharist apart from the supper, in that
-it required a good deal of concerted movement by all the various ‘orders’ of
+it required a good deal of concerted movement by all the various 'orders' of
 participants for its performance. This core of the action, which was every¬
-where the same, is in its origin wholly utilitarian — it is the simplest and
-most natural way of getting the corporate eucharistic action ‘done5. But by
+where the same, is in its origin wholly utilitarian—it is the simplest and
+most natural way of getting the corporate eucharistic action 'done5. But by
 the fourth century it had already hardened into something very like a tra¬
 ditional ritual by the mere passage of centuries. The post-Nicene church
 had obviously every intention of conserving this pre-Nicene body of cus¬
@@ -49,34 +49,34 @@ innovations, but they seem natural products of the new situation. Now
 that not only the spiritually sensitive but the average man and woman were
 increasingly becoming regular attendants at Christian worship, the intro¬
 duction of such reminders of its solemnity was a necessary part of the
-church’s care for her members. The Reformers of the sixteenth century,
+church's care for her members. The Reformers of the sixteenth century,
 
 397
 
 
 398 THE SHAPE OF THE LITURGY
 
-who regarded the eucharist primarily as something ‘said’ by the clergy, set
+who regarded the eucharist primarily as something 'said' by the clergy, set
 themselves to achieve exactly the same object by prescribing solemn and
-lengthy ‘exhortations’ to be said by the minister to the worshippers (of
-which specimens still remain to us in the ‘Long’ and ‘Short Exhortations’
+lengthy 'exhortations' to be said by the minister to the worshippers (of
+which specimens still remain to us in the 'Long' and 'Short Exhortations'
 of the Prayer Book rite). The fourth century church took more literally the
-command ‘ Do this in remembrance of Me’, and therefore addressed such
+command ' Do this in remembrance of Me', and therefore addressed such
 reminders to the people by symbolical gestures and actions rather than by
 words. But the purpose in both cases is exactly the same. It is the change
-made by regarding the rite as something ‘said’ and not something ‘done’
+made by regarding the rite as something 'said' and not something 'done'
 (which is essentially the work of the Latin middle ages and not of the
 Reformers) that makes it difficult for modem Western Christians, protes-
 tant and catholic alike, to enter immediately into the mind of the early
 church.
 
 Mr. A. D. Nock in his brilliant study of the psychological process behind
-the conversion of the pagan world to Christianity has remarked that ‘Even
+the conversion of the pagan world to Christianity has remarked that 'Even
 in the fourth century, when the Eucharist acquired a dignity of ceremonial
 appropriate to the solemn worship of the now dominant church, it is not to
 me clear either that there was a deliberate copying of the ceremonial of the
 mystery dramas or that any special appeal was made by the ritual to the
-mass of new converts’.1 I venture to hope that what has been already
+mass of new converts'.1 I venture to hope that what has been already
 written is sufficient comment on the question of possible copying of the
 mysteries in pre-Nicene times. We have seen that there is in fact no element
 in the eucharistic ceremonial, such as it was, of the first three centuries
@@ -93,13 +93,13 @@ of the post-Nicene development of ceremonial really was.
 
 Vestments
 
-What one may call ‘official costume for public acts’ both in the case of
+What one may call 'official costume for public acts' both in the case of
 magistrates and priests had been common in classical Greece and usual all
 over the Near East for many centuries before the Christian era. In Italy and
-the West, particularly at Rome, the wearing of such ‘official’ robes, either
+the West, particularly at Rome, the wearing of such 'official' robes, either
 
 1 A. D. Nock, Conversion: The Old and the New in Religion from Alexander the
-Great to Augustine of Hippo , Oxford, 1933, p. 204. Mr. Nock’s conclusions are
+Great to Augustine of Hippo , Oxford, 1933, p. 204. Mr. Nock's conclusions are
 reached chiefly from the pagan evidence, on which his judgement is authoritative.
 But they coincide with my own, reached mainly on the basis of the Christian evi¬
 dence.
@@ -124,14 +124,14 @@ It is therefore not surprising to find that the earliest mention of a special
 liturgical garment for use at Christian worship comes from the Near East,
 and specifically from Jerusalem. We learn incidentally from Theodoret
 that c. a.d. 330 Constantine had presented to his new cathedral church at
-Jerusalem as part of its furnishing a ‘sacred robe’ Qiieran stolen) of gold
+Jerusalem as part of its furnishing a 'sacred robe' Qiieran stolen) of gold
 tissue to be worn by the bishop when presiding at the solemn baptisms of
 the paschal vigil.1 From the words employed this looks like some sort of
 special liturgical vestment. But this very characteristic initiative of the
 ritualistic Jerusalem church was not followed up. The next mention of such
 things comes likewise from Syria, in a rubric of the rite in Ap. Const. > viii.
-(c. a.d. 375) directing that the bishop is to celebrate the eucharist ‘clad in
-splendid raiment’.2 But the word estheta in this case makes it clear that all
+(c. a.d. 375) directing that the bishop is to celebrate the eucharist 'clad in
+splendid raiment'.2 But the word estheta in this case makes it clear that all
 the author has in mind is a sumptuous specimen of the ordinary lay cos¬
 tume of the upper classes at this period, not a special hieratic vestment
 (stole) like those of the Old Testament high-priests, ^d in fact the Roman
@@ -149,13 +149,13 @@ was no longer worn even at ordinary meetings of the senate.3 In place of
 1 Theodoret, Eccl. Hist., ii. 27. _ „ , ... . . . .
 
 8 ap . Brightman> op. cit.s p. 14, /• 8. For further incidental references to the
-‘splendour* of episcopal clothes cf. S. Gregory Naz. Or at. 20 and 32; Ammianus
+'splendour* of episcopal clothes cf. S. Gregory Naz. Or at. 20 and 32; Ammianus
 Marcellinus, xxvii. 3, etc. Both Christian and pagan authors refer to episcopal
 dress outside church as well as in, and make it clear (a) that there was no difference
 between the two, and ( b ) that there was no difference between clerical and lay
 dress in this period c. a.d. 375-400. _ o
 
-3 Its history is exactly that of the English peer’s dress of parliament robes. From
+3 Its history is exactly that of the English peer's dress of parliament robes. From
 being a customary dress it becomes a sort of full-dress uniform. Ultimately it is
 worn only at specially convened meetings presided over by the emperor (cj.
 opening of Parliament) and by certain magistrates on particular occasions, e.^. the
@@ -171,7 +171,7 @@ consisting of a linen robe with close sleeves, covering the whole body from
 neck to feet, the linea, above which was worn a sort of tunic with short
 close sleeves ( colobium or tunica ) extending to the knees. On formal occa¬
 sions and out of doors both men and women wore over this the paenula
-(also called planeta, casula and occasionally lacema1) — a large round piece
+(also called planeta, casula and occasionally lacema1)—a large round piece
 of stuff with a hole in the centre for the head to pass through, which fell
 m folds over the shoulders and arms and draped the whole body down to
 the knees.
@@ -181,9 +181,9 @@ reveals him as wearing this dress. When he reached the place of execution
 he took off the red lacema that he was wearing and folded it and knelt
 down upon it and prostrated himself in prayer to the Lord. And when he
 had taken off his tunica and handed it to the deacons, he stood up in his
-linea and awaited the executioners’.2 These are in essentials the pontificals
+linea and awaited the executioners'.2 These are in essentials the pontificals
 of a mediaeval bishop. But Cyprian is wearing them simply as the ordinary
-lay gentleman’s dress of the day.
+lay gentleman's dress of the day.
 
 By the end of the fourth century this peaceful costume in turn was
 beginning to go out of fashion in favour of a more military style3 brought
@@ -199,9 +199,9 @@ dvilian, does not.) In the rigidly organised late empire this law sufficed to
 fix the costume of the great nobles and the higher officials. Two centuries
 later, m the apparently contemporary portrait of Pope S. Gregory I
 standing between his father the senator Gordianus and his mother, the cos-
-tmne of all three is still exactly the same — chasuble worn over the tunic
+tmne of all three is still exactly the same—chasuble worn over the tunic
 with the ungirded linen alb. The mother wears a sort of linen turban, and
-the Pope is distinguished from the layman his father by the pallium — a sort
+the Pope is distinguished from the layman his father by the pallium—a sort
 of scarf of office which was the only strictly liturgical vestment which the
 Popes as yet tolerated. But otherwise the costumes of the bishop, the lay¬
 man and laywoman are exactly the same.
@@ -211,7 +211,7 @@ in the Roman church, dating perhaps from the end of the fifth century.
 
 
 Vl£Ubt aboUt th<T meaning of this word, which sometimes means
-meat “ffie CCrtam paSSag6S where il clearly means ^ -me gar-
+meat "ffie CCrtam paSSag6S where il clearly means ^ -me gar-
 
 2 Acta Proconsularia S. Cypriani, 5.
 
@@ -225,8 +225,8 @@ Before that time the whole idea of any such mark of distinction had been
 entirely contrary to the local Roman tradition. Pope Celestine I c. a.d. 425
 had gone so far as to rebuke the bishops of the South of France, among
 whom the use of the pallium and girdle at the eucharist was already
-customary, with what seems unnecessary vigour: ‘It is small wonder that
-the church’s custom should be violated by those who have not grown old in
+customary, with what seems unnecessary vigour: 'It is small wonder that
+the church's custom should be violated by those who have not grown old in
 the church, but entering in by some other way have introduced into the
 church along with themselves things which they used to wear in another
 walk of life (i.*., the magistracy, from which so many bishops were then
@@ -236,22 +236,22 @@ Whence came this custom in the churches of Gaul, so contrary to antiquity?
 We bishops must be distinguished from the people and others by our
 learning not by our dress, by our life not by our robes, by purity of heart
 not by elegance . . .n To the plea that this is only a literal following of the
-evangelical injunction to have ‘the loins girded’, etc., he answers drily that
+evangelical injunction to have 'the loins girded', etc., he answers drily that
 they will need to stand at the altar with a burning lamp in one hand and a
 staff in the other to fulfil what follows, and roundly bids them to have
-done with such ‘worthless superstitions’.
+done with such 'worthless superstitions'.
 
 Yet there is evidence from the East as well as from Gaul that in other
 churches less sturdily old-fashioned than that of Rome some equivalent
 of the pallium had already been accepted as a special badge of the liturgical
 ministry almost everywhere during the later fourth century.2 It is in fact
-the liturgical ‘vestment’ (stole) of all orders at this time. In its episcopal
-form the pallium is simply the old ‘scarf of office’ worn by the emperor
+the liturgical 'vestment' (stole) of all orders at this time. In its episcopal
+form the pallium is simply the old 'scarf of office' worn by the emperor
 and consuls, a badge granted to numerous other officials during the fourth
 century. It was adopted by the clergy in various forms, becoming the
 pallium of the Pope and (later) of archbishops and certain privileged bishops
 in the West, but worn by all bishops since the fifth century in the East.
-For the lower clergy it becomes the ‘stole’ worn in different ways by
+For the lower clergy it becomes the 'stole' worn in different ways by
 bishops, priests and deacons as a badge of distinction.3 Most pallia, lay and
 clerical alike, were of coloured silk. But the Popes when they adopted this
 little piece of vanity wore it in the form of a simple white woollen scarf
@@ -280,12 +280,12 @@ THE SHAPE OF THE LITURGY
 
 402
 
-embroidered with black crosses.1 And apart from the Pope’s pallium Rome
-so far remained faithful to Celestine’s principles as not to adopt the stole
+embroidered with black crosses.1 And apart from the Pope's pallium Rome
+so far remained faithful to Celestine's principles as not to adopt the stole
 in any form, for bishops, priests or deacons, right down to the twelfth
 century, when it was introduced from beyond the Alps.
 
-The Maniple . Just as the pallium and stole derive from the secular ‘scarf
+The Maniple . Just as the pallium and stole derive from the secular 'scarf
 of office5, so the vestment known as the maniple (fanon, sudarium) derives
 directly from the mappula, a sort of large handkerchief which formed part
 of the ceremonial dress of consuls and other magistrates, carried in the
@@ -320,7 +320,7 @@ bishops.6 Even the Roman deacons, arrogant and worldly as a long series
 of Canterbury and York.
 
 8 Cf. e.g. the English miniatures reproduced as Plates i and ii in the Lanalet Ponti¬
-fical ( ed . G. H. Doble, H.B.S., 1937). The Eastern bishop’s epigonation, now
+fical ( ed . G. H. Doble, H.B.S., 1937). The Eastern bishop's epigonation, now
 attached to his girdle, was similarly carried in the hand down to the ninth century.
 
 3 Duchesne, Origins etc., E. T. 1931, p. 383.
@@ -328,7 +328,7 @@ attached to his girdle, was similarly carried in the hand down to the ninth cent
 4 S. Isidore of Pelusium (c. A.D. 410), Ep. I. cxxxvi.
 
 6 When Pope Symmachus granted the use of xhe pallium and dalmatic to S. Caesarius
-of Arles c . A.D. 510, he also granted his deacons the right to wear the dalmatic ‘as
+of Arles c . A.D. 510, he also granted his deacons the right to wear the dalmatic 'as
 in the Roman church*. (Vita S . Caesarii , I, iv. ap. Acta SS. Boll., v. 71). These
 are apparently not intended as purely liturgical ornaments but as civil distinctions.
 
@@ -345,7 +345,7 @@ to perform their liturgical functions in this uniform of a secular official.
 The Pope, who as the chief citizen of Rome sometimes wore a dalmatic,
 always covered it in church with the chasuble of the private gentleman.
 The deacons at least began their ministry at the altar dressed in the same
-way. But before performing his special ‘liturgy’ of singing the gospel (and
+way. But before performing his special 'liturgy' of singing the gospel (and
 down to a.d. 595 the preceding solo of the gradual) the Roman deacon
 put off his chasuble, which he only resumed after assisting to administer
 communion. There was no mystical or symbolic meaning in this; it was
@@ -354,19 +354,19 @@ acknowledged the special seriousness of the season by leaving off their
 dalmatics in church and wearing their chasubles throughout the rite. But
 even so they wore them from the gospel to the communion rolled up
 bandolier-wise around the body over the left shoulder and tied under the
-right arm — something like a British soldier’s greatcoat in the period of the
+right arm—something like a British soldier's greatcoat in the period of the
 Boer War. (This curiously informal behaviour is still perpetuated in the
 ceremonial of the Roman rite in Advent, Lent and Ember-tides.)
 
 The Camelaucum or Tiara . It is the same story with the other vestments
 that originated before the middle ages. The Papal tiara, for instance, is
-derived from the camelaucum or phrygia , a ‘cap of state’ worn by the
+derived from the camelaucum or phrygia , a 'cap of state' worn by the
 emperors and very high officials in die fourth century. (The statue of Con¬
 stantine on his triumphal arch at Rome is wearing one. A version of the
 same headgear was worn by the doge of Venice and other Italo-Greek
 potentates.) Its use seems to have been allowed to the clergy by the
 emperors everywhere in the fifth century. In the East, in the form of the
-‘brimless top-hat’ doubtless familiar to most readers, it became the normal
+'brimless top-hat' doubtless familiar to most readers, it became the normal
 headgear of all clergy (white for patriarchs like that of the Pope, purple for
 bishops and black for others). Like the Western biretta, it began to be
 worn by Easterns in church as well as out of it during the later middle
@@ -432,14 +432,14 @@ old-fashioned patrician families of Rome might preserve the traditional
 dress in everyday life, elsewhere it had already vanished. The fourth
 Council of Toledo in a.d. 633 orders the public restoration before the altar
 of the chasuble, stole and alb to an unfrocked priest who is being restored
-to the use of his orders — a provision which tells its own story; the old cos¬
+to the use of his orders—a provision which tells its own story; the old cos¬
 tume has become a strictly clerical vestment, a liturgical symbol. The
 
 1 See the evidence cited by Duchesne, Origins , ed. cit ., p. 395.
 
 * The amice or anagolaium appears for the first time in the Ordo Romanus Primus,
 and therefore may go back before a.d. 800. It is originally a convenience rather than
-a vestment — the equivalent of the British workman’s ‘sweat-rag’.
+a vestment—the equivalent of the British workman's 'sweat-rag'.
 
 
 THE DEVELOPMENT OF CEREMONIAL 405
@@ -460,15 +460,15 @@ labourer. Even forty years ago a large proportion of the upper classes wore
 it on Sundays and on any occasion of formality. Now it is gradually
 becoming an undress uniform for royalty, diplomats and statesmen, and
 for people in certain formal positions, shopwalkers, undertakers, important
-station-masters — and Anglican dignitaries. Even bridegrooms had aban¬
+station-masters—and Anglican dignitaries. Even bridegrooms had aban¬
 doned it for the morning coat before the war. It was adopted for use in con¬
 ducting divine worship by many non-conformist divines in the last century,
 precisely because it was the normal lay dress of the time. But many of them
 retain it to-day when it has ceased to be so, and their people would be
 mildly shocked by a change. One delightful old Baptist lay-preacher whom
 I knew in Pembrokeshire nearly thirty years ago always referred to it as his
-‘preaching coat’, and would never have used it for any other purpose. It is
-on its way — just like the chasuble — to becoming a vestment, a special royal
+'preaching coat', and would never have used it for any other purpose. It is
+on its way—just like the chasuble—to becoming a vestment, a special royal
 and liturgical garment.
 
 The case is, however, quite different with the vestments which developed
@@ -482,7 +482,7 @@ charist with the pagan mysteries have had interesting things to say in the past
 about the episcopal mitre, the headgear whose very name recalls the hiero¬
 phant of Mithras. It is unfortunate for such theories that the mitre ( mitra ,
 mitella) first appears in Christian use as the distinctive headgear of the only
-person who had no particular function in the liturgy — the deaconess.
+person who had no particular function in the liturgy—the deaconess.
 References to its use by deaconesses in Africa are found in the later fourth
 century.1 It passed thence to Spain where a seventh-eighth century men¬
 tion of the mitra religiosa in the form for the installation of an abbess
@@ -505,25 +505,25 @@ gear whatever was ever worn by the clergy at the liturgy anywhere before
 c . a.d. iooo.1 The change in this comes during the eleventh century in the
 West. The first mention of an episcopal mitre in literature is the grant on
 Passion Sunday a.d. 1049 by Pope S. Leo IX to his own former archbishop
-Eberhard of Trier of die right to wear ‘at the liturgy’ {in ecclesiasticis
-officiis) ‘the Roman mitre’, ‘after the Roman fashion’. In 1051 the Pope
-grants the same privilege to the seven ‘cardinals’ {i.e. principal chaplains)
+Eberhard of Trier of die right to wear 'at the liturgy' {in ecclesiasticis
+officiis) 'the Roman mitre', 'after the Roman fashion'. In 1051 the Pope
+grants the same privilege to the seven 'cardinals' {i.e. principal chaplains)
 of the cathedral of Besan9on when acting as celebrant, deacon or sub¬
 deacon at the high altar on certain great feasts. This privilege of wearing
 mitres at the liturgy was granted to a number of other chapters of canons
 (even for their subdeacons) during the next half century or so, sometimes
 on the occasion of the grant of a mitre to their bishop, sometimes actually
-before this. In 1063 the mitre was granted to Abbot Elsin of S. Augustine’s,
+before this. In 1063 the mitre was granted to Abbot Elsin of S. Augustine's,
 Canterbury (the first of many such grants to abbots); and though Braun
 takes it for granted that this proves that the mitre had already been granted
-to his archbishop, Sdgand’s pontificals in the Bayeux Tapestry (which are
-very carefully portrayed) do not include the mitre at Harold’s coronation.
+to his archbishop, Sdgand's pontificals in the Bayeux Tapestry (which are
+very carefully portrayed) do not include the mitre at Harold's coronation.
 
 Great churches like Milan only obtained the privilege of the mitre at
 the beginning of the twelfth century,2 and it was not until the middle or
 third quarter of that century that it came about that so many bishops had
 acquired the right to use it by specific Papal grant that it began to be
-regarded as an inevitable part of a bishop’s costume, and the remaining
+regarded as an inevitable part of a bishop's costume, and the remaining
 non-mitred bishops simply usurped it without obtaining a Papal grant.
 Abbots, conventual priors and other dignitaries continued to obtain it
 individually by a privilege from the Pope in the old way until the seven¬
@@ -534,16 +534,16 @@ The real origin of the liturgical mitre would therefore seem to be as
 follows: We know that in the tenth century the Popes still did not wear
 their camelaucum at the liturgy. But somewhere soon after a.d. iooo they
 must have begun to do so, differentiating however between this use of it
-and that outside church by reserving the ‘crowned’ camelaucum (for the
+and that outside church by reserving the 'crowned' camelaucum (for the
 first of the three crowns had by now been added to the papal cap) for secu¬
 lar occasions. It is this new use of the camelaucum in church which is
 allowed to Eberhard of Trier; and the grant to the cardinals of Besan9on in
 1051 suggests that it was already used in church by the Roman cardinals
 
 that the other modem derivative of the same headgear is the bonnet rouge , the
-‘Phrygian Cap of Liberty’ of the French Revolution. It is a bewildering reflection
-that this traditional headgear of ‘Marianne’, the Anglican deaconess’ bonnet and
-the Papal tiara are all by origin one and the same article — the phrygia.
+'Phrygian Cap of Liberty' of the French Revolution. It is a bewildering reflection
+that this traditional headgear of 'Marianne', the Anglican deaconess' bonnet and
+the Papal tiara are all by origin one and the same article—the phrygia.
 
 1 J. Braun, S.].3 Die liturgische Gewandung , Freiburg-i-B., 1907 >pp. 431-462.
 
@@ -572,7 +572,7 @@ by the Byzantines from the Persians.1 But its use by ecclesiastics in church
 is not older than the sixteenth century. The great Byzantine canonist Bal-
 samon states categorically c. a.d. 1200 that all Eastern ecclesiastics are
 bare-headed at the liturgy with the sole exception of the Patriarch of
-Alexandria and his twelve ‘cardinary5 priests, who wear a loron (diadem),
+Alexandria and his twelve 'cardinary5 priests, who wear a loron (diadem),
 a right which he says was acquired by S. Cyril as the Papal legate at the
 Council of Ephesus in a.d. 432.2 The same statement is twice repeated by
 Simeon of Thessalonica in the fifteenth century.3
@@ -588,7 +588,7 @@ twelfth century.4
 1 See John Tsetses, Chili ades, viii. 184 sq.
 
 2 Balsamon, Meditata. ii. M.P.G., cxxxviii. 1048. B. (I take it that Papa in this
-passage refers to the ‘Pope’ of Alexandria, not of Rome, though Migne’s note ad
+passage refers to the 'Pope' of Alexandria, not of Rome, though Migne's note ad
 loc . assumes the opposite.) The story of the quasi-grant to S. Cyril in the form Bal¬
 samon gives it is clearly apocryphal, but the alleged Roman origin is interesting.
 The Armenians adopted the Western mitre when they were in communion with the
@@ -604,7 +604,7 @@ P • 314*
 
 4 The various Eastern semi-liturgical robes like the Greek mandyas and the
 Syrian burnus which correspond vaguely to the Western cope have an independent
-origin, as adaptations of the traditional oriental ‘robe of honour*. None of them
+origin, as adaptations of the traditional oriental 'robe of honour*. None of them
 seem to go back as ecclesiastical vestments beyond the thirteenth century, before
 which date the phelonion (chasuble) seems to have been the only church-dress of
 priests and bishops. It is perhaps worth remarking that this Eastern chasuble itself
@@ -641,13 +641,13 @@ including the acolytes (with the partial exception of the deacons) wore the
 chasuble in the fifth century; and traces of this practice continued at Rome
 down to at least the ninth century.1 But clerical dress at the divine office,
 at all events in the case of the lower clergy, seems to have been always the
-girdled linea> or alb, the ‘undress’ of the middle classes at home.2 It was
+girdled linea> or alb, the 'undress' of the middle classes at home.2 It was
 not a very warm costume, and the difficulty of heating the church, especially
 for the long night office, was solved by heating the man instead. Thick fur
 coats (pelliceum) worn under or over the alb were a necessity. The awkward¬
 ness of such bundlesome garments under the girdled alb led to the disuse
 of the girdle, and the surplice ( superpelliceum ) is simply the alb adapted for
-use ‘over the fur coat’. The graceful flowing sleeves of the mediaeval
+use 'over the fur coat'. The graceful flowing sleeves of the mediaeval
 surplice seem to have been added early in the thirteenth century, as part
 of die deliberate beautifying of all church vestments which is a noticeable
 feature of that period. Before that time the comparatively close sleeves of the
@@ -683,7 +683,7 @@ new long sleeves of the surplice were liable to trail in the font.
 
 Apart from this, its use in church as a distinctive garment for prelates and
 dignitaries has a slightly unedifying origin. It appears that in the late twelfth
-century the canons of S. Peter’s at Rome got into the way of not troubling
+century the canons of S. Peter's at Rome got into the way of not troubling
 to put on the surplice over the rochet (which they still wore as part of their
 out-door dress) for the daily recitation of the office in church. Ignorant
 copying of this slackness by foreign prelates visiting Rome set a new
@@ -715,7 +715,7 @@ cope and surplice.
 This review of the history of vestments, though sketchy, is sufficient to
 establish two main points:
 
-1. That in the fourth century, as before, the ‘domestic’ character of early
+1. That in the fourth century, as before, the 'domestic' character of early
 Christian worship asserted itself even after the transference of the eucharist
 to the basilicas sufficiently to prevent the adoption anywhere of special
 ceremonial robes, such as were a usual part of the apparatus of the pagan
@@ -730,7 +730,7 @@ THE SHAPE OF THE LITURGY
 
 distinction of dress between clergy and laity at the liturgy. (The adoption
 of the stole would find its modem equivalent, I suppose, in something like
-a clerical collar, or a steward’s rosette at a secular meeting.) 2. That by the
+a clerical collar, or a steward's rosette at a secular meeting.) 2. That by the
 beginning of the middle ages such a distinction had grown up accidentally
 by the mere fact that the clergy in church retained the old universal cos¬
 tume after the laity had discarded it. The idea of a special liturgical dress
@@ -739,7 +739,7 @@ itself— an idea which has persisted. For it is to be noted that the adoption
 by the minister of a Geneva gown and preaching bands, or of a surplice
 and academic hood, is as much the adoption of a special liturgical costume
 as the use of eucharistic vestments. For that matter in these days the
-Salvation Army’s poke bonnet and the black frock coat with a white bow
+Salvation Army's poke bonnet and the black frock coat with a white bow
 tie follow the precedent of the mitre and pallium > not that of the chasuble
 and dalmatic, in that the use of these things is deliberately intended to
 distinguish the wearer from his or her fellow Christians at the liturgy;
@@ -768,7 +768,7 @@ and especially by his use of it on the labarum , the most important of the
 standards borne before the emperors. This he now made to consist of a
 gilded cross surmounted by the monogram of Christ, from the arms of
 which hung a banner of purple silk. He also set a gilt cross above the figure
-of a dragon on a pole which had formed the cavalry standard of Diocletian’s
+of a dragon on a pole which had formed the cavalry standard of Diocletian's
 army.
 
 The church, however, did not quickly adopt this carrying of a cross from
@@ -783,7 +783,7 @@ THE DEVELOPMENT OF CEREMONIAL 411
 which were affixed burning candles. But it is clear that this was not a
 transference to the streets of something already practised in the liturgy,
 but a novelty devised to attract attention, for the crosses were specially pre¬
-sented by the empress for the occasion.1 The carrying of ‘handcrosses’
+sented by the empress for the occasion.1 The carrying of 'handcrosses'
 (perhaps originally reliquaries) by dignitaries in church came in during the
 sixth century, and we hear of crosses carried in procession in Gaul during
 the fifth and sixth century. One was carried at the landing of Augustine of
@@ -805,16 +805,16 @@ sake, the Frankish emperor Charlemagne, made to Pope Leo III in a.d.
 800. When the Pope tactfully agreed with the happy idea of his distinguished
 visitor, he was at once presented with a magnificent jewelled cross for
 the purpose. This he ordered to be carried before him annually at the
-head of the procession of the ‘Greater Litanies’ on April 25th (not yet
-kept at Rome as S. Mark’s day).2 From the Papal procession the idea
-spread to the parish churches of Rome, which all acquired ‘stational
-crosses’ for use in procession during the ninth century. But the practice
+head of the procession of the 'Greater Litanies' on April 25th (not yet
+kept at Rome as S. Mark's day).2 From the Papal procession the idea
+spread to the parish churches of Rome, which all acquired 'stational
+crosses' for use in procession during the ninth century. But the practice
 must have been well established at France long before Charlemagne
 brought about its adoption at Rome. Not only have we the occasional
 mentions of processional crosses by Gregory of Tours and other authors of
 the fifth and following centuries; but every parish church has already its
-own ‘stational cross’ for use in the Gallican ‘Litanies* on the Rogation
-Days, in Angilbert’s Ordo at S. Riquier in Picardy c. a.d. 805.
+own 'stational cross' for use in the Gallican 'Litanies* on the Rogation
+Days, in Angilbert's Ordo at S. Riquier in Picardy c. a.d. 805.
 
 The bearing of a special cross before archbishops everywhere within
 their own province appears to be a copying of this special Papal custom
@@ -855,7 +855,7 @@ as it had always been in the past. This removal was still practised in many
 French churches down to the eighteenth century, and survives in a few
 Spanish churches to this day.
 
-The Pastoral Staff ‘ We have seen that Pope Celestine c. A.D. 425 regarded
+The Pastoral Staff ' We have seen that Pope Celestine c. A.D. 425 regarded
 the use of a special staff by a bishop in the light of a reductio ad absurdum of
 superstition. Rome has so far proved faithful to his ideas that the Popes
 have never yet adopted the use of a pastoral staff.3 Pastoral staffs, however,
@@ -866,11 +866,11 @@ to have been adopted first by the Celtic and then by the Anglo-Saxon
 churches,6 and to have spread over the West outside Rome in the eighth-
 ninth centuries.
 
-1 There seems, however, to be a cross (‘the adorable wood*) upon the altar, along
+1 There seems, however, to be a cross ('the adorable wood*) upon the altar, along
 with the gospel book in Narsai, Horn. xvii. ed. R. H. Connolly, p. 12 (Edessa c.
 A.D. 450). This is, I think, the earliest instance.
 
-2 E.g., one in S. Peter’s ‘of silver gilt which stands beside the high altar’. Lib.
+2 E.g., one in S. Peter's 'of silver gilt which stands beside the high altar'. Lib.
 Pont ., Vita Leonis iii.
 
 3 This has been denied e.g. by Kraus, Geschichte der christlichen Kunst ♦ ii., p. 500,
@@ -914,12 +914,12 @@ signia which do go back certainly to the later fourth century, and to point
 out their significance.
 
 Fourth Century Insignia . A document called the Notitia Dignitatum
-Imperii Romani , a sort of combination of Burke’s Peerage, Imperial
+Imperii Romani , a sort of combination of Burke's Peerage, Imperial
 Gazetteer and Directory of the Civil Service, reveals that c. a.d. 400 certain
 high officials had the privilege of being preceded on occasion like members
 of the imperial family, by attendants bearing lighted torches and incense.
 When entering their courts to dispense justice these officials added to these
-insignia their Liber Mandatorum or ‘Instrument of Instructions’, a docu¬
+insignia their Liber Mandatorum or 'Instrument of Instructions', a docu¬
 ment which they received on taking up their office, setting forth the general
 line of policy which the reigning emperor intended them to follow. The
 particular copy of the Notitia which happens to have survived seems to
@@ -936,7 +936,7 @@ placing upon them some of the duties of civic magistrates in their see-
 towns. But though these distinctions would thus seem to have originated
 much more from the secular than the strictly religious aspect of their
 position, a religious turn was given to it by the substitution of the gospel
-book as the ‘Law of Christ’ for the Liber Mandatorum of the secular official.
+book as the 'Law of Christ' for the Liber Mandatorum of the secular official.
 
 The first fairly certain reference to the episcopal use of these insignia
 
@@ -969,26 +969,26 @@ entering and leaving the church began to be preceded by the torches,
 incense and book of a magistrate, a practice which had originally no partic¬
 ular Christian symbolism at all. An exact modem parallel is the preceding of
 Anglican dignitaries in procession by a beadle or verger carrying just such
-a ‘mace’ as precedes the Speaker of the House of Commons or a Mayor. At
+a 'mace' as precedes the Speaker of the House of Commons or a Mayor. At
 its beginning the use of these episcopal insignia had no more significance
-than that of the cathedral verger ‘pokering* the canon in residence to read
+than that of the cathedral verger 'pokering* the canon in residence to read
 the second lesson. But when we first meet these processional lights before
 the bishop in the Roman rite they have already become seven in number
-(instead of the Praetorian Prefect’s four and the lesser magistrate’s two). It
+(instead of the Praetorian Prefect's four and the lesser magistrate's two). It
 may be that here the seven golden candlesticks of the Apocalypse have
 come in to give a Christian turn to the old secular emblem. The bishop is
 the earthly representative of Christ, as the eucharist is the earthly manifes¬
 tation of the heavenly worship, and the adaptation would easily suggest
 itself.
 
-The use of the seven processional torches at the bishop’s liturgy spread
+The use of the seven processional torches at the bishop's liturgy spread
 widely through the West from the ninth century onwards, chiefly through
 an adaptation of the Ordo Romanus Primus 2 made c. a.d. 800 which formed
 the basis of episcopal ceremonial in France for some centuries to come,
 and which was more or less widely adopted from there in England and
 Germany. Its only survival to-day other than in the Papal mass is in the
 special pontifical ceremonial of the archbishop of Lyons (which is not
-‘Gallican’ in origin as has been too often supposed, but represents the
+'Gallican' in origin as has been too often supposed, but represents the
 ceremonial of the Papal rite as modified for adoption in the palace chapel
 of Charlemagne, which was introduced at Lyons by Bishop Leidrad,
 c. a.d. 810).3
@@ -1004,9 +1004,9 @@ Paris, 1935).
 THE DEVELOPMENT OF CEREMONIAL 415
 
 Whether the use of seven candles upon the altar by Western bishops
-when pontificating has any direct connection with the Pope’s seven pro¬
+when pontificating has any direct connection with the Pope's seven pro¬
 cessional torches (as has often been suggested) seems more than doubtful.
-When candles first appear upon the altar at the Pope’s eucharist they are
+When candles first appear upon the altar at the Pope's eucharist they are
 not seven but two; and the seven altar candles when they do appear in the
 Papal mass do not replace the seven torches, but are an addition to them.
 
@@ -1015,14 +1015,14 @@ eucharist seems to perpetuate the original form in which this honour was
 paid to bishops. It was probably an unreflecting continuance of custom
 when bishops finally ceased to be the normal celebrants of the eucharist for
 all their people at a single stational eucharist, and parish priests became
-their regular substitutes for particular districts. As the bishop’s delegate,
+their regular substitutes for particular districts. As the bishop's delegate,
 no doubt, any celebrant seemed entitled to the same marks of honour, even
-though originally these particular insignia denoted rather the bishop’s
+though originally these particular insignia denoted rather the bishop's
 personal importance as a civic leader than his sacerdotal character as
 celebrant of the eucharist.
 
 Another symbol of the same kind which may have come into use in the
-late fourth or early fifth century is the umbella , a sort of flat cstate umbrella’
+late fourth or early fifth century is the umbella , a sort of flat cstate umbrella'
 carried over the heads of Byzantine magistrates and officials.1 It was also
 carried in front of the Byzantine emperor as a symbol of authority. In this
 fashion it seems to have been used by some of the Popes as a symbol of
@@ -1051,7 +1051,7 @@ though fans figured among the insignia of the imperial procession, the two earne
 behind the Pope appear to be derived rather from the liturgical fans of the fourth-
 fifth century (cf. Theodore of Mopsuestia, cited p. 282), whose use did not alto¬
 gether die out in the West till the fifteenth century. Like the sedia gestatoriay or
-portable throne, on which the Pope is now earned into S. Peter’s, the fans only
+portable throne, on which the Pope is now earned into S. Peter's, the fans only
 appear in the Papal procession in Renaissance times. The earlier rule was that the
 Pope always rode in procession to mass, except on penitential days when he walked.
 The sedia has no direct connection with the litter or sedan chair of the classical
@@ -1062,7 +1062,7 @@ period.
 
 now carried behind the Viceroy of India in public. But in a small number
 of ancient parish churches round about Arles in Provence— that stronghold
-of the old usages of Romania — the umbella is still carried over the head of
+of the old usages of Romania—the umbella is still carried over the head of
 the parish priest (but not, it is said, of anyone else) when he goes to the altar
 to sing mass on great feasts. I should be prepared to believe that this custom
 has come down by unbroken tradition from the last days of the empire in
@@ -1081,12 +1081,12 @@ early in the fifth century. Those who wish to may lay emphasis on the
 general resemblance of this to a mystery rite, though I have failed to find
 any particular pagan rite to which it can be compared at all closely in Hptail
 For my own part, given the Syrian custom attested by the Didascalia in the
-third century, of the deacons bringing the people’s offerings of bread and
-wine from the sacristy at this particular point of the rite, I think the ‘Great
-Entrance’ much more likely to be simply a ceremonialised form of this
+third century, of the deacons bringing the people's offerings of bread and
+wine from the sacristy at this particular point of the rite, I think the 'Great
+Entrance' much more likely to be simply a ceremonialised form of this
 purely utilitarian bringing of the bread and wine to the table when they
 were required for the eucharist, than anything derived from the procession
-of the ‘dead Attis’ or such-like mystery cult functions.
+of the 'dead Attis' or such-like mystery cult functions.
 
 Apart from this, the only portable symbols which were adopted any¬
 where before the end of the fourth century were the gospel book and the
@@ -1117,14 +1117,14 @@ THE DEVELOPMENT OF CEREMONIAL
 
 417
 
-had been no exception. The contemporary Acta of S. Cyprian’s martyr¬
+had been no exception. The contemporary Acta of S. Cyprian's martyr¬
 dom (a.d. 258) reveal that the pre-Nicene Christian church also made no
 difficulty about accepting this universal token of mourning. It describes
-how after a hasty temporary burial Cyprian’s body was subsequently
-removed by the Christians ‘with candles and torches’.1 There was no
+how after a hasty temporary burial Cyprian's body was subsequently
+removed by the Christians 'with candles and torches'.1 There was no
 change made about this after the peace of the church. Eusebius describes
 the candles burning on golden stands around the bier at the funeral of Con¬
-stantine in a.d. 3372 and S. Gregory of Nyssa describing his own sister’s
+stantine in a.d. 3372 and S. Gregory of Nyssa describing his own sister's
 funeral in a.d. 370 tells how deacons and subdeacons two abreast bearing
 lighted candles escorted the body in procession from the house.3 The
 custom was universal both in the East and the West, and continues so to
@@ -1142,15 +1142,15 @@ more than on official religious regulation; and no ecclesiastic is going to go
 out of his way to rebuke harmless conventions which may do a little to
 assuage sorrow at such a time. (So e.g. the modem West African Christians,
 both catholic and protestant, wear white at funerals in Ashanti, simply
-because a plain white ‘cloth’ in place of the normal brightly coloured native
+because a plain white 'cloth' in place of the normal brightly coloured native
 dress is the traditional mourning of Ashanti pagan custom.)
 
 At the Gospel . S. Jerome writing in a.d. 378 from Bethlehem says that
-‘throughout all the churches of the East when the gospel is to be read lights
+'throughout all the churches of the East when the gospel is to be read lights
 are kindled . . . not to dispel the darkness but to exhibit a token of joy . . .
 and that under the symbol of corporeal light that light may be set forth
-of which we read in the psalter, “Thy word is a lantern unto my feet and a
-light unto my paths”.’4 This is one of those little symbolical actions like the
+of which we read in the psalter, "Thy word is a lantern unto my feet and a
+light unto my paths".'4 This is one of those little symbolical actions like the
 lavabo with which, as we have said, the fourth century churches soon began
 to overlay the bare outline of the pre-Nicene rite, a process in which the
 Jerusalem church was the pioneer. In this case the context suggests that
@@ -1185,8 +1185,8 @@ introduced about the same time.
 The more strictly official carrying of two lights at the gospel is first
 mentioned by S. Isidore of Seville early in the seventh century,3 but since
 he mentions that they were extinguished as soon as the gospel had been
-read, this may have a purely utilitarian origin, like the use of the prelate’s
-‘hand-candle’ (scotula), the origin of which seems to be lost in antiquity.
+read, this may have a purely utilitarian origin, like the use of the prelate's
+'hand-candle' (scotula), the origin of which seems to be lost in antiquity.
 Anyone who has inspected ancient liturgical books, with their close writing
 and frequent contractions of spelling, will understand the need of a light
 near the book even in daylight for the public reading of the text. It is pos¬
@@ -1213,7 +1213,7 @@ in and blessing of a lamp was a customary part of the ritual at a chaburah
 1 Tertullian, de Idololatria, 15. Lactantius, Itistit., vi. 2; etc.
 
 2 E.g., S. Gregory Nazianzene, Oratio v. 35. S. Jerome, loc. cit., though he half
-defends such practices against the puritan Vigilantius, declares it is due to ‘the
+defends such practices against the puritan Vigilantius, declares it is due to 'the
 ignorance and simplicity of laymen or at least of over-devout women*.
 
 3 Etymol. VII. xii. 29.
@@ -1242,9 +1242,9 @@ of the church a number of fourth century authors speak incidentally of
 the great quantity of lights, both candles and lamps, sometimes employed
 in the churches at Vespers and the Night Office.3 We have already noticed
 the lavish scale on which Constantine provided for the lighting of S.
-Peter’s.4 But though there is an advance here from mere utility to decora¬
+Peter's.4 But though there is an advance here from mere utility to decora¬
 tion, there is nothing corresponding to the later symbolic use of altar lights;
-though perpetually burning lamps at the martyrs’ tombs are found before
+though perpetually burning lamps at the martyrs' tombs are found before
 the end of the fourth century. Curiously enough neither the precedent of
 the seven-branched lampstand of the O.T. Tabernacle nor that of the
 seven lamps burning before the throne of God in the Apocalypse seems
@@ -1254,7 +1254,7 @@ ages.
 Candles on the Altar . For reasons already stated the standing of any
 object whatever on the altar was entirely contrary to the devotional con¬
 ventions of the early church. Lamps and candelabra were hung above it,
-and standard candlesticks were stood around — sometimes six or eight of
+and standard candlesticks were stood around—sometimes six or eight of
 them. But the altar itself remained bare of such ornaments for almost
 the first thousand years of Christian history in the West, and perhaps to an
 even later date in the East.5 This feeling of the special sanctity of the altar
@@ -1276,9 +1276,9 @@ Carmina, xxxvii. 389 sq.
 
 B The date when the Easterns first set candlesticks actually upon the altar seems
 impossible to determine. J. Braun, Das christliche Altargerdt (Munich, 1932), p.
-498 even suggests ‘the end of the middle ages*. Narsai, Hom.> xvii., p. 12 knows the
-cross upon the altar, but has no mention of candles, only ‘lamps’. What I think is
-certain is that, in the East as in the West, ‘standard* candlesticks around the altar
+498 even suggests 'the end of the middle ages*. Narsai, Hom.> xvii., p. 12 knows the
+cross upon the altar, but has no mention of candles, only 'lamps'. What I think is
+certain is that, in the East as in the West, 'standard* candlesticks around the altar
 and processional lights are at least five or six centuries older than the altar-candle-
 sticks themselves.
 
@@ -1292,7 +1292,7 @@ survive to this day at low mass in Carthusian monasteries.
 
 It is not, however, until the very end of the twelfth century (c. A.D. 1195)
 that we first find candles upon the altar at Rome; and then they are two in
-number at the Pope’s ‘stational’ mass on the most solemn feasts.2 By
+number at the Pope's 'stational' mass on the most solemn feasts.2 By
 A.D. 1254 the number on such occasions had risen to seven.3 Further than
 that it never went. The Papal custom of two candles on the altar was widely
 adopted in the early thirteenth century, and lasted without change in
@@ -1300,17 +1300,17 @@ some of the great French and Spanish collegiate churches down to the
 eighteenth century.
 
 It is by no means dear how the current notion that two candles was the
-specifically ‘English Use’ originated. The multiplication of altar candles
+specifically 'English Use' originated. The multiplication of altar candles
 was in fact rather characteristic of England and the North generally, once
 the custom of having them at all had come in. Thus e.g., at Chichester
 before the end of the thirteenth century the custom on feasts was to bum
-seven tall lights each of two pounds’ weight of wax upon the altar and eight
-more in trabe (on a shelf above the altar-screen — the fore-runner of the
-Renaissance ‘gradine’).4 At S. Augustine’s Canterbury there were two such
+seven tall lights each of two pounds' weight of wax upon the altar and eight
+more in trabe (on a shelf above the altar-screen—the fore-runner of the
+Renaissance 'gradine').4 At S. Augustine's Canterbury there were two such
 trabes with a row of six candles on each, and apparently a third row of six
 actually upon the altar.5 At Exeter early in the fourteenth century there
 were still no candles on the altar itself, but a row of ten behind it.6 At
-Lincoln there were five;7 at S. David’s cathedral there were fourteen;8 and
+Lincoln there were five;7 at S. David's cathedral there were fourteen;8 and
 so on. There appear in fact to be instances from mediaeval England of
 every number of altar candles from one to twenty, except seventeen and
 nineteen.9
@@ -1337,14 +1337,14 @@ dral. E. Bishop, Liturgica Historical p. 400.
 8 Brit. Mus . Harl. Ms., 1249,/. 5, cited E. G. C. F. Atchley, History of the Use of
 Incense , London, 1909, p. 325.
 
-8 Perhaps the origin of the ‘English two candles’ myth lies in the Royal Injunction
-of 1547 to the clergy ‘to suffer to remain still* (i.e. when the rest have been taken
-away) ‘only two candles upon the High Altar*. The explanation lies, not in any
+8 Perhaps the origin of the 'English two candles' myth lies in the Royal Injunction
+of 1547 to the clergy 'to suffer to remain still* (i.e. when the rest have been taken
+away) 'only two candles upon the High Altar*. The explanation lies, not in any
 care for old customs, but in the further order issued later to collect all superfluous
 church plate for the benefit of the Privy Council. Part of the wording of this Order
 in Council, then still in force, was embodied by Cranmer in the rubrics of the book
 of 1549* This may or may not constitute an authoritative Anglican ruling on altar
-lights, but it had nothing to do with ‘old English customs*, which varied indefinitely.
+lights, but it had nothing to do with 'old English customs*, which varied indefinitely.
 
 
 THE DEVELOPMENT OF CEREMONIAL 421
@@ -1356,15 +1356,15 @@ new style, only because the new shape of altar came in first in the great
 churches, which always tend to set fashions.
 
 Such things have nothing to do with religion or its practice (or even
-with what is called ‘loyalty’), as the mediaeval churchmen were sensible
+with what is called 'loyalty'), as the mediaeval churchmen were sensible
 enough to perceive. But the portentous behaviour of nineteenth century
-English bishops and lawyers, and the ‘fond things vainly invented’ by
+English bishops and lawyers, and the 'fond things vainly invented' by
 some ritualists, have succeeded in impressing it upon the mind of most
 modern Englishmen that they somehow closely concern the genius of Chris¬
 tianity. Such questions were formerly decided by custom, by aesthetics
 or by mere convenience, not by courts of law. To the mediaeval taste a
 row of candlesticks looked better than two on a long altar, and so they had
-a row — of three, four, five, six, seven, eight, nine, ten or whatever number
+a row—of three, four, five, six, seven, eight, nine, ten or whatever number
 their finances or fancy or just the fashion of the moment suggested; or they
 varied the number on different days according to the rank of the feast or
 the dignity of the celebrant. In Germany and Holland in the fifteenth
@@ -1375,24 +1375,24 @@ Anglican celebrant can have six candles upon his altar like some of the
 Avignon Popes in the fourteenth century, or seven like the Popes at the
 end of the thirteenth century, or two like the Popes at the end of the twelfth
 century, or even none at all like the Popes at the end of the eleventh
-century — and be happily conscious that historically he is being just as
-‘Roman’ whichever he does. If he really wants to be ‘primitive’ in such
-matters, he must celebrate facing the people across the altar — like all the
-Popes in every century — and with no candles and no cross (and no vases
-of flowers or book-stand) — like all the Popes for the first thousand years.
+century—and be happily conscious that historically he is being just as
+'Roman' whichever he does. If he really wants to be 'primitive' in such
+matters, he must celebrate facing the people across the altar—like all the
+Popes in every century—and with no candles and no cross (and no vases
+of flowers or book-stand)—like all the Popes for the first thousand years.
 What preposterous nonsense it is to try to erect sacristy orthodoxies and
 even tests of theological allegiance out of these minute details of pious
 furnishing, that have varied endlessly throughout Christian history and
 have never meant anything in particular by all their changes !
 
 Lights as Votive Offerings, The burning of votive candles as well as other
-lights (and incense) at the tombs of ‘heroes’ and before the statues of the
+lights (and incense) at the tombs of 'heroes' and before the statues of the
 gods was a general practice in mediterranean paganism, and was not un¬
-known in pre-christian judaism at ‘the tombs of the prophets’. The intro¬
+known in pre-christian judaism at 'the tombs of the prophets'. The intro¬
 duction of this form of popular devotion at the tombs of Christian martyrs
 even before the end of the pre-Nicene period seems to be witnessed to by a
 canon (34) of the Spanish Council of Elvira c. a.d. 300 forbidding it (though
-this interpretation of the canon is not quite certain). The Council’s pro¬
+this interpretation of the canon is not quite certain). The Council's pro¬
 hibition certainly did not end the practice, even in Spain. A century later
 the Spaniard Vigilantius of Barcelona, exhibiting that impatience of folk-
 
@@ -1418,7 +1418,7 @@ element in their personalities. A further step was taken when the same
 honours were paid to statues and pictures of the saints and of our Lord
 Himself. The fourth century church accepted the cultus of relics without
 much question, but it was much more reluctant to allow this second step
-to be taken, being still very sensitive on that question of ‘idolatry’ upon
+to be taken, being still very sensitive on that question of 'idolatry' upon
 which the conflict of the martyrs had turned. Pictures of our Lord and of
 the saints had been known as decorations (in the catacombs and elsewhere)
 and means of instruction (e.g. the baptistery at Dura) since the late second
@@ -1429,28 +1429,28 @@ churches.4 But there is no single case, I think, of that ecclesiastical toler-
 
 1 adv. Vigilantium , 7.
 
-2 How inveterate and — presumably — how harmless the instinct to do this can be,
-is shewn by the lighting of candles on occasion around the ‘shrine* of the Unknown
+2 How inveterate and—presumably—how harmless the instinct to do this can be,
+is shewn by the lighting of candles on occasion around the 'shrine* of the Unknown
 Warrior by the Anglican authorities of Westminster Abbey. This has become in
 our days a place of pilgrimage fulfilling in popular devotion very much the same
-role as the martyrs’ tombs in the fourth century — witness the scenes enacted there
+role as the martyrs' tombs in the fourth century—witness the scenes enacted there
 in September 1938 and 1939.
 
 3 E.g. Eusebius, Ep. to Constantin
 
-4 Can. 36, ‘Pictures ought not to be in a church, lest that which is worshipped
+4 Can. 36, 'Pictures ought not to be in a church, lest that which is worshipped
 and adored be drawn on the walls*. The exact turn of thought here is worth noting.
 The motive of the prohibition is not so much the fear of idolatry, of their being
 worshipped, as the idea that there is irreverence in the very attempt to portray the
 infinite Divine. This seems to be the general pre-Nicene, and for that matter post-
 Nicene, attitude towards pictures of the Godhead, down to the eighth century. (Cf.
 S. John Damascene, Oral, de Sacris Imaginibus, ii. 5, where arguing for the cultus
-of images he still insists: ‘We should indeed be in error if we made an image of the
-invisible God*.) Representations of our Lord’s Humanity and of the saints could
+of images he still insists: 'We should indeed be in error if we made an image of the
+invisible God*.) Representations of our Lord's Humanity and of the saints could
 not be subject to this objection, unless, like Tertullian, Christians were to adopt
-the Semitic dogma (found both in Judaism and Islam, but it is a racial — Bedouin —
+the Semitic dogma (found both in Judaism and Islam, but it is a racial—Bedouin —
 feeling rather than an intellectual belief) that all representational art is as such
-morally wrong. (How far was Tertullian’s Carthaginian — ultimately Phoenician? —
+morally wrong. (How far was Tertullian's Carthaginian—ultimately Phoenician? —
 temperament the cause of his rigidity?) There is ample evidence that the pre-
 Nicene church did not adopt this line about art. {E.g., the professional painter is to
 be admitted to baptism provided be is not employed in the manufacture of idols,
@@ -1464,7 +1464,7 @@ THE DEVELOPMENT OF CEREMONIAL
 ance and even encouragement then given to the popular cultus of relics
 being extended to the cultus of pictures or statues of Christ or the saints
 during the fourth or the first half of the fifth century. There is, too, a
-noticeably academic tone about Christian homilies on ‘the peril of idolatry’
+noticeably academic tone about Christian homilies on 'the peril of idolatry'
 in this period,1 which contrasts with the urgency of clerical denunciations
 of abuses in connection with the relic cult, and suggests that any tendency
 towards an undue veneration of pictures and images was not a very wide¬
@@ -1472,15 +1472,15 @@ spread problem in the church, before the fifth century at all events. The
 distinction of Christian ideas and practice from those of a still living and
 observable paganism was as yet too obvious to need much emphasis. It was
 only after the disappearance of paganism that disputes began about the
-Christian use of images — a point which needs more consideration than it
+Christian use of images—a point which needs more consideration than it
 has received in most histories of the controversy.
 
 There remained, however, in the new Christian world one particular sur¬
 vival from the past which was outside the control of the church, and which
 was bound sooner or later to raise in some form the whole question of the
 cultus of images. The emperor-cult had always been the centre of the prac¬
-tical problem of ‘idolatry’ for Christians. The usual test for martyrs had
-been whether they would or would not ‘adore’ the emperor’s image with
+tical problem of 'idolatry' for Christians. The usual test for martyrs had
+been whether they would or would not 'adore' the emperor's image with
 the customary offering of incense. But the Notitia Dignitatum (c. A.D. 405-
 425) reveals that this particular method of demonstrating loyalty had sur¬
 vived in full working right through the period of the conversion of the
@@ -1494,7 +1494,7 @@ city.3 (It is worth remarking that this seems to be more than a century
 before we have any definite evidence of a similar cultus paid to specifically
 religious pictures and images.) One can see how this had come about. When
 Constantine and his successors became personally Christians, they still as
-emperors remained ‘divine’ (or at all events the working centre of the old
+emperors remained 'divine' (or at all events the working centre of the old
 state religion)4 for that large majority of their subjects who still remained
 pagan. For these the old forms of reverence simply remained in use. To
 change them might have been politically dangerous; it would certainly
@@ -1502,7 +1502,7 @@ have been unsettling to pagan public opinion. And now that the emperor
 
 Ap . Trad.3 xvi. 11.) And though it Was not unknown for individuals to adopt it in
 the fourth century, it was not the common or normal attitude either of laymen or
-ecclesiastics about either art in general or specifically ‘sacred* art.
+ecclesiastics about either art in general or specifically 'sacred* art.
 
 1 E.g.y Augustine, Enarr. in Ps. cxiii, ii. 5; Ep. cm, iii. 18.
 
@@ -1518,10 +1518,10 @@ control of pagan worship which that gave them down to the time of Gratian
 424 THE SHAPE OF THE LITURGY
 
 publicly disbelieved in his own divinity, many Christians found it more
-possible to pay the conventional ‘adoration’1 to the imperial portrait as a
+possible to pay the conventional 'adoration'1 to the imperial portrait as a
 matter of etiquette.
 
-Yet this cultus of the emperor’s ikon was by tradition a religious venera¬
+Yet this cultus of the emperor's ikon was by tradition a religious venera¬
 tion and was well understood to be so. It was bound to suggest the lawful¬
 ness of a similar cultus to the ikons of the King of heaven and the saints, and
 we do in fact find it brought forward as an argument in favour of the cultus
@@ -1547,7 +1547,7 @@ by serving kings on bended knees.
 
 8 Briefly, the West took in the end what seems the commonsense view, that it is
 hardly possible for an educated Western man to commit what the O.T. means by
-‘idolatry’, viz. the paying of divine honour literally to an image. There is always a men¬
+'idolatry', viz. the paying of divine honour literally to an image. There is always a men¬
 tal reference to that which it represents. (C/. S. Thomas, Summa TheoL , III., xxv.
 a. 3.) Whether this solution holds equally good for all parts of the mission field, or
 even in all parts of Europe, is perhaps another question; though I found in West
@@ -1562,12 +1562,12 @@ treated with his usual sympathy and learning by Prof. E. Bevan in Holy Images
 (1940), (part of his Gifford Lectures, but published separately) but without coming
 to any very clear conclusions. If I may be allowed a personal word, I think a great
 deal of Christian iconoclast violence on the subject has been due to the inveterate
-tendency of all puritans to ‘verbalism’, to restricting worship and prayer to what
+tendency of all puritans to 'verbalism', to restricting worship and prayer to what
 can be expressed in words, with direct mental attention. I have never personally
 been assisted to vocal prayer in any sort of way by an image or crucifix; but I have
-frequently been assisted to ‘recollection* for mental prayer by the sight of them, or
+frequently been assisted to 'recollection* for mental prayer by the sight of them, or
 by holding a crucifix. If words formed or thought with attention be the only thing
-conceived of as ‘prayer*, then images are certainly either distractions or idols. But
+conceived of as 'prayer*, then images are certainly either distractions or idols. But
 if prayer be something which can be both wider and deeper than that, then it would
 seem that they can be, as the orthodox have always contended, both an assistance
 and a medium of true worship.
@@ -1593,7 +1593,7 @@ of their originals in the earthly worship of the church. Accordingly their
 veneration is an integral part of divine worship, just as rejoicing in the
 fellowship of our Lady and all saints and angels will be a real part of the
 joy and worship of the redeemed in heaven, which the earthly worship of
-the church ‘manifests’ in time. But here again it is doubtful if this conjoining
+the church 'manifests' in time. But here again it is doubtful if this conjoining
 of the veneration of images with the official liturgy is really ancient in the
 Byzantine church. It probably began in the ninth century, as part of the
 great renewal of emphasis on the cultus of images which accompanied the
@@ -1609,7 +1609,7 @@ Incense
 The use of incense both for domestic purposes and in the cultus goes
 back for some centuries before the Christian era all round the mediter¬
 ranean basin. In the Near East it is much older than in the West, doubtless
-because the materials — gums and spices — are indigenous to those coun¬
+because the materials—gums and spices—are indigenous to those coun¬
 tries and not to the West. Its religious use in the Old Testament need not
 detain us, since it has no early connection with its use in Christian worship
 other than through the use of Old Testament symbols in various ways by
@@ -1619,7 +1619,7 @@ At the chaburah meal There is, however, a domestic use of incense in
 judaism which is worth recording because of its possible connection with
 the last supper. The burning of spices in the room after the evening meal was
 a common custom in all the mediterranean countries, but among the jews
-it was — like everything else — given a religious colouring, especially at the
+it was—like everything else—given a religious colouring, especially at the
 domestic rite of supper on formal occasions, of the type under which the
 chaburah meeting was included. The ceremonial introduction and blessing
 
@@ -1642,17 +1642,17 @@ also were introduced and blessed and burned. In the first century a.d. the
 question was disputed between the rabbis as to the order in which the lamp
 and the spices (or the chafing dish in which they were burned) were to be
 blessed. The school of Shammai held that first the lamp was to be blessed,
-then the ‘Thanksgiving’ was to be said, then the spices were to be blessed
+then the 'Thanksgiving' was to be said, then the spices were to be blessed
 and burned. The school of Hillel held that both lamp and spices were to
-be blessed and used before the ‘Thanksgiving’ was said.1 This was not an
+be blessed and used before the 'Thanksgiving' was said.1 This was not an
 exceptional rite but one of such normal occurrence that the omission of the
 bringing in of spices (to save unnecessary labour on the Sabbath) at the
 Friday evening meal with which the Sabbath began, became a special sign
 of the Sabbath; as their reappearance at the Saturday evening meal was a
 sign that it was over. The reappearance of the burning spices on Saturday
 evening was especially associated with the habdalah , the prayer with which
-the domestic keeping of the Sabbath ended.2 In the form of the ‘habdalah
-spice-box’ this domestic use of incense has descended into the practice of
+the domestic keeping of the Sabbath ended.2 In the form of the 'habdalah
+spice-box' this domestic use of incense has descended into the practice of
 the modem orthodox jewish home, though it is not now burned, but only
 smelled at.3 The last supper was a formal chdburah meal, at which the
 ordinary rules for such occasions were observed, and it was not held on the
@@ -1673,7 +1673,7 @@ churches during the persecutions.6 The mere fact that the ordinary test for
 a Christian was the command to burn incense to a heathen divinity was
 sufficient to cause it to be regarded with something like horror, despite the
 precedents of the Old and New Testament. These were allegorised away
-as referring only to ‘prayer’,7 and the rationalistic arguments of pagan
+as referring only to 'prayer',7 and the rationalistic arguments of pagan
 philosophers against the employment of incense in pagan worship were
 rather curiously seized upon as part of the Christian apologetic for its dis-
 
@@ -1697,8 +1697,8 @@ THE DEVELOPMENT OF CEREMONIAL
 
 427
 
-use.1 Turificati , ‘incense-burners’, without further description, became a
-technical name for the apostates who by obedience to the magistrate’s
+use.1 Turificati , 'incense-burners', without further description, became a
+technical name for the apostates who by obedience to the magistrate's
 command had forfeited not only the heavenly crown of martyrdom but all
 participation in the earthly worship of the church. Nothing can be more
 certain regarding the worship of the pre-Nicene church than that incense
@@ -1709,7 +1709,7 @@ in Christian churches began.2 It must have become fairly widespread before
 the end of the fourth century for we hear of it almost simultaneously at
 Jerusalem and at Antioch in the East3 and at Milan and Nola in Italy.4 But
 there is nothing in most of these fourth century references to suggest more
-than a ‘fumigatory’ use of incense to perfume the churches. We do not
+than a 'fumigatory' use of incense to perfume the churches. We do not
 even know that it was burned during service time, and not simply as a
 preparation for the assembly of a large and somewhat mixed gathering of
 people in a not too-well ventilated building. This is much more analogous
@@ -1724,7 +1724,7 @@ majority of cases this had still no more directly religious significance than,
 e.g.y the use of music. It was now an accepted part of the general setting in
 which the eucharist was held; but the Old Testament notion of incense as
 in itself an offering to God (whether in combination with other sacrifices or
-alone) had hardly made its appearance. The text of Malachi i. n ‘in every
+alone) had hardly made its appearance. The text of Malachi i. n 'in every
 
 1 Eusebius, Praep . Evangelical iv. 10 (citing Porphyry); iv. 13 (citing Apollonius)
 
@@ -1751,54 +1751,54 @@ originally only as a deodorant, though it came to have a religious significance.
 there is no pre-Nicene evidence that the Christians accepted this custom as they
 accepted the funeral torches. The use of spices and unguents poured on the corpse
 as a preservative {cf. the burial of our Lord) was also common to jews and pagans—
-see Prof. A. O’Rahilly, The Burial of Christ Cork, 1942, pp. 6-II— a most inter¬
-esting collection of evidence — and this was continued without question by Chris¬
+see Prof. A. O'Rahilly, The Burial of Christ Cork, 1942, pp. 6-II— a most inter¬
+esting collection of evidence—and this was continued without question by Chris¬
 tians. Cf. Tertullian, Apol. 42.
 
 
 428 THE SHAPE OF THE LITURGY
 
-place incense shall he offered unto My Name and a pure offering’ had, as we
+place incense shall he offered unto My Name and a pure offering' had, as we
 have seen, done yeoman service ever since the second century in expounding
-the sacrificial nature of the eucharist as the ‘pure offering’; but the reference
+the sacrificial nature of the eucharist as the 'pure offering'; but the reference
 to incense had invariably been ignored or allegorised away.
 
 There is, however, one exception to this way of regarding the use of in¬
 cense. Lietzmann has rightly drawn attention1 to a passage in the Carmina
 Nisibena of the East Syrian S. Ephraem composed in A.D. 363, which
 reveals that this thoroughly Jewish idea of the smoke of incense as in some
-sense an atonement or ‘covering’ for sin2 was already fully accepted in these
+sense an atonement or 'covering' for sin2 was already fully accepted in these
 predominantly Semitic churches. Addressing Abraham, the contemporary
 bishop of Nisibis, Ephraem says:
 
-‘Thy fasts are a defence unto our land,
+'Thy fasts are a defence unto our land,
 
 Thy prayer a shield unto our city;
 
 Thy burning of incense is our propitiation;
 
-Praised be God, Who has hallowed thine offering.’3
+Praised be God, Who has hallowed thine offering.'3
 
-Clearly this propitiatory ‘censing’ here is a liturgical function which the
+Clearly this propitiatory 'censing' here is a liturgical function which the
 bishop performs on behalf of his flock, like prayer or the conseciation of
 the eucharist. A large number of other Syrian texts of the same character
 can be cited from the late fifth to the eighth century, all indicating the
-acceptance of the same idea of incense as a ‘sin offering’. In this period the
-notion passed into the Christian liturgies. A ‘prayer of incense’ found in
+acceptance of the same idea of incense as a 'sin offering'. In this period the
+notion passed into the Christian liturgies. A 'prayer of incense' found in
 the oldest MS. (ninth century) of the Jerusalem Liturgy of S . James runs
-thus: ‘Thou that art made High-priest after the order of Melchizedek, O
+thus: 'Thou that art made High-priest after the order of Melchizedek, O
 Lord our God, Who offerest and art offered and receivest the offerings;
 receive even from our hands this incense for a savour of sweetness and the
-remission of our sins and those of all Thy people’.4 A variant of this idea is
-to be found in the Alexandrian Liturgy of S. Mark : ‘We offer incense before
+remission of our sins and those of all Thy people'.4 A variant of this idea is
+to be found in the Alexandrian Liturgy of S. Mark : 'We offer incense before
 the face of Thy holy glory, O God; and do Thou accepting it upon Thy
 holy and heavenly and spiritual altar send down upon us in return the
-grace of Thy Holy Spirit’.5 Other examples could be cited from all the
+grace of Thy Holy Spirit'.5 Other examples could be cited from all the
 Eastern rites.
 
 1 Messe und Herrenmahl, p. 86. Having criticised certain parts of his book, it is
-only just that I should draw attention to the soundness of this section of it — an
-improvement on E. G. C. F. Atchley’s History of the Use of Incense (1909) which is
+only just that I should draw attention to the soundness of this section of it—an
+improvement on E. G. C. F. Atchley's History of the Use of Incense (1909) which is
 not much more than a valuable collection of materials.
 
 2 When the jewish high-priest on the Day of Atonement went into the Holy of
@@ -1807,13 +1807,13 @@ censer in his hand. The idea was apparently that only through the cloud of the
 incense smoke could a sinful man even in so representative an office come safely
 face to face with the presence of an infinitely holy God. It is probably this concep¬
 tion which leads the author of Hebrews to ignore the censer in his detailed applica¬
-tion of the rites of the Day of Atonement to our Lord’s high-priestly entry ‘into the
-holy place’ (ix. 11 sq.) though he had mentioned the ‘golden censer’ in ix. 4.
+tion of the rites of the Day of Atonement to our Lord's high-priestly entry 'into the
+holy place' (ix. 11 sq.) though he had mentioned the 'golden censer' in ix. 4.
 
 3 Ephraem Syrus, Carmina Nisibena, xvii. 37 sq.
 
 * Lit . of S. James, ed. J. Cozza-Luzi, at). Mai. NovaPatrum Bibliotheca, , t. x., t>. 46
-(not in Brightman’s text).
+(not in Brightman's text).
 
 5 Brightman, L. E. W ii8, /. 26$$.
 
@@ -1825,25 +1825,25 @@ probably from Eastern sources, and began to penetrate into the liturgies
 in the same sort of phrases. I cite the two following because these alone
 eventually passed from Gaul into the official Roman rite of the Pian missal
 in the sixteenth century, and so became more or less universal in the West.
-(a) A blessing of incense at the offertory: ‘By the intercession of blessed
+(a) A blessing of incense at the offertory: 'By the intercession of blessed
 Michael1 the archangel standing at the right hand of the altar of incense
 and of all His elect, may the Lord graciously bless this incense and accept
-it for an odour of sweet savour. Through Christ our Lord.’ (b) During the
-censing of the oblations which follows: ‘May this incense which Thou hast
+it for an odour of sweet savour. Through Christ our Lord.' (b) During the
+censing of the oblations which follows: 'May this incense which Thou hast
 blessed ascend up unto Thee, O Lord, and may Thy mercy descend upon
-us’; where the Egyptian idea of an ‘exchange5 of incense for grace seems to
+us'; where the Egyptian idea of an 'exchange5 of incense for grace seems to
 be latent though somewhat vaguely expressed.
 
 In the development of the Christian use of incense we seem therefore to
 be able to trace the influence of three different factors: (1) The domestic
-or ‘fumigatory5 use. (2) The ‘honorific5 use of it before the bishop, which
+or 'fumigatory5 use. (2) The 'honorific5 use of it before the bishop, which
 no doubt made it easier to transfer the idea of burning incense before the
 altar as a mark of reverence and so of an offering to God. There can be
 little doubt that this is the genesis of the Western censing of the altar. It is
 probable, too, that the contact with the instincts of folk-religion in the
 popular martyr-cult assisted in this. The custom of burning incense at a
 martyr5s tomb in his honour, which is attested in some places in the fifth
-century, shades off easily into the idea of an ‘offering5 to the saint to procure
+century, shades off easily into the idea of an 'offering5 to the saint to procure
 his intercession. (3) The purely Old Testament idea of incense as a sin-
 offering, which begins to infiltrate into Christian worship in Syria in the
 fourth century, and spreads gradually over the East and then penetrates
@@ -1858,7 +1858,7 @@ the twelfth century incense was still used as it had been everywhere (except
 in Syria) in the fifth century, only to scent the air and as a mark of honour
 carried before the bishop and the gospel book.3 *
 
-1 In Gaul ‘Gabriel*, in allusion to Luke i. 11. The substitution of Michael trans¬
+1 In Gaul 'Gabriel*, in allusion to Luke i. 11. The substitution of Michael trans¬
 fers the ref. to Rev. viii. 3.
 
 2 At the same time, S. Gregory^, Ep. 52, *We send you by the bearer . . . incense
@@ -1878,13 +1878,13 @@ ing, not a restoration of the mediaeval Chichester use, which was more elaborate
 
 Such post-Reformation Anglican use of incense as there was before the
 later nineteenth century did not develop so exclusively as one might expea
-along the lines of the early ‘fiimigatory* use, though this was commonest.
+along the lines of the early 'fiimigatory* use, though this was commonest.
 But the puritans under the Laudian regime were loud in their denuncia¬
-tions of censings ‘to* altars, which suggests that the Carolines were influ¬
+tions of censings 'to* altars, which suggests that the Carolines were influ¬
 enced chiefly by Eastern precedents. It is a pity that we have no detailed
 description of die use of censing at Ely Cathedral, where it continued at
-least down to a.d. 1747. It ended because ‘Dr. Thos. Green, one of the
-Prebendaries and now (1779) Dean of Salisbury, a finical man, tho’ a very
+least down to a.d. 1747. It ended because 'Dr. Thos. Green, one of the
+Prebendaries and now (1779) Dean of Salisbury, a finical man, tho' a very
 worthy one, and who is always taking snuff up his Nose, objeaed to it
 under Pretence that it made his Head ache/1
 
@@ -1897,7 +1897,7 @@ heathenism by any imitation of the pagan ceremonies to which they were
 accustomed. The whole core and substance of the ceremonies as well as the
 rites of the eucharist in the fourth century were continued unchanged from
 pre-Nicene times; they can be traced back uninterruptedly through the for¬
-mation of the ‘four-action shape* of the eucharist to the chaburah rite of the
+mation of the 'four-action shape* of the eucharist to the chaburah rite of the
 last supper. Even such things as vestments, lights and incense in their use
 at the eucharist only begin to take on a properly ceremonial or symbolic
 charaaer after the fifth century (at the very earliest), by the lapse of time
@@ -1925,7 +1925,7 @@ and deserves to be sympathetically commemorated as such.
 2 Cp . e.g. the ceremonies which have come to surround the taking and presenta¬
 tion of the collection in Anglican churches (especially in some cathedrals). And now
 in some dioceses in the mission field the people have come to add a sign of the cross
-and a bow by each contributor as he puts in his money, in token of ‘giving to God*.
+and a bow by each contributor as he puts in his money, in token of 'giving to God*.
 
 
 THE DEVELOPMENT OF CEREMONIAL
@@ -1938,9 +1938,9 @@ in the forms which it was allowed to assume during the dark ages has a
 recognisable relationship to the same things in pre-christian paganism.
 But it is relevant to remark that just those elements in paganism which
 were taken over into Christian popular devotion were many thousands
-of years older than that ‘official* paganism of the emperor-worship and
+of years older than that 'official* paganism of the emperor-worship and
 the Olympian gods and the Eastern mysteries which the church over¬
-threw. These popular practices had been assimilated by pagan ‘theology*,
+threw. These popular practices had been assimilated by pagan 'theology*,
 as it were, and underlay it and survived it, just as they have survived con¬
 version to Christianity, and also conversion to judaism and Islam. Similar
 practices of offerings of lights and incense at the reputed tombs of zvelis
@@ -1955,8 +1955,8 @@ this does make clear the process by which they passed over into Christian
 usage. It was not by way of the liturgy, which was under the control of the
 clergy, but through the individual expressions of piety of a multitude of
 half-instructed converts in the latter half of the fourth and especially the
-fifth century. The church allowed personal piety free play — how could she
-do other? — outside the liturgy; and in various ways it took the old instinc¬
+fifth century. The church allowed personal piety free play—how could she
+do other?—outside the liturgy; and in various ways it took the old instinc¬
 tive lines. But these found their only point of contact with Christian public
 worship at the shrines of the martyrs. This is a rather different thing from
 the old charge of the deliberate paganising of Christian worship. It should
@@ -1977,20 +1977,20 @@ setting the practical difficulty of preventing it seems very great. The academic
 critic must make his reckoning with the fact that the actual compromise
 with them achieved in the fifth and following centuries is in itself no more,
 but also no less, defensible than the failure to deal firmly with the similar
-superstition that ‘An angel went down at a certain season into the pool of
+superstition that 'An angel went down at a certain season into the pool of
 Bethesda and troubled the water: whosoever then first stepped in was made
 
 
 432 THE SHAPE OF THE LITURGY
 
-whole of whatsoever disease he had’.1 In the dark ages when ‘not many
-wise men after the flesh’ were available, the church was content to believe
-with the apostle that ‘God has chosen the foolish things of the world to
+whole of whatsoever disease he had'.1 In the dark ages when 'not many
+wise men after the flesh' were available, the church was content to believe
+with the apostle that 'God has chosen the foolish things of the world to
 confound the wise, and base things of the world and things which are
-despised hath God chosen, yea and things which are not’.2 It may be a pity,
+despised hath God chosen, yea and things which are not'.2 It may be a pity,
 but it is a fact, that it is impossible to reduce Christianity either to a spiritual
 philosophy or even to a pure theology. It is always a religion, which means
-partly a practice, for — amongst others — the immense numerical majority
+partly a practice, for—amongst others—the immense numerical majority
 of uneducated people, who have their own place and office in the Body
 of Christ. What the church of the dark ages did not do, at all events in
 the West, was to allow such practices any foothold in the liturgy of the
@@ -2009,9 +2009,9 @@ century, and radiate outwards, south to Egypt and north to Byzantium. In
 the West (to which they came sometimes by way of Byzantium, sometimes
 from Syria, and often first to Spain) the great Western centre of interest in
 such devotional side-issues is always France, the first home or at least the
-chief propagator of so many modem popular devotions — the Rosary, the
-Sacred Heart, ‘Reparation’, and so forth. From France they spread out¬
-wards to England, to Germany, to North Italy — and ultimately to Rome.
+chief propagator of so many modem popular devotions—the Rosary, the
+Sacred Heart, 'Reparation', and so forth. From France they spread out¬
+wards to England, to Germany, to North Italy—and ultimately to Rome.
 
 We shall not get very far in understanding the inner process of the
 history of the liturgy unless and until we understand that it expresses and
@@ -2019,13 +2019,13 @@ must express something of the life of the Christian peoples; and that their
 natural characteristics do to a large extent enter into their religious life to
 be supematuralised by grace. The perfervid devotionalism of the Syrian,
 which comes out so strongly, e.g., in Ignatius of Antioch c. A.D. 115 (and for
-that matter in Saul of Tarsus and some of the O.T. prophets) — the cere-
-moniousness of the Byzantine, with his love of etiquette — the naivete of the
+that matter in Saul of Tarsus and some of the O.T. prophets)—the cere-
+moniousness of the Byzantine, with his love of etiquette—the naivete of the
 Copt and his love of repetitions— the French mutability and love of some
-new thing— that special ‘tenderness’ of English devotion, which manifests
+new thing— that special 'tenderness' of English devotion, which manifests
 itself in a love of rather sentimental hymns and vocal prayers in the first
 Anglo-Saxon private prayer books that we have— the prosaic practicality
-and the almost stuffy conservatism of the local church of Rome — these
+and the almost stuffy conservatism of the local church of Rome—these
 things do not change from century to century, and they are not annihilafpH
 when men come to pray. It is no accident that the deacon still leads the
 1 John v. 4. *i Cor. i. 26 sq.
@@ -2040,9 +2040,9 @@ Items known to have existei
 
 Original nucleus thus: (A), (B), etc.
 
-‘Second Stratum’ thus: (a), (j3); (§); (i), (2), (3) ...
+'Second Stratum' thus: (a), (j3); (§); (i), (2), (3) ...
 
-Later elements in each rite bracketed thus: [ ] The sign ‘ — * means that this element is altogether absent in the history of the rite
+Later elements in each rite bracketed thus: [ ] The sign '—* means that this element is altogether absent in the history of the rite
 
 A blank means that this item is found at some other point in the rite
 
@@ -2104,7 +2104,7 @@ Spanish
 
 5th c.
 
-[“(a) Censing 1 1
+["(a) Censing 1 1
 
 L ? 6th c. J !
 
@@ -2112,7 +2112,7 @@ r (a) Censing 1
 
 L 6th c. J
 
-r (a) Censing “|
+r (a) Censing "|
 
 L ? 6th c. J
 
@@ -2224,7 +2224,7 @@ r Trisa gion\
 
 /Trisagion\
 
-T (3) Hymn “1
+T (3) Hymn "1
 
 (3) Hymn
 
@@ -2393,21 +2393,21 @@ have a greater number of variable prayers than any other— that the chival¬
 rous doctrine that the Mother of God was never under the guilt of original
 sin appeared first in Anglo-Saxon England, where the treatment of women
 was much in advance of that common in Europe in the eleventh century —
-that Irish devotion has enthusiasm but practically no ‘liturgical sense’
-whatever right through the centuries — that the Roman rite has about it
+that Irish devotion has enthusiasm but practically no 'liturgical sense'
+whatever right through the centuries—that the Roman rite has about it
 still an archaic angularity and abruptness, a concentration on the per¬
 formance of the eucharistic action rather than talking about it, which is
 no longer found in any other rite.
 
-These matters of temperament are not only relevant to — they are the
-actual cause of — the course which the history of liturgical details has taken
+These matters of temperament are not only relevant to—they are the
+actual cause of—the course which the history of liturgical details has taken
 in Christendom. To ignore them is to make that history incomprehensible.
 But having understood their importance, we shall not be misled into making
 them a justification for misunder landing the unity of the eucharist. They
 affect the details only of its performance. The main structure of the liturgy
 is always and everywhere the same, however much it be overlaid with local
 ways and decorations, because the eucharist is always identically the same
-action— ‘Do this’— with the same meaning— ‘For the anamnesis of Me.’
+action— 'Do this'— with the same meaning— 'For the anamnesis of Me.'
 In so far as the Christian Syrian and Byzantine and Copt and Englishman
 and Frenchman and Roman are all Christians and so partakers in the one
 eucharistic action and experience of the one Body of Christ, the Shape of

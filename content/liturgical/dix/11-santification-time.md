@@ -11,7 +11,7 @@ CHAPTER XI
 
 THE SANCTIFICATION OF TIME
 
-IT is one thing to have a knowledge of the course of liturgical history — of
+IT is one thing to have a knowledge of the course of liturgical history—of
 when this custom was introduced and where, of how such-and-such a
 prayer was given a new turn and by whom. It is quite another and a more
 difficult thing to understand the real motive forces which often underlie
@@ -19,7 +19,7 @@ such changes. The hardest thing of all is to assess their effects upon the
 ideas and devotions of the vast unlearned and unliterary but praying
 masses of contemporary Christian men and women, who have left no
 memorial of any kind in this world, but whose salvation is nevertheless of
-the very purpose of the church’s existence. For those who seek not only to
+the very purpose of the church's existence. For those who seek not only to
 know but to understand the history of the liturgy the fourth century will
 always have a fascination quite as great as that of the obscure period of
 origins which precedes it.
@@ -28,8 +28,8 @@ To a large extent this is the formative age of historic Christian worship,
 which brought changes the effects of which were never undone in the East
 or the catholic West at all, and some of which have survived even the up¬
 heavals of the sixteenth century in the churches of the Reformation. It is
-true that the essential outline of the Christian eucharist, the ‘four-action
-shape’, had been fixed for all time before the middle of the second century,
+true that the essential outline of the Christian eucharist, the 'four-action
+shape', had been fixed for all time before the middle of the second century,
 and probably by the end of the first. It is true, too, that by the end of the
 second century that outline had been filled by forms that would undergo
 expansion and development, but never any radical reconstruction for the
@@ -111,8 +111,8 @@ which precede it or the three which follow.
 Yet important as they were in themselves and enduring as were their
 effects, we have to see the liturgical developments with which all the
 churches were experimenting in the fourth century in their true perspective
-in the whole history of the liturgy. So far as form goes — the Shape of the
-Liturgy — they were all changes or additions of detail in a practice of
+in the whole history of the liturgy. So far as form goes—the Shape of the
+Liturgy—they were all changes or additions of detail in a practice of
 worship whose main core and principles were still recognisably the same in
 the eighth century (our next comparatively well-documented period) as
 they had been at the end of the second. It was in the field of the theory of
@@ -133,7 +133,7 @@ attacking it. On the contrary, Christians were now the representatives of a
 faith shared by the emperors, which was rapidly becoming the directing
 conscience of civilisation. Their worship could not but be affected in
 spirit by such a change. From being the jealously secluded action of an
-exclusive association, it was little by little transformed — as large and
+exclusive association, it was little by little transformed—as large and
 influential sections of society received baptism in increasing numbers —
 into a public activity of the population at large.
 
@@ -144,7 +144,7 @@ home in the world, so she became reconciled to time. The eschatological
 emphasis in the eucharist inevitably faded. It ceased to be regarded
 primarily as a rite which manifested and secured the eternal consequences of
 redemption, a rite which by manifesting their true being as eternally
-‘redeemed’ momentarily transported those who took part in it beyond the
+'redeemed' momentarily transported those who took part in it beyond the
 alien and hostile world of time into the Kingdom of God and the World to
 come. Instead, the eucharist came to be thought of primarily as the re¬
 presentation, the enactment before God, of the historical process of redemp¬
@@ -160,7 +160,7 @@ The consequences of these two changes in tne general understanding of
 Christian worship were in the end very far-reaching. They arc with us yet,
 though our own times seem to be witnessing the rapid fading of at least
 the first of them, if not the second, almost witliout uur being aware of it.
-But as these conceptions, then so new, are now disappearing from men’s
+But as these conceptions, then so new, are now disappearing from men's
 minds, so they first appeared in the fourth century, not consciously nor by
 a deliberate reversal of ideas, not altogether suddenly nor at once very
 obviously, but after long hidden preparation and with an aftermath of
@@ -183,14 +183,14 @@ to Christians, though it did not prevent the martyrdom of individuals yet
 procured for the church forty years during which her corporate worship
 was for the first time legally protected from molestation. We have already
 noted the important consequence of this in the erection of Christian
-‘churches’, buildings specially designed for Christian worship, which was a
+'churches', buildings specially designed for Christian worship, which was a
 new feature of church life in most places in the last half or quarter of the
 third century. The new surroundings and setting could not fail to affect
 worship, chiefly in the direction of formalising and organising it in a new
 way. The rapid increase in Christian numbers in the same period tended in
-the same direction. The informality of small — and above all, secret —
+the same direction. The informality of small—and above all, secret —
 gatherings, could not survive the transference. The old domestic character
-of eucharistic worship in the ‘house-churches’ inevitably took on much of
+of eucharistic worship in the 'house-churches' inevitably took on much of
 the character of a public worship even in the first modest basilicas of the
 third century. And Christian worship itself had now more than two
 centuries of organised existence behind it. Its traditions were acquiring
@@ -223,7 +223,7 @@ The new freedom and the widening of Christian interests brought their
 own dangers of compromise with pagan beliefs and morals and of lowering
 Christian standards both in faith and conduct. Social life was permeated
 with traditional pagan customs and assumptions at every end and turn.
-‘Civilised living9 was thoroughly pagan in its basis, and those Christians
+'Civilised living9 was thoroughly pagan in its basis, and those Christians
 who tried to enter into it were perpetually confronted with problems of
 casuistry as to how far a man might go in conforming to what was now
 often little more than an accepted convention or an expression of civil
@@ -235,10 +235,10 @@ non-existent, but as the cunning masks assumed by the very demons from
 whose fearful bondage Christ had died to ransom mankind. The Christian
 magistrate might be called upon to offer the sacrifices of the civic cults on
 behalf of his city as part of the duties of his office. The Christian soldier
-must as a matter of course take his oath of allegiance by the ‘genius9 of
+must as a matter of course take his oath of allegiance by the 'genius9 of
 the deified emperor, whom the Christian courtier must address with the
-ceremonies and language of ‘adoration9 prescribed by etiquette. The
-Christian guest must overlook the fact that his host’s hospitality was offered
+ceremonies and language of 'adoration9 prescribed by etiquette. The
+Christian guest must overlook the fact that his host's hospitality was offered
 to him nominally in honour of some heathen festival. The Christian bride
 must take part in the age-old pagan rites which wedded her to her pagan
 bridegroom. These things were part of the fabric of social life, and like a
@@ -296,11 +296,11 @@ in special buildings. The ten-year-long interruption of all regular public
 worship which followed under Diocletian prevented the cramped forms of
 this transitional period from hardening prematurely into a permanent
 model, and at the same time lent to the new situation abopt worship under
-Constantine something of the aspect of a ‘restoration* of the past, rather
+Constantine something of the aspect of a 'restoration* of the past, rather
 than the opening of a wholly new chapter. Just so at the Restoration of
 Church and State under Charles II in England, churchmen looked back to
 the good old days and desired to return to the old ways they had known
-before ‘the late troubles’; and yet after a twelve-year interruption of their
+before 'the late troubles'; and yet after a twelve-year interruption of their
 observance they found themselves making more changes than perhaps they
 realised. So under Constantine the church came to the restoration of her
 corporate worship with every intention of a reverent conservatism. But in
@@ -330,7 +330,7 @@ respect, and also the personal religion of the emperor, though it was as yet
 by no means the religion of the state or of the majority of its citizens. The
 church could conduct her worship and her propaganda freely, though in
 theory the state did not directly assist in this. Yet there was the powerful
-indirect effect of the emperor’s adherence, and of his personal encourage¬
+indirect effect of the emperor's adherence, and of his personal encourage¬
 ment of all who followed his example. And as the Roman state had always
 made provision for the conduct of public worship by all officially accepted
 forms of cult, so it now began to provide for the worship of the catholic
@@ -346,7 +346,7 @@ of his Privy Purse, including the exceptionally large and richly furnished
 basilicas of S. Saviour by the Lateran palace (the cathedral of Rome) and of
 S. Peter on the Vatican and S. Paul beside the road to Ostia over the tombs
 of the two Roman apostles. Pope Silvester built another, the Titulus Silves-
-tri—xhc present San Martino ai Monti near the baths of Trajan — and
+tri—xhc present San Martino ai Monti near the baths of Trajan—and
 private persons were not slow to follow such examples. Constantine built
 others at Ostia, Naples, Capua, Albano, Carthage, Jerusalem, Bethlehem,
 Mamre, Antioch, Thcssalonica, ;and scores of other places in the provinces,
@@ -354,9 +354,9 @@ besides a whole group in the new capital at Constantinople. And in all the
 cities round the Mediterranean local devotion began to multiply splendid
 new basilicas beside, the old third century Christian buildings which Diocle¬
 tian had confiscated and Constantine had restored. By the last quarter of
-the century they were numerous in many places — so remote a place as the
+the century they were numerous in many places—so remote a place as the
 old Christian centre in the frontier-town of Edessa boasted thirteen when
-Etheria visited it in 385 — and in some provinces they were by then
+Etheria visited it in 385—and in some provinces they were by then
 becoming numerous in the countrysides.1 (We have noted one important
 
 1 The advance in the provision of rural churches varied greatly, even in neigh¬
@@ -380,24 +380,24 @@ which are apt to strike a modem reader, as their furnishing. The gifts
 bestowed by Constantine on his Roman foundations1 reveal how com¬
 pletely the church had accepted the liturgical consequences of the change
 from a private to a public worship within a few years of the peace of the
-church. At S. Peter’s, to take an instance less exceptional than the Lateran
+church. At S. Peter's, to take an instance less exceptional than the Lateran
 which was especially closely connected with the court, ihe shrine of the
 apostle was of precious marbles and gold. The vaulting of the apse was
 plated with gold. There was a great cross of solid gold, and the altar was of
 silver-gilt set with 400 precious stones. There was a large golden dish for
-receiving the offertory of the people’s breads, and a jewelled ‘tower’ with a
-dove of pure gold brooding upon it — probably a vessel for the reserved
+receiving the offertory of the people's breads, and a jewelled 'tower' with a
+dove of pure gold brooding upon it—probably a vessel for the reserved
 sacrament. There were five silver patens for administration, three gold and
 jewelled chalices and twenty of silver; two golden flagor s and five silver
 ones for receiving the oblations of wine. There was a jewelled golden
-‘censer’ — perhaps a standing burner for perfumed oil or spices rather than
-what we understand by the word. Before the apostle’s tomb was a great
+'censer'—perhaps a standing burner for perfumed oil or spices rather than
+what we understand by the word. Before the apostle's tomb was a great
 golden corona of lights and four large standard candlesticks wrought with
 silver medallions depicting scenes from the Acts of the Apostles. The nave
 was lit by thirty-two hanging candelabra of silver and the aisles by thirty
 more.
 
-S. Peter’s was one of the great shrines of Christendom, bi it its furnishings
+S. Peter's was one of the great shrines of Christendom, bi it its furnishings
 
 even earlier. Yet they were still rare in the Eastern parts of the peninsula in the late
 fourth. Extant remains of country churches from the middle fourth century are
@@ -427,9 +427,9 @@ M55>»*2.
 THE SANCTIFICATION OF TIME 311
 
 were not exceptional among churches of this class. At the Lateran there
-even appear items which were unrepresented at S. Peter’s, such as silver
+even appear items which were unrepresented at S. Peter's, such as silver
 bas-reliefs of our Lord among the angels and our Lord among the apostles.
-Nor was such furnishing confined to the churches of Rome. Constantine’s
+Nor was such furnishing confined to the churches of Rome. Constantine's
 smaller foundation of the Martyrium at Jerusalem, the cathedral of the
 Holy City (built before a.d. 333) testified to the same conception of
 worship, with its gilded and coffered ceiling and bronze screens, and its
@@ -440,7 +440,7 @@ Lights and incense, golden chalices and jewelled altars— that was how
 the survivors of the Diocletian persecution worshipped at the eucharist! Yet
 this is not, as many will be inclined to think, a proof of the instant corrup¬
 tion wrought by imperial patronage, nor was it confined to churches built
-by the imperial treasury. Long before Constantine’s first efforts in church
+by the imperial treasury. Long before Constantine's first efforts in church
 furnishing, local churches were being built like that at Tyre (built about
 a.d. 314 at the first moment that it was possible after the persecution)
 whose cedar ceilings, delicately carved altar rails and mosaic pavements are
@@ -451,21 +451,21 @@ which satisfied the personal taste of Constantine. If the reader will cast his
 mind back to the impressive list of gold and silver plate and candlesticks
 possessed by the insignificant provincial church of Cirta before the Dio¬
 cletian persecution began, he will recognise that this conception of worship
-is something which goes back into what we like to think of as the ‘simple’
-worship of the church in ‘the catacombs’. All that Constantine provided
+is something which goes back into what we like to think of as the 'simple'
+worship of the church in 'the catacombs'. All that Constantine provided
 was the opportunity and in some cases the means for its free development.
 Quite apart from the directly imperial foundations, in the course of fifty
 years or so the generosity and labour of the Christian people brought into
 being all over the Roman world thousands of churches ranging in size from
-little martyr’s chapels in the cemeteries to the cathedral basilicas of the
+little martyr's chapels in the cemeteries to the cathedral basilicas of the
 great cities. Wherever extant remains permit an examination of the ques¬
 tion it is dear that Christian art was called in at once to embellish them
 with all the available resources accumulated in this final century of the
 great antique dvilisation. As a French writer has noted, whenever an
-author of this period sets out to describe a church, ‘il use presque invari-
-ablement d’epithdes qui Svoquent l’idee d’un decor eclatant. Point de
+author of this period sets out to describe a church, 'il use presque invari-
+ablement d'epithdes qui Svoquent l'idee d'un decor eclatant. Point de
 basilique qui ne soit alors splendens, rutilans, nitens , micans, radians ,
-coruscans’2 These are all adjectives of ‘glitter’. With their tesselated pave¬
+coruscans'2 These are all adjectives of 'glitter'. With their tesselated pave¬
 ments, the richly coloured marble facings of their lower walls, the glass
 mosaics of their derestories and their gilded ceilings, these Constantinian
 
@@ -489,38 +489,38 @@ was something of a token of the earnestness of her thanksgiving for the
 seemingly miraculous deliverance from annihilation in the ten grinding
 years of the great persecution.
 
-The truth is that the English puritans’ crusade agjiinst all forms of
+The truth is that the English puritans' crusade agjiinst all forms of
 sensuous beauty in worship has had more effect than we realise upon our
 notion of the worship of the primitive church. It disconcerts us to find that
 that church did not share the puritan theory of worship so far as corporate
 worship was concerned. No small part of our liturgical difficulties in the
-Church of England come from confusing two things: protestantism — a
+Church of England come from confusing two things: protestantism—a
 purely doctrinal movement of the sixteenth century, confined to Western
 Christianity and closely related to certain doctrinal as pects of fifteenth
 century Western Catholicism, from which it derived directly by way both
-of development and reaction; and puritanism — which ii a general theory
+of development and reaction; and puritanism—which ii a general theory
 about worship, not specifically protestant nor indeed confined to Christians
 of any kind. It is the working theory upon which Jill mohammedan
 worship is based. It was put as well as by anybody by the Roman poet
 Persius or the pagan philosopher Seneca in the first cenlury, and they are
 only elaborating a thesis from Greek philosophical authors going back
 to the seventh century b.c. Briefly, the puritan theory is that worship is a
-purely menial activity, to be exercised by a strictly psyche logical 'attention’
+purely menial activity, to be exercised by a strictly psyche logical 'attention'
 to a subjective emotional or spiritual experience. For the puritan this is the
 essence of worship, and all external things which might inpair this strictly
 mental attention have no rightful place in it. At the most they are to be
 admitted grudgingly and with suspicion, and only in so far as practice
 
 
-shows that they stimulate the 'felt’ religious experience or emotion. Its
-principal defect is its tendency to 'verbalism’, to suppose that words alone
+shows that they stimulate the 'felt' religious experience or emotion. Its
+principal defect is its tendency to 'verbalism', to suppose that words alone
 can express or stimulate the act of worship. Over against this puritan
-theory of worship stands another — the ‘ceremonious’ conception of wor¬
+theory of worship stands another—the 'ceremonious' conception of wor¬
 ship, whose foundation principle is that worship as such is not a purely
-intellectual and affective exercise, but one in which the whole man — body
+intellectual and affective exercise, but one in which the whole man—body
 as well as soul, his aesthetic and volitional as well as his intellectual powers
-— must take full part. It regards worship as an 'act’ just as much as an
-‘experience’. The accidental alliance of protestant doctrine with the puritan
+—must take full part. It regards worship as an 'act' just as much as an
+'experience'. The accidental alliance of protestant doctrine with the puritan
 theory of worship in the sixteenth century may have been natural, and was
 as close in England as anywhere. But it was not inevitable. The early Cis¬
 tercians were profoundly puritan, but they were never protestant. The
@@ -558,10 +558,10 @@ terms of the ceremonious worship of the Temple. Clement uses that parallel
 as an illustration. Both these early Easterns take it as a fact.
 
 It is true that some Christian apologists of the second century met the
-pagan charges of Christian ‘atheism’ by adopting the essential puritan
+pagan charges of Christian 'atheism' by adopting the essential puritan
 theory, and counter-attacking the ceremonies of pagan worship for being
 ceremonious. In Athenagoras and Tatian, for instance, there is a virtual
-repudiation of the legitimacy of such ceremonies in any ‘pure’ worship.
+repudiation of the legitimacy of such ceremonies in any 'pure' worship.
 But it is interesting to find that they draw their arguments on this topic not
 from anything in Christian doctrine as such, but from pagan and especially
 from stoic ethical philosophy, in which such assaults on the irrationalities
@@ -570,11 +570,11 @@ apologists could start, of course, from the undoubted fact that the cere¬
 monies of the Christian cult were comparatively simple and unadorned in
 their day. But in the course of their borrowed rationalistic argument they
 exaggerate this aspect of the life of the Christian society as we know it from
-other contemporary documents. There were all the makings of a ‘cere¬
-monious’ rather than a ‘puritan’ worship about the administration of the
+other contemporary documents. There were all the makings of a 'cere¬
+monious' rather than a 'puritan' worship about the administration of the
 sacraments, even in the second century; and chrisnan corporate worship
 centred in the sacraments. What is striking about the pre-Nicene liturgy is
-not so much its simplicity as what I have called its ‘directness’, its intense
+not so much its simplicity as what I have called its 'directness', its intense
 concentration and insistence upon the external sacramental action in itself
 as what really mattered, and its exclusion of all devotional accretions of a
 kind which stimulate or satisfy a subjective piety. This is a type of worship
@@ -588,7 +588,7 @@ plicity of the Christian ceremonies was no theory that external simplicity
 314 THE SHAPE OF THE LITURG Y
 
 was desirable in itself, but the domestic origin of christi m worship and the
-retention for so long of its character as the meeting of the ‘ lousehold of God\
+retention for so long of its character as the meeting of the ' lousehold of God\
 This involved no deliberate repudiation of beauty in worship where it
 was possible, nor any cult of plainness for its own sake. Music and painting,
 incised chalices of precious metal, and even sculpture, can all be proved to
@@ -605,8 +605,8 @@ the wall-paintings of the baptistery at Dura and the chirch plate of Cirta
 even in the third century. Already in the first century A.d. the Johannine
 Apocalypse had pictured the heavenly worship as a reality faintly repro¬
 duced in the earthly worship of the Christian church. Itis significant that
-the author found it natural and appropriate to describe] worship ‘in spirit
-and in truth’ under the form of majestic ceremonial, with all the external
+the author found it natural and appropriate to describe] worship 'in spirit
+and in truth' under the form of majestic ceremonial, with all the external
 accompaniments of lights and incense. He is in fact depicting Christian wor¬
 ship as a public worship, under the only conditions in which it could then
 be imagined as a public worship— in heaven. It is not sui^rising that when
@@ -636,7 +636,7 @@ average man throughout a whole population.
 
 THE SANCTIFICATION OF TIME 315
 
-If such an ideal as ‘a Christian civilisation* be justifiable at all, the church
+If such an ideal as 'a Christian civilisation* be justifiable at all, the church
 was fully justified in accepting the mission, freely offered her by the world
 in the fourth century, of baptising not the human material only but the
 whole spirit and organisation of society. It was a formidable task, involving
@@ -651,9 +651,9 @@ meet with more formality, with a greater dignity of surroundings and
 on occasion of official dress, than a group of company directors in an
 office. The latter may well be more important by the real standards of
 to-day, because they control more money. Bui: we still feel that a certain
-dignity is due to the other gathering just because it is a ‘public’ and not a
-‘private* act. This is a fragment still surviving from the great fabric of
-‘public spirit’ which vivified the city civilisation of the old mediterranean
+dignity is due to the other gathering just because it is a 'public' and not a
+'private* act. This is a fragment still surviving from the great fabric of
+'public spirit' which vivified the city civilisation of the old mediterranean
 world.
 
 Outside the luxurious palaces and villas of the rich the domestic life of
@@ -664,7 +664,7 @@ sufficiently well-adapted to their purpose in that climate; but they were
 seldom large or imposing. It was far otherwise with the public buildings
 which housed the corporate life of the litde city-republics. Every city and
 municipium, even little country towns, vied with its neighbours in the Size
-of these and the splendour of their furnishings — often to the point of
+of these and the splendour of their furnishings—often to the point of
 embarrassing city finances. It was a point of honour, even with insignifi¬
 cant places like Silchester in Roman Berkshire, to have a town-hall which
 could accommodate the whole population at once; a theatre where the
@@ -677,10 +677,10 @@ remains. There was no surer way known to the emperors to gain fame and
 the loyalty of their subjects than the erection of splendid public buildings
 in the cities of the empire. It was the ambition of every provincial of some
 substance to present to his native town some piece of architecture, useful
-or just beautiful — a public bath or a triumphal arch, a marble colonnade
+or just beautiful—a public bath or a triumphal arch, a marble colonnade
 with frescoes or some striking piece of sculpture, by which its dignity
 might be increased. There was ostentation in this but there was also
-something better— ‘public spirit*— an instinct that all which concerned
+something better— 'public spirit*— an instinct that all which concerned
 
 
 316 THE SHAPE OF THE LITURGY
@@ -689,7 +689,7 @@ corporate and public life ought to be dignified and beautiful and, if
 possible, splendid.
 
 More particularly did this feeling concern religion, What we should
-call ‘piety’ and personal devotion towards the deities of the civic cults was
+call 'piety' and personal devotion towards the deities of the civic cults was
 now languid in the extreme. The old guardian gods of tie cities were little
 more than their religious embodiments; Athens worshipped Athena and
 Ephesus Diana of the Ephesians, and almost knew that they were worship¬
@@ -697,16 +697,16 @@ ping their own best selves. Polytheism supplied other and more moving
 objects for the genuinely religious instincts of individuals, in the oriental
 cults and mysteries, and the immemorial local worships of heroes and the
 household gods, or the goblins and spirits of peasant superstition. But the
-civic cults of the ‘great gods’ were nevertheless the chief focus of the still
+civic cults of the 'great gods' were nevertheless the chief focus of the still
 vigorous corporate life of the cities. Their festivals and c eremonies marked
 the pattern of life, and rooted all human activities in the scheme of things,
 linking them with the whole natural order of existence. The ordinary man
 might feel little personal devotion towards Jupiter Capitolinus or Apollo,
 and address his own prayers to less imposing household gods or to a
-personal ‘Saviour’ like Mithras. But it meant much to him that the public
+personal 'Saviour' like Mithras. But it meant much to him that the public
 sacrifices were duly offered in the city temples by the magistrates as the
 proper representatives of all the citizens, and that the trac itional ceremonies
-which had brought luck to the city in his fathers’ days wc re still exactly and
+which had brought luck to the city in his fathers' days wc re still exactly and
 beautifully performed by the hereditary custodians of the rites. And so the
 cities provided corporately with an astonishing lavishness for a perpetual
 round of public worship, in which no one, perhaps, felt any overwhelming
@@ -719,7 +719,7 @@ detail later, but here it is important to make clear the principle. For the
 result in principle was the catholic conception of public worship as it
 exists to-day in the East and West alike, a thing made s aspect to English¬
 men by the dominance among us for three centuries of an opposite tradi¬
-tion. Catholic worship is the result— by and large — of the blending of two
+tion. Catholic worship is the result— by and large—of the blending of two
 things, of primitive Christian doctrine with the sort of ex session the whole
 ancient v/orld considered suitable for any public act. And that union was
 fully effected for the first time in the fourth century, when catholic worship
@@ -763,7 +763,7 @@ obviously because corporate worship had now become public. But the
 church was still able to combine the puritan and ceremonious theories of
 worship in a most fruitful alliance in the same church, because the expo¬
 nents of both were alike catholic in doctrine. The monastic devotion of the
-divine office with its ‘puritan5 emphasis on edification was adopted by the
+divine office with its 'puritan5 emphasis on edification was adopted by the
 secular churches as part of their corporate worship; just as the old pre-
 Nicene worship of the eucharistic ecclesia finally remained the centre of
 monastic devotion. The interactions of the two strains in catholic worship
@@ -787,8 +787,8 @@ principles as that of the catholics. No doubt the peculiar protestant
 
 318 THE SHAPE OF THE LITURGY
 
-doctrine of ‘justification by faith alone’, with its consequent antipathy
-to all external sacramental actions as * effectual signs of grace’1, i.e. signs
+doctrine of 'justification by faith alone', with its consequent antipathy
+to all external sacramental actions as * effectual signs of grace'1, i.e. signs
 which cause what they signify, is one important reason for the protestant
 innovations upon the traditional forms of Christian ciitus. But another at
 least equally potent is the general acceptance by protestants as an ideal for
@@ -813,7 +813,7 @@ heresy (c. a.d. 320-381), which was inordinately lengthened, complicated
 and embittered by the persistent interference of the emperors. The outline
 of the synaxis consisted still only of the proclamation of revelation by the
 reading of the scriptures, and the living witness of the church to its truth
-in the bishop’s liturgical sermon, followed by the intercessions of the
+in the bishop's liturgical sermon, followed by the intercessions of the
 faithful. This outline retained all its old usefulness and justification. The
 eucharist still remained a mystery which might not even be described to
 the unconfirmed. I
@@ -826,7 +826,7 @@ begins to respond to the new position of the church and the new character
 of her worship. The first effect of this is seen in the increased share in the
 conduct of corporate worship which falls to the clergy] We have seen that
 in the pre-Nicene eucharist the only part of the rite which belonged
-exclusively to the bishop, that which formed the ‘special liturgy’ of his
+exclusively to the bishop, that which formed the 'special liturgy' of his
 office in the corporate worship of the whole church, was the recitation of
 the eucharistic prayer alone. Even the fraction and administration he shared
 with the presbyters and deacons; and he had no special part in the offertory
@@ -842,19 +842,19 @@ THE SANCTIFICATION OF TIME
 
 rite of Sarapion (c. 340) this has begun to alter. To the old eucharistic prayer,
 the only spoken text of the pre-Nicene rite, has been added a series of
-further prayers assigned to the celebrant alone — a prayer at the fraction, a
+further prayers assigned to the celebrant alone—a prayer at the fraction, a
 prayer over the people between the communion of the clergy and that of
 the laity, a prayer of thanksgiving after the communion (a further prayer
 for the blessing of oil and water for the sick),1 and a final prayer of bene¬
 diction. And Sarapion is only representative of a tendency to surround
-‘the’ prayer (as Sarapion himself still calls it) with secondary devotions,
+'the' prayer (as Sarapion himself still calls it) with secondary devotions,
 which is found increasingly in all rites in the fourth century. The increase
-in the mere quantity of the celebrant’s ‘liturgy’ is not in itself important.
+in the mere quantity of the celebrant's 'liturgy' is not in itself important.
 The old rites were very brief, the bare bones of the liturgical action; this
 was the obvious way to expand them to fit their new dignity and formality.
 Even so, it was likely to alter the relative positions of the clergy and laity in
 what was meant to be a corporate action. But the really serious results
-came in with the disappearance of the people’s offertory in the East during
+came in with the disappearance of the people's offertory in the East during
 the fourth century, and the simultaneous rapid decline in the frequency of
 lay communions. The corporate action of the church disappeared, and what
 was left was a rite conducted chiefly by the prayers of the clergy, in which
@@ -880,7 +880,7 @@ doctrines and ideas. ^
 The Coming of Monasticism and the Divine Office
 
 It may sound paradoxical to say that among the most important of these
-was the ‘world-renouncing’ movement of monasticism, yet such seems to
+was the 'world-renouncing' movement of monasticism, yet such seems to
 be the fact. Between a.d. 325 and 375 the monastic movement was gaining
 
 1 In the old Roman rite this blessing when required was added as part of the
@@ -901,17 +901,17 @@ moulded and deepened by the new intensification of the;' spiritual life were
 making their appearance on episcopal thrones, first in Egypt, then all over
 the East and finally in the West. Every year some hundreds or thousands of
 members of ordinary Christian congregations were leaving the world to
-give themselves — their whole life and being — to nothing else but worship ,
+give themselves—their whole life and being—to nothing else but worship ,
 so far as this might be possible for mortal man. The whole church could
 not but be familiarised thus with the idea that worship is not only the
-highest among man’s activities (the pre-Nicene church had been well
+highest among man's activities (the pre-Nicene church had been well
 aware of that) but can become the supreme expression of his whole being,
 towards which every other activity can be directed.
 
 This was precisely the idea needed to nerve the church to that great
 expansion of the scope of the liturgy which alone could enable it to sanctify
-and to express towards God the whole social activity of a new ‘Christian
-world’. In the pre-Nicene church faith and worship cou id and did irradiate
+and to express towards God the whole social activity of a new 'Christian
+world'. In the pre-Nicene church faith and worship cou id and did irradiate
 the whole life of the believer; but just because ordinary secular life was
 organised on a pagan basis, worship and daily life were two opposed things.
 Christian worship could not hope to express and consul amate the daily life
@@ -931,7 +931,7 @@ because she was in the world, could not renounce all secular life as the
 monk did, but she learned from him to sanctify it. I
 
 There are movements in the mind of a whole age wnich grow stealthily,
-as it were, so that all men’s ideas have changed from tljiose of their fathers’
+as it were, so that all men's ideas have changed from tljiose of their fathers'
 generation without conflict and almost unperceived. There are others
 which at their first onset strike the imagination and seem to challenge all
 possible opposition, without appearing in their triumphant progress to
@@ -960,8 +960,8 @@ robbers, entered religion, and emerged again only to bring back his former
 gang into the novitiate with him. Men and women, often the most attrac¬
 tive and gifted of their circle, rich or poor, seemed to leave their fellows
 with a strange eager gladness at the first notes of that secret call. It was no
-wonder that pagan intellectuals raged publicly at what they called ‘the new
-enchantment’, half in fear and half in genuine heart-break for lost friends,
+wonder that pagan intellectuals raged publicly at what they called 'the new
+enchantment', half in fear and half in genuine heart-break for lost friends,
 ft was no wonder, too, that old-fashioned churchmen, headed as ever by
 the clergy of Rome, grumbled loudly and said that the bishops ought to
 take action to stop the whole new-fangled business. The bishops, as has
@@ -977,7 +977,7 @@ countryman of his own, an officer at court, one afternoon at Milan while
 he himself still hovered on the brink of Christian belief. His friend laughed
 and chaffed him when he found him reading S . Paul:
 
-‘Then the talk turned on what Pontitian told us of Antony the monk of
+'Then the talk turned on what Pontitian told us of Antony the monk of
 Egypt,1 and a great name among Thy servants, though till that hour we
 had not heard of him. . . . Thence he fell to talking of the numbers of the
 monasteries, a sweet incense unto Thee, and of how the deserts and the
@@ -1005,25 +1005,25 @@ went in and picked up a copy of The Life of Antony . One of them began
 to read it [in the ancient fashion, aloud] and to wonder at it and be stirred.
 And as he read on, he thought to embrace that life himself and leave his
 career at court to serve Thee. Both of them were of thise who are styled
-“Commissioners of State Affairs”.1 Then suddenly, filled with a holy love
+"Commissioners of State Affairs".1 Then suddenly, filled with a holy love
 and a sober shame, and angry with himself, he looked at his friend and
-burst out, “Tell me, what is the good of all we are tryingjto do? What is the
+burst out, "Tell me, what is the good of all we are tryingjto do? What is the
 object of it? Is there anything more to be hoped for at court than to become
-the emperor’s favourites? And is not everything about1 that unstable and
+the emperor's favourites? And is not everything about1 that unstable and
 dangerous? And through how many other dangers mustjwe go to reach this
 greater danger? And how long before we reach it? But a friend of God I
-can become, if I want to, this very minute.” He said this, and then in tor¬
+can become, if I want to, this very minute." He said this, and then in tor¬
 ment with the throes of a new life, he looked down again at the book. He
 read on, and his heart whereon Thou lookedst was changed, and his mind
 put off the world, as was soon seen. For while he read and struggled with
 the storm in his heart, he sighed a little while, and saw and chose his way.
-And now being already Thine, he said to his friend: “Now I have broken
+And now being already Thine, he said to his friend: "Now I have broken
 loose from all our hopes. I will serve God. From this hour in this place I
-begin. If you will not do the like, at least do not oppose me.” The other
+begin. If you will not do the like, at least do not oppose me." The other
 said that he would stay with him and keep him company in so great a
 reward and so great a service. And to this day both of them are Thine. . . .
 
-‘But by this time Pontitian and the friend who was with him, having
+'But by this time Pontitian and the friend who was with him, having
 walked on through the orchards came back to look for them, and finding
 them said it was getting late and time to be going home. But they told them
 of their mind and purpose and how they had come to their determination,
@@ -1032,7 +1032,7 @@ those two, who had gone through no such searchings of heart that after¬
 noon, yet (as he told us) nevertheless envied them aiid wished them well
 and devoutly begged their prayers. And so they went back with heavy
 hearts to the palace, while the others stayed at the cottage with hearts set
-on high.’2
+on high.'2
 
 So it could take a man as swiftly as that!— An hour later when his friend
 had gone, Augustine in a passion of tears gave his own doubting sensual
@@ -1043,10 +1043,10 @@ That sort of conversation was going on all over the empire through those
 fifty years, often enough with the same results, and the consequences were
 prodigious. It is not only a matter of the scale of the monastic movement
 in itself, with its thousands of monks and nuns, and the effect of this on
-men’s imaginations. We have to keep in mind its devotional repercussions
+men's imaginations. We have to keep in mind its devotional repercussions
 on the church at large. The monk sought God for His own sake alone, and
 
-1 Confidential officers on the emperor’s dv
+1 Confidential officers on the emperor's dv
 
 # Augustine, Confessions* viii. 6.
 
@@ -1054,9 +1054,9 @@ on the church at large. The monk sought God for His own sake alone, and
 THE SANCTIFICATION OF TIME 323
 
 to tell the truth sometimes half-forgot the church when he forgot the
-world, in the ardour of pursuit. (‘I too am a hunter’, answered the hermit
+world, in the ardour of pursuit. ('I too am a hunter', answered the hermit
 Macarius to the unsuccessful sportsman who stopped to ask him what he
-did in the desert, ‘let us not both of us lose our quarry’; and turned back
+did in the desert, 'let us not both of us lose our quarry'; and turned back
 into his cell to pray.) But neither the church nor the world could forget the
 monk. For the hundreds who vanished each year to the supreme adventure
 of the soul in the desert and the hermitage, thousands who could not go to
@@ -1068,16 +1068,16 @@ never was a time when so many of the laity gave themselves up with such
 ardour to the devout life while remaining in the world. We meet these un¬
 organised domestic ascetics literally by the hundred in every great church
 in the fourth century. Despite all the Christian disappointments of the
-times and the seeming mediocrity of the church’s official action in face of
+times and the seeming mediocrity of the church's official action in face of
 the new opportunities, the world was steadily and surely flooding into her
 communion behind its nominally Christian rulers. The new movement
 towards asceticism led by the monks was like some vast blind gathering
-together of the church’s interior spiritual force, in self-immunisation from
+together of the church's interior spiritual force, in self-immunisation from
 the torrent of worldliness which at times began to look like engulfing her
-as a result of the world’s conversion. Of the bishops in the first half of
+as a result of the world's conversion. Of the bishops in the first half of
 the century it must be said that many were no more than imperial courtiers,
 venal, intriguing, unprincipled and worldly; while the great majority of their
-more respectable brethren — there are of course some great exceptions —
+more respectable brethren—there are of course some great exceptions —
 seem to have been distinctly second-rate men, administrators rather than
 leaders. In such circumstances it was no longer so much the bishops as the
 monks and the devout laity who guided the devotion of the church.
@@ -1085,13 +1085,13 @@ monks and the devout laity who guided the devotion of the church.
 The monk and his lay followers placed a quite new emphasis on an
 element in Christian spirituality which had been present from the begin¬
 ning, but which had hitherto found only restricted expression in Christian
-corporate worship and none at all in the eucharistic rite — the element of
-deliberate personal ‘edification’. At the beginning of the third century
+corporate worship and none at all in the eucharistic rite—the element of
+deliberate personal 'edification'. At the beginning of the third century
 Hippolytus describes a rdgime of prayer which is recognisably semi¬
 monastic in character.1 The Christian, married or single, is to rise for
 prayer at midnight, and again at cock-crow. There are prayers at rising for
 the day, at the Hours of the Passion at Terce, Sext and None, and again
-in the evening on going to bed — the equivalent of Compline; though there
+in the evening on going to bed—the equivalent of Compline; though there
 is as yet nothing quite equivalent to Vespers.2 There is even the daily
 
 1 Ap. Trad ., xxxvi.
@@ -1100,7 +1100,7 @@ is as yet nothing quite equivalent to Vespers.2 There is even the daily
 Vespers or Evensong, even on Sundays, from anywhere in Christendom before c.
 a.d. 360. The litde ceremony of the Lucernarium> the blessing of the evening lamp
 with prayer and praise, was inherited by Christianity directly from the Jewish
-domestic piety of our Lord’s time. It was transferred to the public evening service
+domestic piety of our Lord's time. It was transferred to the public evening service
 
 
 THE SHAPE OF THE LITURGY
@@ -1110,15 +1110,15 @@ THE SHAPE OF THE LITURGY
 
 reception of holy communion, received, however, nojt at a daily celebration
 of the eucharist but from the sacrament reserved by the faithful in their
-own homes.1 There is, too, a prescription of daily ‘spiritual reading5, an
+own homes.1 There is, too, a prescription of daily 'spiritual reading5, an
 anticipation of the lectio divina by which later monastic rules set so much
 store. This Hippolytus regards as a reasonable substitute for attendance
-at a daily ‘instruction5, held in an ecclesia at some sort of synaxis on week¬
+at a daily 'instruction5, held in an ecclesia at some sort of synaxis on week¬
 day mornings.2 This he prescribes daily for both clergy and laity, but it is
 plain from what he says that such frequency was not to be expected in
-practice. Perhaps in what he says of the duty of atteiding the ‘instruction5
+practice. Perhaps in what he says of the duty of atteiding the 'instruction5
 and its daily session, he speaks in his private capacity as a professional
-‘lecturer5 on Christian doctrine, and the ecclesia to which he refers is the
+'lecturer5 on Christian doctrine, and the ecclesia to which he refers is the
 daily attendance of his disciples at the lecture-hall, rather than any sort of
 liturgical synaxis officially organised by the church.
 
@@ -1130,7 +1130,7 @@ up the great bulk of the third century church possessed books or could
 have read them if they had? I do not want to minimise the evidence for an
 average standard of devotion among the laity in tie pre-Nicene church
 higher, perhaps, than it ever was again (though one may have doubts
-about that too — the laity of the fourth and fifth cent iries were very devout
+about that too—the laity of the fourth and fifth cent iries were very devout
 indeed). The pre-Nicene evidence, especially for the observance of prayer
 at Terce, Sext and None, and for the ordinary practi ce by the laity of daily
 communion from the reserved sacrament at home, is widespread and ought
@@ -1145,7 +1145,7 @@ But what is more to our immediate point, all this represents the purely
 personal aspect of devotion, and stands quite apart, even as he presents it,
 from the corporate worship of the ecclesia . Even the daily communion
 from the reserved sacrament seems to emphasise a s\ de of eucharistic piety
-— the longing for personal communion with our Lord — which was doubt¬
+—the longing for personal communion with our Lord—which was doubt¬
 less always there in the hearts of the worshippers at the eucharist, but
 which received no liturgical expression whatever ir the pre-Nicene rites,
 
@@ -1153,7 +1153,7 @@ in church when this came into being in the later fourth cmtury, but previously t
 that it had remained a Christian domestic rite, except when used as a preliminary
 to the paschal vigil.
 
-1 Ap. Trad., xxxii. According to Hippolytus, the bishop’j eucharist was celebrated
+1 Ap. Trad., xxxii. According to Hippolytus, the bishop'j eucharist was celebrated
 on all Sundays, and it was not entirely confined to that day; though his language
 suggests that it was not yet common on other days (ibid., xxiv).
 
@@ -1166,36 +1166,36 @@ THE SANCTIFICATION OF TIME
 325
 
 where the whole emphasis is on the corporate aspect. It is true, of course,
-that the general aspect of devotion which may roughly be called ‘subjective
-edification’ was not altogether lost sight of in the corporate worship of the
+that the general aspect of devotion which may roughly be called 'subjective
+edification' was not altogether lost sight of in the corporate worship of the
 church. The ecclesiastical synaxis with its lections and sermon could serve
-this end, even though the liturgy of ‘witness’ rather than ‘edification’ was
+this end, even though the liturgy of 'witness' rather than 'edification' was
 its real purpose. The longer week-day synaxes on the set fast-days or
-‘stations’, when they came in, must have served it better. But how many
+'stations', when they came in, must have served it better. But how many
 could manage to attend them? And even these seem to have consisted
 almost entirely of lessons, interspersed with solo chants, and discourse,
 like the synaxis of Sunday but much lengthier. The elements of vocal
 praise by the congregation and of prayer were much smaller than one would
 expect.
 
-There is said, too, to have been the ‘vigil’ service, at which the church,
+There is said, too, to have been the 'vigil' service, at which the church,
 in hope of the second coming, regularly kept watch all through the Saturday
 night with lections and chants and prayers until the eucharist at cock-crow
-consoled her for the delay of the Lord’s coming, by its proclamation of the
-Lord’s death ‘till He come’. Something of the sort seems to have formed
-the liturgy of the church at Troas1 on the occasion of S. Paul’s visit there.
+consoled her for the delay of the Lord's coming, by its proclamation of the
+Lord's death 'till He come'. Something of the sort seems to have formed
+the liturgy of the church at Troas1 on the occasion of S. Paul's visit there.
 But how far was that exceptional and accidental, due to the special circum¬
-stances of the apostle’s visit and his eloquence? How often, in any case,
+stances of the apostle's visit and his eloquence? How often, in any case,
 after the first joyful days were these vigils held? When one scrutinises the
 second century evidence there is room for suspecting that the pre-Nicene
-‘corporate vigils’ of the church (except for that of the Pascha) are an in¬
+'corporate vigils' of the church (except for that of the Pascha) are an in¬
 vention of manuals of liturgical history. Hippolytus treats the baptismal
 vigil of the Pascha as something altogether peculiar, and has no mention
 of corporate vigils on other occasions but only of private nocturnal prayer
 at home. It has been thought that the Sunday synaxis originally developed
 out of the vigil. But when we first meet a description of it in Justin it has
 nothing whatever of the vigil about it, though it is held in the morning,
-before the work of the day — Sunday was not a public holiday — began. It
+before the work of the day—Sunday was not a public holiday—began. It
 is the nearest approach which Christian worship then made to a public
 action, and from this point of view alone there was always good reason to
 hold it at a time when enquirers might be likely to attend. We may infer
@@ -1220,14 +1220,14 @@ THE SHAPE OF THE LITURGY
 
 326
 
-The ‘private meetings’ (syneleuseis) and agape-sjippers, of which we
-have spoken, did include a large element of ‘edifying discourse’, but these
+The 'private meetings' (syneleuseis) and agape-sjippers, of which we
+have spoken, did include a large element of 'edifying discourse', but these
 were gatherings of selected persons, not corporate assemblies which every
 Christian had a duty or even a right to attend. As such they are outside the
 liturgy. When all proper allowance has been made I for these and similar
 observances, it remains true that the corporate worship of the pre-Nicene
 Christians in its official and organised forms, the synaxis and the eucharist,
-was overwhelmingly a ‘world-renouncing’ cultus, which deliberately and
+was overwhelmingly a 'world-renouncing' cultus, which deliberately and
 rigidly rejected the whole idea of sanctifying and expressing towards God
 the life of human society in general, in the way that catholic worship after
 Constantine set itself to do. On the other hand it alsc ignored, especially in
@@ -1257,13 +1257,13 @@ cells.1 But it needs only a slight acquaintance wit! the literature of early
 monasticism to see what had happened. They had retained the traditional
 corporate worship of the pre-Nicene church not only in the forms but also
 in the infrequency which pre-Nicene conditions had made necessary for
-even devout Christians living in the world. Yet virtually the monks’ whole
+even devout Christians living in the world. Yet virtually the monks' whole
 time was now free for worship; and so the staple of their devotional life
 became a great development of the pre-Nicene system of private prayer
 and the subjective aspects of personal edification :n which the corporate
 worship of the ecclesia had been conspicuously lacking. It is only in the
-desert, for instance, that the regular recitation ojf the whole psalter ‘in
-course’ becomes a practice of Christian devotion for the first time, and that
+desert, for instance, that the regular recitation ojf the whole psalter 'in
+course' becomes a practice of Christian devotion for the first time, and that
 
 1 S. Basil, Ep . xdii.
 
@@ -1286,7 +1286,7 @@ not lasting, since the eucharist subsequently came to take a much larger
 place in the monastic routine), but with its repercussions on the chinch at
 large during the fourth century, and especially on the liturgy. It leads, of
 course, in the first place to the introduction of the divine office, an
-ordered course of services chiefly of ‘praise’ but with some reading of the
+ordered course of services chiefly of 'praise' but with some reading of the
 scriptures, into the public worship of the secular churches. This amounts
 to the creation of what is virtually a fresh department of the liturgy, beside
 and around the old synaxis and eucharist.2
@@ -1311,7 +1311,7 @@ deliberate adoption of such an attitude (as opposed to its accidental occurrence
 through solitude) was accounted by the desert fathers a sin of pride and a diabolical
 illusion. (Cfi e.g. the case in Cassian, Collations , i. 21.) And the Holy Rule of S.
 Benedict makes it abundandy clear that he had an adequate perception of the place
-which ought to be occupied by the eucharist and the ‘ecclesiastical’ organisation of
+which ought to be occupied by the eucharist and the 'ecclesiastical' organisation of
 worship generally in the Christian life of all, whether monks or seculars, even though
 his Rule is naturally preoccupied with regulating ascesis and the specifically
 monastic devotion of the office. In this he is in line with all the best fourth century
@@ -1356,7 +1356,7 @@ after its first invention in the Syrian capital. As far back as the second
 century Christians in other lands had felt the attract on of the sacred sites
 in Jerusalem,2 and as soon as the peace of the church made such devotion
 easier to fulfil, the practice of Christian pilgrimage thither increased. It
-was made fashionable by the example of Constantine’s mother, the British
+was made fashionable by the example of Constantine's mother, the British
 princess S. Helen, c. a.d. 325, which attracted the ii .terest of her son, and
 was probably the cause of his foundation of the splendid churches at
 Calvary and on the Mount of Olives. The flutter caused by the prolonged
@@ -1364,7 +1364,7 @@ visit of this devout grande dame among the members of what was then a
 small and unimportant provincial church, glorious only in its site, is still
 reflected in the legend of the Invention of the Holy Cross. The narrative
 of a humbler pilgrim from Bordeaux in A.D. 333 is still extant; and from
-this time onwards Jerusalem was becoming more aid more a ‘holy city’,
+this time onwards Jerusalem was becoming more aid more a 'holy city',
 whose principal activity, and indeed industry, towards the end of the
 century had become the practice of the Christian religion. A considerable
 proportion of the population after c . a.d. 350 came to consist of monks and
@@ -1389,7 +1389,7 @@ when the first germs of the public office were making their appearance at
 Antioch. In his Catecheses delivered as a presbyter in the spring of 347-8
 there is a complete absence of reference to any services of the sort, which
 would be inexplicable if they already existed. But by the time of the pil¬
-grimage of Etheria-Silvia in A.D. 385 — the year before S. Cyril’s death—
+grimage of Etheria-Silvia in A.D. 385—the year before S. Cyril's death—
 there is a whole daily round of offices at Jerusalem, from the Night Office
 an hour or two after midnight lasting till Lauds at cock-crow, on through
 Sext and None daily (public Terce is still specially reserved for Lent) and
@@ -1400,7 +1400,7 @@ and Vespers accompanied by them all. It is nothing less than the reception
 for the first time into the public worship of a secular church of the monastic
 ideal of sanctifying human life as a whole and the passage of time by cor¬
 porate worship. It marks the end of the pre-Nicene tradition that corporate
-worship should express only the separateness of ‘the holy church’ from the
+worship should express only the separateness of 'the holy church' from the
 world out of which it had been redeemed.
 
 Conditions at Jerusalem were exceptional in the degree to which properly
@@ -1442,7 +1442,7 @@ part of clerical duties. It was otherwise with Lauds and Vespers, the daily
 offices of praise at dawn and sunset, which had been! established in almost
 all secular churches before the end of the fourth century. These had been
 specially favoured by the secular clergy from the oiitset (as they were at
-Jerusalem in Etheria’s time) and they retained traces df the fact, as Nocturns
+Jerusalem in Etheria's time) and they retained traces df the fact, as Nocturns
 and the Little Hours retained special traces of monastic practice. The
 secular clergy still did their bible-reading as the prs-Nicene church had
 done it, as part of the public worship of the church at the synaxis; the
@@ -1469,11 +1469,11 @@ almost universal tendency for the lessons at the Night Officejto be not selected
 different books but continuous from the same book, and for some of them to be
 taken not from the bible but from commentaries upon it, explaining the passage of
 scripture already read. There are few historical statements more in need of revision
-than those of the preface ‘Concerning the Service of the Church* in the Book of
-Common Prayer, that ‘the ancient fathers ... so ordained the matter that all the
+than those of the preface 'Concerning the Service of the Church* in the Book of
+Common Prayer, that 'the ancient fathers ... so ordained the matter that all the
 whole Bible should be read over once every year . . .* in public worship, and that
-‘this godly and decent order hath been . . . broken and neglected . . . with multitude
-of Responds, Verses. . . .’ Nothing is more certain than that the selection of lections
+'this godly and decent order hath been . . . broken and neglected . . . with multitude
+of Responds, Verses. . . .' Nothing is more certain than that the selection of lections
 in public worship were a point of distinction between the p re-Nicene public wor¬
 ship (continued for a while in the post-Nicene secular churches) and the continuous
 reading introduced by the monks. The unbroken recitatioh of the whole psalter
@@ -1502,23 +1502,23 @@ the eucharist, from its first introduction a really public devotion, open to
 all comers. There was for a while a practice of expelling the unconfirmed
 before the concluding prayers at the office as at the synaxis: but the element
 of prayer in the secular office was never a large one, and the bulk of the
-office and its most important part, the ‘worship* of the psalms, was always
+office and its most important part, the 'worship* of the psalms, was always
 open to all. There was no strong tradition of exclusiveness attaching to it
 from the past, as in the case of the eucharist. This openness of the office did
 something to prepare the way for the open celebration of the eucharist; but
 even the old Christian exclusiveness about that was bound to break down
 as the world became nominally Christian.
 
-When one considers the rigidity with which this old ‘exclusive* notion of
-Christian corporate worship was held — so that e.g.y all the sets of catechet¬
+When one considers the rigidity with which this old 'exclusive* notion of
+Christian corporate worship was held—so that e.g.y all the sets of catechet¬
 ical instructions extant from the later fourth and fifth centuries still give the
 new Christian laity their first instructions about baptism, confirmation and
-the eucharist only after they have received those sacraments — one sees
+the eucharist only after they have received those sacraments—one sees
 something of the change the monastic movement thus made indirectly in
 the theory of Christian worship. When one considers, too, the immense
 problem which the conversion of the empire put before the church in the
 mere provision of a corporate worship responsive to the new needs —
-given her previous ‘world-renouncing* tradition on the matter— one
+given her previous 'world-renouncing* tradition on the matter— one
 appreciates better the service rendered to the liturgy by the fourth century
 monastic movement. Nothing less striking to the imagination or less
 impressive in its scale could have sufficed to change the Christian concep¬
@@ -1540,7 +1540,7 @@ opened itself to her under Constantine, she must choose either to try to
 THE SHAPE OF THE LITURGY
 
 absorb it and christianise it or to withdraw for ever from all deliberate
-contact with it. The existence of the monks with thrir passionate ‘other¬
+contact with it. The existence of the monks with thrir passionate 'other¬
 worldliness5 in such numbers and authority was an elective standing pro¬
 test against worldliness in the church. It is not too much to say that this
 was the principal safeguard in that mingling of the c lurch with the world
@@ -1557,14 +1557,14 @@ man as consummated in worship, instead of regarding worship as a depart¬
 ment of life, like paganism, or the contradiction of duly life, like the pre-
 Nicene church. The church at large after a while gave back to the monk
 that centring of all specifically Christian life on the e icharist as the exten¬
-sion of the incarnation — a thing which in his own first enthusiasm he had
+sion of the incarnation—a thing which in his own first enthusiasm he had
 sometimes been in danger of forgetting. This the semlar churches never
 lost sight of by reason of their firm maintenance of the pre-Nicene tradition
 of worship, with the synaxis and eucharist as its central act. From the
 fourth century onwards this fruitful interplay between the secular and
 monastic elements in the church never wholly ceases to enrich and fortify
 Christian devotion in different ways at different timss. Perhaps it is not
-fanciful to ascribe that gradual ‘secularisation5 of the spirit and content of
+fanciful to ascribe that gradual 'secularisation5 of the spirit and content of
 their public worship which the most spiritual minds in the churches of the
 Reformation now openly deplore, in part to their destruction along with
 monasticism of its insistence on intellectual worship for its own sake, or
@@ -1575,7 +1575,7 @@ in the days when the church first faced the novel dangers of a Christian
 world. Without monasticism and its witness, despite all the noble efforts
 of protestant puritans to achieve a Christianity that shall be in the world
 but not of it, the protestant churches to-day seem to De facing exactly the
-same alternatives as the catholic church in the reign of Constantine — the
+same alternatives as the catholic church in the reign of Constantine—the
 impossible choice between inner secularisation of themselves and their
 worship, or renunciation of the mission to christiarise the daily life of
 society at large.1
@@ -1583,7 +1583,7 @@ society at large.1
 1 In these circumstances one must watch with hope and sy npathy the progress of
 such groups as the Iona community among the Scottish Presbyterians, and Les
 Veilleurs , a somewhat similar group founded by Wilfrid Mo iod among the French
-Huguenots. Their connection with the ‘liturgical movement* among their co¬
+Huguenots. Their connection with the 'liturgical movement* among their co¬
 religionists is obvious and important.
 
 
@@ -1604,8 +1604,8 @@ less than the organisation of the office this helped to equip the liturgy to
 fulfil a social as well as a strictly devotional function. The office, when it
 had been fully organised, enabled the church to set about sanctifying >
 human life within time by consecrating the chief natural points of every
-day — the quiet of the night, dawn, the beginning of work, the approach of
-the day’s heat, noon, the return to the afternoon’s work, sunset, rest—
+day—the quiet of the night, dawn, the beginning of work, the approach of
+the day's heat, noon, the return to the afternoon's work, sunset, rest—
 with appropriate Christian prayers, publicly offered on behalf of the whole
 community. So in the same way the liturgical cycle, when its main oudine
 had been completed, sanctified the annual round of the seasons, and set
@@ -1616,13 +1616,13 @@ of Christian doctrine than the perpetual round of the Hours of the Passion
 set in the ordered sequence of the liturgical seasons. The centrality
 of Jesus of Nazareth as the only Redeemer of mankind is the incessant
 lesson of them both, when they are properly understood. Even the great
-increase in the importance of saints’ days which is noticeable in the fourth
+increase in the importance of saints' days which is noticeable in the fourth
 century told in the same direction. The new cultus of the local martyrs of
 the past as the patrons of their own cities and provinces enabled the church
 to give a Christian turn to the local patriotism and civic spirit which were
 still the healthiest elements in the decaying political life of the empire. And
 since these local heroes owed their celebrity to the fact that they had * wit¬
-nessed’ outstandingly for the Lordship of Jesus against the world in the
+nessed' outstandingly for the Lordship of Jesus against the world in the
 places where they were venerated, their cultus enabled the church to set
 forth Jesus as the Lord not only of universal history but of homely local
 history as well, which to the average man was a much less vague conception.
@@ -1645,8 +1645,8 @@ carried on to some extent independently and under rather different
 influences. The office originated with the monks and the devout laity;
 the annual calendar was developed chiefly by the bisjhops and the secular
 clergy. The cycle of the office was based upon the day and the week; that
-of the synaxis and eucharist (which lies behind the later ‘ecclesiastical
-calendar’) was based upon the year. |
+of the synaxis and eucharist (which lies behind the later 'ecclesiastical
+calendar') was based upon the year. |
 
 In the year a.d. 350 both office and calendar were just beginning to be
 more or less officially organised; by the year a.d. 406 both were complete
@@ -1661,8 +1661,8 @@ the ordinary weekly cycle of the office, but were specially chosen to be
 appropriate to the feast. And it is in fact highly probable that it is to the
 fourth century Jerusalem church and its liturgicaUy-minded bishop S.
 Cyril that we owe not only the first organisation ofjthe daily office in a
-secular church, but also the invention of the ‘proper’ jof saints and in great
-part of the ‘proper’ of seasons as well. Other churches, especially in the
+secular church, but also the invention of the 'proper' jof saints and in great
+part of the 'proper' of seasons as well. Other churches, especially in the
 West, were rather slow to adopt this new idea of varying the ordinary daily
 and weekly round of psalmody on feast days. The unvarying collects at the
 offices of Prime and Compline1 in Western brevities, and the T.»nl»
@@ -1671,7 +1671,7 @@ even on the greatest feasts,2 witness to the original monastic preference for
 an unchanging round of offices based upon the hours of the day and the
 days of the week, not upon the year and the ecclesiastical calendar. At
 Milan even the collects of the Little Hours (on frrias) are still unvarying,
-while those at Lauds and Vespers form a weekly cyale nntymnw’twt with
+while those at Lauds and Vespers form a weekly cyale nntymnw'twt with
 the collects used at mass; and there is good evidence mat this was also the
 Roman practice in the fifth century. I
 
@@ -1687,9 +1687,9 @@ Morning and Evening Prayer. I
 
 J Since r9i3 this psalmody in the Roman Breviary has varied. In Carolingian
 Gaul a custom grew up of varying the hymns on occasion at the Little Hours and
-gy “ exception the ordinary hymn at Terce is changed to Vent Creator during the
+gy " exception the ordinary hymn at Terce is changed to Vent Creator during the
 Whitsun Octave in the Roman and Monastic Breviaries. But like the variable hymns
-at Compline in some of the mediaeval ‘derived’ Breviaries (Sarum, Paris, Domini-
+at Compline in some of the mediaeval 'derived' Breviaries (Sarum, Paris, Domini-
 can, ate.) tins is an infiltration into the older traditions of thfe office from this earlv
 mediaeval French peculiarity. f y
 
@@ -1702,7 +1702,7 @@ THE SANCTIFICATION OF TIME
 rather than regulates current liturgical practice. There was then little of the
 authoritarian theory of liturgy which has prevailed in the West since the six¬
 teenth century. A feast or observance is nowadays supposed to be inserted
-in the calendar only by ‘lawful authority’. Once inserted it is supposed
+in the calendar only by 'lawful authority'. Once inserted it is supposed
 to be kept by all because authority has placed it there; and what is not in
 the official calendar has no business to be kept by anyone. (That at least is
 the official theory not only in the Roman church but in the Anglican and
@@ -1737,7 +1737,7 @@ understanding of the liturgy, which had virtually no place for historical
 commemorations. It consisted originally everywhere of* the same two
 elements, the observance (by the holding of an ecclesia for the synaxis and
 eucharist) of (i) two annual feasts, the Pascha and Pentecost, and (2) of the
-weekly ‘Lord’s Day’ on Sunday. This is still the content of the calendar
+weekly 'Lord's Day' on Sunday. This is still the content of the calendar
 for Hippolytus at Rome and for Tertullian in Africa, c. a.d. 215, as it is for
 Origen in Egypt twenty years later.1 Let us examine the significance of this
 original liturgical cycle.
@@ -1745,7 +1745,7 @@ original liturgical cycle.
 1 contra Celsum> viii. 21. Set fast days and martyrs* anniversaries are beginning to
 be added by Tertullian and Origen, but fasts are still matters of purely private
 devotion for Hippolytus, who in this represents Roman conservatism; and he seems
-to know nothing of an ecclesia on martyrs’ anniversaries.
+to know nothing of an ecclesia on martyrs' anniversaries.
 
 
 336 THE SHAPE OF THE LITURGY
@@ -1765,16 +1765,16 @@ saism insisted on; and indeed this was the only thing the commandment
 in its original meaning prescribed. |
 
 By contrast Sunday was in the primitive Christian view only the pre¬
-scribed day for corporate worship, by the proclamation of the Lord’s
-revelation and the Lord’s death till He come. Sundajj marked the periodi¬
+scribed day for corporate worship, by the proclamation of the Lord's
+revelation and the Lord's death till He come. Sundajj marked the periodi¬
 cal manifestation in time of the reality of eternal redemption in Christ. As
 such it was an anamnesis of the resurrection which had manifested to His
-first disciples the Lord’s conquest of sin and death and time and all this
+first disciples the Lord's conquest of sin and death and time and all this
 world-order. But there was no attempt whatever in the first three centuries
 to base the observance of Sunday on the fourth commandment. On the
 contrary, chnstians maintained that like all the rest c f the ceremonial law
 this commandment had been abrogated; and second century Christian
-literature is full of a lively polemic against the ‘idling’ of the Jewish sabbath
+literature is full of a lively polemic against the 'idling' of the Jewish sabbath
 rest. Chnstians shewed no hesitation at all about treating Sunday as an
 ordinary working day like their neighbours, once they had attended the
 synaxis and euchanst at the ecclesia. This was the chiistian obligation, the
@@ -1782,19 +1782,19 @@ weekly gathering of the whole Body of Christ to its Head, to become what
 it really is. His Body. It was only the secular edict cf Constantine in the
 fourth century making Sunday a weekly public holiday which first made
 the mistake of basing the Christian observance of Sunday on the fourth
-commandment, and so inaugurated Christian ‘Sabbatarianism’.
+commandment, and so inaugurated Christian 'Sabbatarianism'.
 
 Early chnstian documents on the contrary go out of their way to oppose
 the two observances. So e.g . the so-called Epistle of Barnabas (c. a.d. ioo-
 130) introduces God as rebuking the whole j*ewish observance of the sab¬
-bath, thus: ‘ “It is not your present sabbaths that are acceptable unto Me,
+bath, thus: ' "It is not your present sabbaths that are acceptable unto Me,
 but the sabbath which I have made, in the which when I have set all things
 at rest, I will make the beginning with the eighth day, which is the beginning
-of another world” Wherefore we (Christians) also keep the eighth day for
+of another world" Wherefore we (Christians) also keep the eighth day for
 rejoicing, in the which also Jesus rose from the de<id, and having been
-manifested ascended into the heavens’.1 Here Sunday is a festival, but not
+manifested ascended into the heavens'.1 Here Sunday is a festival, but not
 a day of rest. It is eschatological in its significance, as representing the
-inauguration of the ‘world to come’, supervening upon this world and
+inauguration of the 'world to come', supervening upon this world and
 
 >Ep. Bam xv. 9.
 
@@ -1807,17 +1807,17 @@ THE SANCTIFICATION OF TIME
 time. It is only secondarily a memorial of the historical fact of the resur¬
 rection of Jesus, and it is observed as such only because in His resurrection
 and ascension Christians have been really but spiritually transferred into
-‘the heavens’ ‘in Christ’, Who is ‘manifested’ to His own in the ecclesia .
+'the heavens' 'in Christ', Who is 'manifested' to His own in the ecclesia .
 
 It seems likely, therefore, that Sunday was from its first beginnings a
 Christian observance independent of the sabbath, though its weekly obser¬
 vance was probably suggested by the existence of the sabbath. It had a
-purpose of its own, the ‘shewing forth’ of redemption as already an achieved
-thing ‘in Christ’. The change of day, if change there was, from Saturday to
+purpose of its own, the 'shewing forth' of redemption as already an achieved
+thing 'in Christ'. The change of day, if change there was, from Saturday to
 Sunday, must have been made very early indeed, for it was already an
 accomplished fact when S. Paul wrote i Cor. xvi. 2, c. a.d. 57. No echoes
 of a Sabbatarian controversy reach us from the New Testament, though
-the judaisers are ‘judging’ Pauline converts in Asia Minor in respect of
+the judaisers are 'judging' Pauline converts in Asia Minor in respect of
 feast days and new moons and sabbaths in the Episde to the Colossians.1
 But presumably, since the date of this is not earlier than 1 Cor., they were
 endeavouring to persuade the Colossians to keep the sabbath in addition to
@@ -1846,8 +1846,8 @@ memorial antiquity everywhere c. a.d. 195. At that time a world-wide series
 of councils held from Osrhoene on the Euphrates to Gaul discussed the
 matter at the invitation of Pope Victor I; and the orthodox churches of
 Asia came into line with the rest of the catholic church early in the third
-century. The churches of Asia and their opponents in Victor’s time alike
-claimed that their reckoning was the authentic ‘apostolic tradition’. But the
+century. The churches of Asia and their opponents in Victor's time alike
+claimed that their reckoning was the authentic 'apostolic tradition'. But the
 fact that outside Asia all Christians, not excepting those of Palestine, had
 
 1 Col. ii. 16.
@@ -1880,13 +1880,13 @@ is probable that the points on which their paschal liturgies agreed in that
 period are independent survivals of a rite drawn up at a very early date
 indeed, and not due to second century borrowings. Nothing could more
 clearly indicate the close original connection of the Christian with the
-jewish ‘passover’ than the choice of this lesson. Thsre followed a lection
+jewish 'passover' than the choice of this lesson. Thsre followed a lection
 from the gospel of S. John, the account of the death and resurrection of
-our Lord, extending from the trial before Pilate to the end of S. John’s
+our Lord, extending from the trial before Pilate to the end of S. John's
 account of the resurrectiony with its hint of an ascension on Easter Day
-itself.1 This choice of lessons is in the exact spiri t of S. Paul’s phrase
-‘Christ our passover was sacrificed for us; therefore let us keep the feast
-with joy.’
+itself.1 This choice of lessons is in the exact spiri t of S. Paul's phrase
+'Christ our passover was sacrificed for us; therefore let us keep the feast
+with joy.'
 
 After the lessons came a sermon by the bishop, followed by the solemn
 baptism and confirmation of the neophytes, who proceeded to take their
@@ -1894,13 +1894,13 @@ part for the first time as new members of Christ in H is prayer and offering,
 by joining with the rest of the faithful in the intercessory prayers and then
 as offerers in the paschal eucharist.
 
-The primitive Pascha has therefore the character of a liturgy of ‘Redemp¬
-tion’ rather than a commemoration of the historical fact of the resurrection
+The primitive Pascha has therefore the character of a liturgy of 'Redemp¬
+tion' rather than a commemoration of the historical fact of the resurrection
 of Jesus, such as Easter has with us. Like the jewish passover it com¬
 memorated a deliverance from bondage, in the case )f Christians not from
-Egypt but from the bondage of sin and time and mortality into ‘the
-glorious liberty of the children of God’2 and ‘the everlasting kingdom of
-our Lord and Saviour Jesus Christ’.3 The life, death, resurrection and
+Egypt but from the bondage of sin and time and mortality into 'the
+glorious liberty of the children of God'2 and 'the everlasting kingdom of
+our Lord and Saviour Jesus Christ'.3 The life, death, resurrection and
 
 1 Cf. Ep. Barn., cited on p. 336. 1 Rom. viii. 21. * 2 Pet. i. 11.
 
@@ -1910,7 +1910,7 @@ THE SANCTIFICATION OF TIME
 
 339
 
-ascension — the paschal sacrifice — of Jesus was, of course, the means by
+ascension—the paschal sacrifice—of Jesus was, of course, the means by
 which this redemption was achieved. Tn Hun* every Christian had gone
 free from slavery to time and sin and death. But these events of the
 passion, resurrection and ascension did not stand isolated in primitive
@@ -1933,26 +1933,26 @@ sermon to the newly baptised at a paschal eucharist in the first century.
 Certainly from very early days the Pascha as the feast of redemption was
 regarded as the most suitable occasion for the conferring of the sacraments
 by which redemption is appropriated to the individual— baptism into
-Christ’s death and resurrection,1 and confirmation by which cthe Spirit of
-Him that raised up Jesus from the dead’ is imparted to ‘dwell’2 in the
+Christ's death and resurrection,1 and confirmation by which cthe Spirit of
+Him that raised up Jesus from the dead' is imparted to 'dwell'2 in the
 members of His Body. The general idea of redemption celebrated by the
 paschal feast thus lies close behind the whole pre-Nicene liturgy and theory
 of the other sacraments as well as the eucharist. The identification of
 Christ with His church was accepted without reserve by the Christian
 thought of the pre-Nicene period. Redemption is by the entering of a man
-‘into Christ’, and we must beware of treating phrases like ‘putting on’
-Christ in baptism3 and the ‘anointing’ (literally ‘Christing’) with His Spirit
+'into Christ', and we must beware of treating phrases like 'putting on'
+Christ in baptism3 and the 'anointing' (literally 'Christing') with His Spirit
 in confirmation4 as mere metaphors. However much we may be disposed
 to soften the literalness with which the New Testament authors intended
 these and similar expressions, there are too many of them and they express
 too clearly a change of spiritual status at a definite point of time connected
 too precisely with a sacramental act, to be disregarded. Whatever the diffi¬
 culties it may cause to our way of thinking, it must be accepted that the
-first century did not share the anxious ‘spirituality’ of the nineteenth.
+first century did not share the anxious 'spirituality' of the nineteenth.
 Above all, we must not minimise the literalness with which they were
 universally understood by the early church, which taught without hesita¬
 tion that a man received the redemption of Christ by means of the sacra¬
-mental acts which made him a ‘member of Christ’ and a ‘member of the
+mental acts which made him a 'member of Christ' and a 'member of the
 
 
 1 Rom. vi. 3, 4.
@@ -1970,19 +1970,19 @@ THE SHAPE OF THE LITURGY
 
 ecclesia\ These were not two different or even two simultaneous incor¬
 porations; they were the same thing. The church as jthe Body of Christ is
-one with Him. (One sees the shortness of the argument to Cyprian’s
-conclusion: ‘Outside the church no salvation’. The marvel is that the Roman
+one with Him. (One sees the shortness of the argument to Cyprian's
+conclusion: 'Outside the church no salvation'. The marvel is that the Roman
 church resisted it, and that the church as a whole rejetked it.)
 
 Therefore a man received the sacraments of redemption at the Pascha,
 the feast of redemption; in the midst of the Body <|>f the redeemed, into
 which he was being incorporated; and at the hands of the bishop, the
 representative of the Father Who is the husbandman Who tends the vine
-and all its branches.1 And only having thus entered ‘into Christ’ could a
+and all its branches.1 And only having thus entered 'into Christ' could a
 man for the first time enter into His prayer and His Sacrifice at the paschal
 eucharist. The whole of early sacramental thought is thus closely knit
 together with the doctrine of the church as the Body of Christ, and
-redemption as ‘incorporation’ into Him in His Body.
+redemption as 'incorporation' into Him in His Body.
 
 The catechumens who were to receive baptism at the Pascha had to
 undergo preparatory fasts2 and daily exorcisms foi| a fortnight or more
@@ -1993,7 +1993,7 @@ recognised to require some personal preparation from all, but there was as
 yet nothing corresponding to Lent and Holy Week. At the end of the
 second century all Christians fasted before the Pascha, some for a day,
 some for forty hours continuously, some for a week, according to their
-devotion.4 After the Pascha the ‘great 50 days’ which intervened between
+devotion.4 After the Pascha the 'great 50 days' which intervened between
 Pascha and Pentecost were already recognised in me same period as a
 continuous festival, during which all penitential Observances such as
 fasting and kneeling at corporate prayer were forbidden, as they were on
@@ -2004,10 +2004,10 @@ memoration about it; the Ascension was still included in the celebration of
 the Pascha, not kept as a separate feast forty days later.6 But just as for the
 jews the fifty days of harvest between Passover and Pentecost symbolised
 the joyful fact of their possession of the Promised La ad, so these fifty days
-symbolised for the Christian the fact that ‘in Christ’ he had already entered
+symbolised for the Christian the fact that 'in Christ' he had already entered
 into the Kingdom of God. Like the weekly Sunday vrith which this period
 was associated both in thought and in the manner of its observance, the
-‘fifty days’ manifested the ‘world to come*.
+'fifty days' manifested the 'world to come*.
 
 1 John xv. 1. 2 Justin, Ap . 3 , 61.
 
@@ -2030,21 +2030,21 @@ THE SANCTIFICATION OF TIME
 34i
 
 The only other feast of the primitive Christian cycle was Pentecost, which
-closed these ‘fifty days’ after Pascha. In the Old Testament Pentecost
+closed these 'fifty days' after Pascha. In the Old Testament Pentecost
 appears as an agricultural festival at the close of the grain harvest which
 began at Passover; but in the later jewish idea Pentecost commemorated
 the giving of the Law on Sinai and the constitution of the mixed multitude
 of Egyptian refugees into the People of God. The church retained it to
 celebrate not only the events recorded in the second chapter of Acts but
-her own character as the ‘People’ of the New Covenant, and the fact that
-‘the law of the Spirit of life in Christ Jesus hath made’ her members ‘free
-from the law of sin and death’.1 There was a real appropriateness in thus
+her own character as the 'People' of the New Covenant, and the fact that
+'the law of the Spirit of life in Christ Jesus hath made' her members 'free
+from the law of sin and death'.1 There was a real appropriateness in thus
 returning, as it were, into time from the long celebration of the eternal
 Kingdom of God and the heavenly reign of Christ during Paschaltide,
 with a final celebration of the gift of that Spirit by Whom the presence of
 the heavenly Christ is perpetually mediated to His members in time. As
 the Pascha dramatised the fact of eternal redemption, so Pentecost drama¬
-tised the fact of the Christian’s possession of (or by) the Spirit, which made
+tised the fact of the Christian's possession of (or by) the Spirit, which made
 that redemption an effective reality in his life in time. Those catechumens
 who had for some reason missed receiving baptism and confirmation at the
 paschal vigil were allowed to do so at Pentecost. But apart from these two
@@ -2085,9 +2085,9 @@ during pre-Nicene times. It is uncertain which clas s of additions is the
 earlier.
 
 At some point in the second century the custom arose in the East of
-keeping all Wednesdays and Fridays outside the ‘great fifty days’ as fasts,
+keeping all Wednesdays and Fridays outside the 'great fifty days' as fasts,
 observed with a synaxis and in some churches with a eucharist also. These
-two weekly fasts, which were later known in the West as ‘stations’,1 are
+two weekly fasts, which were later known in the West as 'stations',1 are
 referred to in the document known as the Didache , which scholars of the
 last generation considered to date from the earlier part of the second
 century. This carried with it the implication that the stations were an
@@ -2095,16 +2095,16 @@ innovation of the late first or very early second century, or perhaps even a
 part of the original cycle. But the apparently increasing tendency now to
 date the Didache somewhat late in the second half cf the second century
 raises difficulties. It leaves us in fact with no datable evidence for the
-existence of the regular Wednesday and Friday stations before Tertullian’s
+existence of the regular Wednesday and Friday stations before Tertullian's
 work On Fasting , written somewhere about a.d. 215. Justin does not men¬
 tion them. The Shepherd of Hennas, a Roman document written between
 c. a.d. 100 and 160 (more probably towards the end of that period) knows
-the term ‘station’ as a name for a private fast undertaken by an individual,2
+the term 'station' as a name for a private fast undertaken by an individual,2
 but says nothing whatever of a corporate fast or an ob servance with synaxis
 or eucharist. The same is the case with Hippolytus in his Apostolic Tradi¬
-tion , Tertullian’s observations on the way in which the matter was regarded
-by the orthodox in his day — he writes as a member of the rigorist sect of
-the Montanists — are interesting. They maintain, he s lys, that a fast before
+tion , Tertullian's observations on the way in which the matter was regarded
+by the orthodox in his day—he writes as a member of the rigorist sect of
+the Montanists—are interesting. They maintain, he s lys, that a fast before
 the Pascha is the only fast of apostolic institution, and the only one of
 obligation on all Christians. All others are a matter of private devotion and
 • choice, even the stations on Wednesdays and Fridays.3 The orthodox
@@ -2162,24 +2162,24 @@ The earliest clear record comes from Asia Minor, in a letter written in
 a.d. 156 by the church of Smyrna to the neighbouring church of Philo-
 melium, recounting the recent martyrdom of its bishop Polycarp. After
 an attempt to bum him at the stake which was frustrated by the wind, the
-eighty-six-year-old bishop was despatched with a dagger. Then ‘the jealous
+eighty-six-year-old bishop was despatched with a dagger. Then 'the jealous
 and envious Evil One, the adversary of the family of the righteous, having
 seen the greatness of his witness and his blameless life from the beginning,
 and how he was crowned with the crown of immortality and had won a
 reward none could gainsay, managed that not even his poor body should
 be taken away by us, although many desired to do this and to touch his
 holy flesh. So the devil put forward Nicetes ... to plead with the magis¬
-trate not to give up the body, “lest”, so it was said, “they should abandon
-the Crucified and begin to worship this man” ... not knowing that it will
+trate not to give up the body, "lest", so it was said, "they should abandon
+the Crucified and begin to worship this man" ... not knowing that it will
 be impossible for us either ever to forsake the Christ Who suffered for the
-salvation of the whole world of the redeemed — suffered for sinners though
-He was faultless — or to worship any other. For Him, being the Son of
+salvation of the whole world of the redeemed—suffered for sinners though
+He was faultless—or to worship any other. For Him, being the Son of
 God, we adore, but the martyrs as disciples and imitators of the Lord we
 cherish as they deserve for their matchless affection towards their own
 Fling and Master. May it be our lot also to be found partakers and fellow-
 disciples with them.
 
-‘The centurion, therefore, seeing the opposition raised ... set him in
+'The centurion, therefore, seeing the opposition raised ... set him in
 the midst of the pyre and burned him after their fashion. And so we
 1 Dom G. Morin, Revue Binidictine , xiv.,p. 337 sq.
 
@@ -2196,13 +2196,13 @@ overcome the unrighteous ruler and so received the crown of immortality,
 he rejoiceth in company with the apostles and all righteous men, and glori¬
 fied} the Almighty God and Father, and blesseth our Lord Jesus Christ, the
 Saviour of our souls and pilot of our bodies and the shepherd of the catholic
-church which is throughout all the world.’1 1
+church which is throughout all the world.'1 1
 
 
 This passage is interesting for more than one reason. It expresses very
 touchingly the reverence of the persecuted church for ±e relics of the
 martyrs whom she reckoned her chief glory. But it also expresses with a
-curious precision by the mouth of the pagan ‘devil’s advocate’ Nicetes (who
+curious precision by the mouth of the pagan 'devil's advocate' Nicetes (who
 
 
 was egged on by the jews) the sort of argument against such reverence with
@@ -2210,7 +2210,7 @@ which later ages were to become familiar in the mouths of protestants, and
 also the sort of reply which catholics have always made. (Nothing could
 better illustrate the unprimitive character of muchjin protestant polemic
 against the cultus of the saints and their relics which was sincerely put
-forward in the sixteenth century as a return to genuine ‘apostolic’
+forward in the sixteenth century as a return to genuine 'apostolic'
 Christianity, than the unaffected religious reverence with which his
 disciples forthwith treated the body and the memory of this last sur¬
 vivor of the apostolic age.) What is above all of interest for our present
@@ -2219,10 +2219,10 @@ the cultus of the saints is to be connected with the o; 'dinary funeral rites of
 Christians.
 
 
-In the first glad days when the ‘good news’ of the gospel of redemption
+In the first glad days when the 'good news' of the gospel of redemption
 brought such overwhelming exultation to those who received it that the
 world, the flesh and the devil seemed to lose their whole power over the
-redeemed, ‘the saints’ had meant the whole body of the faithful. The
+redeemed, 'the saints' had meant the whole body of the faithful. The
 death of every Christian seemed to mean only the immediate realisation of
 his true being as a member of Christ in the kingdom of heaven. Later, in
 the second century, the beginnings of the decline m the vividness of the
@@ -2246,19 +2246,19 @@ THE SANCTIFICATION OF TIME
 345
 
 in previous Christian literature.1 Tertullian and other writers speak of
-the ‘annual oblation’ of the eucharist on the anniversary of the death of
-departed Christians,2 which Cyprian calls a ‘sacrifice for their repose’.3
+the 'annual oblation' of the eucharist on the anniversary of the death of
+departed Christians,2 which Cyprian calls a 'sacrifice for their repose'.3
 
 Only in the case of those who had actually died as martyrs could there be
 no possible hesitation as to their fitness in the moment of death for the
-presence of God.4 They were already like Polycarp ‘rejoicing with the
-apostles and all righteous men’. For them there could be no possibility of
-need for the church’s intercessions at the anniversary eucharist, and the
-church of Smyrna accordingly speaks of it in his case as a ‘commemoration
-of those who have already fought’ victoriously, to be kept ‘with gladness
-and joy’, ‘for the training and preparation of those that shall come after’.
+presence of God.4 They were already like Polycarp 'rejoicing with the
+apostles and all righteous men'. For them there could be no possibility of
+need for the church's intercessions at the anniversary eucharist, and the
+church of Smyrna accordingly speaks of it in his case as a 'commemoration
+of those who have already fought' victoriously, to be kept 'with gladness
+and joy', 'for the training and preparation of those that shall come after'.
 To this second century cultus there was needed only the addition of the
-idea of seeking the martyr’s prayers for his brethren still on earth, for
+idea of seeking the martyr's prayers for his brethren still on earth, for
 the final form of the eucharistic cultus of the saints to be complete. This
 development the third century brought in full measure, along with the
 practice of direct invocation of the saints.
@@ -2271,7 +2271,7 @@ militant here in earth was sufficiently familiar to the jews of the second
 century B.c. to be taken for granted in 2 Maccabees xv. 12-16; and there
 was nothing in the New Testament or in early Christian teaching to repro¬
 bate such an idea. The eschatological notion that all Christians even in
-this world had been transferred to ‘the heavenlies’ in Christ would of
+this world had been transferred to 'the heavenlies' in Christ would of
 itself tend to make the idea of such a communion of saints seem more
 natural, by diminishing the sense of the barrier interposed by death.
 
@@ -2287,9 +2287,9 @@ Asia Minor before the end of the first century. But the whole circle of
 ideas which resulted in the development of the cultus of the martyrs was
 being adopted in some parts of the West in the time of Tertullian c . a.d. 200
 
-1 The idea of ‘baptism for the dead’, which is not reprobated by S. Paul in 1 Cor.
-xv. 29, with that of our Lord preaching to the dead (1 Pet. iii. 19) — they are curi¬
-ously combined and developed by Hermas, Shepherd , Sim.3 ix. 15, 16 — are perhaps
+1 The idea of 'baptism for the dead', which is not reprobated by S. Paul in 1 Cor.
+xv. 29, with that of our Lord preaching to the dead (1 Pet. iii. 19)—they are curi¬
+ously combined and developed by Hermas, Shepherd , Sim.3 ix. 15, 16—are perhaps
 at the basis of the whole development of the doctrine of a possibility of purification
 after death during the second century.
 
@@ -2309,15 +2309,15 @@ THE SHAPE OF THE LITURGY
 
 346
 
-— witness the opening and closing paragraphs of his edition of the Passion
+—witness the opening and closing paragraphs of his edition of the Passion
 of S. Perpetua and her companions, and especially the address in the
-latter — ‘O most brave and blessed martyrs! O truly called and chosen
+latter—'O most brave and blessed martyrs! O truly called and chosen
 unto the glory of our Lord Jesus Christ! etc/ This may be no more than
 rhetorical in intention, but it is the first direct address to Christian saints in
 the extant Christian literature. The first known request for prayers to the
 saints in the technical sense is addressed to the jewish martyrs of the Old
 Testament, the three holy children Shadrach, Meshajch and Abednego, in
-Hippolytus’ Commentary on Daniel , ii. 30. This again has been treated as
+Hippolytus' Commentary on Daniel , ii. 30. This again has been treated as
 rhetorical by some modem scholars, but invocations cf Christian saints who
 had been Hippolytus* contemporaries in life have been found on the walls
 of the catacomb of S. Callistus, which there is good reason to think were
@@ -2338,7 +2338,7 @@ adopting this liturgical innovation. It is a remarkable fact that except for
 the apostles Peter and Paul, whose tombs were already objects of pride
 and veneration to the Roman Christians in the second century,4 no Roman
 saint of the first or second century is named in the earliest Roman calendar
-which has reached us, the Thilocalian calendar’ or Depositiones Martyrum,
+which has reached us, the Thilocalian calendar' or Depositiones Martyrum,
 compiled in its present form in a.d. 354. Though it is easy to detect under¬
 lying the present text several older recensions, of which the earliest was
 certainly compiled about a century before the present form, the earliest
@@ -2375,14 +2375,14 @@ necessarily reserved for Christian burial. It may thus be that the Roman
 church had no exact record of where the earlier martyrs lay, or that she
 had not access to their graves for liturgical celebrations. However that may
 be, it seems dear that the first Roman compilation of a record of the
-‘depositions’ of the martyrs was suggested by, or is somehow connected
+'depositions' of the martyrs was suggested by, or is somehow connected
 with, the acquisition of the first Christian cemetery at Rome under the
 direct control of the church authorities, in the early third century. The
 complete absence of second century names, inducting that of an eminent
 bishop the memory of whose martyrdom had not perished (Pope S. Teles-
 phorus, martyred c. a.d. 132)1 suggests strongly that no such record had
 been kept before; and that when it was first compiled there were no second
-century traditions available — a sufficient indication that martyrs’ anniver¬
+century traditions available—a sufficient indication that martyrs' anniver¬
 saries had not been kept at Rome in the second century. At all events the
 custom seems to have been accepted there by about a.d. 244 (almost a
 century after it was normal at Smyrna) when Pope Fabian made a special
@@ -2394,15 +2394,15 @@ for the faith some fifteen years before.
 
 Even in the third century the long series of persecutions was import¬
 ing a certain connection with local history into the Christian year in all
-churches, by adding a number of local martyrs’ anniversaries to the old
+churches, by adding a number of local martyrs' anniversaries to the old
 non-historical cycle of the Sundays and the two great feasts and the (newer)
 set fast-days. This new quasi-historical cycle of the martyrs and the old
 eschatological one of the Sundays continued in use side-by-side down to the
 end of the third century and even well into the fourth, without affecting
-one another’s character greatly or becoming fused, largely because they
+one another's character greatly or becoming fused, largely because they
 were serving somewhat different needs. The eschatological ecclesia in the
 new church buildings of the later third century was now becoming, as we
-have seen, a properly ‘public’ act as regards the synaxis. To some extent
+have seen, a properly 'public' act as regards the synaxis. To some extent
 it had acquired characteristics of a public cultus even at the eucharist.
 Attendance at this Sunday ecclesia remained the only Christian obligation.
 The eucharists on other days at the actual tombs of the martyrs were cele¬
@@ -2420,9 +2420,9 @@ THE SHAPE OF THE LITURGY
 
 church could not often be present on such occasions, nor could they have
 been accommodated in the little cemetery chapels if they had come. As a
-result, the eucharists at the martyrs’ tombs, thus frequented chiefly by
-an inner circle, retained much more of the ‘domestic’ :haracter of primitive
-Christian worship— a gathering of the ‘household of <jod’ to do honour to
+result, the eucharists at the martyrs' tombs, thus frequented chiefly by
+an inner circle, retained much more of the 'domestic' :haracter of primitive
+Christian worship— a gathering of the 'household of <jod' to do honour to
 and rejoice with a member of the family who had adc ed signal glory to the
 annals of the Christiansen.
 
@@ -2430,14 +2430,14 @@ But in the fourth century the whole current of th e times was with the
 new historical understanding of the liturgy, and little by little this began to
 affect the older cycle. The key-point of the old concej )tion lay in the escha¬
 tological conception of the Pascha. Once this had begun to be interpreted
-as a primarily historical commemoration of the even : of our Lord’s resur¬
+as a primarily historical commemoration of the even : of our Lord's resur¬
 rection (in the fashion of our Easter) the way was clear to the combination
 and fusion of the two cycles, historical and eschatolog leal.
 
 The Transformation of the Pascha. It is not Rome but Jerusalem which is
 the centre of innovation. The special circumstances there easily suggested
 the idea of a local commemoration of the events in the last days of our
-Lord’s life on the actual or supposed sites on whic h they had occurred.
+Lord's life on the actual or supposed sites on whic h they had occurred.
 Thus Etheria in a.d. 385 describes a fully developed and designedly his¬
 torical series of such celebrations in which the whole Jerusalem church
 takes part. It begins on Passion Sunday with a p rocession to Bethany
@@ -2445,16 +2445,16 @@ where the gospel of the raising of Lazarus is read. On the afternoon of
 Palm Sunday the whole church goes out to the Mount of Olives and
 returns in solemn procession to the city bearing brj inches of palm. There
 are evening visits to the Mount of Olives on each jof the first three days
-of Holy Week, in commemoration of our Lord’s nightly withdrawal from
+of Holy Week, in commemoration of our Lord's nightly withdrawal from
 the city during that week. On Maundy Thursday mbrning the eucharist is
 celebrated (for the only time in the year) in the chapel of the Cross, and not
 in the Martyrium ; and all make their communion! In the evening after
-another eucharist the whole church keeps vigil at Constantine’s church of
+another eucharist the whole church keeps vigil at Constantine's church of
 Eleona on the Mount of Olives, visiting Gethsemajne after midnight and
 returning to the city in the morning for the reading of the gospel of the
 trial of Jesus. In the course of the morning of Good Friday all venerate
 the relics of the Cross, and then from noon to three p.m. all keep watch on
-the actual site of Golgotha (still left by Constantine’s architects open to the
+the actual site of Golgotha (still left by Constantine's architects open to the
 sky in the midst of a great colonnaded courtyard behind the Martyrium)
 with lections and prayers amid deep emotion. In the evening there is a
 final visit by the whole church to the Holy Sepulchre, where the gospel of
@@ -2495,16 +2495,16 @@ ical commemorations at Jerusalem must not blind us to its disintegrating
 effects on the original eschatological conception of the paschal feast when this
 cycle ramp to be imitated elsewhere. In particular the solemn commemora¬
 tion of the passion on Good Friday apart from that of the resurrection at
-the paschal vigil, at once transformed the Pascha from a ‘feast of redemp¬
-tion’ into an historical commemoration of a particular event, the resurrec¬
+the paschal vigil, at once transformed the Pascha from a 'feast of redemp¬
+tion' into an historical commemoration of a particular event, the resurrec¬
 tion of Jesus of Nazareth from the tomb in the garden of Joseph of
-Arimathea. In consequence the old idea of the ‘paschal sacrifice’ of Christ
+Arimathea. In consequence the old idea of the 'paschal sacrifice' of Christ
 (of which the eucharist is the anamnesis) as constituted by its offering in the
 passion in combination with its acceptance by the Father in the resurrection
 and ascension, was seriously weakened. This in the end had consequences
 on eucharistic doctrine the results of which are with us yet;— they are, for
 instance, written plainly in the liturgy and catechism of the Book of
-Common Prayer, with their entire concentration on ‘the death of Christ’
+Common Prayer, with their entire concentration on 'the death of Christ'
 to the exclusion of the resurrection and ascension in connection with the
 
 eucharist. .....
@@ -2512,7 +2512,7 @@ eucharist. .....
 When we enquire as to the date and circumstances of this liturgical
 revolution, we are forced, I think, to see its original motive and impulse
 in the personal ideas and liturgical initiative of that interesting person, S.
-Cyril of Jerusalem. At the time of Etheria’s pilgrimage (a.d. 385) a year
+Cyril of Jerusalem. At the time of Etheria's pilgrimage (a.d. 385) a year
 before the end of his long episcopate, she found the whole cycle of histori¬
 cal commemorations there fully developed; it was evidently spoken of to
 
@@ -2522,7 +2522,7 @@ cal commemorations there fully developed; it was evidently spoken of to
 her by members of the local church as something customary there, not as an
 absolutely recent innovation. But in his Catecheses delivered in Lent and
 Easter Week in a.d. 3485 a few years before he became bishop, Cyril has
-not a word of reference to any such observances. In Etheria’s time the
+not a word of reference to any such observances. In Etheria's time the
 catechumens attended the whole round of these I special observances;
 indeed even the pagans could not have been excluded from such cere¬
 monies held in the open air and in the city streetsJlt seems quite incon¬
@@ -2533,20 +2533,20 @@ in the very season in which his hearers were attending them, if the cycle
 had already been in existence; Cyril is by no means unaware of the inspira¬
 tion of the sacred sites, and the privilege of his own church in possess¬
 ing them. Again and again he pointedly refers his hearers to this unique
-circumstance of church life at Jerusalem, speaking o 7 ‘this Golgotha’, which
+circumstance of church life at Jerusalem, speaking o 7 'this Golgotha', which
 he says they can see through the open doors of [the basilica; or of the
-descent of the Holy Ghost at Pentecost ‘here in Jerusalem, in the church
+descent of the Holy Ghost at Pentecost 'here in Jerusalem, in the church
 of the apostles up on the hill . , . and it would truly be a very fitting thing if,
 just as we teach of the things concerning Christ and Golgotha here at Gol¬
 gotha, so we should give the instructions on the Holy Ghost in the church
 up the hill*.1 And he goes on to give a rather lame mystical reason why this
-‘very fitting thing1 is not done. In this passage, I tpink, speaks plainly the
+'very fitting thing1 is not done. In this passage, I tpink, speaks plainly the
 mind which delighted to elaborate the topographical and historical cycle of
 Passiontide when Cyril had himself succeeded to the episcopal throne, and
 could order the liturgy of his church after his own heart.
 
 The Work of S. Cyril . There is a personal factor here which has been
-unaccountably neglected by students of the liturgy. Cyril’s Holy Week and
+unaccountably neglected by students of the liturgy. Cyril's Holy Week and
 Easter cycle is at the basis of the whole of the future Eastern and Western
 observances of this culminating point of the Christian year. He gave to
 Christendom the first outline of the public organisation of the divine office;
@@ -2557,7 +2557,7 @@ Ghost, with its important effects in the subsequent liturgical divergence of
 East and West. In the Jerusalem church in his time we first find mention
 of liturgical vestments, of the carrying of lights and the use of incense at
 the gospel, and a number of other minor elemei ts in liturgy and ceremo¬
-nial, like the lavabo and the Lord’s prayer after the eucharistic prayer,
+nial, like the lavabo and the Lord's prayer after the eucharistic prayer,
 which have all passed into the tradition of catholic Christendom. Above all,
 to him more than to any other single man is djie the successful carrying
 through of that universal transposition of the (liturgy from an eschato¬
@@ -2575,10 +2575,10 @@ THE SANCTIFICATION OF TIME
 ship. Such a change might have expressed itself in more than one way. The
 particular form it did take everywhere for the next 1,100 years, and which
 it still retains among all Christians outside the inheritors of the protestant
-Reformation, was shaped in the exceptionally ‘advanced* ritualistic church
+Reformation, was shaped in the exceptionally 'advanced* ritualistic church
 of Jerusalem in the fourth century. More particularly it bears the impress
 of the individual mind and temperament of its very interesting and lively
-and (in the best sense of the word) ‘ceremonious* bishop, S. Cyril. On
+and (in the best sense of the word) 'ceremonious* bishop, S. Cyril. On
 these grounds alone he is deserving of a personal study from this particular
 point of view, which he has not to my knowledge yet received, but which
 cannot be more than sketched here.
@@ -2591,8 +2591,8 @@ lutionary. His innovations in this, as in all other respects, were inspired by
 purely local circumstances and opportunities. It is most improbable that in
 any of his liturgical schemes he ever looked beyond the devotional needs
 and the immediate setting of his own church. When, for instance, we
-find him including ‘the patriarchs, prophets and apostles’ alongside ‘the
-martyrs’ in his enumeration of the saints in the eucharistic prayer, we are
+find him including 'the patriarchs, prophets and apostles' alongside 'the
+martyrs' in his enumeration of the saints in the eucharistic prayer, we are
 struck by the difference from the lists confined to local martyrs only, which
 meet us in all other churches in the fourth century. This is the germ of an
 universal calendar, transcending the interest of merely local history, and
@@ -2605,21 +2605,21 @@ alone could find a place in the contemporary local Roman list of the
 Depositicmes Martyrum.1
 
 1 It is to Byzantium after it had become Constantinople that we must look for the
-real origin of an ‘universal* calendar. The new capital on the Bosphorus had
+real origin of an 'universal* calendar. The new capital on the Bosphorus had
 inherited from its predecessor a Christian past as undistinguished as the secular
 history of the little provincial port in the ecclesiastical province of the archbishop of
-Heradea, out of which Constantine made his ‘New Rome*. It was forced to borrow
+Heradea, out of which Constantine made his 'New Rome*. It was forced to borrow
 the saints of other dries and to transport their relics to new shrines within its own
 walls in order to eke out its own scanty and obscure local calendar, to uphold its new
-secular dignity and ecclesiastical pretensions. This is the origin of the ‘translations*
+secular dignity and ecclesiastical pretensions. This is the origin of the 'translations*
 and dismemberments of the bodies of the saints, which other dries soon copied.
 The further step .from celebrating the feast of a saint over a portion only of his
 remains to celebrating it over none of them, but simply in his honour, was soon
 taken, espedally in Gaul (another church with comparatively few local martyrs of
 its own) and this is the real beginning of a non-local calendar. At Rome the dose
-connection of the saint’s feast with his actual tomb was kept up better than else¬
+connection of the saint's feast with his actual tomb was kept up better than else¬
 where down to the sixth century, and did not wholly die for centuries after that.
-The real transformation of the Roman calendar from a local to an ‘universal* list
+The real transformation of the Roman calendar from a local to an 'universal* list
 only begins in the thirteenth century, under the influence of Frandscan curial
 officials and other perplexing phenomena.
 
@@ -2635,21 +2635,21 @@ fourth century takes the place which devotion to the city-republic had
 taken with the Greeks, and which civic pride had replaced under the
 empire. (Its equivalent with us is national patriotism; Dut the universal
 state of die empire was too big to evoke the emotion of love; it aroused
-only awe.) I do not think there is any element in S. Cyrii’s liturgical work
+only awe.) I do not think there is any element in S. Cyrii's liturgical work
 which is not quite simply and fully accounted for by this, and by his per¬
 sonal temperament as his Catecheses reveal it. After all, his was no ordinary
 church, but the very theatre of salvation. Once the actual listory of redemp¬
 tion had aroused the special interest of Christians, as it was doing every¬
 where in the fourth century, no one at Jerusalem of all p laces could fail to
 answer to its appeal. And the bishop of a great pilgrim a ntre has a special
-duty in connection with the local ‘attraction*, the fulfilment of which need
+duty in connection with the local 'attraction*, the fulfilment of which need
 not necessarily be commercial or self-important or anytling but sincerely
 religious in its motive.
 
 To say this is not to discredit the individuality of his work. We have
 already noted the rather special semi-monastic condition s which prevailed
 in the secular church of Jerusalem, and the advantages offered by Constan¬
-tine’s splendid foundations. All this and all the wider prevailing tendencies
+tine's splendid foundations. All this and all the wider prevailing tendencies
 of the time told in favour of his innovations. But he was the very man to
 make the fullest use of such exceptional opportunities, able, devout, gifted
 with imagination and an admirable turn for popular preaching; his Cate¬
@@ -2667,13 +2667,13 @@ power of an Athanasius, yet succeed in crystallising into definite and clear
 
 expression the religious ideas and aspirations of the better sort of average
 Christian in their own time. Under the appearance of pioneering, such men
-are often most truly and representatively ‘contemporary5, the more so
+are often most truly and representatively 'contemporary5, the more so
 because they are more closely in contact with the mirjd of the coming
 generation than of that which is strictly their own. Thereare half-a-dozen
 topics ranging in importance from the Godhead of the Holy Ghost down
 
 
-to the use of ‘numinous5 language like ‘terrifying5 or ‘awe-inspiring5 con¬
+to the use of 'numinous5 language like 'terrifying5 or 'awe-inspiring5 con¬
 cerning the consecrated eucharist, on which Cyril spoke to his confirmation
 
 
@@ -2697,30 +2697,30 @@ of S. Basil the Great before many years were over.
 
 It seems typical of his relation to his times that though he must have been
 elaborating and putting into practice his new conception of the liturgy at
-Jerusalem in the 5o’s and 60’$ of the century, it is not during this period
+Jerusalem in the 5o's and 60'$ of the century, it is not during this period
 that we hear of widespread imitation elsewhere, though returning pilgrims
 must have been carrying the tale of what was being done in Jerusalem all
-over Christendom every year. In the 8o’s and 90*5 of the century the new
+over Christendom every year. In the 8o's and 90*5 of the century the new
 Jerusalem observances begin to come in like a flood all over Christendom.
 They even affect Rome before the end of the century, which in matters
 liturgical usually required two or three generations (if not two or three
 centuries) of consideration before adopting new ideas. I hope it is not
-reading too much into the evidence to suggest that the men of Cyril’s own
+reading too much into the evidence to suggest that the men of Cyril's own
 generation, anti-arian stalwarts who were bishops much about his own
-age, and had been brought up in the old ways — ‘on the prayer book’, so to
-speak — were not altogether free from misgivings about his innovations.1
-Perhaps, too, they remembered the old scandal about Cyril’s consecration
+age, and had been brought up in the old ways—'on the prayer book', so to
+speak—were not altogether free from misgivings about his innovations.1
+Perhaps, too, they remembered the old scandal about Cyril's consecration
 as the candidate of the Arians against the catholics. It was when the men
 whom he really represented, the men of the next generation, began in their
 turn to succeed to episcopal thrones, that his ideas began to be put into
 practice in other churches. The eager curiosity with which Etheria notes
 the Jerusalem ceremonies and the enthusiasm with which she writes them
 down for the sisters in her convent at home in the West of Spain, are vivid
-evidence of the extent to which ‘the way they do it in Jerusalem’ was
+evidence of the extent to which 'the way they do it in Jerusalem' was
 exciting the interest of the remotest churches towards the end of the
 century. During his long episcopate of thirty-five or thirty-six years a
 whole new generation of Christians had grown up in a new Christian world,
-to whom the Jerusalem rite had always represented the ‘correct’ ecclesi¬
+to whom the Jerusalem rite had always represented the 'correct' ecclesi¬
 astical fashion. To such men the church of the Holy City, now the goal of
 pilgrims and the chosen home of famous monks and writers and ascetics
 from all lands, naturally seemed the ideal of a Christian church, to be
@@ -2728,15 +2728,15 @@ imitated so far as one had the chance.2
 
 The Organisation of Lent. The institution of Lent, unlike that of Holy
 Week and Easter, is not directly due to the initiative of the Jerusalem
-church, though it was early adopted there and formed part of that ‘Jeru¬
-salem model’ of liturgy which began to spread in the later fourth century.
+church, though it was early adopted there and formed part of that 'Jeru¬
+salem model' of liturgy which began to spread in the later fourth century.
 
 A fast of a day before the Pascha was, as we have seen, a primaeval
 1 Cf. p. 441, n . 1.
 
 8 We are not altogether unacquainted with such a situation ourselves, and the
 changes it can insensibly bring about in public worship after a generation. How
-many Anglican bishops now discreetly ‘follow Fortescue> in certain things?
+many Anglican bishops now discreetly 'follow Fortescue> in certain things?
 
 
 354
@@ -2757,7 +2757,7 @@ later times this seems to have lasted for some two and a half weeks at Rome,2
 and there seem to be clear traces of the same discipline in Hippolytus,
 Ap. Trad., xx, at the beginning of the third century. It was during these
 three weeks that they attended the special classes on Christian doctrine
-called Cateckeses (cf. ‘Catechism’). The pre-baptismal fasts of the cate¬
+called Cateckeses (cf. 'Catechism'). The pre-baptismal fasts of the cate¬
 chumens are mentioned by Justin c. a.d. 155 as traditional in his day. But
 it is likely that the introduction of the daily exorcisms which accompanied
 them by the time of Hippolytus, and the regular organisation of this final
@@ -2767,8 +2767,8 @@ second century, between Justin and Hippolytus.
 In the fourth century through the influence of the monastic-ascetic
 movement it became customary for the faithful at large to join the catechu¬
 mens in their special pre-baptismal fast; and the clergy also encouraged
-them to attend the instructions on Christian doctrine by way of a ‘refresher
-course’. (The same thing has been tried in connection with confirmation
+them to attend the instructions on Christian doctrine by way of a 'refresher
+course'. (The same thing has been tried in connection with confirmation
 classes in our own day with excellent results.) The extension of the whole
 observance to a period of six weeks took place during the second quarter of
 the fourth century. It seems to have been due to a reorganisation of the
@@ -2776,11 +2776,11 @@ instructions to secure better attendance, by spacing them over a longer
 period, but it brought with it an extension of the fast. Sundays, and in
 some places Saturdays, were not fast days, and Lent therefore began with
 the eighth, seventh or sixth Sunday before Easter in different churches.
-The step of identifying the six weeks’ fast with the 40 days’ fast of our
+The step of identifying the six weeks' fast with the 40 days' fast of our
 Lord in the wilderness was obviously in keeping with the new historical
-interest of the liturgy. The actual number of ‘40 days’ of fasting was
+interest of the liturgy. The actual number of '40 days' of fasting was
 made up by extending Lent behind the sixth Sunday before Easter in
-various ways. But the association with our Lord’s fast in the wilderness was
+various ways. But the association with our Lord's fast in the wilderness was
 an idea attached to the season of Lent only after it had come into existence
 in connection with the preparation of candidates for baptism. (An histori¬
 cal commemoration would strictly have required that Lent should follow
@@ -2789,9 +2789,9 @@ cal commemoration would strictly have required that Lent should follow
 1 Ap . Trad., xxix. 2. ,
 
 4 The mass for Wednesday in the fourth week of Lent m the Roman missal still
-preserves the clearest traces of the apertio aurium, the final ‘scrutiny* at which the
-‘candidate* for baptism was ‘elected*“the whole terminology of the catechu¬
-menate of the Roman church has passed into our political vocabulary ! — after which
+preserves the clearest traces of the apertio aurium, the final 'scrutiny* at which the
+'candidate* for baptism was 'elected*"the whole terminology of the catechu¬
+menate of the Roman church has passed into our political vocabulary !—after which
 they underwent their final preparation. The scriptural texts of the chants and les¬
 sons of this mass form a beautiful instruction on the meaning of baptism as under¬
 stood by the early church.
@@ -2800,10 +2800,10 @@ stood by the early church.
 THE SANCTIFICATION OF TIME 355
 
 immediately upon Epiphany, after this had been accepted as the com¬
-memoration of our Lord’s baptism.)
+memoration of our Lord's baptism.)
 
 Various methods of calculating the length of the fast are found in the
-fourth century. At Jerusalem in a.d. 348 the ‘forty days’ are already spread
+fourth century. At Jerusalem in a.d. 348 the 'forty days' are already spread
 over eight weeks, neither Saturday nor Sunday being fasted, and the special
 fast of Holy Week forming a ninth week of separate observance at the end.
 (This arrangement has permanently influenced the Eastern method of
@@ -2813,24 +2813,24 @@ the Pascha, in the old fashion. But in the year a.d. 336 he asks them to
 keep a fast of forty days, and henceforward this is his rule. But he evidently
 found some difficulty in getting it generally observed. His exhortations
 grow more urgent as the years pass, and in a.d. 339, writing from Rome, he
-begs them to observe the full Lent of forty days, ‘lest while all the world is
-fasting we in Egypt be mocked because we alone do not fast’.
+begs them to observe the full Lent of forty days, 'lest while all the world is
+fasting we in Egypt be mocked because we alone do not fast'.
 
-This would seem to imply that Rome already observed a six weeks’ Lent
-in a.d. 339, and this is also the plain indication of S. Leo’s Lenten sermons
+This would seem to imply that Rome already observed a six weeks' Lent
+in a.d. 339, and this is also the plain indication of S. Leo's Lenten sermons
 preached in the years round about a.d. 450. Yet the Byzantine historian
-Socrates, writing rather before S. Leo’s time, says categorically that Rome
-in his day still kept only the old three weeks’ fast of Lent, originally pre¬
+Socrates, writing rather before S. Leo's time, says categorically that Rome
+in his day still kept only the old three weeks' fast of Lent, originally pre¬
 scribed for the special preparation of the catechumens. The curious thing
 is that the lections of the Roman missal still preserve plain traces of a three
-weeks’ Lent to this day. It is conceivable, though perhaps not likely, that the
+weeks' Lent to this day. It is conceivable, though perhaps not likely, that the
 Lenten synaxes, at which the catechetical classes were given, were at Rome
 still crowded into the last three weeks of Lent down to the sixth century,
 while the fast began three weeks before the classes. More probably Socrates
-is mistaken; in which case the present traces of a three weeks’ cycle of les¬
+is mistaken; in which case the present traces of a three weeks' cycle of les¬
 sons for the catechumens before Easter in the missal must have come down
 almost unchanged from before a.d. 340, though the discipline of the
-catechumens has been revised many times since then — another example
+catechumens has been revised many times since then—another example
 of the obstinacy of Roman liturgical tradition.1 It was not until the later
 seventh century that the full total of forty days of actual fasting (Sundays
 not being included) began to be observed at Rome by the addition of Ash
@@ -2853,8 +2853,8 @@ on Ash Wednesday.
 
 356 THE SHAPE OF THE LITURGY
 
-words ‘Remember, man, that dust thou art and unto dustshalt thou return’,
-from which Ash Wednesday gets its name, is not a ‘Roman’ ceremony at
+words 'Remember, man, that dust thou art and unto dustshalt thou return',
+from which Ash Wednesday gets its name, is not a 'Roman' ceremony at
 all. It seems to have originated in Gaul in the sixth century, and was at
 first confined to public penitents doing penance for grave and notorious
 sin, whom the clergy tried to comfort and encourage by submitting them¬
@@ -2863,14 +2863,14 @@ in the ninth or tenth century, and thence to Germany, Southern Italy and
 Spain.
 
 Thus Lent in the form we know does not originate as an historical com¬
-memoration of our Lord’s fast in the wilderness or even as a preparation
+memoration of our Lord's fast in the wilderness or even as a preparation
 for Holy Week and Easter, but as a private initiative of the devout laity in
 taking it upon themselves to share the solemn preparation of the catechu¬
 mens for the sacraments of baptism and confirmation. It was the fact that
 these were normally conferred at the paschal vigil which in the end made
 of Lent a preparation for Easter. It was officially organised and adopted by
 the church as a season of special penitence and prayer, not as especially
-related to our Lord’s sufferings, but because it was a practical answer to a
+related to our Lord's sufferings, but because it was a practical answer to a
 new need which was becoming increasingly pressing from about a.d.
 320-350. Except for the days before the Pascha, fasts and ascetic exercises
 in the third century had been still largely a matter of voluntary choice and
@@ -2884,11 +2884,11 @@ the great mass of conventional converts which was now flooding into the
 church was very apt to remain not more than half-chnstian in its uncon¬
 scious assumptions.1 The clergy welcomed the opportunity of driving
 home fundamental Christian doctrine and ethics on the mass of the faithful
-which their attendance at the catechumens’ classes presented. And a fast of
+which their attendance at the catechumens' classes presented. And a fast of
 forty days imposed on all alike was at least a salutary assertion of the claims
 of Christian self-renunciation upon the life of even the lax and worldly.
 
-1 Too much has been made of the church’s readiness to accept easy conversions
+1 Too much has been made of the church's readiness to accept easy conversions
 from heathenism in the fourth century. She did do all she could to impress on them
 the need for sincerity. The catechumenate was a probation of at least two years, and
 no one was admitted to baptism without sponsors who witnessed to their good
@@ -2924,16 +2924,16 @@ observances just as strictly required of the Christian as the physical absti¬
 nence from food. When the whole world was becoming nominally Christian
 there was a great wholesomeness about this annual requirement of a season
 of serious self-discipline for Christian reasons, which should cover every
-aspect of social life — as it soon came to do. It reminded the careless and the
+aspect of social life—as it soon came to do. It reminded the careless and the
 sinful Christian, as insistently as it did the devout, of the claims of the
-Christian standard; ‘Be not conformed to this world, but be ye trans¬
-formed by the renewing of your mind’.1
+Christian standard; 'Be not conformed to this world, but be ye trans¬
+formed by the renewing of your mind'.1
 
 Other Feasts of our Lord . The application of a strictly historical meaning
 to the ancient feast of the Pascha was not the only development of this kind
-which the fourth century witnessed. Other events of our Lord’s earthly life
+which the fourth century witnessed. Other events of our Lord's earthly life
 began to receive similar commemoration in the liturgy. Christmas as the
-feast of our Lord’s birth at Bethlehem was already being kept at Rome in
+feast of our Lord's birth at Bethlehem was already being kept at Rome in
 A.D. 354. It is not probable that it is a feast of Roman origin, for it is clear
 that it had already been observed fairly widely in the West before this
 date, perhaps in some places before the end of the third century. It had not
@@ -2941,14 +2941,14 @@ yet been accepted at Jerusalem when Etheria visited the Holy City in 385;
 but it was just beginning to be observed at Constantinople and Antioch at
 about that time. Alexandria adopted it somewhere about A.D. 430, and
 Jerusalem followed suit soon after. The Eastern churches, from the third
-century in some cases, had already begun to observe a feast of our Lord’s
-birthday on January 6th as ‘Epiphany’, the feast of His ‘manifestation’, the
+century in some cases, had already begun to observe a feast of our Lord's
+birthday on January 6th as 'Epiphany', the feast of His 'manifestation', the
 origins of which may well go back to the late second century in some places.
 In the later fourth century East and West began, as it were, to exchange
 feasts, and to keep Christmas * and Epiphany side by side. There was a
 rough readjustment of their meanings, Christmas remaining a birthday-
-feast while Epiphany became the commemoration of the other ‘manifes¬
-tations’ of Christ — to the Magi, at His Baptism and at Cana of Galilee.
+feast while Epiphany became the commemoration of the other 'manifes¬
+tations' of Christ—to the Magi, at His Baptism and at Cana of Galilee.
 Rome, followed by Africa, was somewhat slow to accept this duplication
 
 1 Rom. xii. 2.
@@ -2962,10 +2962,10 @@ THE SHAPE OF THE LITURGY
 of feasts, but Epiphany had been adopted there before a.d. 450, just as
 Alexandria had rather tardily adopted the Western feast of Christmas.1
 Local interests at Jerusalem had already by a.d. 385 rounded off the Birth¬
-day feast with a celebration of our Lord’s Presentation in the Temple on
+day feast with a celebration of our Lord's Presentation in the Temple on
 February 15th (forty days after His birth, calculated from January 6th, the
 old Jerusalem feast of the Nativity; this was later put back to February 2nd
-— our feast of the Purification — to accord with December 25th).2 Jerusalem,
+—our feast of the Purification—to accord with December 25th).2 Jerusalem,
 too, seems to have been the centre from which the observance of a special
 feast of the Ascension spread over the rest of the church. Etheria mentions
 there a special feast forty days after Easter, without, however, directly
@@ -2976,17 +2976,17 @@ the commemoration of the Ascension from the Resurrection when the
 Pascha was transformed into Easter, in view of the suggestions in the gos¬
 pels of Luke and John about an Ascension on Easter Day. The other Jeru¬
 salem festival of the fourth century which Etheria mentions is the feast of
-the Dedication of Constantine’s basilicas at Jerusalem on September 14th,
+the Dedication of Constantine's basilicas at Jerusalem on September 14th,
 which under the title of the Exaltation of the Holy Cross has since been
-accepted all over the Christian world; though Rome seems — once more —
+accepted all over the Christian world; though Rome seems—once more —
 to have received it only in the eighth century.
 
-Such were the historical feasts commemorating events of our Lord’s life
+Such were the historical feasts commemorating events of our Lord's life
 which were beginning to be universally observed by the end of the fourth
 century. All others, the Circumcision, Annunciation, Transfiguration and
-so forth are later — some of them much later — in origin, as are also that
+so forth are later—some of them much later—in origin, as are also that
 whole class of feasts which commemorate theological doctrines and ideas
-rather than events, e.g. ‘Orthodoxy Sunday’ in the East (ninth-tenth
+rather than events, e.g. 'Orthodoxy Sunday' in the East (ninth-tenth
 century) or those of Trinity Sunday (tenth century at Liege, adopted at
 Rome a.d. 1334) and Corpus Christi (a.d. 1247 at Liege, a.d. 1264 at
 Rome) in the West.
@@ -2998,15 +2998,15 @@ and decorations. Ever since c. a.d. 400 the main substance of the annual
 
 1 In the East the Armenians alone, isolated in their mountains, have never
 accepted the Western feast of December 25th, and still keep Epiphany as our
-Lord’s birthday. On the origins of Christmas and Epiphany see the interesting
+Lord's birthday. On the origins of Christmas and Epiphany see the interesting
 essay Les Origines de la Noel et de V£piphanie , by Dom B. Botte, Louvain, 1932.
 
 2 Rome only accepted this feast about a.d. 700 when it was introduced by the
 Syrian Pope, Sergius I. It was first observed at Constantinople in A.D. 542 under
 Justinian. It seems to have spread in the West chiefly from Rome, but it was first
-called ‘the Purification’ and kept as a feast of our Lady in eighth century Gaul. At
+called 'the Purification' and kept as a feast of our Lady in eighth century Gaul. At
 Rome it was kept as a feast of our Lord, in the Eastern fashion (c/. the invitatory of
-Mattins in the Roman Breviary: ‘Rejoice and be glad, O Jerusalem, to meet thy
+Mattins in the Roman Breviary: 'Rejoice and be glad, O Jerusalem, to meet thy
 God*). It has now been proved that the Roman procession with candles before
 mass on this day has no connection with the pagan ceremonies of the Lupercalia , as
 used to be supposed.
@@ -3018,7 +3018,7 @@ THE SANCTIFICATION OF TIME
 359
 
 cycle everywhere has consisted of two groups of historical commemorations
-of events, the one referring to our Lord’s birth and the other to His death,
+of events, the one referring to our Lord's birth and the other to His death,
 to the virtual exclusion of all that happened between them. The cycle con¬
 cludes with the two pre-Nicene feasts of the Pascha (resolved into Easter
 and Ascension) and Pentecost, both transformed by a new and more
@@ -3037,13 +3037,13 @@ century and after,2 the fourth century historical cycle still governs our own
 Christian year.
 
 Sunday . We have seen the part played by Sunday in the old eschato¬
-logical conception of the liturgical cycle — that of a sort of weekly Pascha.
+logical conception of the liturgical cycle—that of a sort of weekly Pascha.
 When the elaboration of Holy Week brought the Pascha definitely within
 the historical conception it was inevitable that Sunday also should some¬
 what change its character. The aspect of a weekly memorial of the resur¬
 rection, which had not been wholly wanting in pre-Nicene times, though
 it had always hitherto remained secondaiy to the idea of manifesting the
-‘world to come’, becomes more prominent in the fourth century attitude
+'world to come', becomes more prominent in the fourth century attitude
 towards Sunday, in keeping with the new general emphasis on history. In
 theory this idea of. Sunday as a little weekly Easter has been retained ever
 since. Yet in practice there is no evidence that it has ever made very much
@@ -3058,15 +3058,15 @@ For centuries, as we shall see, the Sunday cycle was rather strangely
 1 There is no authentic historical tradition behind either Christmas or Epiphany.
 Both seem to have originated as counter-festivals to birthday feasts of pagan gods.
 Such early Palestinian tradition as there is seems to be in favour of a date for our
-Lord’s birth in the summer, but it amounts to very little in the nature of real
+Lord's birth in the summer, but it amounts to very little in the nature of real
 evidence.
 
 3 It seems originally to have been of Spanish or Gallican invention. The Eastern
 church has no liturgical Advent, though the Sunday before Christmas has a some¬
-what distinct liturgical character of its own. The Easterns also keep an ‘Advent*
+what distinct liturgical character of its own. The Easterns also keep an 'Advent*
 fast of six weeks from November 14th in imitation of Lent, but in practice it is not
-much observed outside the monasteries. The Gallican churches also fasted — from
-November nth — but Rome never accepted the Advent fast, and cut down the six
+much observed outside the monasteries. The Gallican churches also fasted—from
+November nth—but Rome never accepted the Advent fast, and cut down the six
 Advent Sundays of the Gallican cycle, first to five and then to four.
 
 
@@ -3089,9 +3089,9 @@ maldng it what it had never been before, a weekly holiday from work. In
 A.D. 321 Constantine issued an edict forbidding the law-courts to sit upon
 that day, and the enforcement of an official holiday brought daily life to
 something of a standstill (as in the case of a modern Bank Holiday). The
-result was in large part to carry out Constantine’s design of rendering
+result was in large part to carry out Constantine's design of rendering
 attendance at Christian worship possible for all his subjects, Christian or
-otherwise — it was largely a propaganda* measure; though the church had
+otherwise—it was largely a propaganda* measure; though the church had
 difficulty in some places in securing that its provisions were extended to
 
 
@@ -3101,25 +3101,25 @@ The Organisation of the Propers
 
 
 The Organisation of the Lectionary for the Synaxis. We are accustomed to
-the idea that every Sunday and Holy Day shall have its own ‘proper’ at the
+the idea that every Sunday and Holy Day shall have its own 'proper' at the
 eucharist, a collect, epistle and gospel of its own, more or less appropriate
 to itself, and recurring on that day each year in a fixed sequence in
 accordance with the calendar. In all older Western rites than our own this
-‘proper’ is more extensive than with us, comprising at least two other
+'proper' is more extensive than with us, comprising at least two other
 variable prayers besides the collect (an offertory prayer and a thanksgiving)
 and also a number of chants.1 The Eastern rites have a system of their own
-for varying the prayers, but in all Eastern rites the ‘proper’ of each day
+for varying the prayers, but in all Eastern rites the 'proper' of each day
 includes at least one variable chant, the psalm-chant corresponding to the
-Western ‘gradual’ between the episde and gospel, (and usually others) as
-well as the lessons. Such a system of ‘propers’ was to be found in the
-synagogue liturgy of our Lord’s time, the lessons for the sabbaths being
-arranged on a three years’ cycle, though certain greater festivals stood out
+Western 'gradual' between the episde and gospel, (and usually others) as
+well as the lessons. Such a system of 'propers' was to be found in the
+synagogue liturgy of our Lord's time, the lessons for the sabbaths being
+arranged on a three years' cycle, though certain greater festivals stood out
 from the system and had the same lessons every year. The psalm-chants
-between the synagogue lessons seem also to have been ‘proper’ to the day
+between the synagogue lessons seem also to have been 'proper' to the day
 like the lessons, not selected at discretion.
 
 It is clear that the two great Christian feasts of the Pascha and Pentecost
-had their own ‘proper’ lections and chants, even in the second century; and
+had their own 'proper' lections and chants, even in the second century; and
 there are indications that these were more or less the same selection every¬
 where at that time. What is by no means clear is that the Christian Sunday
 worship inherited from the synagogue anything like the regular cycle of
@@ -3156,53 +3156,53 @@ choice of New Testament lessons to certain passages, there is enough
 fourth century evidence of variation in them from church to church to
 suggest that in adopting the observance of these festivals each church still
 felt free to interpret them in its own way (e.g. in the case of the Epiphany).
-The rise in the importance of martyrs’ feasts during the fourth century, of
+The rise in the importance of martyrs' feasts during the fourth century, of
 which we shall treat in a moment, further increased the fixed contents of
 the lectionaries. But since each church at first celebrated only its own local
-martyrdoms, and the lessons were chosen — often with a good deal of
-ingenuity — to allude to some particular circumstance of the way in which
+martyrdoms, and the lessons were chosen—often with a good deal of
+ingenuity—to allude to some particular circumstance of the way in which
 particular martyrs had won their crown, there was a wide variety in differ¬
 ent churches here also. The borrowing of festivals of particularly well-
-known martyrs by "foreign’ churches, however, tended to carry with it the
-borrowing of the "proper’ lections with which their festival was celebrated
+known martyrs by "foreign' churches, however, tended to carry with it the
+borrowing of the "proper' lections with which their festival was celebrated
 in their native city; and certain passages of scripture were naturally indi¬
 cated as appropriate everywhere to the general topic of martyrdom, where
 there were no such particular circumstances to be commemorated beyond
-the fact of death in witness for Christ. The "proper’ of the martyrs is thus
+the fact of death in witness for Christ. The "proper' of the martyrs is thus
 (apart from the ancient lections of the Pascha) the first element of the fixed
 eucharistic lectionary to take a form roughly the same in all churches; and
-from this ‘proper’ develops the "common’ of martyrs, which was largely
+from this 'proper' develops the "common' of martyrs, which was largely
 formed from it about the ninth century.
 
 None of this solved the problem of the ordinary Sunday lections, which
 
-1 See e.g. the dispute about the public reading of the ‘Gospel of Peter* in the
+1 See e.g. the dispute about the public reading of the 'Gospel of Peter* in the
 church of Rhossos in N. Syria ap. Eusebius, E.H., iv. 24 (e. a.d. 190).
 
 
 362 THE SHAPE OF THE LITURGY
 
 seems to have been fumbled with for centuries. The fifth century lectionary
-of Edessa1 makes no provision whatever for the ‘green’ Sundays. We know
+of Edessa1 makes no provision whatever for the 'green' Sundays. We know
 the contents of the Jerusalem lectionary of the sixth century from a much
 later Armenian version and various other materials,2 but it is doubtful if
 the lessons for the ordinary Sundays which some of these now contain
 formed any part of the original nucleus. The present Eastern Orthodox
-system of ‘Sundays of Matthew’ and ‘Sundays of Luke’ from Pentecost to
+system of 'Sundays of Matthew' and 'Sundays of Luke' from Pentecost to
 Septuagesima (interrupted only by the feasts of the Christmas cycle, since /
 the Easterns have no Advent) is a Byzantine invention which cannot at /
 present be traced back beyond the eighth century, and is probably not
 much older in its origin. We know roughly the contents of the Roman /
 lectionary of the seventh century3 and here for the first time we begin to
 find definite traces of a fixed system of lections for what we should call the
-‘green’ Sundays. But even here these are somewhat awkwardly handled,
+'green' Sundays. But even here these are somewhat awkwardly handled,
 ten sets of lessons being provided for the Sundays after Epiphany though
 more than six are never required, while the season after Pentecost (Trinity
 being a purely mediaeval invention) which never requires less than twenty-
 four and may require twenty-seven receives only twenty. We have here,
 however, the first clumsy beginnings of the present universal Western
 arrangement (inherited by the Book of Common Prayer) by which the
-whole service — proper chants, lections and prayers — for Sundays un¬
+whole service—proper chants, lections and prayers—for Sundays un¬
 wanted after Epiphany is transferred to fill up deficiencies after Pentecost.
 The fixed service for the last Sunday after Pentecost (or Trinity), which is
 always reserved for the Sunday next before Advent, is a relic of the old
@@ -3211,14 +3211,14 @@ and the Book of Common Prayer.
 
 The early Western arrangements elsewhere are even more sketchy than
 those of the Roman capitulary. The sixth century epistle-lectionary of
-Capua4 gives simply a list of eleven ‘quotidian’ epistles to be used on any
+Capua4 gives simply a list of eleven 'quotidian' epistles to be used on any
 day between Epiphany and Sexagesima, another for any week-day between
-Sexagesima and Quinquagesima, and none at all for the ‘green’ season
+Sexagesima and Quinquagesima, and none at all for the 'green' season
 after Pentecost. The capitulary is not complete. But since provision is
-made for the chief saints’ days after Pentecost, presumably the eleven
-‘quotidian’ epistles given after Epiphany are to serve also for the Sundays
+made for the chief saints' days after Pentecost, presumably the eleven
+'quotidian' epistles given after Epiphany are to serve also for the Sundays
 of this period. The seventh century Neapolitan gospel lectionary5 gives
-gospels for four Sundays after Epiphany, and thirty-nine ‘quotidian’ gos¬
+gospels for four Sundays after Epiphany, and thirty-nine 'quotidian' gos¬
 pels to serve for after Pentecost. The eleventh century Toledo lectionary,
 which, however, may well represent the arrangements of the sixth or
 
@@ -3227,7 +3227,7 @@ which, however, may well represent the arrangements of the sixth or
 2 Published by F. C. Conybeare, Rituale Armenorum ; and A. Baumstark, Nicht-
 evangelische syrische Perikopenordmmgen des ersten Jahrtausends , Munster, 1921.
 
-3 From the ‘Wurzburg Capitulary* published by Dom G. Morin, Rdv . Ben.,
+3 From the 'Wurzburg Capitulary* published by Dom G. Morin, Rdv . Ben.,
 xxvii (1910) 41-74.
 
 4 Published by Dom G. Morin, Anecdota Maredsolana , Vol. I (1893), p. 436 sqq.
@@ -3241,22 +3241,22 @@ THE SANCTIFICATION OF TIME
 363
 
 seventh century Spanish church1 has no provision for Sundays after
-Epiphany at all, but ends with a set of twenty-four ‘quotidian’ Sundays
+Epiphany at all, but ends with a set of twenty-four 'quotidian' Sundays
 to be used when nothing else is provided. The sixth century Gallican
 lectionary of Luxeuil2 allows for five Sundays after Epiphany and has
-now two sets of ‘quotidian’ lections at the end; when the MS. was complete
+now two sets of 'quotidian' lections at the end; when the MS. was complete
 there were perhaps six of these.
 
 It is the same story when we examine the provision of proper collects
-for ‘green’ Sundays, after the invention of variable prayers at the eucharist
+for 'green' Sundays, after the invention of variable prayers at the eucharist
 had made these seem necessary. The Gelasian Sacramentary , the oldest
 Western mass-book of which we can speak with any certainty, represents
 in substance the Roman rite of the sixth century. This makes no arrange¬
 ments whatever for the Sundays after Epiphany, or after the octave of
-Pentecost. But in the third of the three ‘books’ into which its contents are
-divided it has a collection of sixteen different masses ‘for Sundays’, six
-others for ‘quotidian days’ and ninety for various occasions. Of the Gallican
-and ‘mixed’ books all that need be said is that the oldest of them, the
+Pentecost. But in the third of the three 'books' into which its contents are
+divided it has a collection of sixteen different masses 'for Sundays', six
+others for 'quotidian days' and ninety for various occasions. Of the Gallican
+and 'mixed' books all that need be said is that the oldest of them, the
 Masses of Mone (sixth-seventh century) contains six masses for Sundays;
 so does the Missale Gothicum> though they are different ones. The Missale
 Francorum has four; the Bobbio Missal ten, apparently drawn from two
@@ -3264,13 +3264,13 @@ separate older Gallican collections of five each. The Spanish Mozarabic
 rite of the eleventh century had still no more than seven in its authentic
 form,3 though sixteen others, probably of later composition, can be gathered
 from other sources.4 In the Milanese rite to this day complete provision is
-made for only six ‘green’ Sundays, though they are repeated with the
+made for only six 'green' Sundays, though they are repeated with the
 various parts shuffled in different arrangements, so that no two Sundays
 have exactly the same service.
 
 From all this and a good deal of further evidence of the same kind, it is
 possible to reconstruct the Western history of the formation of the
-eucharistic ‘propers’ thus: The only certainly pre-Nicene elements in the
+eucharistic 'propers' thus: The only certainly pre-Nicene elements in the
 modem proper are the ancient paschal lections now read in the Roman
 rite on Good Friday. The next oldest are probably the long series of Old
 Testament lections on Holy Saturday. Among the next oldest are some of
@@ -3310,28 +3310,28 @@ probably rather earlier (except for the absence of Advent).
 The development of the Sunday propers for the rest of the year was
 much slower both in the East and West, and was never more than roughly
 completed. At first the ordinary Sundays had no proper at all, but were
-drawn from a sort of pool, a ‘common’ of Sundays, containing a number
+drawn from a sort of pool, a 'common' of Sundays, containing a number
 of alternatives, at first comparatively few and later slowly enlarged, to be
 used at the discretion of the celebrant. It appears to have been the Roman
 sense of order and convenience which first prompted the assignment of a
-proper to each ‘green’ Sunday. At all events we know that by c. a.d. 700
+proper to each 'green' Sunday. At all events we know that by c. a.d. 700
 there were missals of the pure Roman rite circulating in Italy which had a
 complete and separate proper assigned to each of the Sundays after Pente¬
 cost.1 Yet this arrangement was reckoned so litde a part of the official
 Roman rite nearly a century later c. a.d. 790, when Charlemagne obtained
 from Pope Hadrian I a copy of the authentic Roman sacramentary for the
 correction of the liturgical confusion in Gaul, that the official book sent for
-this important purpose contained no arrangements whatever for ‘green’
-Sundays, not even a set of ‘quotidian’ masses. The development of the
+this important purpose contained no arrangements whatever for 'green'
+Sundays, not even a set of 'quotidian' masses. The development of the
 propers in the Roman rite had evidently remained officially at about the
 stage it had reached in the sixth century (Advent to Epiphany, Septua-
-gesima to Pentecost, and scattered saints’ days and fast-days throughout
-the year). Alcuin of York, Charlemagne’s chief adviser in issuing this new
+gesima to Pentecost, and scattered saints' days and fast-days throughout
+the year). Alcuin of York, Charlemagne's chief adviser in issuing this new
 official French edition of the Gregorian Sacramentary c. A.D. 790, was
-obliged to draw on older ‘unofficially supplemented’ Roman books already
-in circulation in Gaul for the materials necessary for the ‘green’ Sundays.
+obliged to draw on older 'unofficially supplemented' Roman books already
+in circulation in Gaul for the materials necessary for the 'green' Sundays.
 
-Provision is made in Alcuin’s edition for four Sundays in Advent, two
+Provision is made in Alcuin's edition for four Sundays in Advent, two
 after Christmas, six after Epiphany, three before and six during Lent, five
 after Easter and twenty-four after Pentecost,2 the arrangement which has
 since slowly won its way everywhere in the West.
@@ -3343,38 +3343,38 @@ published by Dom A. Wilmart, Riv. Ben.> xxvi. (1909 )3pp. 281 sq.
 after Pentecost, was not allowed at first to disturb the hard-won uniformity of
 arrangements for the post-Pentecost season. The old proper of the first Sunday after
 Pentecost was retained, even in those churches which accepted the new feast, to be
-us‘ed on the weekdays following Trinity Sunday. The further invention of an
+us'ed on the weekdays following Trinity Sunday. The further invention of an
 octave for Trinity Sunday (a typical piece of mediaeval elaboration) did upset the
 series. A few churches which accepted the octave dropped the proper of the first
 Sunday after Pentecost, but others dropped one or another of the later members of
 the series, in order to keep to the provision of twenty-four Sundays. Sarum made
-certain changes of its own and followed the German reckoning ‘after Trinity', not
+certain changes of its own and followed the German reckoning 'after Trinity', not
 
 
 THE SANCTIFICATION OF TIME 3*5
 
 The older books from which Alcuin compiled his edition were not com¬
 plete copies of the service for anyone to use, but were constructed to serve
-the purpose of one particular ‘order’ alone, and contained only what was
-necessary to the ‘liturgy’ of that ‘order’. Thus the celebrant used a ‘sacra¬
-mentary’, a book containing all the prayers used by the celebrant at the
+the purpose of one particular 'order' alone, and contained only what was
+necessary to the 'liturgy' of that 'order'. Thus the celebrant used a 'sacra¬
+mentary', a book containing all the prayers used by the celebrant at the
 administration of any of the sacraments (not the eucharist only) on any
 occasion in the year. But the sacramentary contained no lections or chants,
-because the saying of the prayers was the ‘liturgy’ of the celebrant in the
+because the saying of the prayers was the 'liturgy' of the celebrant in the
 corporate worship of the church, but the reading and singing were the
-‘liturgies’ of other orders. So the deacon had a ‘gospel book’ containing
+'liturgies' of other orders. So the deacon had a 'gospel book' containing
 no prayers, but all the gospel lessons publicly read in the course of the
-year. The sub-deacon had a ‘lectionary’ containing the other lessons; and
-the choir, so far as they used books — nearly all the singing was done from
-memory — had an antiphonarium missae containing all the words and
+year. The sub-deacon had a 'lectionary' containing the other lessons; and
+the choir, so far as they used books—nearly all the singing was done from
+memory—had an antiphonarium missae containing all the words and
 a sort of outline or sketch-map of the musical settings in the difficult
-neumatic notation of the day. (These last were rare books — the arch-
+neumatic notation of the day. (These last were rare books—the arch-
 cantor or paraphonista of great churches might have one, but probably
 no one else. The members of the choir sang both words and music by
 heart.)
 
 This arrangement of liturgical books continued for some while after
-Alcuin’s arrangement of Sunday propers, and the various books employed
+Alcuin's arrangement of Sunday propers, and the various books employed
 for making the basic collection of these propers in the West were never
 more than roughly co-ordinated. The epistle-lectionary represented a
 selection older by a century or more than the gospel-lectionary and was
@@ -3392,7 +3392,7 @@ sing in worship, and the Papal schola of the seventh century were evidently
 whole-hearted in their adherence to this tradition. After the extensive
 reorganisation of the Roman chant by Pope Gregory the Great c. a.d. 600
 
-the old English ‘after Pentecost’. Cranmer partly followed Sarum, and partly
+the old English 'after Pentecost'. Cranmer partly followed Sarum, and partly
 shuffled the gospel series according to his own taste, but followed slightly different
 principles in his selection of epistles, with confusing results. Our euchanstic lec¬
 tionary therefore consists of the debris of a system which originated at Rome in the
@@ -3411,11 +3411,11 @@ it was required. The matter was made all the more difficult by the fact that
 the words were treated by the singers chiefly as a memoria technica for the
 complicated neums of the music. To change the words might easily affect
 the accurate tradition of the chant.1 This introduced a few pieces of a quite
-striking inappropriateness into the Sunday propers — e.g., the offertory fot
-the twenty-first Sunday after Pentecost, a lamentation over Job’s boils
+striking inappropriateness into the Sunday propers—e.g., the offertory fot
+the twenty-first Sunday after Pentecost, a lamentation over Job's boils
 which has no reference to anything else in the proper of the day. There
 was a shortage of music for the Sundays of this season; this piece happened
-to be in the repertory of the schola , and the singers liked the tune — it is
+to be in the repertory of the schola , and the singers liked the tune—it is
 indeed an effective and rather showy piece of music. And since the words
 were inseparably wedded to the setting in their minds, words and music
 had to go together into the cycle of the propers, as a litde memorial to
@@ -3429,33 +3429,33 @@ offertories or the communions.
 Besides the proper lessons and chants, the third element which in the
 West goes to make up the proper of any particular day is the proper
 prayers. We shall discuss later the first origin of these variable prayers in
-the liturgy. Here it is sufficient to say that by the time the ‘green9 Sundays
+the liturgy. Here it is sufficient to say that by the time the 'green9 Sundays
 came to be provided with propers these variable prayers were expected to
 
 1 At Rome every item of the proper for each liturgical day throughout the year
 was supposed to have its own individual setting, and though there were some repe¬
 titions the whole corpus formed a treasure of church music of the highest order
 without parallel in any other church, even at Byzantium. Those Anglicans who
-judge ‘plainsong* from the psalm-tones and a few hymn tunes alone, without
-hearing the propers, and therefore suppose it to be ‘monotonous*, are like those who
+judge 'plainsong* from the psalm-tones and a few hymn tunes alone, without
+hearing the propers, and therefore suppose it to be 'monotonous*, are like those who
 should judge the pictures in the National Gallery solely by the brown and grey
 pasteboard surrounds in which some of them are framed, and declare painting to be
 dull. The propers are the very essence of the chant. To have worshipped with them
 to their own ever-varying settings through the whole annual cycle is an unforget¬
 table musical experience. Nothing else can so teach the capacity of music to express
 all the possible range of human thought and emotion by pure melody alone. Unfor¬
-tunately like all such ‘art-music*, the propers are not quite easy; and they are in
+tunately like all such 'art-music*, the propers are not quite easy; and they are in
 most cases inseparably wedded to the Latin text, and therefore closed to Anglicans.
 Even among Roman Catholics in England they are nearly always sung to psalm-
 tones, except at Westminster Cathedral and in a few great monasteries. Yet there
 was a time when they seemed specially adapted to the English taste and genius. The
 Anglo-Saxon church learned the authentic tradition in the golden age of the chant,
 the seventh century, from a series of Roman experts specially sent out to this fore¬
-most centre of the Roman rite outside Rome, so that Bede can talk proudly of ‘the
+most centre of the Roman rite outside Rome, so that Bede can talk proudly of 'the
 chant of the Romans, that is of the Cantuarians* (Eccl. Hist., II. xx). England
 remained one of the purest sources of the authentic tradition down to the Frenchi¬
 fying of our ways of worship which began at the Norman Conquest, and culmin¬
-ated in the thirteenth century with the compilation of the ‘Use of Sarum* from
+ated in the thirteenth century with the compilation of the 'Use of Sarum* from
 Norman and French custumals.
 
 
@@ -3464,26 +3464,26 @@ THE SANCTIFICATION OF TIME
 
 367
 
-be a group of at least three1 — collect, secret (offertory prayer) and post-
+be a group of at least three1—collect, secret (offertory prayer) and post-
 communion or thanksgiving. To these all churches outside Rome itself
 usually added a proper preface,2 varying with the day just as the collect
 did. The original principle of the collect seems to have been that it should
 have some connection with the immediately following scriptures for the
-day. But in the case of the Sunday collects of Alcuin’s edition this was
-impossible, since they had originally been drawn — each along with its
-secret and post-communion — from the general ‘pool’ of prayers to be used
-on ‘quotidian’ Sundays at the celebrant’s discretion, found in the Roman
+day. But in the case of the Sunday collects of Alcuin's edition this was
+impossible, since they had originally been drawn—each along with its
+secret and post-communion—from the general 'pool' of prayers to be used
+on 'quotidian' Sundays at the celebrant's discretion, found in the Roman
 sacramentaries of the fifth and sixth centuries. Prayers originally framed in
 general terms to fit any Sunday were thus assigned to be used always on
 one particular Sunday, and always in conjunction with a particular set of
 lections and chants, most of which had originally been selected without
-reference to the rest.3 (This applies only to the ‘green’ Sunday propers, not
+reference to the rest.3 (This applies only to the 'green' Sunday propers, not
 to the older propers of the season and the martyrs.)
 
-Alcuin’s own selection of prayers for the Sundays is textually identical
-with that in ‘unofficial’ use in the neighbourhood of Rome and probably at
+Alcuin's own selection of prayers for the Sundays is textually identical
+with that in 'unofficial' use in the neighbourhood of Rome and probably at
 Rome itself a century before. But various tenth and eleventh century MSS.
-shuffle the collects for the ‘green’ Sundays in the most aimless manner,
+shuffle the collects for the 'green' Sundays in the most aimless manner,
 and break up the sets of three (collect, secret and post-communion)
 in the Sunday propers and redistribute their members. It can hardly be
 said that this vitally affected the coherence of these propers, since they
@@ -3491,14 +3491,14 @@ really have none to affect. Liturgical commentators for the past century
 have delighted in finding consistent trains of thought and mystical expla¬
 nations running through the whole service for each Sunday. But the truth is
 that anything of this kind which they have found is a product of their own
-piety or ingenuity. The propers for the ‘green’ Sundays are collections of
+piety or ingenuity. The propers for the 'green' Sundays are collections of
 fragments arbitrarily distributed.
 
 This is not to say that many of the separate fragments are not in them¬
 selves both ancient and beautiful. The prayers in particular are lovely
 things, grave, melodious and thoughtful, and compact with evangelical
-doctrine — characteristic products of the liturgical genius of Rome in the
-fifth and sixth centuries. Cranmer’s reputation as a writer of English prose
+doctrine—characteristic products of the liturgical genius of Rome in the
+fifth and sixth centuries. Cranmer's reputation as a writer of English prose
 largely rests on his translations of some seventy of these prayers (out of a
 corpus of many hundreds) in the Book of Common Prayer. And rightly so,
 for his are among the very best translations ever made, and his products
@@ -3511,7 +3511,7 @@ tion of the modem compilers of prayers to the fact that the vein he worked
 1 C/. p. 360, n. 1. * Cf ; p. 542.
 
 * The chant of the gradual is sometimes connected with that of the introit even
-on the ‘green’ Sundays, and sometimes has an evident connection with the gospel
+on the 'green' Sundays, and sometimes has an evident connection with the gospel
 on the earlier Sundays after Pentecost.
 
 
@@ -3521,7 +3521,7 @@ THE SHAPE OF THE LITURGY
 368
 
 so carefully is by no means exhausted, though the compilers of various
-‘Anglo-catholic’ missals do not seem to have found translation an easy art,
+'Anglo-catholic' missals do not seem to have found translation an easy art,
 probably through trying to be too literal.)
 
 So the organisation of the propers was completed, after a delay of some
@@ -3537,7 +3537,7 @@ ecclesia came down from the quite different eschatological conception of f
 worship in pre-Nicene days. It was never fitted into the historical cycle,
 and thus played no part in the development of the propers which this
 brought about. It was a curious consequence of this divorce of the Sunday
-cycle from the later ‘Christian year’ that the two were so tardily brought
+cycle from the later 'Christian year' that the two were so tardily brought
 into line in the provision of texts for their liturgical observance. Yet 1
 throughout the period from c. A.D. 400 to c. A.D. 700-800 during which the
 two cycles continued in use side by side in such different states of elabora¬
@@ -3562,7 +3562,7 @@ pleted. I am free to confess that in my own studies I have found in it a
 needed warning against the foolishness of a priori judgements as to the
 actual process of liturgical history. How many of us modem Anglicans
 would have supposed that the church would have felt the need for a com¬
-plete service for S. Lawrence’ day (August 10th), or S. Peter’s Chair
+plete service for S. Lawrence' day (August 10th), or S. Peter's Chair
 (February 22nd) three or four centuries before making provision for the
 ordinary Sundays of the year or the feast of the Annunciation? Yet so it
 was. And until we have recognised the fact we have not even begun to
@@ -3589,37 +3589,37 @@ here there is a very significant change in terminology, which illustrates once
 more the far-reaching effects of the change from an eschatological to an
 historical interpretation of the liturgy.
 
-The second century word for a martyr’s feast was always, as in the
-Martyrdom of Poly carp, his ‘birthday’ ( genethlion , natale , natalitia). Tertul-
-lian still uses the same term for the annual intercessory ‘requiem’ on the
-‘birthdays* of less venerated Christians1 c . a.d. 215. The frame of mind which
+The second century word for a martyr's feast was always, as in the
+Martyrdom of Poly carp, his 'birthday' ( genethlion , natale , natalitia). Tertul-
+lian still uses the same term for the annual intercessory 'requiem' on the
+'birthdays* of less venerated Christians1 c . a.d. 215. The frame of mind which
 lies behind the term is eloquently expressed by Ignatius of Antioch a
 century earlier, when he feared that the Roman church might use secret
-influence with his judges to procure him a respite from martyrdom: ‘It is
+influence with his judges to procure him a respite from martyrdom: 'It is
 good for me to die for Jesus Christ rather than to reign over the bounds of
 the earth. . . . The pangs of a new birth are upon me. . . . Do not hinder
 me from living', do not desire my death. Bestow not on the world one who
 
-desires to be God’s _ Suffer me to receive the pure light. When I am
+desires to be God's _ Suffer me to receive the pure light. When I am
 
-come thither, then shall I be a man’.2 The true life of the Christian is in
+come thither, then shall I be a man'.2 The true life of the Christian is in
 eternity, into which he is born by death, above all by martyrdom in which
-he is, as Ignatius says, ‘an imitator of the passion of my God’. ‘Him I seek.
-Who died on our behalf; Him I desire, Who rose again’.3 As S. Paul had
-said before him, ‘I count all things but loss for the excellency of the know¬
+he is, as Ignatius says, 'an imitator of the passion of my God'. 'Him I seek.
+Who died on our behalf; Him I desire, Who rose again'.3 As S. Paul had
+said before him, 'I count all things but loss for the excellency of the know¬
 ledge of Christ Jesus my Lord . . . that I may win Christ and be found in
 Him . . . that I may know Him and the power of His resurrection and the
 fellowship of His sufferings, being made conformable unto His death, if
-by any means I might attain unto the resurrection of the dead’.4 The
-martyr did in literal fact ‘count all things but loss’ for Christ, and ‘become
-conformable unto His death’. His was therefore the certainty of ‘attaining
-unto the resurrection of the dead’. For him ‘to depart and be with Christ
-is far better’. He had in Ignatius’ words ‘come thither and was now a man5.
+by any means I might attain unto the resurrection of the dead'.4 The
+martyr did in literal fact 'count all things but loss' for Christ, and 'become
+conformable unto His death'. His was therefore the certainty of 'attaining
+unto the resurrection of the dead'. For him 'to depart and be with Christ
+is far better'. He had in Ignatius' words 'come thither and was now a man5.
 Eschatology reversed all human standards for the Christian.
 
 But by the fourth century we find a change. In the Roman calendar of
-a.d. 354 the entries of the martyrs’ feasts are no longer designated their
-‘birthdays’ but their ‘burials’ ( depositiones ). The earthly, not the heavenly,
+a.d. 354 the entries of the martyrs' feasts are no longer designated their
+'birthdays' but their 'burials' ( depositiones ). The earthly, not the heavenly,
 event is now the object of the liturgical celebration; time and earthly his¬
 tory, not eternity, have become the primary interest of the calendar. More
 
@@ -3635,10 +3635,10 @@ THE SHAPE OF THE LITURGY
 
 
 striking still, the old term natale is still used once in this fourth century
-calendar, on February 22nd, Natale Petri de Cathedra , ‘The birthday’ (or
-‘inauguration’) ‘of Peter’s Chair’ — the annual commemoration of our
-Lord’s charge to S. Peter — ‘Upon this rock I will found My church’. In
-this passage of S. Matthew’s gospel the ancient church then saw, not so
+calendar, on February 22nd, Natale Petri de Cathedra , 'The birthday' (or
+'inauguration') 'of Peter's Chair'—the annual commemoration of our
+Lord's charge to S. Peter—'Upon this rock I will found My church'. In
+this passage of S. Matthew's gospel the ancient church then saw, not so
 much the inauguration of the Petrine primacy of the bishops of Rome
 (though something of this kind was understood by it in the African church
 from the third century onwards)1 but the inauguration in his single person
@@ -3646,8 +3646,8 @@ of the episcopal office, to which the other apostles were also admitted after
 the resurrection.2 Here the word natale itself is used to designate an event
 which, whatever the perpetuity of its consequences, is emphatically
 regarded as a temporal and historical inauguration and not an eternal one.
-In the same way in the entry in this calendar for December 25th, ‘Christ
-was bom (natus) in Bethlehem of Judaea’; it is a birthday into time , not into
+In the same way in the entry in this calendar for December 25th, 'Christ
+was bom (natus) in Bethlehem of Judaea'; it is a birthday into time , not into
 eternity, which is celebrated. Through the calendar history is taking the
 whole place of eschatology in the understanding of the liturgy.
 
@@ -3662,7 +3662,7 @@ arrangements made at Rome about the calendar soon after the peace of the
 church, about a.d. 312.4 But under this it is not hard to discern an earlier*
 Roman calendar of the period before the great persecution of 303-313,
 whose first recension appears to be connected with the organisation of
-‘the cemetery’ of S. Callistus, and may well date from about a.d. 240. To
+'the cemetery' of S. Callistus, and may well date from about a.d. 240. To
 this nucleus additions seem to have been made during the latter part of the
 third century.
 
@@ -3700,19 +3700,19 @@ movement from which the calendar and the propers are beginning to
 develop is still quite outside this original Christian eschatological scheme
 of worship. The beginnings of the later historical cycle are there, in the
 entries of Christmas (a feast which at Rome is almost certainly a fourth
-century innovation) and our Lord’s charge to S. Peter or ‘S. Peter’s Chair’,
+century innovation) and our Lord's charge to S. Peter or 'S. Peter's Chair',
 which is probably a Roman development of the later third century. But
 this cycle of historical feasts of our Lord is only in its first beginnings; the
-great bulk of the entries are ‘burial’-days — depositions — of Roman martyrs
+great bulk of the entries are 'burial'-days—depositions—of Roman martyrs
 and bishops.
 
 What strikes us about these is first their restricted number and secondly
 their local interest. Out of all the hundreds of men and women who had
 shed their blood for Christ on the soil of Rome in the preceding centuries
 some fifty names grouped in twenty-four feasts comprise the whole
-‘proper’ of the Roman church. Apart from the two Roman aposdes Peter
+'proper' of the Roman church. Apart from the two Roman aposdes Peter
 and Paul on June 29th there are no names from the first century,1 none at
-all from the second — not even Pope Telesphorus or the famous Justin and
+all from the second—not even Pope Telesphorus or the famous Justin and
 his companions or Ptolomaeus and Lucius or the senator Apollonius,
 whose Defence of Christianity at his trial before the senate was a piece of
 Christian apologetics well known even in the East.2 Two feasts, those of Par-
@@ -3721,9 +3721,9 @@ are singled out as the result of the ten years of the Diocletian persecution,
 though in fact Roman martyrdoms were then numerous. Though some
 other names in the list really come from this period, the majority are
 from between A.D. 220 and 260. What is also noticeable is that in every
-case the location of the martyr’s burial-place, and therefore of the anniver¬
+case the location of the martyr's burial-place, and therefore of the anniver¬
 sary eucharist on his festival in the chapel at his tomb, is named in the
-calendar. The liturgy of saints’ days is still strictly tied down to the actual
+calendar. The liturgy of saints' days is still strictly tied down to the actual
 burial place of the saint commemorated. Only in the sixth century, when
 the devastations of the Goths and the raids of the Lombards had made it
 impossible to celebrate their festivals in the cemetery-chapels outside the
@@ -3734,9 +3734,9 @@ been re-buried. In the fourth' century the liturgy in the tituli , the parish
 churches, still kept strictly to the old eschatological cycle of pre-Nicene
 times, slowly growing now by the addition of feasts of our Lord.3 A
 single eucharist, celebrated by the Pope in person or by a presbyter
-specially delegated for the purpose at the martyr’s tomb, formed the whole
+specially delegated for the purpose at the martyr's tomb, formed the whole
 
-1 Unless the ‘Clement* commemorated on November 9th with Sempronianus,
+1 Unless the 'Clement* commemorated on November 9th with Sempronianus,
 Claudius and Nicostratus, be the third bishop of Rome, c. a.d. 90-100, who wrote
 the epistle to the Corinthians which we have quoted. This seems to me not very
 probable.
@@ -3754,11 +3754,11 @@ the different churches in turn.
 THE SHAPE OF THE LITURGY
 
 
-celebration of a saint’s day, of which the parish churches took no official
+celebration of a saint's day, of which the parish churches took no official
 notice. The clergy were all there at the cemetery chapel around their
 bishop, along wi h the Papal choir and such of the laity as felt disposed to
-attend. In a curious way the liturgy of the martyrs’ feasts thus retained the
-original character of a ‘domestic’ celebration of the honour of one of its
+attend. In a curious way the liturgy of the martyrs' feasts thus retained the
+original character of a 'domestic' celebration of the honour of one of its
 members by the household of God, long after the growth of numbers had
 made this impossible in more than symbol in the case of the Sunday ecclesia
 in the parish churches.
@@ -3777,22 +3777,22 @@ celebrations at their tombs. A collect for the anniversary of Pope Silvester
 which happens to have been preserved, illustrates well the deprecatory
 tone she still assumed on these occasions:
 
-‘O God, the portion in death of them that confess Thee, be graciously
+'O God, the portion in death of them that confess Thee, be graciously
 pleased to accept our supplications which we make on the anniversary (in
 depositione) of Thy servant Silvester the bishop; that he who laboured
 faithfully in the service of Thy Name, may rejoice in the everlasting com¬
-pany of Thy saints’.
+pany of Thy saints'.
 
 Another prayer, the Hanc igitur of the same mass, shows how easily and
 naturally such sentiments could pass into the same sort of veneration as was
-felt for the martyrs: ‘We beseech Thee, therefore, O Lord, graciously to
+felt for the martyrs: 'We beseech Thee, therefore, O Lord, graciously to
 look upon this oblation we humbly offer in commemoration of Saint Sil¬
 vester Thy confessor and bishop; that both we may be profited by this act
-of devotion and he may be glorified in bliss everlasting’.
+of devotion and he may be glorified in bliss everlasting'.
 
 We have no means of judging when either of these prayers was composed
 or whether they represent successive stages in the reverence with which
-the memory of ‘the Pope of the long peace’ was regarded by future genera¬
+the memory of 'the Pope of the long peace' was regarded by future genera¬
 tions in the Roman church. But neither of them is likely to be older than
 the fifth century. The following, however, apparently composed for the
 funeral of Pope Sixtus III, who died in the octave of S. Lawrence and was
@@ -3810,32 +3810,32 @@ in arguing for deliberate omission.
 
 THE SANCTIFICATION OF TIME 373
 
-contemporaries of the dead bishop: ‘O Lord our God we beseech Thee
+contemporaries of the dead bishop: 'O Lord our God we beseech Thee
 hearken to the prayers of Thy blessed martyr Lawrence and aid us; and
 establish the soul of Thy servant N. the bishop in the light of everlasting
-bliss1. ‘We beseech Thee, therefore’, etc. (as above) . . . ‘that he who
+bliss1. 'We beseech Thee, therefore', etc. (as above) . . . 'that he who
 followed in the office of Thy Vicar upon the throne of blessed Peter the
 apostle, may by the abundance of Thy grace receive the eternal portion of
 the apostolic office*. Another for the funeral of Pope Simplicius (a.d. 483)
-seems also to be contemporary: ‘We humbly entreat Thy majesty, O Lord,
+seems also to be contemporary: 'We humbly entreat Thy majesty, O Lord,
 that the soul of Thy servant bishop Simplicius, freed from all (stains)
 which it had gathered in the flesh ( humaniius ) may be found worthy of the
-lot of all holy pastors’.1
+lot of all holy pastors'.1
 
-We have already found in Cyril’s Catecheses 2 the same distinction made
+We have already found in Cyril's Catecheses 2 the same distinction made
 in the liturgy of Jerusalem in a.d. 348 as is found in these Roman liturgical
-documents, between the commemoration of ‘ ... the apostles and martyrs,
-that God by the intercession of their prayers may receive our petitions’,
-and the intercessions of the earthly church in her turn ‘on behalf of the
+documents, between the commemoration of ' ... the apostles and martyrs,
+that God by the intercession of their prayers may receive our petitions',
+and the intercessions of the earthly church in her turn 'on behalf of the
 holy fathers and bishops and generally of all who have fallen asleep among
 us, believing that this will be of the greatest possible assistance to their
-souls’. The venerated bishops of the past who happened not to have been
+souls'. The venerated bishops of the past who happened not to have been
 called upon to face martyrdom are obviously tending both in East and
 West c . A.D. 350 to form a third group midway between the martyrs who
 are assuredly in heaven and the faithful departed who may still need the
 prayers of the church. But they are still just on the latter side of the line.
 And it happened that the fourth century had inherited from the third the
-term ‘Confessor’, which by an extension of meaning could be made to
+term 'Confessor', which by an extension of meaning could be made to
 include these bishops.
 
 The Confessors. It frequently happened during the third century perse¬
@@ -3845,13 +3845,13 @@ scourging or penal servitude, if the policy of the government for the time
 being happened to be one of comparative leniency. Such men and women
 who had not flinched before the supreme penalty but had not actually
 been called upon to pay it, were treated with extreme reverence by their
-fellow-christians if they were subsequently set at liberty, as a sort of ‘living
-martyrs’.3 Third century literature contains a good deal about the difficul-
+fellow-christians if they were subsequently set at liberty, as a sort of 'living
+martyrs'.3 Third century literature contains a good deal about the difficul-
 
 1 All these specifically Papal prayers have been accidentally preserved among the
 ordinary funeral prayers of the seventh centui^ Veronese collection of older Roman
 and other material which goes by the misleading name of the Leonine Sacramentary.
-It would not be surprising, however, if in this case the prayers for the ‘deposition*
+It would not be surprising, however, if in this case the prayers for the 'deposition*
 of Sixtus III were really from the pen of S. Leo, who was his successor in the Roman
 se*. Both the latinity and the sentiments have a very Leonine ring.
 
@@ -3860,15 +3860,15 @@ se*. Both the latinity and the sentiments have a very Leonine ring.
 8 Hippolytus, Ap. Trad., x. 1 and 2, says that such confessors (provided they
 have actually snffered at the hands of the authorities, and not merely undergone
 social inconvenience) are ipso facto to be reckoned presbyters, without ordination)
-though for the episcopate (still the only specifically ‘priestly’ order in the hierarchy,
+though for the episcopate (still the only specifically 'priestly' order in the hierarchy,
 they do require die laying on of episcopal hands.
 
 
 374 THE SHAPE OF THE LITURGY
 
 ties some of them caused by their pretensions. Terminology varied a little
-but by degrees ‘martyr’ came to be reserved stricdy for those who had
-been killed ‘out of hatred of the faith’, while ‘confessor’ remained the
+but by degrees 'martyr' came to be reserved stricdy for those who had
+been killed 'out of hatred of the faith', while 'confessor' remained the
 title of honour for those who had witnessed for the faith without flinching,
 but through no fault of their own had not received the assured crown of
 martyrdom. There were many such among the survivors of the Diocletian
@@ -3879,25 +3879,25 @@ hesitation about setting them freely alongside their brethren who had
 suffered death at the hands of the persecutors. And it happened that many
 of these men after the peace of the church had to endure fresh persecutions
 at the hands of the Anan government under the emperors of his house who
-succeeded Constantine. The assimilation to the ‘confessors’ of the Dio¬
+succeeded Constantine. The assimilation to the 'confessors' of the Dio¬
 cletian persecution of all who suffered with them in these fresh troubles
 was inevitable. And so we find in an invocation (wrongly) ascribed to S.
-Ambrose, the distinction already accepted, ‘I ask for the prayers of the
+Ambrose, the distinction already accepted, 'I ask for the prayers of the
 martyrs, who did not hesitate to shed their blood for the truth ... I entreat
 the intercessions of the confessors, who endured the battle with our enemy
 the tempter, while they lived a holy life in the catholic peace, or also the
 gainsaying of the heretics in the lengthy conflict, and to say truth, won the
-palms of a longer-drawn-out and secret martyrdom’.1 The ‘confessors’ are
+palms of a longer-drawn-out and secret martyrdom'.1 The 'confessors' are
 here becoming any men of holy life who have rendered great service to the
 church withoutmartyrdom.
 
 The step of adding such names to the official calendar was probably
 taken first, and with a certain hesitation, in the East. It was indeed difficult
-to draw any dear lines of distinction. S. Gregory Nazianzene’s funeral
+to draw any dear lines of distinction. S. Gregory Nazianzene's funeral
 oration for S. Athanasius dearly regards its subject as a saint already in
 glory. But having regard to the innumerable troubles inflicted on Athana¬
 sius by the allied Arians, jews and pagans, such a man could well be
-numbered with the ‘confessors’ in the old sense, quite apart from the
+numbered with the 'confessors' in the old sense, quite apart from the
 unique services he had rendered to the church both as bishop and as theo¬
 logian. The decisive step was taken in Gaul, where the uniquely beloved
 apostle of rural France, S. Martin of Tours, whose gentle sweetness and
@@ -3906,7 +3906,7 @@ his own lifetime, was treated as a saint in heaven from the moment of his
 death. Yet a note scribbled by his biographer and devoted friend Sulpicius
 Severus on the day the sad news reached him, shews how strong the old
 tradition still was, and how much the innovation was felt to need excuse:
-‘He is with the apostles and prophets . . . second to none in the company
+'He is with the apostles and prophets . . . second to none in the company
 of the righteous as I hope, I believe, I am certain. . . . For though the
 state of the times afforded him no chance of martyrdom, yet he will not
 lack the glory of a martyr, for in desire and in courage he could have
@@ -3920,13 +3920,13 @@ THE SANCTIFICATION OF TIME
 
 faced martyrdom and gladly (if he had been bom in the days of Hadrian
 or Diocletian) . . . but though he did not bear these pains, he fulfilled his
-martyrdom without shedding his blood’ by his sufferings in the cares of his
+martyrdom without shedding his blood' by his sufferings in the cares of his
 office, his unwearied asceticism and his missionary labours,1 A few days later
-all hesitations are gone. In a note to his wife’s mother Sulpicius writes, in
+all hesitations are gone. In a note to his wife's mother Sulpicius writes, in
 words which the Gallican church afterwards set to music as part of S,
-Martin’s office, ‘Martin with joy is received into Abraham’s bosom; Mar¬
+Martin's office, 'Martin with joy is received into Abraham's bosom; Mar¬
 tin, here poor and humble, enters heaven rich; thence, as I hope, our pro¬
-tector, he looks down on me as I write this and on you as you read it’.2
+tector, he looks down on me as I write this and on you as you read it'.2
 
 Sulpicius is already a Frenchman with his wit and his exquisite style and
 his idees claires. There is the silver clarity of the landscapes of his own
@@ -3936,7 +3936,7 @@ of the sixth century, still contains no Roman bishops who were not martyrs
 (or who were not supposed to have been). Even the Gregorian Sacramen¬
 tary c. a,d. 600 contains only two, SS. Silvester and Leo. To these the
 seventh century soon added the name of S. Gregory himself, and it was
-with these three episcopal ‘confessors’ (in this new sense) alone in its
+with these three episcopal 'confessors' (in this new sense) alone in its
 calendar that the book was adopted by Alcuin c. a.d. 790-800.
 
 But the Gallican churches for centuries had been accustomed to include
@@ -3980,12 +3980,12 @@ the catacombs of S. Sebastian during the Dedan persecution of the third
 century. This feast is therefore a monument of local chinch history and not
 a repercussion of the New Testament on the calendar, and is as closely
 connected with the cultus of relics and the burial places of the saints as any
-other martyr’s feast.
+other martyr's feast.
 
 The real beginnings of the deliberate association of the New Testament
 with the calendar of the saints are obscure, but they must probably be
 sought in the East in connection with the spread to other churches of the
-‘Jerusalem model’, which would not have the same local justification else¬
+'Jerusalem model', which would not have the same local justification else¬
 where as in the city of its origin. From our modem point of view the pro¬
 cess by which this association of the N.T. with the calendar came about is
 surprising, because it is not governed by doctrinaire considerations of
@@ -3993,21 +3993,21 @@ what would best complete the calendar, but primarily by the availability of
 relics, or supposed relics, around which the liturgical commemorations
 of N.T. saints could take form.
 
-y It is for this reason that — to take an instance surprising enough to the
-modem way of thinking — the feasts of our Lady are as a class so slow in
+y It is for this reason that—to take an instance surprising enough to the
+modem way of thinking—the feasts of our Lady are as a class so slow in
 their development. There were no relics available. Of her five great feasts
-in the modem Western church, two — the Purification and the Annuncia¬
+in the modem Western church, two—the Purification and the Annuncia¬
 tion— begin really as feasts of our Lord. The Assumption is added to the
-historical cycle concerning the events of our Lord’s life as a sort of after¬
+historical cycle concerning the events of our Lord's life as a sort of after¬
 thought, before the seventh century and apparently first in Syria.1 The
 feasts of the Nativity and Conception of our Lady appear to have been
 added to the Eastern calendars sporadically in the seventh-eighth cen¬
 turies to complete, as it were, a lesser historical cycle of events in our
-Lady’s life. But it is significant that the oldest Eastern feast of our Lady,
-historically speaking, is that which we call ‘the Visitation’ (officially
+Lady's life. But it is significant that the oldest Eastern feast of our Lady,
+historically speaking, is that which we call 'the Visitation' (officially
 accepted at Rome only in 1389), which is really the feast of the deposition
-in the church of Blachemae at Constantinople of a relic of our Lady’s veil
-in the year A.D. 469. Even in the case of our Lady the cultus of ‘secondary’
+in the church of Blachemae at Constantinople of a relic of our Lady's veil
+in the year A.D. 469. Even in the case of our Lady the cultus of 'secondary'
 relics is thus at the basis of the idea of liturgical commemoration.
 
 At Rome none of the five great feasts of our Lady is older than c. a.d. 700,
@@ -4018,7 +4018,7 @@ Asleep) seems to be in a sermon by Modestus, Patriarch of Jerusalem, who died
 m a.d. 634 (M.P.G., lxxxvi. 3301 sqg.), but it was not then a new institution.
 Tins seems to be the feast on August 15th, the date eventually adopted by East and
 West. But there are obscure traces of an Egyptian feast in January which is prob¬
-ably older than Modestus’ time, and the Gallican churches for a while adopted this
+ably older than Modestus' time, and the Gallican churches for a while adopted this
 January feast.
 
 
@@ -4036,7 +4036,7 @@ based their observance was not officially promulgated by Rome for nearly
 another five centuries after this, when Pius IX did so in 1854.) The only
 older Roman commemoration of our Lady is the special character given to
 the mass of the Octave Day of Christmas in the Gregorian Sacramentary
-(c. a.d. 600) as the commemoration of the reality of Mary’s motherhood of
+(c. a.d. 600) as the commemoration of the reality of Mary's motherhood of
 Jesus. The Gregorian texts of this are very beautiful and evangelical in
 themselves, and very exactly in keeping with the teaching of the Council of
 Chalcedon in a.d. 451 as to the complete reality of His Manhood as Son of
@@ -4052,7 +4052,7 @@ the Book of Common Prayer, are mostly not very ancient and have
 curiously mixed origins. The feast of S. Andrew on November 30th is
 among the oldest and goes back to the fifth century. It appears to be con¬
 nected in some way with a famous relic of the saint which eventually
-found a resting place in S. Peter’s. The feast of S. John on December 27th
+found a resting place in S. Peter's. The feast of S. John on December 27th
 is likewise of the fifth or even perhaps the later fourth century, and seems
 to have originated at Jerusalem, though the evidence is rather confused.
 That of SS. Philip and James on May 1st is really the dedication or rededi¬
@@ -4070,7 +4070,7 @@ the relics of the apostle at his tomb in Ephesus. Of the feasts of S. John the
 
 afterwards discontinued there under Roman influence.
 
-t But the ‘Gregorian* character of January 1st as a celebration of Mary s mother¬
+t But the 'Gregorian* character of January 1st as a celebration of Mary s mother¬
 hood still dominates the office for the day in the Roman Breviary.
 
 • Ub. de Praescr ., 36.
@@ -4082,9 +4082,9 @@ D.S.L.
 378 THE SHAPE OF THE LITURGY
 
 Baptist, the Nativity on June 24th depends for its date on the Western cele¬
-bration of our Lord’s birthday on December 25th, and S. John’s feast is
+bration of our Lord's birthday on December 25th, and S. John's feast is
 as we should expect, like Christmas, of Western origin. S. Augustine
-remarks that it was celebrated in Africa ‘by the tradition of our forefathers’,
+remarks that it was celebrated in Africa 'by the tradition of our forefathers',
 which carries us back at all events to c. a.d. 375, perhaps rather earlier.
 The feast appears to have been accepted at Rome during the fifth century.
 The other feast of the Baptist on August 29th, kept in the West as the
@@ -4096,22 +4096,22 @@ commemorates the dedication of a chapel in honour of the archangel in the
 suburbs of Rome (destroyed many centuries ago) at some date during the
 sixth century. The feast of S. Stephen, December 26th, seems to have
 originated at Jerusalem in the fourth century (before December 25th had
-been accepted there as the date of our Lord’s birth). The supposed
+been accepted there as the date of our Lord's birth). The supposed
 discovery of his relics in Palestine a.d. 415 caused great excitement in
 Christendom, and after this his feast was rapidly propagated everywhere by
 the bringing home of numerous portions of these by returning pilgrims.1
 The feast seems to have been adopted at Rome with less delay than usual,
 soon after the middle of the fifth century, and the same holds true of the
 feast of the Holy Innocents on December 28th, which was observed in
-Africa in Augustine’s time.2 The feast of S. Peter’s Chains on August
+Africa in Augustine's time.2 The feast of S. Peter's Chains on August
 1st commemorates the dedication of a Roman basilica in A.D. 461, in
-which the relic of the apostle’s chains was preserved.
+which the relic of the apostle's chains was preserved.
 
 These are the only festivals of New Testament personages found in the
-Gregorian Sacramentary sent to France in A.D. 790 for Alcuin’s liturgical
+Gregorian Sacramentary sent to France in A.D. 790 for Alcuin's liturgical
 reform. It is obvious how closely connected most of them are with the
 cultus of relics. But none of them have anything like the antiquity or the
-interest of the third century feast of S. Peter’s Chair on February 22nd.3
+interest of the third century feast of S. Peter's Chair on February 22nd.3
 Most of the other feasts of apostles, etc., in the Prayer Book Calendar are
 of later date. That of the Conversion of S. Paul on January 25th, which is
 a feast of Gallican origin, commemorates a translation of some portion of
@@ -4120,7 +4120,7 @@ a feast of Gallican origin, commemorates a translation of some portion of
 there in the years after 415, c/. S. Augustine, Serm. 316, 320, 321, 322, 323, 324;
 Ep. 212; de Civitate , xxii. 8, etc.
 
-2 The name ‘Innocents* appears to have been a Roman peculiarity. The African
+2 The name 'Innocents* appears to have been a Roman peculiarity. The African
 name was Infantes , a name also found in Spain, where the feast was observed (more
 logically) after Epiphany.
 
@@ -4129,7 +4129,7 @@ removing the feast out of the possible orbit of Lent, when no feasts were kept i
 Gaul. (The duplication of the feast in the Roman calendar dates only from the
 sixteenth century.) The supposed connection of the feast with the ancient curule
 chair said to have been used by S. Peter as his cathedra , and now preserved under
-the bronze Papal throne in S. Peter’s, only goes back to the sixth century (Duchesne,
+the bronze Papal throne in S. Peter's, only goes back to the sixth century (Duchesne,
 Origines du culte chritien , p. 269) though the chair itself is a genuine relic of imperial
 pagan antiquity, and might be authentic.
 
@@ -4172,21 +4172,21 @@ beginning of this process in the Roman calendar of the depositiones in 354.
 In this list two entries, those of the famous second centmy African martyrs
 SS. Perpetua and Felicity in March and the third century S. Cyprian of
 Carthage in September, stand out as the only non-Roman names in the
-list. But in each case the entries are marked ‘in Africa’, and no Roman
+list. But in each case the entries are marked 'in Africa', and no Roman
 locality for the celebration of the eucharist in their honour is attached to
 the anniversary,2 which suggests that there was as yet no liturgical cultus of
 these foreigners at Rome. But other churches soon adopted some of the
 most famous Roman saints, e.g. S. Lawrence. At first they translated some
-small portion of the saint’s relics or even napkins which had been in con¬
-tact with them, to serve as an excuse for the festival — so inseparable was
+small portion of the saint's relics or even napkins which had been in con¬
+tact with them, to serve as an excuse for the festival—so inseparable was
 
 1 Beleth, Rationale , 127. M.P.L., ccii. But Frere (op. cit pp. 136 sqq.) gives
 reasons for suspecting that the feast of Nov. 1 originated as the dedication feast of
-a chapel dedicated to All Saints in S. Peter’s at Rome by Pope Gregory III (a.d.
+a chapel dedicated to All Saints in S. Peter's at Rome by Pope Gregory III (a.d.
 731-741).
 
 2 The word celebratur in the notice of S. Cyprian is probably a corruption for
-‘Cornelius’, the Roman martyr honoured on that day, as Mommsen and Duchesne
+'Cornelius', the Roman martyr honoured on that day, as Mommsen and Duchesne
 are agreed.
 
 
@@ -4195,7 +4195,7 @@ are agreed.
 the connection of the cultus with the actual relics of the saints down to the
 end of the fourth century. It was only when the idea of historical com¬
 memorations as such had grown familiar from the cycle of feasts of our
-Lord that martyrs’ feasts could begin to be borrowed freely between
+Lord that martyrs' feasts could begin to be borrowed freely between
 different churches without this pretext. Such interchange of saints was
 one little aspect of the slow post-Nicene breaking down of the old self¬
 centredness of the city-bishoprics. This was never undertaken as a policy
@@ -4205,38 +4205,38 @@ gradually in answer to the new needs of the times for corporate rather than
 parallel action between the churches, and the process was by no means
 complete for centuries after the Roman empire fell.
 
-But this borrowing of martyrs’ feasts began to enrich the local calendars
+But this borrowing of martyrs' feasts began to enrich the local calendars
 with something more than their old parochial interest during the later
 fourth century. Yet it was centuries before the ordinary lay-people felt the
-same interest in ‘imported’ saints, however illustrious, as they had always
+same interest in 'imported' saints, however illustrious, as they had always
 felt towards their own local martyrs, however obscure, fellow-citizens of
 their own as they felt these to be and a credit to the town. S. Augustine has
 a charming little sermon for the feast of the Roman S. Lawrence which
-begins: ‘The martyrdom of the blessed Lawrence is famous — but at Rome,
+begins: 'The martyrdom of the blessed Lawrence is famous—but at Rome,
 not here, so few of you do I see before me this morning! Exactly as the
 glory of the city of Rome cannot be hid, so the glory of its martyr Lawrence
 cannot be hidden either. I do not understand how the glory of so great a
 city came to be overlooked by you. So your little gathering shall hear only
 a little sermon, for I myself am feeling too tired and hot to manage a long
-one’.1
+one'.1
 
 Perhaps the heat of a Tunisian August had something to do with the
 small attendance that day, but it is another story when we look at the texts
-with which the churches celebrated their own native saints. ‘Though the
+with which the churches celebrated their own native saints. 'Though the
 unity of the faith makes us all venerate with one and the same honour the
 glorious sufferings of all the martyrs which various places in different
 provinces have deserved to nurture, and they should have no difference in
 the reverence paid them who all died in the same good cause: yet love of
-one’s own city (civilis amor) claims something for itself in the rendering of
+one's own city (civilis amor) claims something for itself in the rendering of
 homage, and his native province adds a natural affection to the honouring
-of God’s grace in the martyr. For all the greater is that joy whereto assists
-the love of one’s own town ( patriae affectus). And this we owe to the holy
+of God's grace in the martyr. For all the greater is that joy whereto assists
+the love of one's own town ( patriae affectus). And this we owe to the holy
 and most blessed Vincent, whose we are as he is ours. He has exalted the
-people of his native soil as their patron and their glory’. That is the opening
+people of his native soil as their patron and their glory'. That is the opening
 of the mass of S. Vincent in the Mozarabic rite that spread from Toledo all
 over Spain. But one cannot doubt that the text is originally the product of
 civilis amor , that the words were first composed in his own church of Sara¬
-gossa — ‘Whose we are as he is ours’.2 Or take again the Gallican proper
+gossa—'Whose we are as he is ours'.2 Or take again the Gallican proper
 
 1 Serm. 303* 1 Liber Mozarabicus Sacrameniontm , ed. at. col . 1 12.
 
@@ -4254,8 +4254,8 @@ simum) witness of Thine awful Name: whom the mob of the heathen when
 they thrust him from the temple thrust also into heaven. Nevertheless
 thine high-priest sent forth frcm Eastern regions to the city of the Tolo-
 satians, in this Rome of the Garonne as Vicar of Thy Peter fulfilled both
-his episcopate and martyrdom. Therefore . . A1 ‘This Rome of the
-Garonne’! There is all the Frenchman’s deep and tender feeling for his
+his episcopate and martyrdom. Therefore . . A1 'This Rome of the
+Garonne'! There is all the Frenchman's deep and tender feeling for his
 pays natal behind the deliciously absurd phrase. And how little French
 provincial Catholicism has changed in its spirit and taste in all the fourteen
 centuries or so since this was written! The pretentious language in such
@@ -4274,7 +4274,7 @@ and fulfilment before God, but a sort of permanent deputation from it in
 the presence of God Himself to plead its needs.3 (There is assimilation here
 between Christian and civic life. Deputations to the emperor to plead the
 needs or excuse the faults of the cities were of frequent occurrence. To be
-chosen to take part in such an embassy by one’s fellow-citizens was a signal
+chosen to take part in such an embassy by one's fellow-citizens was a signal
 recognition of merit.) It was but natural that in the fourth century as the
 whole population of a town was by degrees converted, those who had for
 so long been regarded as the special patrons of the church there should
@@ -4334,7 +4334,7 @@ that was coming they were going to be of incalculable value in maintaining
 such public order and cohesion as survived. In strengthening these things
 by giving them a Christian focus and consecration the church was fulfilling
 the new social function which had fallen to her for the future better than
-she understood. But this does not lessen the force of Augustine’s shamed
+she understood. But this does not lessen the force of Augustine's shamed
 admission to Faustus that in this matter the teaching of the church about
 the martyrs was one thing, and what she had to put up with from the
 practice of Christians was too often another.2
@@ -4365,12 +4365,12 @@ Two interesting fragments of calendars from the later fifth century illus¬
 trate very well the stage which had by then been reached in this blending
 of the old local and the newer universal characteristics. The one, probably
 rather the later in date, is from Spain, found in an inscription in the
-‘Court of the Orange Trees’ which still surrounds the old church of Santa
-Maria la Mayor — ‘Great S. Mary’s* — at Carmona, not far from Seville. It
+'Court of the Orange Trees' which still surrounds the old church of Santa
+Maria la Mayor—'Great S. Mary's*—at Carmona, not far from Seville. It
 is incomplete, but apparently lists all the feasts observed there in the first
 six months of the year c. A.D. 480.
 
-‘Dec. 25. Nativity of our Lord Jesus Christ according to the flesh.
+'Dec. 25. Nativity of our Lord Jesus Christ according to the flesh.
 
 Dec. 26. S. Stephen.
 
@@ -4388,14 +4388,14 @@ May 4. S. Threpta, virgin [An early South Spanish saint of whom
 little is known].
 
 May 13. SS. Crispin [bishop?, Martyred at Ecija, near Seville] and Mucius
-[i.e. Mokios, a M. of Constantinople, whose relics — and consequently cultus
-— were widely distributed over the West in the early fifth century].
+[i.e. Mokios, a M. of Constantinople, whose relics—and consequently cultus
+—were widely distributed over the West in the early fifth century].
 
 June 19. SS. Gervase and Protase [MM. at Milan, the discovery of
 whose relics by S. Ambrose (a.d. 386) attracted great interest all over
 the West].
 
-June 20. S. John the Baptist.’1
+June 20. S. John the Baptist.'1
 
 Here the calendar breaks off. The long gap between January and May
 
@@ -4405,11 +4405,11 @@ handed down by unbroken liturgical tradition at their tombs. But they did succee
 in the popular mind to the position of the old city-gods, and there was assimilation
 in the manner of popular cultus. Popular fancy later produced legends on a conven¬
 tional pattern which are often wildly remote from the true circumstances of the
-saint as revealed by contemporary sources. ‘What the Virger said’ to the pilgrims is
+saint as revealed by contemporary sources. 'What the Virger said' to the pilgrims is
 rarely in the nature of historical evidence.
 
 1 The inscription was discovered and published by Padre Fita y Colome in 19093
-but can be conveniently studied in Dom Ferotin’s ed. of the Mozarabic Liber
+but can be conveniently studied in Dom Ferotin's ed. of the Mozarabic Liber
 Sacramentorums 1912, pp. xliii. sq.
 
 
@@ -4420,11 +4420,11 @@ THE SHAPE OF THE LITURGY
 
 is due to the possible range of Lent, during which no feasts were observed
 in Spain. What is more surprising is the absence of the (originally Eastern)
-feast of the Epiphany and ‘The Murder of the Infants’ (Holy Innocents)
+feast of the Epiphany and 'The Murder of the Infants' (Holy Innocents)
 missing in January, since both were kept in most Spanish churches by this
 time. Perhaps it is due to the carelessness of the stone-cutter; more prob¬
 ably Carmona was a rather old-fashioned country church. Half the entries
-are still those of the old Spanish martyrs, though the ‘international’ saints
+are still those of the old Spanish martyrs, though the 'international' saints
 of the New Testament are making their appearance. But the lesser apostles
 like Matthias are still some centuries from inclusion; and the Eastern
 feast of the Purification, already in use at Jerusalem for a century, is like
@@ -4442,13 +4442,13 @@ wandering churches were tents, like the dwellings of their loosely organised
 tribes. They had received baptism only in the later fourth century, at the
 hands of missionaries from the Eastern church during the long Arian
 domination of Constantinople, and were consequently firmly imbued with
-the Arian heresy. A fragment of a Gothic calendar which has survived — a
+the Arian heresy. A fragment of a Gothic calendar which has survived—a
 tiny relic of the Ostrogothic kingdom of Italy in the fifth century-reveals
 a glimpse of their church life in the Balkans before their migration to the
 West and the sack of Rome. All that survives is the list of feasts from
 October 23-November 30.1
 
-‘Oct. 23. Numerous martyrs for the folk of the Goths, and Frithigem
+'Oct. 23. Numerous martyrs for the folk of the Goths, and Frithigem
 (?) [Probably refers to the first Christian Gothic chief. A number of his
 followers were martyred by his pagan overlord, Athanaric, though Frithi-
 gern escaped to Constantinople a.d. 369].
@@ -4478,9 +4478,9 @@ Nov. 19. Memorial of the Old Women martyrs at Beroea, to the number
 of 40 [A group of Greek pre-Nicene martyrs in Thrace, honoured also
 in Greek calendars],
 
-Nov. 30. Andrew the apostle’.
+Nov. 30. Andrew the apostle'.
 
-Here again the local — in this case tribal — martyrs are a prominent ele¬
+Here again the local—in this case tribal—martyrs are a prominent ele¬
 ment in the calendar, reinforced by a sectarian interest in Ariamsm. The
 confessors (in the persons of Frithigern, Constantius and Dorotheus) who
 had not suffered martyrdom have found a place beside them in this Eastern
@@ -4499,7 +4499,7 @@ have said.
 The fascinating thing is to see precisely the same sorts of influence at
 work (with local variations) in the same period upon the liturgy of the
 Arian nomads of the Balkans and that of the urban catholics of Spain in the
-old civilised imperial world — two churches as far apart in ecclesiastical
+old civilised imperial world—two churches as far apart in ecclesiastical
 tendency as they were geographically, socially and racially.
 
 The Fourth Century and the Liturgy
@@ -4514,7 +4514,7 @@ from the long-dead Hittite empire and old Phrygia; as well as from
 Minoan Crete and Achaean Greece and Ionia, and from Semitic Tyre and
 Carthage. All these, with the raw cultures of the North and West, were
 formed by the dying flame of Hellas and the hardness of Rome into the
-unified mediterranean world of the first and second centuries — the Cuntas
+unified mediterranean world of the first and second centuries—the Cuntas
 Romana.1 Into that had flowed all the forces of antiquity. Out of it must
 come anything that could create a future different from itself.
 
@@ -4544,13 +4544,13 @@ have consisted of a long record of pointless civil wars and palace politics,
 varied only by natural disasters and the measures taken for their remedy.
 Something of what that would have meant for the human spirit may be
 guessed from the fascinating but in the last resort stagnant and suffocating
-history of Byzantium and its strange frozen civilisation, where Diocletian’s
+history of Byzantium and its strange frozen civilisation, where Diocletian's
 empire dressed in Christian vestments continued immobile for another
 thousand years.
 
 The catalytic came from Judaea. The death and resurrection of Jesus
 of Nazareth in themselves caused no tremor or sound in the wider Roman
-world. But from them sprang the Christian church — the one element in that
+world. But from them sprang the Christian church—the one element in that
 world which refused to be included in the imperial synthesis. The empire
 made one convulsive effort after another to annihilate this alien force
 within itself, or at least to disperse its power of effectual challenge as it had
@@ -4560,15 +4560,15 @@ worship. That worship seems to us now a mere convention and so it was
 then, in the sense that no thoughtful pagan took it with any seriousness in
 the theological sense. But it was a convention which summed up pro¬
 foundly the whole theory upon which the empire was built and all human
-life was lived — the apotheosis of human power. We who have lived to see
+life was lived—the apotheosis of human power. We who have lived to see
 the terrible force of such conventions in similar totalitarian states can
 better understand the third century than the historians of the last generation.
 
 Diocletian undertook the final Iife-and-death struggle to annihilate the
 church reluctantly, as the sine qua non, the necessary completion, of his
 drastic reorganisation and renewal of the empire. The reign of Constantine
-was the open acknowledgment of the empire’s final impotence to rid itself
-of the church. But the end is not quite yet. The church’s struggle against
+was the open acknowledgment of the empire's final impotence to rid itself
+of the church. But the end is not quite yet. The church's struggle against
 Anamsm and its imperial patrons in the fourth century is only the defeat
 of the last attempt of the empire, and of imperial pagan thought in a new
 
@@ -4582,10 +4582,10 @@ THE SANCTIFICATION OF TIME 387
 Christian disguise, to have its own way with the Christian church from
 within. It is virtually ended with the dying cry of the sentimental reac¬
 tionary Julian, the last emperor of the old tradition, "Thou hast conquered.
-GalilaeanF — whether in fact Julian ever uttered the words or no.
+GalilaeanF—whether in fact Julian ever uttered the words or no.
 
-For three and a half centuries — or for ten times as long as Augustine
-saw it, ever since the Tower of Babel — Two loves had built two cities5, —
+For three and a half centuries—or for ten times as long as Augustine
+saw it, ever since the Tower of Babel—Two loves had built two cities5, —
 and now at last came the final creative synthesis of the whole of antiquity.
 In one swift generation c. A.D. 375-410 the Civitas Romana bowed itself at
 last to enter the City of God, and was baptised upon its deathbed like so
@@ -4620,7 +4620,7 @@ desire for literary effect, the lurid picture which S. Paul draws of gentile
 life in Romans i. can be substantiated point by point from Suetonius and
 Tacitus, the accepted self-portraits of paganism. It is not that there was
 nothing noble in pagan manhood; there was much, for man is not by
-nature ignoble. But it is when one considers, for instance in Plutarch’s
+nature ignoble. But it is when one considers, for instance in Plutarch's
 Life of Brutus , the sort of flaws in character and conduct which the thought¬
 ful ethical philosopher was then prepared to tolerate in a man whom he
 sincerely regarded as decently virtuous and held up for admiration, that
@@ -4652,15 +4652,15 @@ deeply secularised order of society, have been over-anxious to hurry the
 church back to the catacombs, from which she emerged to put an end to
 this pagan theory of human life. If she should ever return to them she
 would survive, as Russia shews; but it would be the worse for the world.
-That theory in some form is Europe’s only alternative religion, whether
-men try to set in the place of the Faith cour Saviour Adolf Hitler’1 or the
+That theory in some form is Europe's only alternative religion, whether
+men try to set in the place of the Faith cour Saviour Adolf Hitler'1 or the
 ikon of Lenin or the inscrutable wisdom and providence of an impersonal
 L.C.C. The men and women who refuted and smashed that theory of the
 sufficiency of power were the noble army of martyrs. If popular devotion
 at once lost its sense of proportion between the honour due to the martyrs
-and the worship of the martyrs’ Lord, it is at least evidence of the immen¬
-sity of the general gratitude for the martyrs’ achievement and the reality of
-the ordinary man’s sense of release.
+and the worship of the martyrs' Lord, it is at least evidence of the immen¬
+sity of the general gratitude for the martyrs' achievement and the reality of
+the ordinary man's sense of release.
 
 The extent to which the church gained or lost in her inner spirituality by
 her entrance into the world may be argued endlessly, but the conventional
@@ -4669,13 +4669,13 @@ fourth century establishment is not borne out by the evidence. One has
 only to read attentively the pre-Nicene fathers or even the epistles of the
 New Testament to find glaring examples of all the faults save one which
 can fairly be charged against the church of the fourth century. As Augus¬
-tine said ‘These two cities (of God and the world) are confounded together
+tine said 'These two cities (of God and the world) are confounded together
 in this world and are utterly mingled with each other, until they be
-wrenched apart by the final judgement’,2 and they always were. The one
+wrenched apart by the final judgement',2 and they always were. The one
 later fault of which the pre-Nicene church was innocent was an undue
 
-1 He is after all no more ridiculous than the ‘Divine Heliogabalus* or sinister than
-‘our Lord and God Domitian*, titles which the Roman Senate was prepared to hear
+1 He is after all no more ridiculous than the 'Divine Heliogabalus* or sinister than
+'our Lord and God Domitian*, titles which the Roman Senate was prepared to hear
 without protest while those emperors lived.
 
 * de Civ. Deiy 1, 35.
@@ -4689,8 +4689,8 @@ THE SANCTIFICATION OF TIME
 deference to the secular ruler in the things of religion. This was largely a
 matter of opportunity. But it was a serious weakness in the fourth century,
 which more than once endangered all that the fortitude of the martyrs had
-preserved. Yet it was chiefly an episcopal vice — though it is fair to say that
-only the bishops were much exposed to the temptation — and it turned out
+preserved. Yet it was chiefly an episcopal vice—though it is fair to say that
+only the bishops were much exposed to the temptation—and it turned out
 to be only a passing phase in the fourth century, at least so far as the West
 was concerned.1 Contact with the court proved so unsettling to bishops
 that councils in the West forbade them to visit it save with the leave pub¬
@@ -4698,14 +4698,14 @@ licly obtained of the provincial synod.
 
 But it is clear that before the end of the century the calibre of the episco- ,
 pate had in the average greatly improved. Augustine, the ornament of three
-universities before he was thirty-two; his friend Alypius, ‘Baron of the
+universities before he was thirty-two; his friend Alypius, 'Baron of the
 Exchequer* (as we should say) for Italy before he was thirty; Paulinus of
-Nola, sometime governor of Spain; Ambrose, Consular of Italy — one of
-the key-posts in high politics — when he was forty-two: such men were now
+Nola, sometime governor of Spain; Ambrose, Consular of Italy—one of
+the key-posts in high politics—when he was forty-two: such men were now
 content to give their maturity to the church as bishops not only of great
 cities but of little country towns. In the East, where the general improve¬
 ment was perhaps less marked, Basil in Cappadocia did not hesitate to
-refuse the emperor’s offerings because he was an Arian; even at Constanti¬
+refuse the emperor's offerings because he was an Arian; even at Constanti¬
 nople John Chrysostom was no more a flatterer of the court than Ambrose
 himself. Such men had a proven greatness of their own apart from
 their office, which even ecclesiastical leaders in the preceding genera¬
@@ -4717,8 +4717,8 @@ apart.)
 The Englishman with his memories of great clerical civil servants in
 English history, Cardinals Beaufort and Morton and Wolsey, Archbishops
 Cranmer and Laud and their fellows in Tudor and Stuart times, is much
-inclined to see in the fourth century the entrance of the church into ‘poli¬
-tics’. In the sense that the church through individual bishops now had
+inclined to see in the fourth century the entrance of the church into 'poli¬
+tics'. In the sense that the church through individual bishops now had
 access to the source of policy and could directly influence administration
 this is true, as it could not in the nature of the case be true in pre-Nicene
 times. But the bishops acquired no legal or constitutional rights against the
@@ -4727,8 +4727,8 @@ own cities, though their jurisdiction was in reality only a continuation of the
 old consensual reference of Christian quarrels to the bishop in pre-Nicene
 times. Constantine recognised these voluntary Christian courts and under¬
 took to enforce their awards by the power of the state, forbidding the civil
-courts to hear cases a second time on appeal from the bishop’s decision by
-disappointed litigants. But the bishop’s court heard only such cases as the
+courts to hear cases a second time on appeal from the bishop's decision by
+disappointed litigants. But the bishop's court heard only such cases as the
 
 1 Except for the Council of Ephesus in a.d. 432 no Eastern Council cf bishops
 ever voted even on dogmatic questions contrary to the known opinion or wishes of
@@ -4746,15 +4746,15 @@ were still open to all who preferred to bring their cases there. The bishops,
 too, towards the end of the century acquired many of the functions of
 executive magistrates in their own see cities. No doubt this brought with it
 new dangers and new temptations. When the barbarian invasions turned
-all local authority into a ‘Lordship’ of some kind, it brought about a disas¬
+all local authority into a 'Lordship' of some kind, it brought about a disas¬
 trous feudalisation of the episcopate, which has obscured its character in
-men’s minds to this day. But the bishops were, when these powers were
+men's minds to this day. But the bishops were, when these powers were
 thrust upon them in the fourth century, virtually the only elected repre¬
 sentatives of their fellow-citizens of any kind. If their voluntary tribunals
 were crowded it was because men found there a justice more impartial and
 less expensive than in the notoriously corrupt secular courts. If the
-emperors and the citizens entrusted to the bishop the functions of ‘defen¬
-der of the city’, it was because all men saw in his office the best security
+emperors and the citizens entrusted to the bishop the functions of 'defen¬
+der of the city', it was because all men saw in his office the best security
 against the rapacious and ubiquitous bureaucracy which was rapidly
 strangling both the imperial initiative and the city republics.1
 
@@ -4767,22 +4767,22 @@ judgement wrongful and ultra vires , because they clashed with the Law of
 God. It was the first successful political opposition to the central govern¬
 ment other than by force of arms in the history of the empire. But it was
 only the claim of the martyrs voiced in different circumstances. In this
-fashion the church had never been and never ought to be ‘outside politics’.
+fashion the church had never been and never ought to be 'outside politics'.
 It was as much a political act for Cyprian to refuse to obey the order of the
-‘Great Leviathan’ to sacrifice to itself under Decius in a.d. 250 and to in¬
+'Great Leviathan' to sacrifice to itself under Decius in a.d. 250 and to in¬
 cite others to refuse, as it was for Athanasius to refuse to admit Arms to
-communion at the emperor’s orders, or for Ambrose to refuse to hand over
-a Christian basilica to Arian courtiers and to rouse the faithful to a ‘stay-in
-strike’. It is the teaching of the New Testament that the Kingdom of God
+communion at the emperor's orders, or for Ambrose to refuse to hand over
+a Christian basilica to Arian courtiers and to rouse the faithful to a 'stay-in
+strike'. It is the teaching of the New Testament that the Kingdom of God
 among men comes in and through the events of history, through what men
-make of real life as it has to be lived ‘here and now*. Jesus of Nazareth was
+make of real life as it has to be lived 'here and now*. Jesus of Nazareth was
 not a remote and academic sage teaching a serene philosophy of the good
 life. A man who would be Messiah handled the most explosive thing in
 Near Eastern politics. The world misunderstood Messiahship; but He died
-on a ‘political’ charge and so did every Christian martyr in the next three
-centuries. There is indeed a ‘political’ border-land which the church cannot
+on a 'political' charge and so did every Christian martyr in the next three
+centuries. There is indeed a 'political' border-land which the church cannot
 cross without leaving her mission. But all the same the church cannot
-leave real life and retire to some ‘purely spiritual mission’ of pietism
+leave real life and retire to some 'purely spiritual mission' of pietism
 without ceasing to be Christian. And in the fourth century, as always before
 
 1 On the development of municipal functions in the episcopate see A. H. M. Jones
@@ -4801,7 +4801,7 @@ foreknowledge of the fiiture, the strange turn of Christian fortunes in the
 fourth century appears not as the reversal but as the fulfilment of all that
 had gone before. It was the empire, not the church, which acknowledged
 defeat at the end of the great persecution, and abruptly reversed its policy.
-To say this is not to question the sincerity of Constantine’s rather vague
+To say this is not to question the sincerity of Constantine's rather vague
 adherence to the God of the Christians, which all recent secular historians
 have vindicated.1 But the question is really not whether the church ought
 to have accepted his proffered alliance but whether in fact it could possibly
@@ -4831,7 +4831,7 @@ perceptiveness, as the Montanists insisted, or that of an unnaturally austere
 morality, such as was taught by the Encratites and to some extent by later
 bodies like the Novatianists. On the contrary the church always insisted
 that Christianity was intended by God for every man. Her measure of a
-Christian was simply 'communion’, partaking in the corporate act of worship*
+Christian was simply 'communion', partaking in the corporate act of worship*
 
 1 Cf. e.g., F. Lot, The End of the Ancient World , pp. 29 sq.
 
@@ -4853,9 +4853,9 @@ fitted it in daily life. The attitude of the world, not of the church, brought
 it about that exceptional gifts of character were required to be a good
 communicant under pre-Nicene conditions. The hunger of the world then
 was for martyrs, and from her communicants the church furnished them
-sufficiently for the world’s need.
+sufficiently for the world's need.
 
-When the work of the martyrs had been done the world’s need changed.
+When the work of the martyrs had been done the world's need changed.
 It was no longer only the exceptionally resolute but Vhomme moyen sensuel ,
 the average pagan man, whom the world itself now presented to the church.
 And strenuously she tried to train him for God. To pagan materialism she
@@ -4883,7 +4883,7 @@ only out-thought the exhausted tradition of pagan speculation, as the monk
 out-lived the instinctive assumptions of the pagan materialist and the
 martyr had out-fought the resolution of the persecutors, but it proved
 easily capable of absorbing all that was best in the classical tradition of
-metaphysics and literature. On the pagans’ ground, Augustine is a more
+metaphysics and literature. On the pagans' ground, Augustine is a more
 penetrating philosopher of history than Ammianus Marcellinus, Basil is a
 better Greek philosopher and rhetorician than Libanius, Jerome is the
 most accomplished Latinist since Cicero.
@@ -4892,7 +4892,7 @@ The missionary triumph of the fourth century was not less Christian than
 the dogged faithfulness of those before it, though it reaped with joy
 where they had sown with tears. And in its effect upon the world and upon
 the church it was incomparably more many-sided. It is no wonder if the
-liturgy — the supreme expression of the church’s life — has ever since
+liturgy—the supreme expression of the church's life—has ever since
 borne the marks of that immense expansion of its grasp on human living,
 
 
@@ -4903,7 +4903,7 @@ THE SANCTIFICATION OF TIME
 
 to the partial obscuring of its earlier character. Yet the liturgy remained
 then and has remained since what it always had been, the worshipping act
-of the Body of Christ towards God, by which His eternal kingdom 'comes’
+of the Body of Christ towards God, by which His eternal kingdom 'comes'
 in time.
 
 That kingdom had come in Jesus of Nazareth, in and through His life
@@ -4915,8 +4915,8 @@ vidual of the resulting clash between that truth and those circumstances.
 At the last moment possible before those consequences reached their final
 climax, in the course of the last supper. He did something which expressed
 the whole meaning of His acceptance of them. Thereby He imposed upon
-the event which He accepted — which was in itself no more than a judicial
-murder of a not uncommon kind — the character of a voluntary sacrifice to
+the event which He accepted—which was in itself no more than a judicial
+murder of a not uncommon kind—the character of a voluntary sacrifice to
 God, redeeming His circumstances by bringing them along with Himself
 under the Kingship of God. And because He was not merely a man, but
 God incarnate and representative Man, that complete sacrifice of Himself
@@ -4925,11 +4925,11 @@ whole of time and human history.
 
 But His proclamation of the gospel in His circumstances, and His
 offering of Himself to bear the outcome of it in the circumstances, are a
-‘liturgy’, a voluntary service which is yet officially exacted from Him,
+'liturgy', a voluntary service which is yet officially exacted from Him,
 addressed to God. The one is the liturgy of His Spirit, the other in the last
 resort was exacted from His Body and Blood. And the church which is His
 Body did nothing else in her liturgy but enter into His. In the synaxis, the
-‘meeting’, she proclaimed the gospel and witnessed to its truth both to
+'meeting', she proclaimed the gospel and witnessed to its truth both to
 herself and, so Tar as it would listen, to the world. She did this simply by
 the lections, the announcement of the Word of God, and by the explanatory
 sermon of her prophetic and accredited teacher, the bishop. She spoke not
@@ -4943,17 +4943,17 @@ And having delivered her message she too had to accept the conse¬
 quences into her own being, to enter as His Body into the liturgy of His
 Body, in the eucharist which was the anamnesis of Him, the Sacrificed. She
 too brought her body in all its members to accept the full consequences of
-the clash between that true message and the ‘here and now’ of life. She, too,
+the clash between that true message and the 'here and now' of life. She, too,
 took bread and a cup and gave thanks and brake and distributed, entering
 into, not merely repeating, His own act. And she, too, thereby brought
-herself and all her members into the ‘coming’ of the kingdom of God,
-which comes fully and perfectly in Jesus. ‘The Bread of Heaven in Christ
+herself and all her members into the 'coming' of the kingdom of God,
+which comes fully and perfectly in Jesus. 'The Bread of Heaven in Christ
 
 
 394 THE SHAPE OF THE LITURGY
 
-Jesus’; ‘In God the Father Almighty, and in the Lord Jesus Christ and in
-the Holy Spirit in holy church’ — the primitive words of administration!
+Jesus'; 'In God the Father Almighty, and in the Lord Jesus Christ and in
+the Holy Spirit in holy church'—the primitive words of administration!
 That and no other is the eucharist of the first four centuries.
 
 We, with the more apocalyptic mood of the moment, may regret that the
@@ -4968,20 +4968,20 @@ world hungered for martyrs the church had trained men and women for
 Christian dying, since that was what the clash of the circumstances of
 history with the truth of the gospel then demanded. The emphasis then
 had to be on the translation of the temporal into the eternal, already
-accomplished ‘here and now’ for the Christian ‘in Christ’. When the need
+accomplished 'here and now' for the Christian 'in Christ'. When the need
 of the new Christian world was for daily holiness, she trained men and
 women no longer for Christian dying but for Christian living; for that was
 what the clash of earthly circumstances with the truth of the gospel now
 exacted. The emphasis was now all on the translation of the eternal into
 history and time, accomplished once for all in Jesus Christ, and by us
 successively in Him. But she trained the confessors as she had trained the
-martyrs — by the liturgy; for that is her act, her life— because it is her
-Lord’s act and His life.
+martyrs—by the liturgy; for that is her act, her life— because it is her
+Lord's act and His life.
 
 The century which had opened with the fury of Diocletian reafiirming
 the strength of the empire closes with the hymns of Prudentius, the last
-authentic poet of classical literature — at once ‘the Virgil and the Horace of
-the Christians’, as so fastidious a scholar and critic as Bentley called him.
+authentic poet of classical literature—at once 'the Virgil and the Horace of
+the Christians', as so fastidious a scholar and critic as Bentley called him.
 He had been a pagan, a loose-living Spanish officer at the imperial court,
 who settled to write poetry at the approach of old age:
 
@@ -5030,18 +5030,18 @@ So the last Christian generation of the old Roman world looked wistfully
 into the future knowing the end had come, and turned to God. In all its
 unhappiness and its carnality that world had always loved beauty; and now
 at the end there was given it a glimpse of the eternal Beauty. And it cried
-out in breathless wonder with Augustine, ‘Too late have I loved Thee,
-Beauty so ancient and so new!’2
+out in breathless wonder with Augustine, 'Too late have I loved Thee,
+Beauty so ancient and so new!'2
 
 There is a sort of pause in events round about the turn of the century
-while that whole ancient world — still so magnificent — waits for the stroke
+while that whole ancient world—still so magnificent—waits for the stroke
 of God, and trusts Him though it knows He will slay. It is like some wind¬
 less afternoon of misty sunshine on the crimson and bronze of late October,
 when time for an hour seems to stand still and the earth dreams, fulfilled
 and weary, content that winter is at hand. The whole hard structure of the
 civitas terrena, the earthly city that had once thought itself eternal, was now
 ready to dissolve into a different future. Gibbon was right. The foundation
-of the empire was loosened by the waters of baptism, for the empire’s real
+of the empire was loosened by the waters of baptism, for the empire's real
 foundation was- the terrible pagan dream of human power. Its brief Chris¬
 tian dream of the City of God which alone is eternal was broken by the
 
