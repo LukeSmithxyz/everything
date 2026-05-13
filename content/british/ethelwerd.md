@@ -423,7 +423,7 @@ of miracles are wrought, with the assistance of our Lord.
 
 
 
-CHAP. II.--_Of king Ethelbert, and of his baptism._ [A.D. 597.]
+## Chapter II.--_Of king Ethelbert, and of his baptism._ [A.D. 597.]
 
 
 When the man aforesaid arrived, Ethelbert bore rule over Kent, and
@@ -448,8 +448,7 @@ our Lord was four years less, than six hundred.[^25]
 
 
 
-CHAP. III.--_Of Ceolwulf, king of the West-Saxons, and of his continued
-wars._
+## Chapter III.--_Of Ceolwulf, king of the West-Saxons, and of his continued wars._
 
 
 A. 597. At the end of one year, Ceolwulf began to reign over the Western
@@ -465,8 +464,7 @@ in England.
 
 
 
-CHAP. IV.--_Concerning Augustine's pall of apostleship sent him by pope
-Gregory._
+## Chapter IV.--_Concerning Augustine's pall of apostleship sent him by pope Gregory._
 
 
 A. 601. When he had reigned four years, pope Gregory sent to Augustine
@@ -475,8 +473,7 @@ the pall of apostleship.
 
 
 
-CHAP. V.--_Of the faith of the East-Saxons, and of the decease of the
-blessed pope Gregory._
+## Chapter V.--_Of the faith of the East-Saxons, and of the decease of the blessed pope Gregory._
 
 
 A. 604. After three years, the eastern English[^27] also received baptism
@@ -499,9 +496,7 @@ Sabert. See preceding note.
 
 
 
-CHAP. VI.--_Of the reign of king Cynegils, his wars; and of the coming
-of bishop Birinus, of the baptism of the king, and the faith of the
-East-Saxons,[^29] and of the baptism of Cuthred._ [A.D. 615-639.]
+## Chapter VI.--_Of the reign of king Cynegils, his wars; and of the coming of bishop Birinus, of the baptism of the king, and the faith of the East-Saxons,[^29] and of the baptism of Cuthred._ [A.D. 615-639.]
 
 
 Afterwards Cynegils received the kingdom of the West-Angles, and, in
@@ -529,8 +524,7 @@ adopted him as his son in baptism.
 
 
 
-CHAP. VII.--_Of the reign of Kenwalk, and of his actions._
-
+## Chapter VII.--_Of the reign of Kenwalk, and of his actions._
 
 A. 648. When nine years were fulfilled, Kenwalk gave to his relation,
 Cuthred, out of his farms, three thousand measures, adjacent to a hill
@@ -576,8 +570,7 @@ fulfilled. His family traces to Cerdic.
 
 
 
-CHAP. VIII.--_Of Wulfhere and Cenwulf,[A] and of the council held by the
-holy father Theodore._
+## Chapter VIII.--_Of Wulfhere and Cenwulf,[A] and of the council held by the holy father Theodore._
 
 
 A. 674. After one year, Wulfhere son of Penda, and Cenwalh[^34] fought a
@@ -598,8 +591,7 @@ the monastery called Streaneshalch [Whitby].
 
 
 
-CHAP. IX.--_Of king Kentwin and his wars._
-
+## Chapter IX.--_Of king Kentwin and his wars._
 
 A. 682. After two years king Kentwin drove the Britons out of their
 country to the sea.
@@ -615,8 +607,7 @@ part of the island from the Britons.
 
 
 
-CHAP. X.--_Of Caedwalla's conversion to the faith of Christ._
-
+## Chapter X.--_Of Caedwalla's conversion to the faith of Christ._
 
 A. 684. In the course of the same year Caedwalla went to Rome, and
 received baptism and the faith of Christ; after his baptism the pope of
@@ -633,8 +624,7 @@ sixteen pence each.
 
 
 
-CHAP. XI.--_Of the acts of Ethelred king of the Mercians._
-
+## Chapter XI.--_Of the acts of Ethelred king of the Mercians._
 
 A. 704. After ten years, Ethelred son of Penda and king of the Mercians
 assumed the monastic habit, when he had completed twenty-nine years of
@@ -651,8 +641,7 @@ bishopric was the province which is now called Selwoodshire [Sherborne].
 
 
 
-CHAP. XII.--_Of the reign of Ina, and of his acts._
-
+## Chapter XII.--_Of the reign of Ina, and of his acts._
 
 A. 710. After a year, the kings and Ina made war against king
 Wuthgirete;[^38] also duke Bertfrid against the Picts.
@@ -671,8 +660,7 @@ war against the Southern English.
 
 
 
-CHAP. XIII.--_Of king Ethelard._
-
+## Chapter XIII.--_Of king Ethelard._
 
 A. 728. When six years were fulfilled he went to Rome, and Ethelard
 received the kingdom of the West Saxons. In the first year of his reign
@@ -690,8 +678,7 @@ succeeded to the kingdom.
 
 
 
-CHAP. XIV.--_Of the acts of king Ethelbald._
-
+## Chapter XIV.--_Of the acts of king Ethelbald._
 
 A. 733. Two years after these things, king Ethelbald received under his
 dominion the royal vill which is called Somerton. The same year the sun
@@ -706,8 +693,7 @@ this life.
 
 
 
-CHAP. XV.--_Of the reign of Eadbert and of his deeds._
-
+## Chapter XV.--_Of the reign of Eadbert and of his deeds._
 
 A. 738. After four years, Eadbert succeeded to the kingdom of the
 Northumbrians, and his brother Egbert discharged the archiepiscopal
@@ -717,8 +703,7 @@ shade of the same porch.
 
 
 
-CHAP. XVI.--_Of the rule of king Cuthred._
-
+## Chapter XVI.--_Of the rule of king Cuthred._
 
 A. 750. After twelve years king Cuthred began to make war against duke
 Ethelhun, for some state-jealousy.
@@ -736,8 +721,7 @@ died, A.D. 754.
 
 
 
-CHAP. XVII.--_Of the acts of king Sigebert and of his reign._
-
+## Chapter XVII.--_Of the acts of king Sigebert and of his reign._
 
 Furthermore Sigebert received the kingdom of the western English.
 
@@ -757,8 +741,7 @@ named Pryffetesflodan,[^42] and so the blood of duke Cumbra was avenged.
 
 
 
-CHAP. XVIII.--_Of the reign of Cynewulf, his war and deeds._
-
+## Chapter XVIII.--_Of the reign of Cynewulf, his war and deeds._
 
 A. 755. These things having been premised, Cynewulf frequently fought no
 slight battles against the Britons. For when thirty-one years had
@@ -823,8 +806,7 @@ corrupt and very obscure.]
 
 
 
-CHAP. XIX.--_Of the reign of king Offa and of his deeds._
-
+## Chapter XIX.--_Of the reign of king Offa and of his deeds._
 
 A. 756. In the revolution of the same year, Offa succeeded to the
 kingdom, a remarkable man, son of Thingferth; his grandfather was
@@ -857,8 +839,7 @@ himself also slain there.
 
 
 
-CHAP. XX.--_Of the acts of Bertric, king of the West-Saxons._
-
+## Chapter XX.--_Of the acts of Bertric, king of the West-Saxons._
 
 A. 783. In the same year Bertric received the kingdom of the
 West-Angles, whose lineage traces up to Cerdic.
@@ -916,8 +897,7 @@ life. Ethelred, king of the Northumbrians, was slain by his own people.
 
 
 
-CHAP. I.--_Of Kenulf, king of the Mercians, and of his wars._
-
+## Chapter I.--_Of Kenulf, king of the Mercians, and of his wars._
 
 A. 796. After two years, Kenulf, king of the Mercians, ravaged Kent and
 the province which is called Merscwari,[^49] and their king Pren was
@@ -937,8 +917,7 @@ A. 800. After three years, king Bertric died.
 
 
 
-CHAP. II.--_Of the reign of Egbert, and his deeds._
-
+## Chapter II.--_Of the reign of Egbert, and his deeds._
 
 Therefore Egbert is raised to the kingdom of the West Saxons. On the
 very same day, as king Ethelmund was passing through a farm, Wiccum,
@@ -1038,8 +1017,7 @@ A. 837. At the end of a year the powerful king Egbert died.
 
 
 
-CHAP. III.--_Of the reign of Ethelwulf and of his deeds._
-
+## Chapter III.--_Of the reign of Ethelwulf and of his deeds._
 
 After his death, Athulf[^54] succeeded to the throne of his father
 Egbert, and he delivered up the kingdom of Kent to his son Athelstan,
@@ -1162,8 +1140,7 @@ HERE ENDS THE PROLOGUE.
 
 
 
-CHAP. I.--_Of the reign of the sons of king Ethelwulf, namely Ethelbald
-and Ethelbert._
+## Chapter I.--_Of the reign of the sons of king Ethelwulf, namely Ethelbald and Ethelbert._
 
 
 Meanwhile, after the death of king Ethelwulf, his sons were raised to
@@ -1189,8 +1166,7 @@ in the monastery named Sherborne.
 
 
 
-CHAP. II.--_Of the reign of king Ethelred._
-
+## Chapter II.--_Of the reign of king Ethelred._
 
 Ethelred succeeded to the throne after the death of his brother
 Ethelbert. In the same year the fleets of the tyrant Hingwar arrived in
@@ -1321,8 +1297,7 @@ in the monastery which goes by the name of Wimborne.
 
 
 
-CHAP. III.--_Of the reign of king Alfred._
-
+## Chapter III.--_Of the reign of king Alfred._
 
 A. 871. After these things, Alfred obtained the kingdom when his
 brothers were dead,--he also was the youngest son of king
@@ -1685,8 +1660,7 @@ Redeemer, that he will save his soul!
 
 
 
-CHAP. IV.--_Of the reign of king Edward, and of his wars._
-
+## Chapter IV.--_Of the reign of king Edward, and of his wars._
 
 A. 901. The successor to the throne was Edward, son of the above-named
 king. He was elected by the nobles, and crowned with the royal crown on
@@ -1763,8 +1737,7 @@ was the end; his name and his pertinacity here ceased.
 
 
 
-CHAP. V.--_Of the reign of king Athelstan, his wars and deeds._
-
+## Chapter V.--_Of the reign of king Athelstan, his wars and deeds._
 
 A. 926. The year in which the stout king Athelstan gained the crown of
 the kingdom, was the nine hundred and twenty-sixth from the glorious
@@ -1786,8 +1759,7 @@ A. 941. Two years afterwards the venerated king Athelstan died.
 
 
 
-CHAP. VI.--_Of the reign of king Edmund._
-
+## Chapter VI.--_Of the reign of king Edmund._
 
 After him Edmund succeeded to the neglected kingdom.
 
@@ -1804,8 +1776,7 @@ and a half.
 
 
 
-CHAP. VII.--_Of the reign of king Edred._
-
+## Chapter VII.--_Of the reign of king Edred._
 
 Edmund's successor was Edred his brother, to whom all the Northumbrians
 became subject; and the Scots also give oaths of allegiance and
@@ -1816,8 +1787,7 @@ held the kingdom nine years and half.
 
 
 
-CHAP. VIII.--_Of king Edwy._
-
+## Chapter VIII.--_Of king Edwy._
 
 His successor to the throne was Edwy, who, on account of his great
 personal beauty, was called Pankalus by the people. He held the
@@ -1826,8 +1796,7 @@ sovereignty four years, and was much beloved.
 
 
 
-CHAP. IX.--_Of the reign of king Edgar._
-
+## Chapter IX.--_Of the reign of king Edgar._
 A. 959. After this, Edgar was crowned, and he was an admirable
 king.[^85]
 
