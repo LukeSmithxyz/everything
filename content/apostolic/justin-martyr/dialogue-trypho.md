@@ -7,7 +7,7 @@ params:
  dt: "1885"
 ---
 
-# I -- INTRODUCTION
+# I -- Introduction
 
 While I was going about one morning in the walks of the Xystus, a certain man, with others in his company, having met me, and said, "Hail, O philosopher!" And immediately after saying this, he turned round and walked along with me; his friends likewise followed him. And I in turn having addressed him, said, "What is there important?"
 
@@ -17,25 +17,27 @@ And he replied, "I was instructed," says he, "by Corinthus the Socratic in Argos
 
 Then he told me frankly both his name and his family. "Trypho," says he, "I am called; and I am a Hebrew of the circumcision, and having escaped from the war lately carried on there, I am spending my days in Greece, and chiefly at Corinth."
 
-And in what," said I, "would you be profited by philosophy so much as by your own lawgiver and the prophets?"
+"And in what," said I, "would you be profited by philosophy so much as by your own lawgiver and the prophets?"
 
-Why not?" he replied. "Do no the philosophers turn every discourse on God? And do not questions continually arise to them about His unity and providence? Is not this truly the duty of philophy, to investigate the Deity?" "Assuredly," said I, "so we too have believed. But the most have not taken thought of this, whether there be one or more gods, and whether they have a regard for each one of us or not, as if this knowledge contributed nothing to our happiness; nay, they moreover attempt to persuade us that God takes care of the universe with its genera and species, but not of me and you, and each individually, since otherwise we would surely not need to pray to Him night and day. But it is not difficult to understand the upshot of this; for fearlessness and license in speaking result to such as maintain these opinions, doing and saying whatever they choose, neither dreading punishment nor hoping for any benefit from God. For how could they? They affirm that the same things shall always happen; and, further, that I and you shall again live in like manner, having become neither better men nor worse. But there are some others, who, having supposed the soul to be immortal and immaterial, believe that though they have committed evil they will not suffer punishment (for that which is immaterial is insensible), and that the soul, in consequence of its immortality, needs nothing from God."
+"Why not?" he replied. "Do no the philosophers turn every discourse on God? And do not questions continually arise to them about His unity and providence? Is not this truly the duty of philophy, to investigate the Deity?"
+
+"Assuredly," said I, "so we too have believed. But the most have not taken thought of this, whether there be one or more gods, and whether they have a regard for each one of us or not, as if this knowledge contributed nothing to our happiness; nay, they moreover attempt to persuade us that God takes care of the universe with its genera and species, but not of me and you, and each individually, since otherwise we would surely not need to pray to Him night and day. But it is not difficult to understand the upshot of this; for fearlessness and license in speaking result to such as maintain these opinions, doing and saying whatever they choose, neither dreading punishment nor hoping for any benefit from God. For how could they? They affirm that the same things shall always happen; and, further, that I and you shall again live in like manner, having become neither better men nor worse. But there are some others, who, having supposed the soul to be immortal and immaterial, believe that though they have committed evil they will not suffer punishment (for that which is immaterial is insensible), and that the soul, in consequence of its immortality, needs nothing from God."
 
 And he, smiling gently, said, "Tell us your opinion of these matters, and what idea you entertain respecting God, and what you philosophy is."
 
-# II -- JUSTIN DESCRIBES HIS STUDIES IN PHILOSOPHY.
+# II -- Justin Describes his Studies in Philosophy.
 
 "I will tell you," said I, "what seems to me; for philosophy is, in fact, the greatest possession, and most honourable before God, to whom it leads us and alone commends us; and these are truly holy men who have bestowed attention on philosophy. What philosophy is, however, and the reason why it has been sent down to men, have escaped the observation of most; for there would be neither Platonists, nor Stoics, nor Peripatetics, nor Theoretics, nor Pythagoreans, this knowledge being one. I wish to tell you why it has become many-headed. It has happened that those who first handled it [i.e., philosophy], and who were therefore esteemed illustrious men, were succeeded by those who made no investigations concerning truth, but only admired the perseverance and self-discipline of the former, as well as the novelty of the doctrines; and each thought that to be true which he learned from his teacher: then, moreover, those latter persons handed down to their successors such things, and others similar to them; and this system was called by the name of him who was styled the father of the doctrine. Being at first desirous of personally conversing with one of these men, I surrendered myself to a certain Stoic; and having spent a considerable time with him, when I had not acquired any further knowledge of God (for he did not know himself, and said such instruction was unnecessary), I left him and betook myself to another, who was called a Peripatetic, and as he fancied, shrewd. And this man, after having entertained me for the first few days, requested me to settle the fee, in order that our intercourse might not be unprofitable. Him, too, for this reason I abandoned, believing him to be no philosopher at all. But when my soul was eagerly desirous to hear the peculiar and choice philosophy, I came to a Pythagorean, very celebrated--a man who thought much of his own wisdom. And then, when I had an interview with him, willing to become his hearer and disciple, he said, 'What then? Are you acquainted with music, astronomy, and geometry? Do you expect to perceive any of those things which conduce to a happy life, if you have not been first informed on those points which wean the soul from sensible objects, and render it fitted for objects which appertain to the mind, so that it can contemplate that which is honourable in its essence and that which is good in its essence?' Having commended many of these branches of learning, and telling me that they were necessary, he dismissed me when I confessed to him my ignorance. Accordingly I took it rather impatiently, as was to be expected when I failed in my hope, the more so because I deemed the man had some knowledge; but reflecting again on the space of time during which I would have to linger over those branches of learning, I was not able to endure longer procrastination. In my helpless condition it occurred to me to have a meeting with the Platonists, for their fame was great. I thereupon spent as much of my time as possible with one who had lately settled in our city,--a sagacious man, holding a high position among the Platonists,--and I progressed, and made the greatest improvements daily. And the perception of immaterial things quite overpowered me, and the contemplation of ideas furnished my mind with wings, so that in a little while I supposed that I had become wise; and such was my stupidity, I expected forthwith to look upon God, for this is the end of Plato's philosophy.
 
-# III -- JUSTIN NARRATES THE MANNER OF HIS CONVERSION.
+# III -- Justin Narrates the Manner of his Conversion.
 
 "And while I was thus disposed, when I wished at one period to be filled with great quietness, and to shun the path of men, I used to go into a certain field not far from the sea. And when I was near that spot one day, which having reached I purposed to be by myself, a certain old man, by no means contemptible in appearance, exhibiting meek and venerable manners, followed me at a little distance. And when I turned round to him, having halted, I fixed my eyes rather keenly on him.
 
 "And he said, 'Do you know me?'
 
-I replied in the negative.
+"I replied in the negative.
 
-"'Why, then,' said he to me, 'do you so look at me?
+"'Why, then,' said he to me, 'do you so look at me?'
 
 "'I am astonished,' I said, 'because you have chanced to be in my company in the same place; for I had not expected to see any man here.'
 
@@ -43,7 +45,7 @@ I replied in the negative.
 
 "'I delight,' said I, 'in such walks, where my attention is not distracted, for converse with myself is uninterrupted; and such places are most fit for philology.'
 
-"'Are you, then, a philologian,' said he, but no lover of deeds or of truth? and do you not aim at being a practical man so much as being a sophist?'
+"'Are you, then, a philologian,' said he, 'but no lover of deeds or of truth? and do you not aim at being a practical man so much as being a sophist?'
 
 "'What greater work,' said I, 'could one accomplish than this, to show the reason which governs all, and having laid hold of it, and being mounted upon it, to look down on the errors of others, and their pursuits? But without philosophy and right reason, prudence would not be present to any man. Wherefore it is necessary for every man to philosophize, and to esteem this the greatest and most honourable work; but other things only of second-rate or third-rate importance, though, indeed, if they be made to depend on philosophy, they are of moderate value, and worthy of acceptance; but deprived of it, and not accompanying it, they are vulgar and coarse to those who pursue them.'
 
@@ -63,7 +65,7 @@ I replied in the negative.
 
 "'Assuredly,' I replied.
 
-"'What, then? Is it in the same way we know man and' God, as we know music, and arithmetic, and astronomy, or any other similar branch?'
+"'What, then? Is it in the same way we know man and God, as we know music, and arithmetic, and astronomy, or any other similar branch?'
 
 "'By no means,' I replied.
 
@@ -75,7 +77,7 @@ I replied in the negative.
 
 "'But, father,' said I, 'the Deity cannot be seen merely by the eyes, as other living beings can, but is discernible to the mind alone, as Plato says; and I believe him.'
 
-# IV -- THE SOUL OF ITSELF CANNOT SEE GOD.
+# IV -- The Soul of Itself Cannot See God.
 
 "'Is there then,' says he, 'such and so great power in our mind? Or can a man not perceive by sense sooner? Will the mind of man see God at any time, if it is uninstructed by the Holy Spirit?'
 

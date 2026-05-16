@@ -1,8 +1,8 @@
 ---
 title: "The Life of St. Gregory the Great"
 params:
- des: 540
- def: 604
+ des: "540"
+ def: "604"
 ---
 Here begins the book of that blessed and praiseworthy
 man, Gregory, Pope of the city of Rome: his life and
