@@ -9,4 +9,4 @@ params:
 ---
 
 
-Victor,[1] thirteenth bishop of Rome, wrote, On the Paschal Controversy and some other small works. He ruled the church for ten years in the reign of the Emperor Severus.
+Victor, thirteenth bishop of Rome, wrote, On the Paschal Controversy and some other small works. He ruled the church for ten years in the reign of the Emperor Severus.

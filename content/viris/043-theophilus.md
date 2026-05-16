@@ -9,4 +9,4 @@ params:
 ---
 
 
-Theophilus,[1] bishop of Cæsarea in Palestine, the city formerly called Turris Stratonis, in the reign of the emperor Severus wrote, in conjunction with other bishops, a synodical letter of great utility against those who celebrated the passover with the Jews on the fourteenth day of the month.
+Theophilus, bishop of Cæsarea in Palestine, the city formerly called Turris Stratonis, in the reign of the emperor Severus wrote, in conjunction with other bishops, a synodical letter of great utility against those who celebrated the passover with the Jews on the fourteenth day of the month.

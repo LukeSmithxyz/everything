@@ -9,4 +9,4 @@ params:
 ---
 
 
-Serapion,[1] bishop of Thmuis, who on account of his cultivated genius was found worthy of the surname of Scholasticus, was the intimate friend of Anthony the monk, and published an excellent book Against the Manichaeans, also another On the titles of the Psalms, and valuable Epistles to different people. In the reign of the emperor Constantius he was renowned as a confessor.
+Serapion, bishop of Thmuis, who on account of his cultivated genius was found worthy of the surname of Scholasticus, was the intimate friend of Anthony the monk, and published an excellent book Against the Manichaeans, also another On the titles of the Psalms, and valuable Epistles to different people. In the reign of the emperor Constantius he was renowned as a confessor.

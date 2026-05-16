@@ -9,4 +9,4 @@ params:
 ---
 
 
-Modestus[1] also in the reign of Marcus Antoninus and Lucius Aurelius Commodus wrote a book Against Marcion which is still extant. Some other compositions pass under his name but are regarded by scholars as spurious.
+Modestus also in the reign of Marcus Antoninus and Lucius Aurelius Commodus wrote a book Against Marcion which is still extant. Some other compositions pass under his name but are regarded by scholars as spurious.

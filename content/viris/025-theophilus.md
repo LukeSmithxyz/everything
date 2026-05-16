@@ -9,4 +9,4 @@ params:
 ---
 
 
-Theophilus,[1] sixth bishop of the church of Antioch, in the reign of the emperor Marcus Antoninus Verus composed a book Against Marcion, which is still extant, also three volumes To Autolycus and one Against the heresy of Hermogenes and other short and elegant treatises, well fitted for the edification of the church. I have read, under his name, commentaries On the Gospel and On the proverbs of Solomon which do not appear to me to correspond in style and language with the elegance and expressiveness of the above works.
+Theophilus, sixth bishop of the church of Antioch, in the reign of the emperor Marcus Antoninus Verus composed a book Against Marcion, which is still extant, also three volumes To Autolycus and one Against the heresy of Hermogenes and other short and elegant treatises, well fitted for the edification of the church. I have read, under his name, commentaries On the Gospel and On the proverbs of Solomon which do not appear to me to correspond in style and language with the elegance and expressiveness of the above works.

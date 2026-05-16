@@ -9,4 +9,4 @@ params:
 ---
 
 
-Philip[1] bishop of Crete, that is of the city of Gortina, whom Dionysius mentions in the epistle which he wrote to the church of the same city, published a remarkable book Against Marcion and flourished in the time of Marcus Antoninus Verus and Lucius Aurelius Commodus.
+Philip bishop of Crete, that is of the city of Gortina, whom Dionysius mentions in the epistle which he wrote to the church of the same city, published a remarkable book Against Marcion and flourished in the time of Marcus Antoninus Verus and Lucius Aurelius Commodus.

@@ -9,4 +9,4 @@ params:
 ---
 
 
-Theodorus,[1] bishop of Heraclea in Thrace, published in the reign of the emperor Constantius commentaries On Matthew and John, On the Epistles and On the Psalter. These are written in a polished and clear style and show an excellent historical sense.
+Theodorus, bishop of Heraclea in Thrace, published in the reign of the emperor Constantius commentaries On Matthew and John, On the Epistles and On the Psalter. These are written in a polished and clear style and show an excellent historical sense.

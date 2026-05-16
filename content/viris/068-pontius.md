@@ -9,4 +9,4 @@ params:
 ---
 
 
-Pontius,[1] deacon of Cyprian, sharing his exile until the day of his death, left a notable volume On the life and death of Cyprian.
+Pontius, deacon of Cyprian, sharing his exile until the day of his death, left a notable volume On the life and death of Cyprian.

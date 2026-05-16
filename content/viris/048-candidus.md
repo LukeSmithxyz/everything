@@ -9,4 +9,4 @@ params:
 ---
 
 
-Candidus[1] under the above mentioned emperors published most admirable treatises On the six days of creation.
+Candidus under the above mentioned emperors published most admirable treatises On the six days of creation.

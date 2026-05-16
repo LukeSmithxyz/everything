@@ -9,4 +9,4 @@ params:
 ---
 
 
-Basil[1] bishop of Ancyra, [a doctor of][2] medicine, wrote a book Against Marcellus and on virginity and some other things—and in the reign of Constantius was, with Eustathius of Sebaste, primate of Macedonia.
+Basil bishop of Ancyra, [a doctor of] medicine, wrote a book Against Marcellus and on virginity and some other things—and in the reign of Constantius was, with Eustathius of Sebaste, primate of Macedonia.

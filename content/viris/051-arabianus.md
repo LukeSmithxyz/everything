@@ -9,4 +9,4 @@ params:
 ---
 
 
-Arabianus[1] under the same emperor published certain small works relating to christian doctrine.
+Arabianus under the same emperor published certain small works relating to christian doctrine.

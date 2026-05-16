@@ -9,4 +9,4 @@ params:
 ---
 
 
-Phileas[1] a resident of that Egyptian city which is called Thmuis, of noble family, and no small wealth, having become bishop, composed a finely written work in praise of martyrs and arguing against the judge who tried to compel him to offer sacrifices, was beheaded for Christ during the same persecution in which Lucianus was put to death at Nicomedia.
+Phileas a resident of that Egyptian city which is called Thmuis, of noble family, and no small wealth, having become bishop, composed a finely written work in praise of martyrs and arguing against the judge who tried to compel him to offer sacrifices, was beheaded for Christ during the same persecution in which Lucianus was put to death at Nicomedia.

@@ -9,4 +9,4 @@ params:
 ---
 
 
-Heraclitus[1] in the reign of Commodus and Severus wrote commentaries on the Acts and Epistles.
+Heraclitus in the reign of Commodus and Severus wrote commentaries on the Acts and Epistles.

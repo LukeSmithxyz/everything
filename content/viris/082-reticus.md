@@ -9,4 +9,4 @@ params:
 ---
 
 
-Reticius[1] bishop of Autun, among the Aedui, had a great reputation in Gaul in the reign of Constantine. I have read his commentaries On the Song of Songs and another great volume Against Novatian but besides these, I have found no works of his.
+Reticius bishop of Autun, among the Aedui, had a great reputation in Gaul in the reign of Constantine. I have read his commentaries On the Song of Songs and another great volume Against Novatian but besides these, I have found no works of his.

@@ -9,4 +9,4 @@ params:
 ---
 
 
-Arnobius[1] was a most successful teacher of rhetoric at Sicca in Africa during the reign of Diocletian, and wrote volumes Against the nations which may be found everywhere.
+Arnobius was a most successful teacher of rhetoric at Sicca in Africa during the reign of Diocletian, and wrote volumes Against the nations which may be found everywhere.

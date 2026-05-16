@@ -9,4 +9,4 @@ params:
 ---
 
 
-Sextus[1] in the reign of the emperor Severus wrote a book On the resurrection.
+Sextus in the reign of the emperor Severus wrote a book On the resurrection.

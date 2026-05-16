@@ -8,4 +8,4 @@ params:
  dt: "1885"
 ---
 
-Triphylius,[1] bishop of Ledra or Leucotheon,[2] in Cyprus, was the most eloquent man of his age, and was distinguished during the reign of Constantius. I have read his Commentary on the Song of Songs. He is said to have written many other works, none of which have come to our hand.
+Triphylius, bishop of Ledra or Leucotheon, in Cyprus, was the most eloquent man of his age, and was distinguished during the reign of Constantius. I have read his Commentary on the Song of Songs. He is said to have written many other works, none of which have come to our hand.

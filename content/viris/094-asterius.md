@@ -9,4 +9,4 @@ params:
 ---
 
 
-Asterius,[1] a philosopher of the Arian party, wrote, during the reign of Constantius, commentaries On the Epistle to the Romans, On the Gospels and On the Psalms, also many other works which are diligently read by those of his party.
+Asterius, a philosopher of the Arian party, wrote, during the reign of Constantius, commentaries On the Epistle to the Romans, On the Gospels and On the Psalms, also many other works which are diligently read by those of his party.

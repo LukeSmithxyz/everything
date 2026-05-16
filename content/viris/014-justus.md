@@ -8,4 +8,4 @@ params:
  dt: "1885"
 ---
 
-Justus,[1] [2] of Tiberias of the province Galilee, also attempted to write a History of Jewish affairs and certain brief Commentaries on the Scriptures but Josephus convicts him of falsehood. It is known that he wrote at the same time as Josephus himself.
+Justus,  of Tiberias of the province Galilee, also attempted to write a History of Jewish affairs and certain brief Commentaries on the Scriptures but Josephus convicts him of falsehood. It is known that he wrote at the same time as Josephus himself.

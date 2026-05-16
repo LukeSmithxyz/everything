@@ -9,4 +9,4 @@ params:
 ---
 
 
-Appion[1] under the emperor Severus likewise wrote treatises On the six days of creation.
+Appion under the emperor Severus likewise wrote treatises On the six days of creation.

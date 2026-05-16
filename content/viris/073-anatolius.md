@@ -9,4 +9,4 @@ params:
 ---
 
 
-Anatolius[1] of Alexandria, bishop of Laodicea in Syria, who flourished under the emperors Probus and Carus, was a man of wonderful learning in arithmetic, geometry, astronomy, grammar, rhetoric, and dialectic. We can get an idea of the greatness of his genius from the volume which he wrote On the passover and his ten books On the institutes of arithmetic.
+Anatolius of Alexandria, bishop of Laodicea in Syria, who flourished under the emperors Probus and Carus, was a man of wonderful learning in arithmetic, geometry, astronomy, grammar, rhetoric, and dialectic. We can get an idea of the greatness of his genius from the volume which he wrote On the passover and his ten books On the institutes of arithmetic.

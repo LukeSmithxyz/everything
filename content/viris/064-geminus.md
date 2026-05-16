@@ -9,4 +9,4 @@ params:
 ---
 
 
-Geminus,[1] presbyter of the church at Antioch, composed a few monuments of his genius, flourishing in the time of the Emperor Alexander and Zebennus, bishop of his city, especially at the time at which Heraclas was ordained Pontiff of the church at Alexandria.
+Geminus, presbyter of the church at Antioch, composed a few monuments of his genius, flourishing in the time of the Emperor Alexander and Zebennus, bishop of his city, especially at the time at which Heraclas was ordained Pontiff of the church at Alexandria.

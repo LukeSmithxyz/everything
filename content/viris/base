@@ -1,0 +1,110 @@
+#!/bin/sh
+x="---
+title: \"XXX\"
+author: \"Gennadius of Massilla\"
+params:
+ order: \"YYY\"
+ da: \"495\"
+ translator: \"Ernest Cushing Richardson\"
+ dt: \"1885\"
+---"
+
+echo "$x" | sed "s|XXX|James; surnamed the Wise|;s|YYY|136|" > 136-james.md
+echo "$x" | sed "s|XXX|Julius, bishop of Rome|;s|YYY|137|" > 137-julius.md
+echo "$x" | sed "s|XXX|Paulonas the presbyter|;s|YYY|138|" > 138-paulonas.md
+echo "$x" | sed "s|XXX|Vitellius the African|;s|YYY|139|" > 139-vitellius.md
+echo "$x" | sed "s|XXX|Macrobius the presbyter|;s|YYY|140|" > 140-macrobius.md
+echo "$x" | sed "s|XXX|Heliodorus the presbyter|;s|YYY|141|" > 141-heliodorus.md
+echo "$x" | sed "s|XXX|Pachomius the presbyter-monk|;s|YYY|142|" > 142-pachomius.md
+echo "$x" | sed "s|XXX|Theodorus, his successor|;s|YYY|143|" > 143-theodorus.md
+echo "$x" | sed "s|XXX|Oresiesis the monk|;s|YYY|144|" > 144-oresiesis.md
+echo "$x" | sed "s|XXX|Macarius the monk|;s|YYY|145|" > 145-macarius.md
+echo "$x" | sed "s|XXX|Evagrius the monk|;s|YYY|146|" > 146-evagrius.md
+echo "$x" | sed "s|XXX|Theodorus the presbyter|;s|YYY|147|" > 147-theodorus.md
+echo "$x" | sed "s|XXX|Prudentius|;s|YYY|148|" > 148-prudentius.md
+echo "$x" | sed "s|XXX|Audentius the bishop|;s|YYY|149|" > 149-audentius.md
+echo "$x" | sed "s|XXX|Commodianus|;s|YYY|150|" > 150-commodianus.md
+echo "$x" | sed "s|XXX|Faustinus the presbyter|;s|YYY|151|" > 151-faustinus.md
+echo "$x" | sed "s|XXX|Rufinus the presbyter|;s|YYY|152|" > 152-rufinus.md
+echo "$x" | sed "s|XXX|Tichonius the African|;s|YYY|153|" > 153-tichonius.md
+echo "$x" | sed "s|XXX|Severus the presbyter|;s|YYY|154|" > 154-severus.md
+echo "$x" | sed "s|XXX|Antiochus the bishop|;s|YYY|155|" > 155-antiochus.md
+echo "$x" | sed "s|XXX|Severianus the bishop|;s|YYY|156|" > 156-severianus.md
+echo "$x" | sed "s|XXX|Nicaeas the bishop|;s|YYY|157|" > 157-nicaeas.md
+echo "$x" | sed "s|XXX|Olympius the bishop|;s|YYY|158|" > 158-olympius.md
+echo "$x" | sed "s|XXX|Bachiarius|;s|YYY|159|" > 159-bachiarius.md
+echo "$x" | sed "s|XXX|Sabbatius the bishop|;s|YYY|160|" > 160-sabbatius.md
+echo "$x" | sed "s|XXX|Isaac|;s|YYY|161|" > 161-isaac.md
+echo "$x" | sed "s|XXX|Ursinus|;s|YYY|162|" > 162-ursinus.md
+echo "$x" | sed "s|XXX|Another Macarius|;s|YYY|163|" > 163-another.md
+echo "$x" | sed "s|XXX|Heliodorus the presbyter|;s|YYY|164|" > 164-heliodorus.md
+echo "$x" | sed "s|XXX|John, bishop of Constantinople|;s|YYY|165|" > 165-john.md
+echo "$x" | sed "s|XXX|John, another bishop|;s|YYY|166|" > 166-john.md
+echo "$x" | sed "s|XXX|Paulus the bishop|;s|YYY|167|" > 167-paulus.md
+echo "$x" | sed "s|XXX|Helvidius|;s|YYY|168|" > 168-helvidius.md
+echo "$x" | sed "s|XXX|Theophilus the bishop|;s|YYY|169|" > 169-theophilus.md
+echo "$x" | sed "s|XXX|Eusebius the bishop|;s|YYY|170|" > 170-eusebius.md
+echo "$x" | sed "s|XXX|Vigilantius the presbyter|;s|YYY|171|" > 171-vigilantius.md
+echo "$x" | sed "s|XXX|Simplicianus the bishop|;s|YYY|172|" > 172-simplicianus.md
+echo "$x" | sed "s|XXX|Vigilius the bishop|;s|YYY|173|" > 173-vigilius.md
+echo "$x" | sed "s|XXX|Augustine the bishop|;s|YYY|174|" > 174-augustine.md
+echo "$x" | sed "s|XXX|Orosius the presbyter|;s|YYY|175|" > 175-orosius.md
+echo "$x" | sed "s|XXX|Maximus the bishop|;s|YYY|176|" > 176-maximus.md
+echo "$x" | sed "s|XXX|Petronius the bishop|;s|YYY|177|" > 177-petronius.md
+echo "$x" | sed "s|XXX|Pelagius the heresiarch|;s|YYY|178|" > 178-pelagius.md
+echo "$x" | sed "s|XXX|Innocentius the bishop|;s|YYY|179|" > 179-innocentius.md
+echo "$x" | sed "s|XXX|Caelestius, follower of Pelagius|;s|YYY|180|" > 180-caelestius.md
+echo "$x" | sed "s|XXX|Julianus the bishop|;s|YYY|181|" > 181-julianus.md
+echo "$x" | sed "s|XXX|Lucianus the presbyter|;s|YYY|182|" > 182-lucianus.md
+echo "$x" | sed "s|XXX|Avitus the presbyter|;s|YYY|183|" > 183-avitus.md
+echo "$x" | sed "s|XXX|Paulinus the bishop|;s|YYY|184|" > 184-paulinus.md
+echo "$x" | sed "s|XXX|Eutropius the presbyter|;s|YYY|185|" > 185-eutropius.md
+echo "$x" | sed "s|XXX|Another Evagrius|;s|YYY|186|" > 186-another.md
+echo "$x" | sed "s|XXX|Vigilius the deacon|;s|YYY|187|" > 187-vigilius.md
+echo "$x" | sed "s|XXX|Atticus the holy bishop|;s|YYY|188|" > 188-atticus.md
+echo "$x" | sed "s|XXX|Nestorius the heresiarch|;s|YYY|189|" > 189-nestorius.md
+echo "$x" | sed "s|XXX|Caelestinus the bishop|;s|YYY|190|" > 190-caelestinus.md
+echo "$x" | sed "s|XXX|Theodorus the bishop|;s|YYY|191|" > 191-theodorus.md
+echo "$x" | sed "s|XXX|Fastidius the bishop|;s|YYY|192|" > 192-fastidius.md
+echo "$x" | sed "s|XXX|Cyrillus the bishop|;s|YYY|193|" > 193-cyrillus.md
+echo "$x" | sed "s|XXX|Timotheus the bishop|;s|YYY|194|" > 194-timotheus.md
+echo "$x" | sed "s|XXX|Leporius the presbyter|;s|YYY|195|" > 195-leporius.md
+echo "$x" | sed "s|XXX|Victorinus the rhetorician|;s|YYY|196|" > 196-victorinus.md
+echo "$x" | sed "s|XXX|Cassianus the deacon|;s|YYY|197|" > 197-cassianus.md
+echo "$x" | sed "s|XXX|Philippus the presbyter|;s|YYY|198|" > 198-philippus.md
+echo "$x" | sed "s|XXX|Eucherius the bishop|;s|YYY|199|" > 199-eucherius.md
+echo "$x" | sed "s|XXX|Vincentius the Gaul|;s|YYY|200|" > 200-vincentius.md
+echo "$x" | sed "s|XXX|Syagrius|;s|YYY|201|" > 201-syagrius.md
+echo "$x" | sed "s|XXX|Isaac the presbyter|;s|YYY|202|" > 202-isaac.md
+echo "$x" | sed "s|XXX|Salvianus the presbyter|;s|YYY|203|" > 203-salvianus.md
+echo "$x" | sed "s|XXX|Paulinus the bishop|;s|YYY|204|" > 204-paulinus.md
+echo "$x" | sed "s|XXX|Hilarius the bishop|;s|YYY|205|" > 205-hilarius.md
+echo "$x" | sed "s|XXX|Leo the bishop|;s|YYY|206|" > 206-leo.md
+echo "$x" | sed "s|XXX|Mochimus the presbyter|;s|YYY|207|" > 207-mochimus.md
+echo "$x" | sed "s|XXX|Timotheus the bishop|;s|YYY|208|" > 208-timotheus.md
+echo "$x" | sed "s|XXX|Asclepius the bishop|;s|YYY|209|" > 209-asclepius.md
+echo "$x" | sed "s|XXX|Peter the presbyter|;s|YYY|210|" > 210-peter.md
+echo "$x" | sed "s|XXX|Paul the presbyter|;s|YYY|211|" > 211-paul.md
+echo "$x" | sed "s|XXX|Pastor the bishop|;s|YYY|212|" > 212-pastor.md
+echo "$x" | sed "s|XXX|Victor the bishop|;s|YYY|213|" > 213-victor.md
+echo "$x" | sed "s|XXX|Voconius the bishop|;s|YYY|214|" > 214-voconius.md
+echo "$x" | sed "s|XXX|Musaeus the presbyter|;s|YYY|215|" > 215-musaeus.md
+echo "$x" | sed "s|XXX|Vincentius the presbyter|;s|YYY|216|" > 216-vincentius.md
+echo "$x" | sed "s|XXX|Cyrus the monk|;s|YYY|217|" > 217-cyrus.md
+echo "$x" | sed "s|XXX|Samuel the presbyter|;s|YYY|218|" > 218-samuel.md
+echo "$x" | sed "s|XXX|Claudianus the presbyter|;s|YYY|219|" > 219-claudianus.md
+echo "$x" | sed "s|XXX|Prosper|;s|YYY|220|" > 220-prosper.md
+echo "$x" | sed "s|XXX|Faustus the bishop|;s|YYY|221|" > 221-faustus.md
+echo "$x" | sed "s|XXX|Servus Dei the bishop|;s|YYY|222|" > 222-servus.md
+echo "$x" | sed "s|XXX|Victorius|;s|YYY|223|" > 223-victorius.md
+echo "$x" | sed "s|XXX|Theodoritus the bishop|;s|YYY|224|" > 224-theodoritus.md
+echo "$x" | sed "s|XXX|Gennadius the bishop|;s|YYY|225|" > 225-gennadius.md
+echo "$x" | sed "s|XXX|Theodulus the presbyter|;s|YYY|226|" > 226-theodulus.md
+echo "$x" | sed "s|XXX|John the presbyter|;s|YYY|227|" > 227-john.md
+echo "$x" | sed "s|XXX|Sidonius the bishop|;s|YYY|228|" > 228-sidonius.md
+echo "$x" | sed "s|XXX|Gelasius the bishop|;s|YYY|229|" > 229-gelasius.md
+echo "$x" | sed "s|XXX|Honoratus the bishop|;s|YYY|230|" > 230-honoratus.md
+echo "$x" | sed "s|XXX|Cerealis the bishop|;s|YYY|231|" > 231-cerealis.md
+echo "$x" | sed "s|XXX|Eugenius the bishop|;s|YYY|232|" > 232-eugenius.md
+echo "$x" | sed "s|XXX|Pomerius the bishop|;s|YYY|233|" > 233-pomerius.md
+echo "$x" | sed "s|XXX|Gennadius|;s|YYY|234|" > 234-gennadius.md

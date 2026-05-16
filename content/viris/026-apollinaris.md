@@ -9,4 +9,4 @@ params:
 ---
 
 
-Apollinaris,[1] bishop of Hierapolis in Asia, flourished in the reign of Marcus Antoninus Verus, to whom he addressed a notable volume in behalf of the faith of the Christians. There are extant also five other books of his Against the Nations, two On truth andAgainst the Cataphrygians written at the time when Montanus was making a beginning with Prisca and Maximilla.
+Apollinaris, bishop of Hierapolis in Asia, flourished in the reign of Marcus Antoninus Verus, to whom he addressed a notable volume in behalf of the faith of the Christians. There are extant also five other books of his Against the Nations, two On truth andAgainst the Cataphrygians written at the time when Montanus was making a beginning with Prisca and Maximilla.
