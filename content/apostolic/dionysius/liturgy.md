@@ -6,7 +6,7 @@ params:
  dt: 1896
 ---
 
-1st. The Prayer before the Pax
+# The Prayer before the Pax
 
 Pr. "O Lord God, Who art simplex, not compound, and hidden in essence sublime! God the Father, from Whom all paternity which is in heaven and earth is named, Source of Divinity, of those who participate in the Divine Nature, and Perfector of those who attain perfection; Good above all good, and Beautiful above all beautiful; Peaceful repose, Peace, Concord and Union of all souls; compose the dissensions which divide us from one another, and lead them back to an union with charity, which has a kind of similitude to Thy sublime essence: and as Thou art One above all, and we, one, through the unanimity of a good mind; that we may be found before Thee simplex and not divided, whilst celebrating this mystery; and that through the embraces of Charity and bonds of Love, we may be spiritually one, both with ourselves and with one another, through that Thy Peace pacifying all; through the Grace and Compassion and Love towards man of Thine Only-begotten Son; through Whom, and with Whom is due to Thee, glory, honour and dominion, with Thy most holy Spirit."
 
@@ -40,6 +40,8 @@ Pr. "Charity."
 
 P. "And with thy spirit."
 
+# Anaphora
+
 Pr. "Lift up your hearts."
 
 P. "We lift them to the Lord."
@@ -49,6 +51,8 @@ Pr. "Let us give thanks to the Lord."
 P. "It is meet and right."
 
 Priest (bending low), "For truly the celebration of Thy benefits, O Lord, surpasses, the powers of mind, of speech, and of thought; neither is sufficient every mouth, mind and tongue, to glorify Thee worthily. For, by Thy word the heavens were made, and by the breath of Thy mouth all the celestial powers; all the lights in the firmament, sun and moon, sea and dry land, and whatever is in them. The voiceless, by their silence, the vocal, by their voices, words and hymns, perpetually bless Thee; because Thou art essentially good and beyond all praise, existing in Thy essence incomprehensibly. This visible and sensible creature praises Thee, and also that intellectual, placed above sensible perception. Heaven and earth glorify Thee. Sea and air proclaim Thee. The sun, in his course, praises Thee; the Moon, in her changes, venerates Thee. Troops of Archangels, and hosts of Angels; those virtues, more sublime than the world and mental faculty, send benedictions to Thine abode. Rays of light, eminent and hidden, send their sanctus to Thy glory. Principalities and Orders praise Thee, with their Jubilate. Powers and dominions venerate Thee. Virtues, Thrones and Seats inaccessible exalt Thee. Splendours of light eternal--mirrors without flaw--holy essences--recipients of wisdom sublime--beyond all, investigators of the will hidden from all, in clearest modulations of inimitable tones, and by voices becoming a rational creature; many eyed Cherubim of most subtle movement, bless Thee. Seraphin, furnished with six wings intertwined, cry Sanctus unto Thee. Those very ones, who veil their faces with their wings, and cover their feet with wings, and flying on every side, and clapping with their wings, (that they may not be devoured by Thy devouring fire) sing one to another with equal harmony of all, sweet chants, pure from every thing material, rendering to Thee, eternal glory; crying with one hymn, worthy of God, and saying,"
+
+# Sanctus
 
 P. "Holy, holy, holy."
 
@@ -73,6 +77,8 @@ Pr. "We also."
 
 D. "How tremendous is this hour."
 
+# Institution
+
 (The Priest bending, says the prayer of the invocation of the Holy Spirit.)
 
 Pr. "I invoke Thee, O God the Father, have mercy upon us, and wash away, through Thy grace, the uncleanness of my evil deeds; destroy, through Thy mercy, what I have done, worthy of wrath; for I do not extend my hands to Thee with presumption, for I am not able even to look to heaven on account of the multitude of my iniquities and the filth of my wickedness. But, strengthening my mind, in Thy loving-kindness, grace and long-suffering, I crave Thy holy Spirit, that Thou wouldst send Him upon me, and upon these oblations, here set forth, and upon Thy faithful people."
@@ -88,6 +94,8 @@ P. "Amen."
 Pr. "And the commixture, which is in this cup, may He make living blood, and procuring life to all our souls; blood salutary--blood celestial--blood saving our souls and bodies--blood of our Lord God and Saviour Jesus Christ, for remission of sins to those receiving them."
 
 P. "Amen."
+
+# Anamnesis
 
 Pr. "Further, according to the tradition, and Divine recommendation of those, who were eye witnesses of Thy mysteries, and interpreters of Thy wonderful acts, we offer this Eucharist before Thee, O Lord, and through it we commemorate Thy charity towards us, and the universal dispensation of Thine Only-begotten One, in this world, that Thou wouldst also be reminded through it of Thy mercy, cognate and natural to Thee, which, at all hours, is shed upon Thy creatures, and wouldst snatch us from the wrath, reserved for the wicked; and from the punishments of those who work iniquity; and from the cruel attack of demons, who attack our souls, when we shall go hence; and wouldst make us worthy of Thy kingdom, and the habitations of those who have kept Thy precepts; and we will render to Thee, glory and the giving of thanks, &c."
 
@@ -123,7 +131,13 @@ P. "That, &c."
 
 Pr. "Peace."
 
-P. "And with thy spirit." The Priest breaks the Host, and says the prayer, before "Our Father." Pr, "Father of all, and Beginning, Which is above all things--Light eternal, and Fountain of Light, Which illuminates all natures endowed with reason; Who callest the poor from the dust, and raisest the beggar from the dunghill; and hast called us, lost, rejected, and infirm, to the liberty and household dignity of Thy sons, through Thy beloved Son, grant to us, that we may appear in Thy sight, holy sons, and not unworthy of the name; and may also perform all our ministry after a blameless manner; and with purity of soul, and cleanness of intellect, and with a godly mind, whenever we invoke Thee, God the Father Omnipotent, holy and heavenly, we pray and say, Our Father, which art in heaven."
+P. "And with thy spirit."
+
+# Our Father
+
+The Priest breaks the Host, and says the prayer, before "Our Father."
+
+Pr, "Father of all, and Beginning, Which is above all things--Light eternal, and Fountain of Light, Which illuminates all natures endowed with reason; Who callest the poor from the dust, and raisest the beggar from the dunghill; and hast called us, lost, rejected, and infirm, to the liberty and household dignity of Thy sons, through Thy beloved Son, grant to us, that we may appear in Thy sight, holy sons, and not unworthy of the name; and may also perform all our ministry after a blameless manner; and with purity of soul, and cleanness of intellect, and with a godly mind, whenever we invoke Thee, God the Father Omnipotent, holy and heavenly, we pray and say, Our Father, which art in heaven."
 
 P. "Hallowed be Thy Name, &c."
 
