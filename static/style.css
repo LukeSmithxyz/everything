@@ -18,3 +18,16 @@ h3 {
 .author,.authorshipdate {
 	display: block ;
 }
+
+.hlink {
+	display: none ;
+	font-size: .8em ;
+	text-decoration: none ;
+}
+
+h1:hover .hlink,
+h2:hover .hlink,
+h3:hover .hlink,
+h4:hover .hlink,
+h5:hover .hlink,
+h6:hover .hlink { display: inline-block ; }
