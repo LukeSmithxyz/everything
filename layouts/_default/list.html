@@ -5,10 +5,9 @@
 {{ .Content }}
 <ul class=articlelist>
 {{- range .Pages.ByParam "order" }}
-<li>
-	<a href="{{ .RelPermalink }}">{{ .Title }}</a>
-	{{ partial "humandate.html" . }}
-	{{- if ne .Parent.Params.author .Params.author }}
+<li><a href="{{ .RelPermalink }}">{{- if ne .Params.worktitle .Parent.Params.title }}{{ .Params.worktitle }} &ndash; {{ end }}{{ .Title }}</a>
+	{{ partial "humandate.html" . -}}
+	{{- if ne .Parent.Params.author .Params.author -}}
 	{{- with .Params.author }} by {{ . -}}{{end -}}
 	{{ end -}}
 </li>
