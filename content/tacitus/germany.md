@@ -1,6 +1,6 @@
 ---
 title: "On the Situation, Manners and Inhabitants of Germany"
-author: "Cornelius Tacitus"
+author: "Tacitus"
 params:
  da: 98
  translator: "Edward Brooks, Jr."

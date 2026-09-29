@@ -1,8 +1,10 @@
 ---
 title: "The Life of Cnaeus Julius Agricola"
-author: "Cornelius Tacitus"
+author: "Tacitus"
 params:
  da: 98
+ des: 77
+ def: 84
  translator: "Edward Brooks, Jr."
 ---
 
