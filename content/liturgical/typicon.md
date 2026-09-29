@@ -2,6 +2,8 @@
 title: "Abridged Typicon"
 ---
 
+TODO
+
 # The Church Typikon.
 
 The Typikon is the book which contains directions for the celebration of the daily cycle of divine services (Orthros, Hours, Liturgy, Vespers, Aftersupper); for the weekly cycle (Octoechos); for the monthly cycle (Menaeon); for the divine services of Holy Lent (Triodion) and the Holy Pentecostarion; and also for the various rites when combinations are necessary as the result of the coinciding of feasts, etc.
