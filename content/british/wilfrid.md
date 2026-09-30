@@ -49,8 +49,7 @@ we have undertaken at your request.
 
 So, with the help of God, and by the merits of the Saint himself,
 I will begin the life of the holy Bishop Wilfrid, whom the Lord, in
-the words of the most excellent teacher, "foreknew and predesti-
-nated, called, justified and glorified." For even from the womb of his
+the words of the most excellent teacher, "foreknew and predestinated, called, justified and glorified." For even from the womb of his
 most pious mother, a sign from God proved him to be sanctified,
 even as Jeremiah heard the Lord's word saying, "Before I formed
 thee in the belly I knew thee: and before thou camest forth out of
@@ -66,8 +65,7 @@ has just been born into this world." When they saw this they were
 amazed and recognized the mighty works of God, even as Moses saw
 the flame which was roaring in the bush and yet consuming nothing.
 Now, brethren, we frequently read that the Holy Spirit has appeared
-in the form of fire, for God is a fire consuming sinners and enlighten-
-ing the righteous. This light the Lord has commanded to be set, not
+in the form of fire, for God is a fire consuming sinners and enlightening the righteous. This light the Lord has commanded to be set, not
 under a bushel, but on a candlestick, and through our blessed bishop
 it has shone openly upon almost all the churches of Britain, even as
 the omens foretold: and events afterwards gave proof of them.
@@ -94,8 +92,7 @@ father's house, he was presented to her. At once, by the help of God,
 he found grace in her sight. For he was comely in appearance and
 exceedingly sharp of wit; so that his request, that he might be allowed
 to serve God under her counsel and protection, was granted.
-At that time there was a certain nobleman among the king's com-
-panions named Cudda, one of his truest friends, who resolved, owing
+At that time there was a certain nobleman among the king's companions named Cudda, one of his truest friends, who resolved, owing
 to a paralytic infirmity, to despise worldly ambitions, preferring to
 take to the monastic life with its regular discipline, on the island of
 Lindisfarne. So this same queen earnestly commended the boy who
@@ -127,8 +124,7 @@ warmest commendations through her messengers, to the end that
 he might stay there until he found trustworthy fellow-travellers
 bound for the Apostolic See. When the king saw the servant of
 God approach, finding him continually occupied, as was his wont,
-in prayers and fastings, in reading and vigils, he loved him exceed-
-ingly. Now the Psalms which he had first of all read in Jerome's
+in prayers and fastings, in reading and vigils, he loved him exceedingly. Now the Psalms which he had first of all read in Jerome's
 revision he committed to memory from the fifth edition, after the
 Roman use. After a year of weary waiting from day to day, the king,
 in accordance with the queen's request, found him a guide, a man of
@@ -195,8 +191,7 @@ among the nations. And thus it came to pass as many bear
 witness. For, during the course of his daily visits to the shrines of
 the saints to pray, a custom which he observed for many months, he
 met a teacher whom God and the Apostle made his faithful friend.
-This was Boniface the archdeacon, one of the wisest of the counsel-
-lors, from whom he learned the four Gospels of Christ perfectly and
+This was Boniface the archdeacon, one of the wisest of the counsellors, from whom he learned the four Gospels of Christ perfectly and
 the Easter rule, of which the British and Irish schismatics were
 ignorant, and many other rules of ecclesiastical discipline. These
 things Boniface the archdeacon taught him diligently as though he
@@ -231,8 +226,7 @@ among the nations. And thus it came to pass as many bear
 witness. For, during the course of his daily visits to the shrines of
 the saints to. pray, a custom which he observed for many months, he
 met a teacher whom God and the Apostle made his faithful friend.
-This was Boniface the archdeacon, one of the wisest of the counsel-
-lors, from whom he learned the four Gospels of Christ perfectly and
+This was Boniface the archdeacon, one of the wisest of the counsellors, from whom he learned the four Gospels of Christ perfectly and
 the Easter rule, of which the British and Irish schismatics were
 ignorant, and many other rules of ecclesiastical discipline. These
 things Boniface the archdeacon taught him diligently as though he
@@ -257,8 +251,7 @@ them grew greater and greater. Wilfrid, the servant of God, in
 accordance with his own desire, gladly received from the holy
 Archbishop Dalfinus the form of tonsure of the Apostle Peter
 in the shape of the crown of thorns which encircled the head
-of Christ. As he placed his holy hands upon Wilfrid's head he pur-
-posed in his heart to make the young man his heir if God so willed.
+of Christ. As he placed his holy hands upon Wilfrid's head he purposed in his heart to make the young man his heir if God so willed.
 But God had something better in view for our race. For at that time
 there was an evil-hearted queen named Baldhild who persecuted
 the church of God. Even as of old the wicked Queen Jezebel slew
@@ -273,10 +266,8 @@ should die together and be with Christ." So the holy bishop won
 a martyr's crown; but when St Wilfrid, despoiled and ready for the
 prize of martyrdom, was standing by fearlessly, the dukes asked,
 "Who is that handsome young man who is preparing for death?"
-"A foreigner of the English race from Britain" they were told. There-
-upon they said, "Spare him and do not touch him." So now our
-St Wilfrid has become a confessor like John the Apostle and Evange-
-list, who sat uninjured in a cauldron of boiling oil and drank
+"A foreigner of the English race from Britain" they were told. Thereupon they said, "Spare him and do not touch him." So now our
+St Wilfrid has become a confessor like John the Apostle and Evangelist, who sat uninjured in a cauldron of boiling oil and drank
 deadly poison unharmed; it was of St John and his brother the
 Apostle James, that Jesus asked the question, "Can you drink the
 cup that I am about to drink?" and so forth.
@@ -305,8 +296,7 @@ we must keep peace between ourselves and our neighbours, saying,
 'Have salt in yourselves and have peace with one another."" When
 he had finished the words of his address, the king humbly prostrated
 himself before the feet of the chosen servant of God and asked for his
-blessing, for it seemed to him as though an angel of God were speak-
-ing. Then Wilfrid blessed him and they began to converse. The wise
+blessing, for it seemed to him as though an angel of God were speaking. Then Wilfrid blessed him and they began to converse. The wise
 king skilfully questioned him about the varied discipline of the Roman
 Church order. Wilfrid, being well informed, answered in all things
 clearly and with knowledge. Afterwards the king adjured him, by
@@ -398,8 +388,7 @@ the whole world and our fathers, after many decrees had been made,
 uttered these words: 'he who condemns any one of these let him be
 accursed.''
 Then, after St Wilfrid the priest had finished his speech, King
-Oswiu smilingly asked them all, "Tell me which is greater in the King-
-dom of Heaven, Columba or the Apostle Peter?" The whole synod
+Oswiu smilingly asked them all, "Tell me which is greater in the Kingdom of Heaven, Columba or the Apostle Peter?" The whole synod
 answered with one voice and one consent, "The Lord settled this
 when He declared: "Thou art Peter and upon this rock I will build
 my Church and the gates of Hell shall not prevail against it. And
@@ -429,10 +418,8 @@ blameless, as the steward of God, not self-willed, not soon angry,
 not given to wine, no striker, not quarrelsome, not greedy of filthy
 lucre, but a lover of hospitality, kind, sober, just, holy, temperate,
 holding fast the faithful word as he hath been taught, that he may
-be able, by sound doctrine, both to exhort and to convince gain-
-sayers.' All these qualities according to the judgment of the Apostle
-this man possesses. And so we elect him in the prime of his man-
-hood to teach God's law."
+be able, by sound doctrine, both to exhort and to convince gainsayers.' All these qualities according to the judgment of the Apostle
+this man possesses. And so we elect him in the prime of his manhood to teach God's law."
 Now this man was elected like John the forerunner of the Lord and
 the prophet Ezekiel, when thirty years of age. The kings and all the
 people agreed to this election and the whole gathering bade St Wilfrid
@@ -459,13 +446,10 @@ presence of our Lord Jesus Christ.
 
 # Chapter XII - How he was consecrated in Gaul. [664]
 
-On his election St Wilfrid said these words: "O lords and vener-
-able kings, it is necessary for us in every way to take careful fore-
-thought so that I may attain to the rank of bishop by the help of God,
+On his election St Wilfrid said these words: "O lords and venerable kings, it is necessary for us in every way to take careful forethought so that I may attain to the rank of bishop by the help of God,
 in accordance with your election, without any criticism on the part
 of catholic men. Now there are here in Britain many bishops whom
-it is not for me to criticize, but I know for a fact that they are Quarto-
-decimans like the Britons and Scots; by them were ordained men
+it is not for me to criticize, but I know for a fact that they are Quartodecimans like the Britons and Scots; by them were ordained men
 whom the Apostolic See does not receive into communion, nor does
 she even receive those who have fellowship with the schismatics.
 So, in all humility, I ask you to send me under your protection across
@@ -473,14 +457,12 @@ the sea to the land of the Gauls where there are many bishops who
 are considered catholic, so that, without any objection on the part
 of the Apostolic See, I may, though unworthy, deserve to receive
 the rank of bishop."
-This plan met with the cordial approval of the kings. They pre-
-pared him a ship and a force of men as well as a large sum of money,
+This plan met with the cordial approval of the kings. They prepared him a ship and a force of men as well as a large sum of money,
 so as to enable him to enter Gaul in great state. Here at once there
 took place a large meeting consisting of no less than twelve catholic
 bishops, one of whom was Bishop Agilberht. When they heard the
 testimony to his faith they all joyfully consecrated him publicly
-before all the people with great state, and raising him aloft in ac-
-cordance with their custom as he sat in the golden chair, the bishops
+before all the people with great state, and raising him aloft in accordance with their custom as he sat in the golden chair, the bishops
 unaided and alone carried him with their own hands into the oratory,
 chanting hymns and songs in chorus. And so, after a time, they sent
 him back to the see of York, bidding him, in the name of the Lord,
@@ -498,14 +480,12 @@ as they were to the disciples of Jesus on the sea of Galilee. The wind
 blew hard from the south-east and the foam-crested waves hurled
 them on to the land of the South Saxons which they did not know.
 Then the sea left ship and men high and dry, fled from the land, and,
-laying the shores bare, withdrew into the depth of the abyss. Forth-
-with a huge army of pagans arrived intending to seize the ship, to
+laying the shores bare, withdrew into the depth of the abyss. Forthwith a huge army of pagans arrived intending to seize the ship, to
 divide the money as booty for themselves, carry off the captives whom
 they vanquished and incontinently put to the sword all who resisted
 them. The holy bishop spoke to them soothingly and peaceably, and
 sought to purchase the lives of his companions by the promise of
-a large sum of money. The enemy however were fierce, and, harden-
-ing their hearts like Pharaoh, were unwilling to let the people of God
+a large sum of money. The enemy however were fierce, and, hardening their hearts like Pharaoh, were unwilling to let the people of God
 depart, proudly declaring that they treated as their own possessions
 all that the sea cast upon the land. The chief priest of their idolatrous
 worship also took up his stand in front of the pagans, on a high
@@ -519,8 +499,7 @@ and his lifeless body fell backwards on to the sand. The pagans then
 got ready for battle, but in vain did they draw up their array against
 the people of God. For the Lord fought for the few, even as when
 Gideon with his 300 warriors at the bidding of the Lord slew 120,000
-Midianite warriors at one onslaught. In the same way these com-
-panions of our holy bishop being well-armed and brave in heart
+Midianite warriors at one onslaught. In the same way these companions of our holy bishop being well-armed and brave in heart
 though but few in number (there were 120 of them, equal in number
 to the years of the age of Moses), formed a plan and made a compact
 that none should turn his back upon another in flight, but that they
@@ -545,8 +524,7 @@ prosperously reached a port of safety at Sandwich.
 # Chapter XIV - How Chad had meanwhile been consecrated to Wilfrid's see. [665?]
 
 After a lapse of time, when Saint Wilfrid the bishop did not arrive
-from across the sea, King Oswiu, moved by envy and at the insti-
-gation of the ancient foe, consented to allow another to forestall him
+from across the sea, King Oswiu, moved by envy and at the instigation of the ancient foe, consented to allow another to forestall him
 in his see in an irregular manner; for he was instructed by those who
 adhered to the Quartodeciman party in opposition to the rule of the
 Apostolic See; they consecrated to the See of York a deeply pious
@@ -560,15 +538,13 @@ when Wulfhere, King of the Mercians, out of sincere affection for
 him, invited him into his realm to fulfil various episcopal duties.
 The Lord raised up for himself this most kindly monarch, who,
 amongst his other good deeds, for the benefit of his soul, granted
-our bishop many pieces of land in various places, on which he forth-
-with founded monasteries for the servants of God. Egbert too, the
+our bishop many pieces of land in various places, on which he forthwith founded monasteries for the servants of God. Egbert too, the
 pious King of Kent, summoned our bishop to his presence, and there
 he ordained many priests (one of whom was Putta who afterwards
 became a bishop), and not a few deacons. For Deusdedit, who had
 been appointed bishop after the death of Archbishop Honorius, was
 dead.
-So he lived in honour, dear to all men, and, after fulfilling epis-
-copal duties in various places, returned to his own land with the
+So he lived in honour, dear to all men, and, after fulfilling episcopal duties in various places, returned to his own land with the
 singers Aedde and Aeona, and with masons and artisans of almost
 every kind, and there, by introducing the rule of St Benedict, he
 greatly improved the ordinances of the churches of God. At that time
@@ -584,8 +560,7 @@ reached that land he heard from the lips of true witnesses the story
 of the offence against the canon law and how one bishop had dared,
 like a thief, to snatch another bishop's see. He indignantly ordered
 that Bishop Chad should be deposed from the see of another man.
-Chad, being a true and meek servant of God and fully under-
-standing then the wrongdoing implied in his ordination to another's
+Chad, being a true and meek servant of God and fully understanding then the wrongdoing implied in his ordination to another's
 see by the Quartodecimans, with humble penance confessed his
 fault in accordance with the decision of the bishops: whereupon
 Theodore, with Chad's consent, installed St Wilfrid as bishop in his
@@ -597,8 +572,7 @@ of Wulfhere, King of the Mercians, his faithful friend, which had
 been granted to him at Lichfield and was suitable as an episcopal see
 either for himself or for any other to whom he might wish to give it.
 So a friendly arrangement was made with that true servant of God,
-Chad, who in all things obeyed the bishops: they thereupon conse-
-crated him fully to the said see through all the ecclesiastical degrees.
+Chad, who in all things obeyed the bishops: they thereupon consecrated him fully to the said see through all the ecclesiastical degrees.
 The king received him in an honourable manner and the bishops
 installed him in the said place. There he performed many good and
 pious deeds during his life, and at the fitting time he passed to
@@ -609,12 +583,10 @@ day which we believe will rightly have no terrors for him.
 
 Now during the reign of the above-mentioned king, after Wilfrid
 of blessed memory had been appointed metropolitan bishop of the
-city of York, the stone buildings of the church in that city were ob-
-viously in a ruinous condition. This church of God had been first
+city of York, the stone buildings of the church in that city were obviously in a ruinous condition. This church of God had been first
 founded by the holy Paulinus the bishop and dedicated to God in
 the days of Edwin, that most Christian king. But now the ridge of
-the roof owing to its age let the water through, the windows were un-
-glazed and the birds flew in and out, building their nests, while the
+the roof owing to its age let the water through, the windows were unglazed and the birds flew in and out, building their nests, while the
 neglected walls were disgusting to behold owing to all the filth caused
 by the rain and the birds. When our holy bishop saw all this his spirit
 was vexed within him, as Daniel's was, because he saw that the house
@@ -643,15 +615,12 @@ fairly with the rules of discipline as with the flowers of virtue, making
 her chaste and modest, continent, temperate and submissive, and
 clothed her in garments of many hues. In the words of the prophet,
 "The king's daughter is all glorious within." For as Moses built an
-earthly tabernacle made with hands, of divers varied colours accord-
-ing to the pattern shown by God in the mount, to stir up the faith
+earthly tabernacle made with hands, of divers varied colours according to the pattern shown by God in the mount, to stir up the faith
 of the people of Israel for the worship of God, so the blessed Bishop
-Wilfrid wondrously adorned the bridal chamber of the true Bride-
-groom and Bride with gold and silver and varied purples, in the sight
+Wilfrid wondrously adorned the bridal chamber of the true Bridegroom and Bride with gold and silver and varied purples, in the sight
 of the multitudes who believed in their hearts and made confession
 3-2
-of their faith. For in Ripon he built and completed from the founda-
-tions in the earth up to the roof, a church of dressed stone, supported
+of their faith. For in Ripon he built and completed from the foundations in the earth up to the roof, a church of dressed stone, supported
 by various columns and side aisles.
 Afterwards, when the building had been finished, he invited to
 the day of its dedication the two most Christian kings and brothers,
@@ -695,8 +664,7 @@ miracles by His help. Even as Elijah and Elisha the servants of
 God raised the dead, so the Apostles of Christ, following the
 example of their Master, according to His promise, drove out all
 kinds of diseases in His name; and now in a similar manner those
-afflicted by infirmities are healed to the glory of God by their suc-
-cessors, one of whom is our holy bishop. It happened that St Wilfrid
+afflicted by infirmities are healed to the glory of God by their successors, one of whom is our holy bishop. It happened that St Wilfrid
 was out riding on a certain day, going to fulfil the various duties of
 his bishopric, baptizing and also confirming the people with the
 laying on of hands; among these there was a certain woman in a town
@@ -759,8 +727,7 @@ and corner in the north, and as a swarm of ants in the summer
 sweeping from their hills heap up a mound to protect their tottering
 house. When King Ecgfrith heard this, lowly as he was among his
 own people and magnanimous towards his enemies, he forthwith got
-together a troop of horsemen, for he was no lover of belated opera-
-tions; and trusting in God like Judas Maccabaeus and assisted by the
+together a troop of horsemen, for he was no lover of belated operations; and trusting in God like Judas Maccabaeus and assisted by the
 brave sub-king, Beornhaeth, he attacked with his little band of God's
 people an enemy host which was vast and moreover concealed.
 He slew an enormous number of the people, filling two rivers with
@@ -890,8 +857,7 @@ With such shafts as these the king's heart was wounded. They both
 sought skilfully to humiliate the holy head of the Church to their
 own destruction and boldly to defraud him of the gifts which the
 kings had given him for God's sake. Contrary to the will of God and
-as Balak summoned Balaam, they summoned the Archbishop Theo-
-dore with the aid of bribes to help them in their madness; for bribes
+as Balak summoned Balaam, they summoned the Archbishop Theodore with the aid of bribes to help them in their madness; for bribes
 blind the eyes even of wise men.
 When the archbishop had come, they explained to him what they
 intended to do to bring about Wilfrid's humiliation and he consented
@@ -1016,8 +982,7 @@ of God, they came to Perctarit, King of Campania, a humble and
 peaceful man who feared the words of God. He received the pilgrims
 kindly according to the bidding of the Lord and then addressed our
 holy bishop with these words: "Some enemies of yours have sent
-me messengers from Britain, offering me their salutations and pro-
-mising me very great rewards if I would lay hands on you who are
+me messengers from Britain, offering me their salutations and promising me very great rewards if I would lay hands on you who are
 a bishop fleeing secretly, as they declared, and would hold you back
 as you make your way to the Apostolic See. I refused to do so wicked
 a thing and answered them thus: 'I was once an exile in the days of
@@ -1032,8 +997,7 @@ me over to be slain. He would not come to an agreement with them,
 commit this crime and break the pledge made before them." How
 much more shall I, who know the true God, refuse to give my soul
 over to destruction for the wealth of the whole world!"" Then in
-truth the king with thanksgiving sent our holy bishop and his com-
-panions to the Apostolic See which they had so long desired to behold,
+truth the king with thanksgiving sent our holy bishop and his companions to the Apostolic See which they had so long desired to behold,
 giving him honourable treatment and providing him with guides; in
 such ways the Lord glorified him by His protecting care throughout
 his journey.
@@ -1043,8 +1007,7 @@ his journey.
 When therefore Bishop Wilfrid, beloved of God, reached the
 before mentioned see in safety with all his companions, the cause of
 his coming had preceded him and had become known there, for at
-that time Coenwald, a religious monk, had been sent by the holy Arch-
-bishop Theodore with letters from him and had reached Rome; and
+that time Coenwald, a religious monk, had been sent by the holy Archbishop Theodore with letters from him and had reached Rome; and
 the quarrel was not hidden from the most blessed Agatho, Pope of the
 Apostolic See. Then indeed, when the most holy bishops and priests
 had gathered together to the number of over fifty in the church of
@@ -1072,8 +1035,7 @@ from the person of the most reverend Archbishop Theodore, who
 was formerly sent thither by the Apostolic See, with the reports of
 others in addition to those same writings, against a certain bishop
 who, as they assert, is supposed to have come hither in secret
-flight; and we have also read those writings which have been pre-
-sented by Wilfrid, beloved of God, the Bishop of the holy church of
+flight; and we have also read those writings which have been presented by Wilfrid, beloved of God, the Bishop of the holy church of
 York, who has been ejected from his see by the most holy man before
 mentioned and has come all the way to appeal to the Holy See. In
 these letters, though they introduce many doubtful points, we find that
@@ -1150,8 +1112,7 @@ for help; and without doing more than make a protest to my fellow-
 servants and my fellow-bishops in these same provinces, I departed.
 If indeed your Apostolic Eminence, together with the most holy
 bishops who sit with you, decides that I have been deprived,
-though guilty of no fault, I accept your decision with humble devo-
-tion. If however I am to get back my former bishopric, then I
+though guilty of no fault, I accept your decision with humble devotion. If however I am to get back my former bishopric, then I
 accept and venerate the decision promulgated by the Apostolic
 See with all my heart, provided only that the usurpers are driven
 out by the sanction of your synod from my old sees in the church
@@ -1161,16 +1122,14 @@ have been ruling, at any rate let your Eminence order that it be
 decided that only such be preferred with whom I can serve God in
 unity, so that a peaceful and unbroken agreement obtain amongst
 us; to wit that each one of us may recognise the established laws of
-the Church and may each watch diligently over what has been com-
-mitted to him. So, if it please the archbishop and my fellow-bishops
+the Church and may each watch diligently over what has been committed to him. So, if it please the archbishop and my fellow-bishops
 to increase the number of bishops, let them choose such from our
 own clergy as the bishops gathered together in synod may decide
 upon, so that the Church may not be harmed from outside and by
 strangers; for whatever is done irregularly and unadvisedly increases
 unappeasable and implacable quarrels and no one will avail at all to
 bring the matter in dispute to a peaceful conclusion in any respect
-whatever. For I am sure that I show the absolute compliance of de-
-voted obedience to the Apostolic laws to whose justice I have hastened,
+whatever. For I am sure that I show the absolute compliance of devoted obedience to the Apostolic laws to whose justice I have hastened,
 casting everything else aside with absolute confidence of heart."
 
 # Chapter XXXI - Of Pope Agatho's answer
@@ -1184,8 +1143,7 @@ from the episcopal see, he did not contumaciously oppose his rivals,
 nor did he choose to repel force with force in a worldly manner, but,
 with humble mind, he procured the canonical aid of our blessed
 founder, Peter the chief Apostle. With humble expectation he
-promises to acknowledge immediately that which is decreed con-
-cerning him, nor does he cavil about the pronouncement of our
+promises to acknowledge immediately that which is decreed concerning him, nor does he cavil about the pronouncement of our
 opinion; but he accepts the conclusions, whatever they may be,
 declaring that he will with unshaken loyalty accept whatever our
 founder, the blessed Apostle Peter, whose ministry we fulfil, shall
@@ -1194,11 +1152,9 @@ decide by our mouth.'
 # Chapter XXXII - Of the synod's answer
 
 The whole synod which met together with the most holy and
-thrice-blessed Apostolic Father Agatho made the following declara-
-tion amongst others, according to rule:
+thrice-blessed Apostolic Father Agatho made the following declaration amongst others, according to rule:
 "We decide and decree that Bishop Wilfrid, beloved of God, shall
-receive back the bishopric which he had of late, within the limits pre-
-viously defined; and those whom he shall choose as fellow-bishops with
+receive back the bishopric which he had of late, within the limits previously defined; and those whom he shall choose as fellow-bishops with
 the consent of the council there to be assembled, men with whom he
 may live peaceably, according to the rule previously laid down, shall
 be preferred and consecrated as bishops by the most holy archbishop;
@@ -1243,8 +1199,7 @@ churches of Britain, writing down what each of the relics was and to
 which saint it belonged; and many other possessions he acquired
 which it is tedious to enumerate now, for the adornment of the house
 of God, in accordance with his custom. So, with the blessing of the
-Apostolic See and all the holy synod, he began his journey home-
-wards to his own land with all his train, rejoicing and glad, God being
+Apostolic See and all the holy synod, he began his journey homewards to his own land with all his train, rejoicing and glad, God being
 his helper.
 So when our holy bishop, triumphantly bearing the decision, had
 made his way from the Apostolic See through Campania and had
@@ -1253,8 +1208,7 @@ crossed the mountains, he came into the land of the Franks. But
 there his faithful friend Dagobert had been lately killed by treachery
 through the guile of certain dukes and with the consent of the
 bishops (Heaven save the mark!). One of these bishops met him
-with a great army, plotting impious schemes in his heart and intend-
-ing, if God had not hindered, to rob all his comrades and reduce them
+with a great army, plotting impious schemes in his heart and intending, if God had not hindered, to rob all his comrades and reduce them
 to serfdom, or to sell them as slaves, or to slay them if they resisted,
 and also to imprison our holy bishop and to reserve him for the
 judgment of Ebroin the duke.
@@ -1290,8 +1244,7 @@ having passed over a great tract of sea by ship, he reached his own
 land unharmed, together with all his companions, to the great joy
 of his subjects who were languishing with weariness, and crying out
 to the Lord with tears. He came back alive, bearing the standard of
-victory, that is to say, bringing with him the judgment of the Apos-
-tolic See, and peaceably presented himself before the king saluting
+victory, that is to say, bringing with him the judgment of the Apostolic See, and peaceably presented himself before the king saluting
 him. With all humility he showed the king the written judgment
 of the Apostolic See with the consent and subscription of the whole
 synod, and delivered it to him with its bulls and stamped seals. Then
@@ -1308,8 +1261,7 @@ Then, at the command of the king and his counsellors, with the
 consent of the bishops who held his bishopric, they decided to put
 him in prison and keep him there nine months without any token of
 respect. And forthwith, as we have said, after the writings of the
-Apostolic See had been opened and read, the king-horrible to tell-
-enraged, and abetted by his flatterers, despised the judgment of Peter
+Apostolic See had been opened and read, the king-horrible to tellenraged, and abetted by his flatterers, despised the judgment of Peter
 the Apostle and chief of the Apostles who has the power from God
 to loose and to bind; then taking oath by his soul's salvation he sternly
 ordered that our holy bishop, despoiled of all save his garments,
@@ -1358,13 +1310,11 @@ of any of his friends, the holy bishop who might well have been
 called at this time the light of Britain, considering the great merits of
 his faith. This same thegn was faithful to the king, and on his urgent
 bidding kept the bishop under guard in hidden dungeons, where the
-sun rarely shone by day and where no lamp is lit to give bright-
-ness by night. His guardians, however, when they heard the holy
+sun rarely shone by day and where no lamp is lit to give brightness by night. His guardians, however, when they heard the holy
 man of God perpetually singing psalms, and saw the place in the
 darkness of the night all lit up within as if it were day, spoke to all
 of his holiness, and, being amazed themselves, filled others with terror.
-O Christ, eternal Light Who dost never desert those who acknow-
-ledge Thee, Who art held to be the "true light" and dost illumine
+O Christ, eternal Light Who dost never desert those who acknowledge Thee, Who art held to be the "true light" and dost illumine
 "every man that cometh into the world," Who in the beginning
 didst mark by fiery splendour the hour of the nativity of Thy
 future servant when he came forth from his mother's womb: now
@@ -1403,8 +1353,7 @@ wrongs, like Joseph led forth from the prison, came to the wretched
 woman, and, standing over her, he sprinkled her face with holy
 water, imploring the help of God in prayer: then, drop by drop, he
 bedewed her face till it was wet with the holy water. Then she opened
-her mouth, drew in long breaths, unclosed her eyes, recovered con-
-sciousness and understanding, and shortly afterwards her limbs
+her mouth, drew in long breaths, unclosed her eyes, recovered consciousness and understanding, and shortly afterwards her limbs
 became warm; she raised her head and moved her tongue to speak,
 and thanked God. Like Peter's wife's mother, she ministered to
 our holy bishop in all honour; she is still living and is now a holy
@@ -1414,8 +1363,7 @@ abbess named Aebbe, and is wont to tell this story with tears.
 
 Now this same reeve did not dare to continue his honourable
 treatment of our holy bishop any longer, for fear of the king, yet,
-dreading the anger of God on account of Wilfrid's holiness, he pre-
-ferred not to put him to any shame; so he sent messengers to the
+dreading the anger of God on account of Wilfrid's holiness, he preferred not to put him to any shame; so he sent messengers to the
 king, saying, "I adjure you by my life and your salvation not to compel
 me to punish this holy and innocent bishop to my perdition any longer,
 because I choose rather to die than to scourge him for no fault."
@@ -1426,16 +1374,14 @@ should be kept, though so good a man and so great a bishop, bound
 hands and feet with fetters, in solitary confinement. So in accordance
 with the king's command the reeve ordered the smiths to make iron
 fetters. The smiths, though they had no reason for doing so, entered
-upon their task with energy, measuring the limbs of our holy con-
-fessor. But God was opposing them. For the chains were always
+upon their task with energy, measuring the limbs of our holy confessor. But God was opposing them. For the chains were always
 too small and narrow to go round his limbs or else they were so wide
 and loose that they fell free from the feet of the evangelist, the hands
 of the baptist. They were so terrified that they left the man of God
 unbound. He continued meanwhile to sing psalms and to give thanks
 to God, as the Apostle says to the Hebrews, "Enduring a great fight
 of afflictions, being made a gazing-stock by reproaches, and suffering
-the spoiling of all his goods," and such sufferings had been in-
-flicted by his fellow-countrymen. Thus they kept him in confinement
+the spoiling of all his goods," and such sufferings had been inflicted by his fellow-countrymen. Thus they kept him in confinement
 against their will until the time appointed by God.
 
 # Chapter XXXIX - How the queen was scourged and healed. [681]
@@ -1475,8 +1421,7 @@ and the queen was healed.
 
 # Chapter XL - How Berhtwald received the holy bishop. [681]
 
-So Wilfrid the bishop, the beloved of God, set out with his com-
-panions, and, leaving his fatherland, he sought the southern kingdoms
+So Wilfrid the bishop, the beloved of God, set out with his companions, and, leaving his fatherland, he sought the southern kingdoms
 as an exile. But the Lord, who is with His saints when they are tried,
 sent a man of noble race and kind heart to meet him, a reeve called
 Berhtwald, nephew of Aethilred, King of the Mercians. As soon as he
@@ -1490,13 +1435,11 @@ which had been given for God's sake, and his monks possess it to
 this day. But the hatred of the ancient enemy was ever on the alert;
 when King Aethilred and his queen, the sister of King Ecgfrith, heard
 that the man of God had been driven from his land and was staying
-there and was at peace for a little while, they forbade the reeve Berht-
-wald, if he valued his own safety, to remain for a single day under his
+there and was at peace for a little while, they forbade the reeve Berhtwald, if he valued his own safety, to remain for a single day under his
 direction. This they did to flatter King Ecgfrith. Then, when our
 bishop had been driven out by hatred, though his monks were left
 behind, he made his way to the King of the West Saxons named
-Centwini. There he remained but a short time owing to the perse-
-cution that followed him. For Centwini's queen was the sister of
+Centwini. There he remained but a short time owing to the persecution that followed him. For Centwini's queen was the sister of
 Queen Iurminburg and hated him greatly, so that on account of
 the friendship of the three kings we have spoken of, he was driven
 away and departed thence.
@@ -1511,16 +1454,14 @@ ceased to stir up perpetual persecution, which he brought to bear
 upon him in whatever land he was disposed to remain. There was,
 CE
 6
-however, a certain province of our race which had remained per-
-sistently heathen up to this time, and on account of its rocky coast
+however, a certain province of our race which had remained persistently heathen up to this time, and on account of its rocky coast
 and thick forests could not be conquered by the other kingdoms.
 And to these pagans, the people of Sussex, our holy bishop fled, for
 God directed his way when human aid had ceased.
 When he had found their king, whose name was Aethilwalh, he
 told him the whole story of his sufferings and exile. Forthwith the
 king made a treaty of peace with him and promised such friendship
-that none of his enemies should strike terror into him by the threaten-
-ing sword of any warlike foe, or make void the treaty thus inaugurated
+that none of his enemies should strike terror into him by the threatening sword of any warlike foe, or make void the treaty thus inaugurated
 between them by the offer of rewards and gifts, however great.
 Then the holy man of God rejoiced at these words of consolation,
 and, giving thanks to God, he began, first of all, to proclaim the word
@@ -1566,17 +1507,14 @@ holy father, praying Wilfrid to be his true father, to teach and help
 him, while he, on his side, promised him with a vow that he would be
 an obedient son. This compact, which they undertook with God as
 their witness, was faithfully fulfilled. For the holy bishop of Christ
-helped the exile, who was often in difficulties, assisting and sup-
-porting him in various ways, and strengthened him until he was
+helped the exile, who was often in difficulties, assisting and supporting him in various ways, and strengthened him until he was
 powerful enough to overcome his enemies and to get the kingdom.
-When Ceadwalla had come to the throne and, after slaying or sub-
-duing his foes, was reigning over all the land of the West Saxons, he
+When Ceadwalla had come to the throne and, after slaying or subduing his foes, was reigning over all the land of the West Saxons, he
 immediately, in all humility, summoned St Wilfrid our bishop to
 come to him; for Wilfrid, who was converting the heathen population
 of Sussex to God, and through his efforts wondrously glorifying the
 name of the Lord, was his venerable father and dearest of all to him.
-As soon as our holy and venerable father had arrived, King Cead-
-walla made him supreme counsellor over the whole kingdom, just
+As soon as our holy and venerable father had arrived, King Ceadwalla made him supreme counsellor over the whole kingdom, just
 as the King of Egypt, when Joseph had been taken from prison,
 made him, in the words of the prophet, "lord of his house...to teach
 wisdom." Then was our holy bishop uplifted by God, and King
@@ -1592,9 +1530,7 @@ At this time also, Theodore, archbishop by the grace of God, being
 troubled by fears, honoured the authority of the Apostolic See by which
 he had been appointed, and did not delay, though he had waited so long,
 to make friends with the blessed Wilfrid, our bishop, who had long been
-an impoverished exile. For when the Archbishop Theodore, in the ful-
-ness of his years, began to be troubled by recurrent infirmity, he sum-
-moned to London the holy bishops Wilfrid and Erconwald. When
+an impoverished exile. For when the Archbishop Theodore, in the fulness of his years, began to be troubled by recurrent infirmity, he summoned to London the holy bishops Wilfrid and Erconwald. When
 they had come, the archbishop prudently and frankly revealed to them
 the whole course of his life, making confession before God and saying,
 "And this troubles me most, what I did to your hurt, most holy bishop,
@@ -1618,8 +1554,7 @@ all directions, to your friends, that they may know of our reconciliation
 in the Lord and that I was formerly, without guilt of mine, deprived
 of my possessions and that thay may restore to me some part of my
 substance by your adjuration in the Lord and in accordance with the
-orders of the Apostolic See, and afterwards, if God will, let us con-
-sider in a greater council who is worthy, with your consent, to receive
+orders of the Apostolic See, and afterwards, if God will, let us consider in a greater council who is worthy, with your consent, to receive
 the episcopal see after you."
 Then, when the archbishop had made a pact of real peace, he sent
 letters to Aldfrith, King of the North, in which he begged him, for
@@ -1637,8 +1572,7 @@ make peace unhesitatingly with St Wilfrid the bishop; and Aethilred,
 King of the Mercians, he charged as follows, adjuring him by his
 love for himself and for Christ to receive him according to his former
 intention:
-"To the most glorious and excellent Aethilred, King of the Mer-
-cians, Theodore, by the grace of God, Archbishop:-Everlasting
+"To the most glorious and excellent Aethilred, King of the Mercians, Theodore, by the grace of God, Archbishop:-Everlasting
 salvation be yours in the Lord. Most beloved son, may your
 wondrous holiness know that I have made peace in Christ with the
 venerable Bishop Wilfrid, and therefore, beloved, I urge you with
@@ -1647,8 +1581,7 @@ protection to his holy devotion to the utmost of your ability, with
 the help of God, all your life long, as you have always done; because
 for a long time, while deprived of his own possessions, he has
 laboured much in the Lord among the heathen. And so I, Theodore,
-a humble bishop, in my declining years, suggest this to your blessed-
-ness, for the Apostolic authority commends this as you know; and
+a humble bishop, in my declining years, suggest this to your blessedness, for the Apostolic authority commends this as you know; and
 the most holy man I have named possesses his soul in patience even
 as the Scripture says, following in humility and gentleness his
 Head the Lord and Saviour, and awaiting a relief of the wrongs
@@ -1675,8 +1608,7 @@ prelate was now living honourably in exile; his monks had been
 banished and scattered into various places throughout the whole of
 Britain where they were mourning under the power of alien lords
 and awaiting redemption from the Lord. At last the news came to
-them of a most woeful disaster in which Ecgfrith, King of the North-
-umbrians, had been slain and overthrown by the Picts, together with
+them of a most woeful disaster in which Ecgfrith, King of the Northumbrians, had been slain and overthrown by the Picts, together with
 all the flower of his army. After him the most prudent King Aldfrith
 came to the throne; and, in the second year of his reign, he reverently
 summoned St Wilfrid our bishop from exile to his presence, in
@@ -1700,13 +1632,11 @@ again the torch of dissension once extinguished. At one time peace
 and quietness abounded between the prudent king and the holy man,
 with the enjoyment of nearly every form of good; at another time
 the cauldron of evil boiled up and made many worse for a time, and
-so they continued living now in agreement and now in disagree-
-ment alternately, for many years, in such changing relations, until at
+so they continued living now in agreement and now in disagreement alternately, for many years, in such changing relations, until at
 last, when the flame of enmity was at its height, the holy man of God
 was banished by King Aldfrith and withdrew from Northumbria.
 The first cause of their disagreement is of ancient origin, because
-the church dedicated to St Peter was unjustly deprived of its terri-
-tories and possessions. The second cause is that the aforesaid
+the church dedicated to St Peter was unjustly deprived of its territories and possessions. The second cause is that the aforesaid
 monastery which was granted to us as our own property was changed
 into an episcopal see, thus losing the liberty which St Agatho and
 five kings had definitely established and firmly fixed. Then the
@@ -1742,8 +1672,7 @@ the churches of God; nor is there any doubt that they did it at the
 desire of King Aldfrith and with the consent of some of the abbots.
 They raised many false objections which they could not prove by any
 semblance of truth; in addition they affirmed that our holy bishop
-was to be judged according to the decrees and commands of Arch-
-bishop Theodore.
+was to be judged according to the decrees and commands of Archbishop Theodore.
 When St Wilfrid heard what they had asserted, he replied with all
 humility, declaring that he consented to their decisions, and he
 assured them that he was willing to obey his decrees gladly in all
@@ -1783,15 +1712,13 @@ Then the holy man, being extremely brave and firm, when he
 heard these things, perceived the proof of their deception and
 became more cautious about signing anything further. They asked
 him to return an answer on the spot, threatening at length that if
-he would not quickly acknowledge his submission to their judg-
-ment he would forthwith find himself placed under sentence of
+he would not quickly acknowledge his submission to their judgment he would forthwith find himself placed under sentence of
 condemnation. His answer was, "I will first hear the decision of the
 archbishop, and if he is acting in agreement with the definite rules of
 the holy fathers, I am determined to submit with my whole heart.”
 Finally, when they could no longer hide their plan, seeing that
 so many saw what it was, they declared at first that they were
-determined to despoil our holy bishop of all his possessions so com-
-pletely that he should not possess one fragment of a single cottage in
+determined to despoil our holy bishop of all his possessions so completely that he should not possess one fragment of a single cottage in
 Northumbria or Mercia. But the ruthlessness of the decision laid
 down by the archbishop and the king horrified even his very enemies,
 who said that it was impious to deprive of all his possessions a man
@@ -1803,8 +1730,7 @@ St Peter with all that belonged to it, and allow him the privilege
 granted by St Agatho the Pope to whatever abbot and brotherhood
 dwelt there; they added the proviso however that he should sign the
 strongest undertaking that he would remain quietly there; that he
-would not pass beyond the bounds of the monastery without per-
-mission from the king; that he would not in any way exercise the
+would not pass beyond the bounds of the monastery without permission from the king; that he would not in any way exercise the
 episcopal office. Thus they sought with the utmost urgency to compel
 him, under oath, to strip himself of his own accord (horrible to relate)
 of his honourable rank.
@@ -1838,8 +1764,7 @@ Romans ought to investigate carefully for what fault you wish to
 degrade me, before I consent to that course at your bidding alone."
 When the king and the archbishop heard this they said, "Now at any
 rate he is guilty; therefore let him be branded by us and condemned
-because he chooses their judgment rather than ours." To this pro-
-posal of the archbishop, the king added, "I will compel him, if you
+because he chooses their judgment rather than ours." To this proposal of the archbishop, the king added, "I will compel him, if you
 bid me, by force through the pressure of my army, and that without
 any delay or hesitation, to confess this time that he is prepared to
 accept our judgment." But the other bishops in council said, "We
@@ -1854,8 +1779,7 @@ After these discussions the fruitless council was dissolved by both
 parties, each one returning to his own home. And so, under the
 protection of God, His servant was freed from the hands of his enemies
 and returned uninjured to the faithful King Aethilred. Our holy
-bishop made his way into the presence of King Aethilred and de-
-clared to him the whole story of the attack upon him and the harsh
+bishop made his way into the presence of King Aethilred and declared to him the whole story of the attack upon him and the harsh
 charges made by the bishops contrary to the king's injunction. Then
 he asked the king also what sort of decrees he had made concerning the
 possession of the lands and the privileges which he had granted him.
@@ -1900,8 +1824,7 @@ style instead of being inscribed with urbane eloquence. "For,"
 said they, "we wish your Excellence to know that we have come to
 accuse no one through envy; but nevertheless, if any comes from
 elsewhere into your holy council and ventures to bring forward any
-hostile accusation against us, we wish you to know that we are pre-
-pared so far as we are able, with the help of your clemency, to offer
+hostile accusation against us, we wish you to know that we are prepared so far as we are able, with the help of your clemency, to offer
 our defence, if the charges are false, or to confess them, if they are
 true. So, protected by the clemency of our Creator and the chief
 of the blessed Apostles, we have fled for refuge to this most glorious
@@ -1949,13 +1872,10 @@ of your blessed predecessor Pope Sergius decreed. So I have caused
 to be delivered in your most glorious presence, on account of my
 urgent and manifest necessity, a document containing my unworthy
 petitions, and with these petitions, in the following terms, I venture
-to assail your ears trusting to your accustomed clemency and kind-
-ness, to the end that all the righteous and pious decrees made
-unanimously on my unworthy behalf by your most blessed pre-
-decessors, the Apostolic Lords, St Agatho, the elect Benedict, and
+to assail your ears trusting to your accustomed clemency and kindness, to the end that all the righteous and pious decrees made
+unanimously on my unworthy behalf by your most blessed predecessors, the Apostolic Lords, St Agatho, the elect Benedict, and
 the blessed Sergius, you may deign to confirm in your abounding
-benevolence and piety. And we humbly beg and beseech your in-
-flexible authority, not only I myself but also all the brethren who have
+benevolence and piety. And we humbly beg and beseech your inflexible authority, not only I myself but also all the brethren who have
 come with me, from the very bottom of our hearts, if any accusers
 have come against us from elsewhere, that they may be brought into
 your midst at your command and may put forward the reasons for
@@ -2013,8 +1933,7 @@ him the elect Benedict, and my most holy predecessor Sergius; they
 decided from the Apostolic See what should be done in this same
 matter by the kings and the holy archbishop. Then, with the help of
 God and of St Peter the chief of the Apostles, we shall the more
-easily be able, after we have quenched and put out the fires of false-
-hood, to perceive the light of truth, when representatives of both
+easily be able, after we have quenched and put out the fires of falsehood, to perceive the light of truth, when representatives of both
 sides are contending one against the other in the presence of our
 brethren, and we shall decide in accordance with the canons and
 the rule of our most holy predecessors." This plan pleased all the
@@ -2030,8 +1949,7 @@ immediately done. For the holy Bishop Wilfrid and his venerable
 priests and deacons were introduced as humble suppliants; they
 saluted the honourable company and promised that they would
 accept and fulfil the decrees of that Apostolic See with the utmost
-goodwill. The messengers of the holy archbishop also came, in accord-
-ance with the command of the most holy men, and stood there. They
+goodwill. The messengers of the holy archbishop also came, in accordance with the command of the most holy men, and stood there. They
 were granted an opportunity of speaking, being allowed to choose
 any one section of their accusation and to speak first against us
 upon it. Afterwards they were to proceed in succession to the other
@@ -2060,8 +1978,7 @@ content of his decision by revealing it to any of our party until we had
 subscribed with our own hand in the presence of the council to a
 promise that we would choose his single judgment in all things for
 our observance and that we would not turn away from it to the right
-hand or the left. 'Never before,' said I, 'have I heard of a con-
-straint as narrow and stringent as yours, enforced upon any man,
+hand or the left. 'Never before,' said I, 'have I heard of a constraint as narrow and stringent as yours, enforced upon any man,
 so that he should actually promise after being bound by an oath to fulfil
 decrees made, however impossible they might be, and that before
 knowing the terms of the decree.' Nevertheless I promised there in the
@@ -2096,18 +2013,15 @@ the conflict and, the clouds of their lies being dispersed by the
 blast of the wind of wisdom, the sun of truth began to shine by the
 help of God and St Peter, and the holy bishop was seen after
 the lapse of many days and months to be proved absolutely and
-entirely free of all the crime which merited the punishment of degra-
-dation. For, to be brief, after being tested throughout the space of
+entirely free of all the crime which merited the punishment of degradation. For, to be brief, after being tested throughout the space of
 four months in seventy sittings of the council of the most holy See,
 he escaped from the fiery furnace of cross-examination, the
-apostolic power helping him in the following way: At holy Easter-
-tide, on the third day of the feast, when the thrice-blessed Agatho
+apostolic power helping him in the following way: At holy Eastertide, on the third day of the feast, when the thrice-blessed Agatho
 was Pope, a synod consisting of 125 orthodox bishops was held to
 combat the corruptions of heretics and each one of these bishops
 CE
 8
-confessed the true faith on behalf of his province and city, and con-
-firmed his confession with his signature. Now this document was
+confessed the true faith on behalf of his province and city, and confirmed his confession with his signature. Now this document was
 being read out in a loud voice before all the people after the Roman
 custom, and in it there occurred among other things these words:
 "Wilfrid, Bishop of York, beloved of God, appealing to the Apostolic
@@ -2122,12 +2036,10 @@ were amazed. Then Boniface and Sizentius and some others, who
 had known and seen him in the days of Agatho of blessed memory,
 said that "this same Bishop Wilfrid beloved of God was now present
 with them, whom the most blessed Agatho had formerly sent to his
-own home, purified and absolved from all the charges of his adver-
-saries by Apostolic authority; and now once again, alas! the plots of
+own home, purified and absolved from all the charges of his adversaries by Apostolic authority; and now once again, alas! the plots of
 his enemies had made him wander from his own see. For forty years
 and more he had held the office of bishop. False accusers, provided
-with forged documents, dared to accuse so honourable an old man to-
-gether with his venerable brethren; and one mere deacon, so to speak,
+with forged documents, dared to accuse so honourable an old man together with his venerable brethren; and one mere deacon, so to speak,
 and others, all without any rank of ecclesiastical dignity, in their rash
 temerity, ventured to make charges against a person of the highest
 rank at a gathering of the Apostolic See. They are only fit to undergo
@@ -2142,15 +2054,13 @@ power of binding and loosing from secret sins. And what the blessed
 Agatho, the elect Benedict, and the holy Sergius, the chiefs of the
 Apostolic See, have decided concerning him, we in our unworthiness,
 with the consent of the whole synod, have decided to confirm-even
-the judgments which were written and sent to the kings and arch-
-bishops by the hands of the blessed Bishop Wilfrid. The writing is
+the judgments which were written and sent to the kings and archbishops by the hands of the blessed Bishop Wilfrid. The writing is
 as follows:
 
 # Chapter LIV
 
 "To the most excellent lords, Aethilred, King of the Mercians,
-and Aldfrith, King of Deira and Bernicia, from Pope John. We re-
-joice in the increase of true religion among you by the help of the
+and Aldfrith, King of Deira and Bernicia, from Pope John. We rejoice in the increase of true religion among you by the help of the
 grace of God. We recognize the zeal of your faith, which you received
 through the preaching of the chief of the Apostles, when God
 illumined your hearts, and which you efficaciously hold; may your
@@ -2187,14 +2097,11 @@ present here; before whom all the writings whether old or recent,
 which the parties brought forward, or which could be found here, and
 the verbal statements made by either party, were closely enquired
 into and brought to our knowledge. However the principal persons
-were not present from whom all the dissension arose; but it is neces-
-sary that these should come together and confer in order that all this
-contention may be brought to an end. And to this end we bid Berht-
-wald, the Bishop of the holy Church of the Kentish people, whom
+were not present from whom all the dissension arose; but it is necessary that these should come together and confer in order that all this
+contention may be brought to an end. And to this end we bid Berhtwald, the Bishop of the holy Church of the Kentish people, whom
 we have confirmed archbishop there by the authority of the chief of
 the Apostles, and who is our most reverend brother, to hold a synod
-with Bishop Wilfrid, and when the council has been regularly con-
-stituted, to cause Bishops Bosa and John to come into the synod,
+with Bishop Wilfrid, and when the council has been regularly constituted, to cause Bishops Bosa and John to come into the synod,
 to hear what both sides have to say, and to consider what the
 parties in turn are able to prove to him. And if in his opinion it is
 possible to come to a regular conclusion before the synod, it will be
@@ -2229,8 +2136,7 @@ grace keep your Eminences unharmed!""
 
 # Chapter LV - How he was ordered to return home and took holy relics with him. [704]
 
-So, after many months had passed away with almost daily examina-
-tions and debate, at last he appeared victorious and altogether free
+So, after many months had passed away with almost daily examinations and debate, at last he appeared victorious and altogether free
 from guilt. But although our holy bishop wished to remain in the
 Apostolic See and crucify the world to himself in his old age and
 finish his life there, yet, inasmuch as he had previously promised his
@@ -2263,8 +2169,7 @@ of the Lord in shining raiment appeared to our holy bishop and said,
 "I am Michael the messenger of the most high God, who sent me
 to tell
 you that years of life have been added to you by the intercession
-of St Mary, Mother of God and ever Virgin, and by the lamen-
-tations of your followers, which have reached the ears of the Lord; and
+of St Mary, Mother of God and ever Virgin, and by the lamentations of your followers, which have reached the ears of the Lord; and
 this shall be a sign to you: from this day you will begin to grow
 better day by day, and you will reach your native land; and all the
 most precious of your possessions will be returned to you, and you
@@ -2296,14 +2201,12 @@ because he wept turning his face to the wall.
 # Chapter LVII - How he returned across the sea. [705]
 
 Then our holy bishop, when he had washed his face and hands, and
-all were rejoicing with wondrous joy and were thankfully confess-
-ing that his life had been granted him by God, took a little food, and
+all were rejoicing with wondrous joy and were thankfully confessing that his life had been granted him by God, took a little food, and
 like Jonathan he was revived and his eyes were enlightened; and a
 few days afterwards, when he was healed of this same infirmity, they
 set out and came to the sea: they crossed its full extent by ship and,
 by the help of God, they found a safe harbour in the land of Kent.
-There the messengers of our holy bishop, when they had found Arch-
-bishop Berhtwald, had converse with him. He promised to mitigate
+There the messengers of our holy bishop, when they had found Archbishop Berhtwald, had converse with him. He promised to mitigate
 the severity of the former decrees of the synod, for he was compelled
 by the Apostolic authority and terrified by the writings which the
 messengers had brought; and thus with trembling he was reconciled
@@ -2315,8 +2218,7 @@ Then finally our holy bishop came to King Aethilred who had once
 reigned over the kingdom of Mercia and was always a most faithful
 friend of his. The king actually wept through excess of joy; they
 kissed and embraced each other, and Wilfrid was as usual most
-honourably received by his friend. Then he gave the words of saluta-
-tion that had been sent from the Apostolic See and humbly showed the
+honourably received by his friend. Then he gave the words of salutation that had been sent from the Apostolic See and humbly showed the
 king the decrees which had been made concerning him, signed with
 bulls and seals. As soon as the writings from the Apostolic See were
 opened and read, the king bowed himself to the ground and obediently
@@ -2343,8 +2245,7 @@ case by the Apostolic authority."
 The first time, the king did not make them a harsh or stern answer,
 but arranged a meeting and a day for them to come back to him and
 promised to give his answer then. So the brethren came back a
-second time on the day of the meeting, in accordance with his com-
-mand, and asked him what his answer would be. The king replied
+second time on the day of the meeting, in accordance with his command, and asked him what his answer would be. The king replied
 as his counsellors persuaded him. "Brethren, both of whom I respect,
 ask of me anything that you need for yourselves and I will give it
 out of regard for you. But in the matter of Wilfrid your lord, from
@@ -2353,8 +2254,7 @@ and the archbishop, with their counsellors, arrived at a certain decision
 which was agreed to by myself and the archbishop who was sent forth
 from the Apostolic See with almost all the prelates of our people of
 Britain. This, I say, as long as I live I will never change because of
-writings sent from the Apostolic See as you declare." This declara-
-tion he entirely changed later on and sincerely repented.
+writings sent from the Apostolic See as you declare." This declaration he entirely changed later on and sincerely repented.
 
 # Chapter LIX
 
@@ -2406,20 +2306,17 @@ blessed abbess Aelffled, always the comforter and best counsellor of
 the whole province, all gathered together in one place near the river
 Nidd and on its eastern side. Archbishop Berhtwald also and Bishop
 Wilfrid arrived together on the same day. The king and the bishops
-and their chief men took their seats in the place of synod and the arch-
-bishop began to speak in these words: "Let us pray our Lord Jesus
+and their chief men took their seats in the place of synod and the archbishop began to speak in these words: "Let us pray our Lord Jesus
 Christ to grant us concord and peace in our hearts by the Holy
 Spirit. Both I and the blessed Bishop Wilfrid have writings from the
-Apostolic See, for some have been sent by messengers to my un-
-worthy self, and others likewise have been brought by him. We
+Apostolic See, for some have been sent by messengers to my unworthy self, and others likewise have been brought by him. We
 humbly ask that these may be read in your revered presence." The
 CE
 9
 venerable lords gave them permission and the documents of both
 were read before the synod for all to hear from beginning to end.
 After the reading all were silent and Berhtfrith, a chief man next
-in rank to the king, said to the archbishop, "We who need a transla-
-tion should be glad to hear what the Apostolic authority says.” The
+in rank to the king, said to the archbishop, "We who need a translation should be glad to hear what the Apostolic authority says.” The
 archbishop answered him, "The judgments of the Apostolic See are
 expressed in roundabout and enigmatic language, but nevertheless
 both documents show the same meaning in the matter. I will explain
@@ -2435,8 +2332,7 @@ either to make a complete and perfect peace with Bishop Wilfrid
 and to restore to him such parts of the churches he formerly ruled
 as wise counsellors and myself shall settle, or if they are unwilling
 to take this, the best course, to go all together to the Apostolic See,
-and there be judged in a greater council. If anyone show his con-
-tempt (which God forbid !) and will do neither of these, let him know
+and there be judged in a greater council. If anyone show his contempt (which God forbid !) and will do neither of these, let him know
 that, whether he be king or layman, he is excommunicated from the
 body and blood of Christ: but if he be a bishop or priest who acts
 thus-which is more horrible still and dreadful to speak of—he is
@@ -2477,8 +2373,7 @@ end of this holy council was that all the bishops and the king
 with his counsellors made a complete peace with Bishop Wilfrid,
 which they kept until the end of their lives; they returned him the
 two best monasteries, Ripon and Hexham, with all the revenues
-belonging to them; and on that day all the bishops kissed and em-
-braced one another and communicated in the breaking of bread.
+belonging to them; and on that day all the bishops kissed and embraced one another and communicated in the breaking of bread.
 They gave thanks to God for all this holy blessedness, and went to
 their homes in the peace of Christ.
 
@@ -2487,13 +2382,11 @@ their homes in the peace of Christ.
 "God is wondrous in His holy places," who, out of love for the
 whole Church, crowned the souls of the prelates with healthful peace.
 And this has been the source of the greatest blessedness on both
-sides; on the part of those who, though they had held their posses-
-sions through a long period of years, nevertheless voluntarily, in
+sides; on the part of those who, though they had held their possessions through a long period of years, nevertheless voluntarily, in
 order to make amends in the peace of Christ, gave them up to our
 bishop before his death; as well as on our part, who had been
 scattered into exile in many places and had served in sadness under
-foreign masters, and now in peace with all men who were every-
-where reconciled to our master, had hope of life, and lived in
+foreign masters, and now in peace with all men who were everywhere reconciled to our master, had hope of life, and lived in
 blessedness with our beloved lord and master, rejoicing and exulting.
 
 # Chapter LXII - [708?]
@@ -2540,8 +2433,7 @@ presence of two abbots and some very faithful brethren, eight in
 number altogether, whom he had invited, and to put out in their sight
 all the gold, silver and precious stones; and he bade the treasurer
 divide it into four parts, according to his direction. Without delay
-the treasurer obeyed the words of the holy father, and thus com-
-pleted his task.
+the treasurer obeyed the words of the holy father, and thus completed his task.
 Our holy bishop then said to these faithful witnesses: "Dearest
 brethren, know this thought of mine which I have long since had in
 mind, that I should again visit the see of the holy Apostle Peter
@@ -2634,8 +2526,7 @@ all amazed, for they heard at that hour the sound as it were of birds
 approaching, as a cloud of witnesses confirm. They then received
 the abbot who had been appointed, who, for the love of his father
 our holy bishop, was wont to do many good works. He decided to
-celebrate a private Mass for him every day, and every week to cele-
-brate Thursday, the day on which he died, as a feast as though
+celebrate a private Mass for him every day, and every week to celebrate Thursday, the day on which he died, as a feast as though
 it were Sunday. He determined on the anniversary of his death to
 divide his whole share of the tithes of the herds and flocks among the
 poor of his people, to the glory of God, all the days of his life, apart
@@ -2730,8 +2621,7 @@ quickly crept round the parched thorn-hedge to the projecting
 corner of the above-mentioned house, and there the flame sank
 and went out, so that this was the only part of the hedge remaining
 undestroyed.
-These evil-minded men mentioned above perished by the punish-
-ment of God. For certain of the most noble of them, with their
+These evil-minded men mentioned above perished by the punishment of God. For certain of the most noble of them, with their
 troops, a short time afterwards, became blinded in the full light of
 day, and seeing nothing, they were hemmed in by their enemies on
 every side without knowing it, and were soon overthrown and slain.
@@ -2758,8 +2648,7 @@ gathered and came together from every side, from the north and
 south, from the east and west, to celebrate the solemn day; they kept
 vigils at even in the church where the limbs of our holy bishop rest.
 As certain brethren of a duller spirit were standing outside at that
-hour, a sign appeared in the sky. They kept silence among them-
-selves about this vision until morning. On the following day, when the
+hour, a sign appeared in the sky. They kept silence among themselves about this vision until morning. On the following day, when the
 others heard of it, they were deeply grieved, murmuring to themselves
 that it had not been revealed to them on account of their sins. But
 comfort and solace soon came for their frankness. For when the
