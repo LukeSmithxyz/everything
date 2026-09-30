@@ -29,4 +29,4 @@ jobs:
           cd repo
           git stash
           git pull --force origin master
-          hugo -s . -t /var/www/lugo -d ~/everything/ --cacheDir ~/hugocache
+          hugo -s . -d ~/repo/ --cacheDir ~/hugocache
