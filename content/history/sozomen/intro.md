@@ -1,5 +1,6 @@
 ---
 title: "Address and Proposal"
+worktitle: "Ecclesiastical History"
 author: "Sozomen"
 params:
  order: 0
