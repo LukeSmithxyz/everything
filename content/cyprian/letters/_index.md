@@ -1,6 +1,6 @@
 ---
 author: "St. Cyprian of Carthage"
-title: ""
+title: "Epistles"
 params:
  translator: "Robert Ernest Wallis"
  dt: "1885"
