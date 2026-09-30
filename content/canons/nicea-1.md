@@ -1,7 +1,8 @@
 ---
-title: "The Council of Nicea (325)"
+title: "The Council of Nicea"
 params:
  order: 1
+ de: 325
 ---
 
 # Canon 1

@@ -1,0 +1,168 @@
+---
+title: "Annales Cambriae (The Annals of Wales)"
+params:
+ translator: "James Ingram"
+ dt: 1912
+ des: "447"
+ def: "954"
+---
+
+
+- 447 - ‡ Days as dark as night.‡
+- 453 - Easter altered on the Lord's Day by Pope Leo, Bishop of Rome.
+- 454 - St. Brigid is born.
+- 457 - St. Patrick goes to the Lord.
+- 458 - St. David is born in the thirtieth year after Patrick left Menevia.
+- 468 - The death of Bishop Benignus.
+- 501 - Bishop Ebur rests in Christ, he was 350 years old.
+- 516 - The Battle of Badon, in which Arthur carried the Cross of our Lord Jesus Christ for three days and three nights on his shoulders and the Britons were the victors.
+- 521 - St. Columba is born. The death of St. Brigid.
+- 537 - The battle of Camlann, in which Arthur and Medraut fell: and there was plague in Britain and Ireland.
+- 544 - The sleep [death] of Ciaran.
+- 547 - The great death [plague] in which Maelgwn, king of Gwynedd died. ‡Thus they say 'The long sleep of Maelgwn in the court of Rhos'. Then was the yellow plague.‡
+- 558 - The death of Gabrán, son of Dungart.
+- 562 - Columba went to Britain.
+- 565 - ‡The voyage of Gildas to Ireland.‡
+- 569 - ‡The 'Synod of Victory' was held between the Britons.‡
+- 570 - Gildas ‡wisest of Britons‡ died.
+- 573 - The battle of Arfderydd ‡between the sons of Eliffer and Gwenddolau son of Ceidio; in which battle Gwenddolau fell; Merlin went mad.‡
+- 574 - The sleep [death] of Brendan of Birr.
+- 580 - Gwrgi and Peredur ‡sons of Elifert‡ died.
+- 584 - Battle against the Isle of Man and the burial of Daniel of the Bangors.
+- 589 - The conversion of Constantine [king of Britain] to the Lord.
+- 594 - ‡Aethelbert reigned in England.‡
+- 595 - The death of Columba. The death of king Dunod ‡son of Pabo.‡ Augustine and Mellitus converted the English to Christ.
+- 601 - The synod of Urbs Legionis [Chester]. Gregory died in Christ and also bishop David of Moni Iudeorum.
+- 606 - The burial of bishop Cynog.
+- 607 - The death of Aidan son of Gabrán
+- 612 - The death of Kentigern and bishop Dyfrig.
+- 613 - The battle of Caer Legion [Chester]. And there died Selyf son of Cynan. And Iago son of Beli slept [died].
+- 616 - Ceredig died.
+- 617 - Edwin begins his reign.
+- 624 - The sun is covered [eclipsed].
+- 626 - Edwin is baptized, and Rhun son of Urien baptized him.
+- 627 - Belin dies.
+- 629 - The beseiging of king Cadwallon in the island of Glannauc.
+- 630 - Gwyddgar comes and does not return. On the Kalends of January the battle of Meigen; and there Edwin was killed with his two sons; but Cadwallon was the victor.
+- 631 - The battle of Cantscaul in which Cadwallon fell.
+- 632 - The slaughter of the [river] Severn and the death of Idris.
+- 644 - The battle of Cogfry in which Oswald king of the Northmen and Eawa king of the Mercians fell.
+- 645 - The hammering of the region of Dyfed, when the monastery of David was burnt.
+- 649 - ‡Slaughter in Gwent.‡
+- 650 - The rising of a star.
+- 656 - The slaughter of Campus Gaius.
+- 657 - Penda killed.
+- 658 - Oswy came and took plunder.
+- 661 - Cummine the tall died.
+- 662 - Brocmail ‡the tusked ‡ dies.
+- 665 - The first celebration of Easter among the Saxons. The second battle of Badon. Morgan dies.
+- 669 - Oswy, king of the Saxons, dies.
+- 676 - A star of marvelous brightness was seen shining throughout the whole world.
+- 682 - A great plague in Britain, in which Cadwaladr son of Cadwallon dies.
+- 683 - A plague ‡was‡ in Ireland.
+- 684 - A great earthquake in the Isle of Man.
+- 689 - The rain turned to blood in Britain, and ‡in Ireland‡ milk and butter turned to blood.
+- 704 - Aldfrith king of the Saxons died. The sleep of Adomn�n.
+- 714 - Night was as bright as day. Pepin the elder [actually Pepin II, of Heristal], king of the Franks, died in Christ.
+- 717 - Osred king of the Saxons dies.
+- 718 - The consecration of the church of the archangel Michael ‡on mount Gargano.‡
+- 721 - A hot summer.
+- 722 - Beli son of Elffin dies. And the battle of Hehil among the Cornish, the battle of Garth Maelog, the battle of Pencon among the south Britons, and the Britons were the victors in those three battles.
+- 728 - The battle of mount Carno.
+- 735 - Bede the priest sleeps.
+- 736 - Oengus king of the Picts died.
+- 750 - Battle between the Picts and the Briton, that is the battle of Mocetauc. And their king Talorgan is killed by the Britions.
+- 754 - Rhodri king of the Britons dies.
+- 757 - Ethelbalk king of the Saxons dies.
+- 760 - A battle between the Britons and the Saxons, that is the battle of Hereford and Dyfnwal son of Tewdwr dies.
+- 768 - Easter is changed among the Britons ‡on the Lord's day ‡, Elfoddw, servant of God, emending it.
+- 775 - Ffernfael son of Ithael dies.
+- 776 - Cinaed king of the Picts dies.
+- 777 - Abbot Cuthbert dies.
+- 778 - The devastation of the South Britons by Offa.
+- 784 - The devastation of Britain by Offa in the summer.
+- 796 - ‡Devastation by Rheinwg son of Offa ‡ The first coming of the gentiles [Norsemen] among the southern Irish.
+- 797 - Offa king of the Mercians and Maredudd king of the Demetians die, and the battle of Rhuddlan.
+- 798 - Caradog king of Gwynedd is killed by the Saxons.
+- 807 - Arthen king of Ceredigion dies. ‡Solar eclipse‡
+- 808 - Rhain king of the Demetians and Cadell ‡king‡ of Powys die.
+- 809 - Elfoddw archbishop in the Gwynedd region went to the Lord.
+- 810 - ‡The moon covered ‡. Mynyw burnt. ‡Death of cattle in Britain.‡
+- 811 - Owain son of Maredudd dies.
+- 812 - The fortress of Degannwy is struck by lightning and burnt.
+- 813 - Battle between Hywel ‡and Cynan. Hywel‡ was the victor.
+- 814 - There was great thunder and it caused many fires. Tryffin son of Rhain died. And Gruffydd son of Cyngen is killed by treachery by his brother Elisedd after an interval of two months. Hywel triumphed over the island of Mona and he drove Cynan from there with a great loss of his own army.
+- 816 - Hywel was again expelled from Mona. Cynan the king dies. ‡Saxons invaded the mountains of Eryri and the kingdom of Rhufoniog‡.
+- 817 - The battle of Llan-faes.
+- 818 - ‡Cenwulf devastated the Dyfed region.‡
+- 822 - The fortress of Degannwy is destroyed by the Saxons and they took the kingdom of Powys into their own control.
+- 825 - Hywel dies.
+- 831 - ‡Lunar eclipse.‡ Laudent died and Sadyrnfyw Hael of Mynyw died.
+- 840 - Nobis the bishop ruled Mynyw.
+- 842 - Idwallon dies.
+- 844 - Merfyn dies. The battle of Cetill.
+- 848 - The battle of Ffinnant. Ithael king of Gwent was killed by the men of Brycheiniog.
+- 849 - Meurig was killed by Saxons.
+- 850 - Cynin is killed by the gentiles.
+- 853 - Mona laid waste by black gentiles.
+- 856 - Kenneth king of the Picts died. And Jonathan prince of Abergele dies.
+- 860 - Catgueithen was expelled.
+- 864 - Duda laid Glywysing waste.
+- 865 - Cian of Nanhyfer died.
+- 866 - The city of York was laid waste, that is the battle with the black gentiles.
+- 869 - The battle of Bryn Onnen.
+- 870 - The fortress of Alt Clud was broken by the gentiles.
+- 871 - Gwgon king of Ceredigion was drowned.
+- 873 - Nobis ‡the bishop‡ and Meurig die. The battle of Bannguolou.
+- 874 - ‡Llunferth the bishop consecrated.‡
+- 875 - Dungarth king of Cernyw ‡that is of the Cornish‡ was drowned.
+- 876 - The battle of Sunday in Mona.
+- 877 - Rhodri and his son Gwriad is killed by the Saxons.
+- 878 - Aed son of Neill dies.
+- 880 - The battle of Conwy. Vengeance for Rhodri at God's hand. ‡The battle of Cynan.‡
+- 882 - Catgueithen died.
+- 885 - Hywel died in Rome.
+- 887 - Cerball died.
+- 889 - Suibne the wisest of the Irish died.
+- 892 - Hyfaidd dies.
+- 894 - Anarawd came with the Angles and laid waste Ceredigion and Ystrad Tywi.
+- 895 - The Northmen came and laid waste Lloegr and Bycheiniog and Gwent and Gwynllywiog.
+- 896 - ‡Bread failed in Ireland. Vermin like moles with two teeth fell from the air and ate everything up; they were driven out by fasting and prayer.‡
+- 898 - ‡Athelstan king of the Saxons died.‡
+- 900 - Alfred king of the Gewissi dies.
+- 902 - Igmund came to Mona and took Maes Osfeilion.
+- 903 - ‡Merfyn son of Rhodri died and ‡ Llywarch son of Hyfaidd dies.
+- 904 - Rhodri ‡sone of Hyfaidd ‡ was beheaded in Arwystli.
+- 906 - The battle of Dinmeir and Mynyw was broken.
+- 907 - ‡Bishop ‡ Gorchywyl dies ‡ and king Cormac‡.
+- 908 - ‡Bishop ‡ Asser died.
+- 909 - King Cadell son of Rhodri dies.
+- 913 - Ohter comes ‡to Britain‡.
+- 915 - Anarawd king ‡of the Britons‡ dies.
+- 917 - Queen Aethelflaed died.
+- 919 - King Clydog was killed.
+- 921 - The battle of Dinas Newydd.
+- 928 - Hywel journeyed to Rome. ‡Helen died.‡
+- 935 - ‡Gruffydd son of Owain died.‡
+- 938 - The battle of Brune.
+- 939 - Hyfaidd son of Clydog, and Meurig, died.
+- 941 - Aethelstan ‡king of the Saxons‡ died.
+- 942 - King Afloeg dies.
+- 943 - Cadell son of Arthfael was poisoned. And Idwal ‡son of Rhodri ‡ and his son Elisedd are killed by the Saxons.
+- 944 - Llunferth bishop in Mynyw died.
+- 945 - ‡Bishop Morlais died.‡
+- 946 - Cyngen son of Elisedd was poisoned. And Eneuris bishop in Mynyw died. And strathclyde was laid wasted by the Saxons.
+- 947 - Edmund king of the Saxons was killed.
+- 950 - Hywel king of the Britons ‡called the Good‡ died.
+- 951 - And Cadwgan son of Owain is killed by the Saxons. And the battle of Carno ‡between the sons of Hywel and the sons of Idwal‡.
+- 952 - ‡Iago and Idwal the sons of Idwal laid Dyfed waste.‡
+- 954 - Rhodri son of Hywel dies.
+
+
+---
+
+# Note
+
+The primary text of this translation is from the Harleian manuscript 3859, the earliest copy of the Annales Cambriae which has survived. The text enclosed within the "‡" symbols are entries which are not found in the Harleian MS, but which appear in a later version.
+
+The A Text did not include any dates at all, but merely noted a string of Years. The dates given here are conjectural and disputed within a range of about five years. The B Text includes year entries as far back as the birth of Jesus, includes entries very similar to these, and includes dates in entries after 1097: however, the list of years disagrees with the list of dates and both disagree with the correct dates for known events.

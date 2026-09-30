@@ -1,8 +1,9 @@
 ---
-title: "The Council of Chalcedon (451)"
+title: "The Council of Chalcedon"
 params:
  order: 4
  humandate: 451
+ de: 451
 ---
 
 

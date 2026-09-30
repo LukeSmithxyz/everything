@@ -1,8 +1,9 @@
 ---
-title: "The Council of Ephesus (431)"
+title: "The Council of Ephesus"
 params:
  order: 3
  humandate: 431
+ de: 431
 ---
 
 # 1

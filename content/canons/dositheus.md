@@ -1,7 +1,8 @@
 ---
-title: "The Confession of Dositheus (1672)"
+title: "The Confession of Dositheus"
 params:
  order: 9
+ de: 1672
 ---
 Dositheus, by the mercy of God, Patriarch of Jerusalem, to those that ask and inquire concerning the faith and worship of the Greeks, that is of the Eastern Church, how it thinks concerning the Orthodox faith, in the common name of all Christians subject to our Apostolic Throne, and of the Orthodox worshippers that are sojourning in this holy and great city of Jerusalem (with whom the whole Catholic Church agrees in all that concerns the faith) publishes this concise Confession, for a testimony both before God and before man, with a sincere conscience, and devoid of all dissimulation.
 

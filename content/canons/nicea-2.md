@@ -1,7 +1,8 @@
 ---
-title: "The Second Council of Nicea (783)"
+title: "The Second Council of Nicea"
 params:
  order: 7
+ de: 783
 ---
 
 # Canon 1

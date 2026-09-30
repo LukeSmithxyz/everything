@@ -1,7 +1,8 @@
 ---
-title: "The Council of Constantinople (381)"
+title: "The Council of Constantinople"
 params:
  order: 2
+ de: 381
 ---
 
 # Canon 1

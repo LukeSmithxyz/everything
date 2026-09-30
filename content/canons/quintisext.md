@@ -1,7 +1,8 @@
 ---
-title: "The Quintisext Council (691)"
+title: "The Quintisext Council"
 params:
  order: 6.5
+ de: 691
 ---
 
 # Canon 1
