@@ -1,5 +1,6 @@
 ---
 title: "Musanus"
+worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
  order: "031"

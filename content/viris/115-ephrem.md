@@ -1,5 +1,6 @@
 ---
 title: "Ephrem the deacon"
+worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
  order: "115"

@@ -1,5 +1,6 @@
 ---
 title: "Hermas"
+worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
  order: "010"

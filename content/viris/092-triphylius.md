@@ -1,5 +1,6 @@
 ---
 title: "Triphylius the bishop"
+worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
  order: "092"

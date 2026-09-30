@@ -1,5 +1,6 @@
 ---
 title: "Sidonius the bishop"
+worktitle: "On Illustrious Men"
 author: "Gennadius of Massilla"
 params:
  order: "228"

@@ -1,5 +1,6 @@
 ---
 title: "Rhodo, the disciple of Tatian"
+worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
  order: "037"

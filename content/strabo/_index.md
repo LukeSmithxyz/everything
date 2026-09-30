@@ -1,6 +1,5 @@
 ---
-worktitle: "Geography"
-title: "Volume 1"
+title: "Geography"
 author: "Strabo"
 params:
  translator: "H. C. Hamilton"

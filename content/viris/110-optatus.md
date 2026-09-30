@@ -1,5 +1,6 @@
 ---
 title: "Optatus the bishop"
+worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
  order: "110"

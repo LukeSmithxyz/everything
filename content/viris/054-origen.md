@@ -1,5 +1,6 @@
 ---
 title: "Origen, surnamed Adamantius"
+worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
  order: "054"

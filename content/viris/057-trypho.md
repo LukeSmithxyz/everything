@@ -1,5 +1,6 @@
 ---
 title: "Trypho the pupil of Origen"
+worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
  order: "057"

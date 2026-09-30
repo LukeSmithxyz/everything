@@ -11,10 +11,11 @@ weight: 1
 
 ## works to add
 
+https://www.thelatinlibrary.com/historians/historianslist.html
+
 - church:
 	- synaxaria
 	- canons/acts of the councils
-- Herodotus
 - british history:
 	- lives of english/british saints
 		- Passio Albani

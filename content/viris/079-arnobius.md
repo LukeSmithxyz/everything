@@ -1,5 +1,6 @@
 ---
 title: "Arnobius the rhetorician"
+worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
  order: "079"

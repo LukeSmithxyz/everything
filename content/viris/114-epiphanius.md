@@ -1,5 +1,6 @@
 ---
 title: "Epiphanius the bishop"
+worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
  order: "114"

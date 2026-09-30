@@ -1,5 +1,6 @@
 ---
 title: "Asterius the philosopher"
+worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
  order: "094"

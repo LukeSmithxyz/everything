@@ -1,5 +1,6 @@
 ---
 title: "Matthew, surnamed Levi"
+worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
  order: "003"

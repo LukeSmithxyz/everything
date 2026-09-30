@@ -1,5 +1,6 @@
 ---
 title: "John, bishop of Constantinople"
+worktitle: "On Illustrious Men"
 author: "Gennadius of Massilla"
 params:
  order: "165"

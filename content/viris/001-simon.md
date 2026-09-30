@@ -1,5 +1,6 @@
 ---
 title: "Simon Peter"
+worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
  order: "001"

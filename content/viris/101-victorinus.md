@@ -1,5 +1,6 @@
 ---
 title: "Victorinus the rhetorician"
+worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
  order: "101"

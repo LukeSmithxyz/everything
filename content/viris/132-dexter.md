@@ -1,5 +1,6 @@
 ---
 title: "Dexter, son of Pacianus, now praetorian prefect"
+worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
  order: "132"

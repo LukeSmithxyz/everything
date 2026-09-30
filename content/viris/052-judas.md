@@ -1,5 +1,6 @@
 ---
 title: "Judas"
+worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
  order: "052"

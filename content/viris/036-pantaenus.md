@@ -1,5 +1,6 @@
 ---
 title: "Pantaenus the philosopher"
+worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
  order: "036"

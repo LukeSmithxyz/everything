@@ -1,5 +1,6 @@
 ---
 title: "Julius the African"
+worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
  order: "063"

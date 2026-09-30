@@ -1,5 +1,6 @@
 ---
 title: "Prudentius"
+worktitle: "On Illustrious Men"
 author: "Gennadius of Massilla"
 params:
  order: "148"

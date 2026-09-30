@@ -1,5 +1,6 @@
 ---
 title: "Antonius the monk"
+worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
  order: "088"

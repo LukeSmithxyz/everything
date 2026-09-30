@@ -1,5 +1,6 @@
 ---
 title: "Photinus the heresiarch"
+worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
  order: "107"

@@ -1,5 +1,6 @@
 ---
 title: "Lucius Annaeus Seneca"
+worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
  order: "012"

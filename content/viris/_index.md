@@ -1,5 +1,5 @@
 ---
-title: "Lives of Illustrious Men (De viris illustribus)"
+title: "On Illustrious Men"
 author: "St. Jerome and Gennadius of Massilla"
 params:
  das: "492"

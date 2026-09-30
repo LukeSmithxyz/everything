@@ -1,5 +1,6 @@
 ---
 title: "Acilius Severus the senator"
+worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
  order: "111"

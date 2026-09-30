@@ -1,5 +1,6 @@
 ---
 title: "Eunomius the heresiarch"
+worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
  order: "120"

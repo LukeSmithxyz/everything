@@ -1,5 +1,6 @@
 ---
 title: "Julius, bishop of Rome"
+worktitle: "On Illustrious Men"
 author: "Gennadius of Massilla"
 params:
  order: "137"

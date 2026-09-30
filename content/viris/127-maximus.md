@@ -1,5 +1,6 @@
 ---
 title: "Maximus, first philosopher, then bishop"
+worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
  order: "127"

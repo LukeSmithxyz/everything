@@ -1,5 +1,6 @@
 ---
 title: "Atticus the holy bishop"
+worktitle: "On Illustrious Men"
 author: "Gennadius of Massilla"
 params:
  order: "188"

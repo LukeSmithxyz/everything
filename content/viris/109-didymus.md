@@ -1,5 +1,6 @@
 ---
 title: "Didymus the Blind"
+worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
  order: "109"

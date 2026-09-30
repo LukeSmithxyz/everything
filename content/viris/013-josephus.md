@@ -1,5 +1,6 @@
 ---
 title: "Josephus, son of Matthias"
+worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
  order: "013"

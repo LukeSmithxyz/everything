@@ -1,5 +1,6 @@
 ---
 title: "Candidus"
+worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
  order: "048"

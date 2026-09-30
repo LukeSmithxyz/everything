@@ -1,5 +1,6 @@
 ---
 title: "Maximus"
+worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
  order: "047"

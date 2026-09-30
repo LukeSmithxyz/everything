@@ -1,5 +1,6 @@
 ---
 title: "Macarius the monk"
+worktitle: "On Illustrious Men"
 author: "Gennadius of Massilla"
 params:
  order: "145"

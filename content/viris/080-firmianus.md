@@ -1,5 +1,6 @@
 ---
 title: "Firmianus the rhetorician, surnamed Lactantius"
+worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
  order: "080"

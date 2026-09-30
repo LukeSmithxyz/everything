@@ -1,5 +1,6 @@
 ---
-title: "The Geography of Strabo, Volume 2 (of 3)"
+worktitle: "Geography"
+title: "Volume 2"
 author: "Strabo"
 params:
  translator: "W. Fanconer"

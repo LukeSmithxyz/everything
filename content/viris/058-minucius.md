@@ -1,5 +1,6 @@
 ---
 title: "Minucius Felix"
+worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
  order: "058"

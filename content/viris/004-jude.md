@@ -1,5 +1,6 @@
 ---
 title: "Jude, the brother of James"
+worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
  order: "004"

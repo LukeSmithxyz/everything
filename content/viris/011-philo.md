@@ -1,5 +1,6 @@
 ---
 title: "Philo Judaeus"
+worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
  order: "011"

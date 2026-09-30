@@ -1,5 +1,6 @@
 ---
 title: "Theodorus, his successor"
+worktitle: "On Illustrious Men"
 author: "Gennadius of Massilla"
 params:
  order: "143"

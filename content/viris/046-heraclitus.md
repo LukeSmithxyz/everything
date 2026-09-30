@@ -1,5 +1,6 @@
 ---
 title: "Heraclitus"
+worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
  order: "046"

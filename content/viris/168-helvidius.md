@@ -1,5 +1,6 @@
 ---
 title: "Helvidius"
+worktitle: "On Illustrious Men"
 author: "Gennadius of Massilla"
 params:
  order: "168"

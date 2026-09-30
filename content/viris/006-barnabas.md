@@ -1,5 +1,6 @@
 ---
 title: "Barnabas, surnamed Joseph"
+worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
  order: "006"

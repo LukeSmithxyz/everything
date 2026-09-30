@@ -1,5 +1,6 @@
 ---
 title: "Hegesippus the historian"
+worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
  order: "022"

@@ -1,5 +1,6 @@
 ---
 title: "Paulus the bishop"
+worktitle: "On Illustrious Men"
 author: "Gennadius of Massilla"
 params:
  order: "167"

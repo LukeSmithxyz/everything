@@ -1,5 +1,6 @@
 ---
 title: "Fortunatianus the bishop"
+worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
  order: "097"

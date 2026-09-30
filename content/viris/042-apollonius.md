@@ -1,5 +1,6 @@
 ---
 title: "Apollonius the senator"
+worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
  order: "042"

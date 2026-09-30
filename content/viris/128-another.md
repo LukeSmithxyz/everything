@@ -1,5 +1,6 @@
 ---
 title: "Another Gregory, also a bishop"
+worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
  order: "128"
