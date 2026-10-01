@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://books.lukesmith.xyz/'
 locale = 'en-us'
-title = 'My New Hugo Project'
+title = "Luke's Books"
 
 pluralizelisttitles = "false"
 
