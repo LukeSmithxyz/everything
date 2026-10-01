@@ -1,5 +1,7 @@
 ---
-title: "The Council of Sardica (343)"
+title: "The Canons of the Council of Sardica"
+params:
+ de: 343
 ---
 
 # Canon 1

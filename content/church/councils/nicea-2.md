@@ -1,5 +1,5 @@
 ---
-title: "The Second Council of Nicea"
+title: "The Canons of the Second Ecumenical Council of Nicea"
 params:
  order: 7
  de: 783

@@ -1,5 +1,5 @@
 ---
-title: "The Council of Ancyra"
+title: "The Canons of the Council of Ancyra"
 params:
   de: 314
   humandate: 314

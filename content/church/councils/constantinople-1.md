@@ -1,5 +1,5 @@
 ---
-title: "The Council of Constantinople"
+title: "The Canons of the Ecumenical Council of Constantinople"
 params:
  order: 2
  de: 381

@@ -1,5 +1,5 @@
 ---
-title: "The Council of Neocaesarea"
+title: "The Canons of the Council of Neocaesarea"
 params:
   da: 315
   de: 315

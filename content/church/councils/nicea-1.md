@@ -1,5 +1,5 @@
 ---
-title: "The Council of Nicea"
+title: "The Canons of the Ecumenical Council of Nicea"
 params:
  order: 1
  de: 325

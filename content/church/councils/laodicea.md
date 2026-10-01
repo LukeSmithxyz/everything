@@ -1,5 +1,5 @@
 ---
-title: "The Council of Laodicea"
+title: "The Canons of the Council of Laodicea"
 params:
   da: 364
   de: 364

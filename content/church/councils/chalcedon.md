@@ -1,5 +1,5 @@
 ---
-title: "The Council of Chalcedon"
+title: "The Canons of the Ecumenical Council of Chalcedon"
 params:
  order: 4
  humandate: 451

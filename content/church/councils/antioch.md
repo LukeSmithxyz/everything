@@ -1,5 +1,5 @@
 ---
-title: "The Council of Antioch"
+title: "The Canons of the Council of Antioch"
 params:
   da: 341
   de: 341
