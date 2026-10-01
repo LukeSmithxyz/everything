@@ -31,3 +31,8 @@ h3:hover .hlink,
 h4:hover .hlink,
 h5:hover .hlink,
 h6:hover .hlink { display: inline-block ; }
+
+.docnum {
+	font-size: small ;
+	color: gray ;
+}

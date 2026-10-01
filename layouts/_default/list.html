@@ -6,10 +6,11 @@
 <ul class=articlelist>
 {{- range .Pages.ByParam "order" }}
 <li><a href="{{ .RelPermalink }}">{{- if isset .Params "worktitle" }}{{- if ne .Params.worktitle .Parent.Params.title }}{{ .Params.worktitle }} &ndash; {{ end }}{{ end }}{{ .Title }}</a>
-	{{ partial "humandate.html" . -}}
 	{{- if ne .Parent.Params.author .Params.author -}}
 	{{- with .Params.author }} by {{ . -}}{{end -}}
 	{{ end -}}
+	{{- with .RegularPagesRecursive.Len }} <span class="docnum">({{ . }} 📁)</span>{{ end -}}
+	{{ partial "humandate.html" . -}}
 </li>
 {{- end }}
 </ul>
