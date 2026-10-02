@@ -7,7 +7,7 @@
 {{- range .Pages.ByParam "order" }}
 <li><a href="{{ .RelPermalink }}">{{- if isset .Params "worktitle" }}{{- if ne .Params.worktitle .Parent.Params.title }}{{ .Params.worktitle }} &ndash; {{ end }}{{ end }}{{ .Title }}</a>
 	{{- if ne .Parent.Params.author .Params.author -}}
-	{{- with .Params.author }} by {{ . -}}{{end -}}
+	{{- if ne .Params.author .Params.title }} by {{ .Params.author }}{{ end }}
 	{{ end -}}
 	{{ partial "humandate.html" . -}}
 	{{- with .RegularPagesRecursive.Len }} <span class="docnum">({{ . }} 📁)</span>{{ end -}}
