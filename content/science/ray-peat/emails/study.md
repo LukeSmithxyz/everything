@@ -1,0 +1,9 @@
+---
+title: "Study"
+author: "Ray Peat"
+---
+
+## Good biology books
+Harold Hillman's books are good for surveying the nonfactual aspects of 'biology.' Sometimes I put 'membranes' in quotation marks to indicate that people mean very different things by the word. (For example, the centrifugation 'pellet' is often meant when they say 'membranes'.) F.S. Sjostrand and other electron microscopists working in the 1950s to 1970s are worth looking at. The irrelevancy of the 'membrane' is explained in Gilbert Ling's work.
+
+I don't know of any single book that assembles the important things, it's probably still necessary to read the original work and some of the things in each field that have built on those. G. N. Lewis, Peter A. Stewart (the "acid base tutorial" on the internet summarizes his approach), Bungenberg de Jong (coacervates), Sidney Fox, Walter Drost-Hansen, A.S. Troshin, Gerald Pollack, Szent-Gyorgyi, Carlos Sonnenschein, James A. Shapiro are people who have tried to avoid the mainstream mistakes, and have suggested new possibilities by the facts they chose to study.

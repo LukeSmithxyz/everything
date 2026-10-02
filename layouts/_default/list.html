@@ -9,8 +9,8 @@
 	{{- if ne .Parent.Params.author .Params.author -}}
 	{{- with .Params.author }} by {{ . -}}{{end -}}
 	{{ end -}}
-	{{- with .RegularPagesRecursive.Len }} <span class="docnum">({{ . }} 📁)</span>{{ end -}}
 	{{ partial "humandate.html" . -}}
+	{{- with .RegularPagesRecursive.Len }} <span class="docnum">({{ . }} 📁)</span>{{ end -}}
 </li>
 {{- end }}
 </ul>

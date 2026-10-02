@@ -1,0 +1,7 @@
+---
+title: "Mastitis"
+author: "Ray Peat"
+---
+
+## Rapid onset of mastitis in a middle-aged, non-lactating woman with a history of prolactinoma, substances used for relief were aspirin, bromocriptine and topical lidocaine gel
+Aspirin, lidocaine, and bromocriptine are all likely to help, but low thyroid is usually behind an excess of prolactin; in middle age, estrogen tends to rise as progesterone falls. A good T3 supplement is usually the quickest way to correct breast inflammation and pain. Have you checked your temperature and pulse rate? A sluggish intestine interferes with the excretion of estrogen, so raw carrots or a laxative can often, in just a day or two, increase the ratio of progesterone to estrogen. Extra salt in your food, and a little vitamin B6 could help to lower the prolactin. Low thyroid increases water retention but causes sodium loss, and that combination increases swelling and inflammation; the diuretic effect of tea or coffee might help with the swelling.
