@@ -1,4 +1,4 @@
 ---
 title: "Articles"
-author: "Pay Peat"
+author: "Ray Peat"
 ---
