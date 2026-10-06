@@ -1,5 +1,6 @@
 ---
 title: "XIX. How the same holy man, being detained there by sickness, by his prayers quenched a fire that had broken out among the houses, and was himself cured of his infirmity by a vision."
+worktitle: "The Ecclessiastical History of the English People: Book I"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -23,7 +24,7 @@ despair, ran to oppose the conflagration; but, for the greater
 manifestation of the Divine power, whatsoever the crowd endeavoured to
 save, was destroyed; and what the sick and helpless man defended, the
 flame avoided and passed by, though the house that sheltered the holy man
-lay open to it,(96) and while the fire raged on every side, the place in
+lay open to it, and while the fire raged on every side, the place in
 which he lay appeared untouched, amid the general conflagration. The
 multitude rejoiced at the miracle, and was gladly vanquished by the power
 of God. A great crowd of people watched day and night before the humble

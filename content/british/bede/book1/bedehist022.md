@@ -1,5 +1,6 @@
 ---
 title: "XXII. How the Britons, being for a time at rest from foreign invasions, wore themselves out by civil wars, and at the same time gave themselves up to more heinous crimes."
+worktitle: "The Ecclessiastical History of the English People: Book I"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -19,7 +20,7 @@ the existing peaceable state of things, all the bonds of truth and justice
 were so entirely broken, that there was not only no trace of them
 remaining, but only very few persons seemed to retain any memory of them
 at all. To other crimes beyond description, which their own historian,
-Gildas,(103) mournfully relates, they added this—that they never preached
+Gildas, mournfully relates, they added this—that they never preached
 the faith to the Saxons, or English, who dwelt amongst them. Nevertheless,
 the goodness of God did not forsake his people, whom he foreknew, but sent
 to the aforesaid nation much more worthy heralds of the truth, to bring it

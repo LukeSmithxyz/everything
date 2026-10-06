@@ -1,5 +1,6 @@
 ---
 title: "VIII. How, when the persecution ceased, the Church in Britain enjoyed peace till the time of the Arian heresy."
+worktitle: "The Ecclessiastical History of the English People: Book I"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -25,10 +26,10 @@ firm to any sure belief.
 
 At this time Constantius, who, whilst Diocletian was alive, governed Gaul
 and Spain, a man of great clemency and urbanity, died in Britain. This man
-left his son Constantine,(59) born of Helena, his concubine, emperor of
+left his son Constantine, born of Helena, his concubine, emperor of
 the Gauls. Eutropius writes that Constantine, being created emperor in
 Britain, succeeded his father in the sovereignty. In his time the Arian
 heresy broke out, and although it was exposed and condemned in the Council
-of Nicaea,(60) nevertheless, the deadly poison of its evil spread, as has
+of Nicaea, nevertheless, the deadly poison of its evil spread, as has
 been said, to the Churches in the islands, as well as to those of the rest
 of the world.

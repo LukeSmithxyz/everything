@@ -3,7 +3,7 @@ title: "Mark, the evangelist"
 worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
- order: "008"
+ order: "8"
  da: "492"
  translator: "Ernest Cushing Richardson"
  dt: "1885"

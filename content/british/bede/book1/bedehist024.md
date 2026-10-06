@@ -1,5 +1,6 @@
 ---
 title: "XXIV. How he wrote to the bishop of Arles to entertain them."
+worktitle: "The Ecclessiastical History of the English People: Book I"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -9,7 +10,7 @@ params:
 
 
 The same venerable pope also sent at the same time a letter to Aetherius,
-archbishop of Arles,(107) exhorting him to give favourable entertainment
+archbishop of Arles, exhorting him to give favourable entertainment
 to Augustine on his way to Britain; which letter was in these words:
 
 “_To his most reverend and holy brother and fellow bishop Aetherius,
@@ -26,7 +27,7 @@ we have enjoined him to inform you particularly of the occasion of his
 coming; knowing, that when you are acquainted with it, you will, as the
 matter requires, for the sake of God, dutifully dispose yourself to give
 him comfort. We also in all things recommend to your charity,
-Candidus,(108) the priest, our common son, whom we have transferred to the
+Candidus, the priest, our common son, whom we have transferred to the
 administration of a small patrimony in our Church. God keep you in safety,
 most reverend brother. Given the 23rd day of July, in the fourteenth year
 of the reign of our most religious lord, Mauritius Tiberius Augustus, the

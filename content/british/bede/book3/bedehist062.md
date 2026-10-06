@@ -1,5 +1,6 @@
 ---
 title: "VIII. How Earconbert, King of Kent, ordered the idols to be destroyed; and of his daughter Earcongota, and his kinswoman Ethelberg, virgins consecrated to God."
+worktitle: "The Ecclessiastical History of the English People: Book III"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -8,7 +9,7 @@ params:
 ---
 
 
-In the year of our Lord 640, Eadbald,(331) king of Kent, departed this
+In the year of our Lord 640, Eadbald, king of Kent, departed this
 life, and left his kingdom to his son Earconbert, who governed it most
 nobly twenty-four years and some months. He was the first of the English
 kings that of his supreme authority commanded the idols throughout his
@@ -17,18 +18,18 @@ be observed; and that the same might not be lightly neglected, he
 appointed fitting and condign punishments for the offenders. His daughter
 Earcongota, as became the offspring of such a parent, was a most virtuous
 virgin, serving God in a monastery in the country of the Franks, built by
-a most noble abbess, named Fara, at a place called In Brige;(332) for at
+a most noble abbess, named Fara, at a place called In Brige; for at
 that time but few monasteries had been built in the country of the Angles,
 and many were wont, for the sake of monastic life, to repair to the
 monasteries of the Franks or Gauls; and they also sent their daughters
 there to be instructed, and united to their Heavenly Bridegroom,
-especially in the monasteries of Brige, of Cale,(333) and Andilegum.(334)
-Among whom was also Saethryth,(335) daughter of the wife of Anna, king of
-the East Angles, above mentioned; and Ethelberg,(336) the king’s own
+especially in the monasteries of Brige, of Cale, and Andilegum.
+Among whom was also Saethryth, daughter of the wife of Anna, king of
+the East Angles, above mentioned; and Ethelberg, the king’s own
 daughter; both of whom, though strangers, were for their virtue made
-abbesses of the monastery of Brige. Sexburg,(337) that king’s elder
+abbesses of the monastery of Brige. Sexburg, that king’s elder
 daughter, wife to Earconbert, king of Kent, had a daughter called
-Earcongota,(338) of whom we are about to speak.
+Earcongota, of whom we are about to speak.
 
 Many wonderful works and miracles of this virgin, dedicated to God, are to
 this day related by the inhabitants of that place; but for us it shall

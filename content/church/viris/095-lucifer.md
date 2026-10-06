@@ -3,7 +3,7 @@ title: "Lucifer the bishop"
 worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
- order: "095"
+ order: "95"
  da: "492"
  translator: "Ernest Cushing Richardson"
  dt: "1885"

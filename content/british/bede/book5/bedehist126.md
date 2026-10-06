@@ -1,5 +1,6 @@
 ---
 title: "X. How Wilbrord, preaching in Frisland, converted many to Christ; and how his two companions, the Hewalds, suffered martyrdom."
+worktitle: "The Ecclessiastical History of the English People: Book V"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -14,10 +15,10 @@ some other advantage to the holy Church, whereof he had been forewarned by
 a revelation; nor that Wictbert, when he went into those parts, had
 availed to do anything; he nevertheless still attempted to send holy and
 industrious men to the work of the Word, among whom the most notable was
-Wilbrord,(824) a man eminent for his merit and rank as priest. They
-arrived there, twelve in number, and turning aside to Pippin,(825) duke of
+Wilbrord, a man eminent for his merit and rank as priest. They
+arrived there, twelve in number, and turning aside to Pippin, duke of
 the Franks, were gladly received by him; and as he had lately subdued the
-nearer part of Frisland, and expelled King Rathbed,(826) he sent them
+nearer part of Frisland, and expelled King Rathbed, he sent them
 thither to preach, supporting them at the same time with his sovereign
 authority, that none might molest them in their preaching, and bestowing
 many favours on those who consented to receive the faith. Thus it came to
@@ -30,11 +31,11 @@ went into the province of the Old Saxons, if haply they could there win
 any to Christ by their preaching. They were alike in name as in devotion,
 Hewald being the name of both, with this distinction, that, on account of
 the different colour of their hair, the one was called Black Hewald and
-the other White Hewald.(827) They were both full of religious piety, but
+the other White Hewald. They were both full of religious piety, but
 Black Hewald was the more learned of the two in Scripture. When they came
 into the province, these men took up their lodging in the guesthouse of a
 certain township-reeve, and asked of him that he would conduct them to the
-ealdorman(828) who was over him, for that they had a message concerning
+ealdorman who was over him, for that they had a message concerning
 matters of importance to communicate to him. For those Old Saxons have no
 king, but many ealdormen set over their nation; and when any war is on the
 point of breaking out, they cast lots indifferently, and on whomsoever the
@@ -59,7 +60,7 @@ ealdorman, whom they had desired to see, hearing of it, was very angry
 that strangers who desired to come to him had not been suffered to come;
 and therefore he sent and put to death all those villagers and burned
 their village. The aforesaid priests and servants of Christ suffered on
-the 3rd of October.(829)
+the 3rd of October.
 
 Miracles from Heaven were not lacking at their martyrdom. For their dead
 bodies, having been cast into the river by the pagans, as has been said,
@@ -77,6 +78,6 @@ their passion or of the finding of their bodies, is celebrated in those
 parts with fitting veneration. Finally, Pippin, the most glorious duke of
 the Franks, learning these things, caused the bodies to be brought to him,
 and buried them with much honour in the church of the city of Cologne, on
-the Rhine.(830) And it is said that a spring burst forth in the place
+the Rhine. And it is said that a spring burst forth in the place
 where they were killed, which to this day affords a plentiful stream in
 that same place.

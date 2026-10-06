@@ -1,5 +1,6 @@
 ---
 title: "XXV. How Augustine, coming into Britain, first preached in the Isle of Thanet to the King of Kent, and having obtained licence from him, went into Kent, in order to preach therein."
+worktitle: "The Ecclessiastical History of the English People: Book I"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -11,16 +12,16 @@ params:
 Augustine, thus strengthened by the encouragement of the blessed Father
 Gregory, returned to the work of the Word of God, with the servants of
 Christ who were with him, and arrived in Britain. The powerful Ethelbert
-was at that time king of Kent;(109) he had extended his dominions as far
+was at that time king of Kent; he had extended his dominions as far
 as the boundary formed by the great river Humber, by which the Southern
 Saxons are divided from the Northern. On the east of Kent is the large
 Isle of Thanet, containing, according to the English way of reckoning, 600
-families,(110) divided from the mainland by the river Wantsum,(111) which
+families, divided from the mainland by the river Wantsum, which
 is about three furlongs in breadth, and which can be crossed only in two
-places; for at both ends it runs into the sea. On this island landed(112)
+places; for at both ends it runs into the sea. On this island landed
 the servant of the Lord, Augustine, and his companions, being, as is
 reported, nearly forty men. They had obtained, by order of the blessed
-Pope Gregory, interpreters of the nation of the Franks,(113) and sending
+Pope Gregory, interpreters of the nation of the Franks, and sending
 to Ethelbert, signified that they were come from Rome, and brought a
 joyful message, which most undoubtedly assured to those that hearkened to
 it everlasting joys in heaven, and a kingdom that would never end, with
@@ -28,9 +29,9 @@ the living and true God. The king hearing this, gave orders that they
 should stay in the island where they had landed, and be furnished with
 necessaries, till he should consider what to do with them. For he had
 before heard of the Christian religion, having a Christian wife of the
-royal family of the Franks, called Bertha;(114) whom he had received from
+royal family of the Franks, called Bertha; whom he had received from
 her parents, upon condition that she should be permitted to preserve
-inviolate the rites of her religion with the Bishop Liudhard,(115) who was
+inviolate the rites of her religion with the Bishop Liudhard, who was
 sent with her to support her in the faith. Some days after, the king came
 into the island, and sitting in the open air, ordered Augustine and his
 companions to come and hold a conference with him. For he had taken
@@ -52,7 +53,7 @@ which you believe to be true, and most beneficial, we desire not to harm
 you, but will give you favourable entertainment, and take care to supply
 you with all things necessary to your sustenance; nor do we forbid you to
 preach and gain as many as you can to your religion.” Accordingly he gave
-them an abode in the city of Canterbury,(116) which was the metropolis of
+them an abode in the city of Canterbury, which was the metropolis of
 all his dominions, and, as he had promised, besides supplying them with
 sustenance, did not refuse them liberty to preach. It is told that, as
 they drew near to the city, after their manner, with the holy cross, and

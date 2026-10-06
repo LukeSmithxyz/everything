@@ -3,7 +3,7 @@ title: "Minucius Felix"
 worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
- order: "058"
+ order: "58"
  da: "492"
  translator: "Ernest Cushing Richardson"
  dt: "1885"

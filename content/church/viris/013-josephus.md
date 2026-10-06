@@ -3,7 +3,7 @@ title: "Josephus, son of Matthias"
 worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
- order: "013"
+ order: "13"
  da: "492"
  translator: "Ernest Cushing Richardson"
  dt: "1885"

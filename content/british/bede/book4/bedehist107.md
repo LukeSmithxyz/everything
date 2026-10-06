@@ -1,5 +1,6 @@
 ---
 title: "XXIII. Of the life and death of the Abbess Hilda."
+worktitle: "The Ecclessiastical History of the English People: Book IV"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -9,40 +10,40 @@ params:
 ---
 
 In the year after this, that is the year of our Lord 680, the most
-religious handmaid of Christ, Hilda,(681) abbess of the monastery that is
-called Streanaeshalch,(682) as we mentioned above, after having done many
+religious handmaid of Christ, Hilda, abbess of the monastery that is
+called Streanaeshalch, as we mentioned above, after having done many
 heavenly deeds on earth, passed thence to receive the rewards of the
 heavenly life, on the 17th of November, at the age of sixty-six years. Her
 life falls into two equal parts, for the first thirty-three years of it
 she spent living most nobly in the secular habit; and still more nobly
 dedicated the remaining half to the Lord in the monastic life. For she was
-nobly born, being the daughter of Hereric,(683) nephew to King Edwin, and
+nobly born, being the daughter of Hereric, nephew to King Edwin, and
 with that king she also received the faith and mysteries of Christ, at the
-preaching of Paulinus, of blessed memory,(684) the first bishop of the
+preaching of Paulinus, of blessed memory, the first bishop of the
 Northumbrians, and preserved the same undefiled till she attained to the
 vision of our Lord in Heaven.
 
 When she had resolved to quit the secular habit, and to serve Him alone,
 she withdrew into the province of the East Angles, for she was allied to
-the king there;(685) being desirous to cross over thence into Gaul,
+the king there; being desirous to cross over thence into Gaul,
 forsaking her native country and all that she had, and so to live a
-stranger for our Lord’s sake in the monastery of Cale,(686) that she might
+stranger for our Lord’s sake in the monastery of Cale, that she might
 the better attain to the eternal country in heaven. For her sister
-Heresuid, mother to Aldwulf,(687) king of the East Angles, was at that
+Heresuid, mother to Aldwulf, king of the East Angles, was at that
 time living in the same monastery, under regular discipline, waiting for
 an everlasting crown; and led by her example, she continued a whole year
 in the aforesaid province, with the design of going abroad; but
 afterwards, Bishop Aidan recalled her to her home, and she received land
-to the extent of one family on the north side of the river Wear;(688)
+to the extent of one family on the north side of the river Wear;
 where likewise for a year she led a monastic life, with very few
 companions.
 
-After this she was made abbess in the monastery called Heruteu,(689) which
+After this she was made abbess in the monastery called Heruteu, which
 monastery had been founded, not long before, by the pious handmaid of
-Christ, Heiu,(690) who is said to have been the first woman in the
+Christ, Heiu, who is said to have been the first woman in the
 province of the Northumbrians who took upon her the vows and habit of a
 nun, being consecrated by Bishop Aidan; but she, soon after she had
-founded that monastery, retired to the city of Calcaria,(691) which is
+founded that monastery, retired to the city of Calcaria, which is
 called Kaelcacaestir by the English, and there fixed her dwelling. Hilda,
 the handmaid of Christ, being set over that monastery, began immediately
 to order it in all things under a rule of life, according as she had been
@@ -69,28 +70,28 @@ of the altar.
 
 Indeed we have seen five from that monastery who afterwards became
 bishops, and all of them men of singular merit and sanctity, whose names
-were Bosa,(692) Aetla,(693) Oftfor,(694) John,(695) and Wilfrid.(696) Of
+were Bosa, Aetla, Oftfor, John, and Wilfrid. Of
 the first we have said above that he was consecrated bishop of York; of
 the second, it may be briefly stated that he was appointed bishop of
 Dorchester. Of the last two we shall tell hereafter, that the former was
 ordained bishop of Hagustald, the other of the church of York; of the
 third, we may here mention that, having applied himself to the reading and
 observance of the Scriptures in both the monasteries of the Abbess
-Hilda,(697) at length being desirous to attain to greater perfection, he
+Hilda, at length being desirous to attain to greater perfection, he
 went into Kent, to Archbishop Theodore, of blessed memory; where having
 spent some time in sacred studies, he resolved to go to Rome also, which,
 in those days, was esteemed a very salutary undertaking. Returning thence
-into Britain, he took his way into the province of the Hwiccas,(698) where
-King Osric then ruled,(699) and continued there a long time, preaching the
+into Britain, he took his way into the province of the Hwiccas, where
+King Osric then ruled, and continued there a long time, preaching the
 Word of faith, and showing an example of good life to all that saw and
-heard him. At that time, Bosel, the bishop of that province,(700) laboured
+heard him. At that time, Bosel, the bishop of that province, laboured
 under such weakness of body, that he could not himself perform episcopal
 functions; for which reason, Oftfor was, by universal consent, chosen
-bishop in his stead, and by order of King Ethelred,(701) consecrated by
-Bishop Wilfrid,(702) of blessed memory, who was then Bishop of the Midland
+bishop in his stead, and by order of King Ethelred, consecrated by
+Bishop Wilfrid, of blessed memory, who was then Bishop of the Midland
 Angles, because Archbishop Theodore was dead, and no other bishop ordained
 in his place. A little while before, that is, before the election of the
-aforesaid man of God, Bosel, Tatfrid,(703) a man of great industry and
+aforesaid man of God, Bosel, Tatfrid, a man of great industry and
 learning, and of excellent ability, had been chosen bishop for that
 province, from the monastery of the same abbess, but had been snatched
 away by an untimely death, before he could be ordained.
@@ -102,7 +103,7 @@ of amendment and salvation to many who lived at a distance, to whom the
 blessed fame was brought of her industry and virtue. For it was meet that
 the dream of her mother, Bregusuid, during her infancy, should be
 fulfilled. Now Bregusuid, at the time that her husband, Hereric, lived in
-banishment, under Cerdic,(704) king of the Britons, where he was also
+banishment, under Cerdic, king of the Britons, where he was also
 poisoned, fancied, in a dream, that he was suddenly taken away from her
 and she was seeking for him most carefully, but could find no sign of him
 anywhere. After an anxious search for him, all at once she found a most
@@ -125,7 +126,7 @@ own experience she admonished all men to serve the Lord dutifully, when
 health of body is granted to them, and always to return thanks faithfully
 to Him in adversity, or bodily infirmity. In the seventh year of her
 sickness, when the disease turned inwards, her last day came, and about
-cockcrow, having received the voyage provision(705) of Holy Housel, and
+cockcrow, having received the voyage provision of Holy Housel, and
 called together the handmaids of Christ that were within the same
 monastery, she admonished them to preserve the peace of the Gospel among
 themselves, and with all others; and even as she spoke her words of
@@ -134,8 +135,8 @@ passed from death unto life.
 
 That same night it pleased Almighty God, by a manifest vision, to make
 known her death in another monastery, at a distance from hers, which she
-had built that same year, and which is called Hacanos.(706) There was in
-that monastery, a certain nun called Begu,(707) who, having dedicated her
+had built that same year, and which is called Hacanos. There was in
+that monastery, a certain nun called Begu, who, having dedicated her
 virginity to the Lord, had served Him upwards of thirty years in the
 monastic life. This nun was resting in the dormitory of the sisters, when
 on a sudden she heard in the air the well-known sound of the bell, which
@@ -147,7 +148,7 @@ God in that same light, being carried to heaven attended and guided by
 angels. Then awaking, and seeing the other sisters lying round about her,
 she perceived that what she had seen had been revealed to her either in a
 dream or a vision; and rising immediately in great fear, she ran to the
-virgin who then presided in the monastery in the place of the abbess,(708)
+virgin who then presided in the monastery in the place of the abbess,
 and whose name was Frigyth, and, with many tears and lamentations, and
 heaving deep sighs, told her that the Abbess Hilda, mother of them all,
 had departed this life, and had in her sight ascended to the gates of

@@ -1,5 +1,6 @@
 ---
 title: "XII. How a little boy was cured of a fever at his tomb."
+worktitle: "The Ecclessiastical History of the English People: Book III"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -24,7 +25,7 @@ healing had been wrought. Nor need we wonder that the prayers of that king
 who is now reigning with our Lord, should be very efficacious with Him,
 since he, whilst yet governing his temporal kingdom, was always wont to
 pray and labour more for that which is eternal. Nay, it is said, that he
-often continued in prayer from the hour of morning thanksgiving(349) till
+often continued in prayer from the hour of morning thanksgiving till
 it was day; and that by reason of his constant custom of praying or giving
 thanks to God, he was wont always, wherever he sat, to hold his hands on
 his knees with the palms turned upwards. It is also commonly affirmed and
@@ -39,4 +40,4 @@ and buried therein: but the king who slew him commanded his head, and
 hands, with the arms, to be cut off from the body, and set upon stakes.
 But his successor in the throne, Oswy, coming thither the next year with
 his army, took them down, and buried his head in the cemetery of the
-church of Lindisfarne,(350) and the hands and arms in his royal city.(351)
+church of Lindisfarne, and the hands and arms in his royal city.

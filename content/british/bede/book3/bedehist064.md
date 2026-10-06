@@ -1,5 +1,6 @@
 ---
 title: "X. How the dust of that place prevailed against fire."
+worktitle: "The Ecclessiastical History of the English People: Book III"
 author: "The Venerable Bede"
 params:
  da: "731"

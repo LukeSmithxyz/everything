@@ -1,5 +1,6 @@
 ---
 title: "IV. How Bishop Colman, having left Britain, built two monasteries in the country of the Scots; the one for the Scots, the other for the English whom he had taken along with him."
+worktitle: "The Ecclessiastical History of the English People: Book IV"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -8,15 +9,15 @@ params:
 ---
 
 
-In the meantime, Colman, the Scottish bishop, departing from Britain,(556)
+In the meantime, Colman, the Scottish bishop, departing from Britain,
 took along with him all the Scots whom he had gathered about him in the
 isle of Lindisfarne, and also about thirty of the English nation, for both
 these companies had been trained in duties of the monastic life; and
 leaving some brothers in his church, he went first to the isle of
-Hii,(557) whence he had been sent to preach the Word of God to the English
+Hii, whence he had been sent to preach the Word of God to the English
 nation. Afterwards he retired to a small island, which is to the west of
 Ireland, and at some distance from it, called in the language of the
-Scots, Inisboufinde,(558) the Island of the White Heifer. Arriving there,
+Scots, Inisboufinde, the Island of the White Heifer. Arriving there,
 he built a monastery, and placed in it the monks he had brought of both
 nations. But they could not agree among themselves, by reason that the
 Scots, in the summer season, when the harvest was to be brought in,
@@ -25,7 +26,7 @@ returned again the next winter, and desired to use in common what the
 English had provided. Colman sought to put an end to this dissension, and
 travelling about far and near, he found a place in the island of Ireland
 fitted to be the site of a monastery, which, in the language of the Scots,
-is called Mageo.(559) He bought a small part of it of the chief to whom it
+is called Mageo. He bought a small part of it of the chief to whom it
 belonged, to build his monastery thereon; upon condition, that the monks
 dwelling there should pray to the Lord for him who let them have the
 place. Then at once building a monastery, with the assistance of the chief

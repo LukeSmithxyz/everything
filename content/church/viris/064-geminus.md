@@ -3,7 +3,7 @@ title: "Geminus the presbyter"
 worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
- order: "064"
+ order: "64"
  da: "492"
  translator: "Ernest Cushing Richardson"
  dt: "1885"

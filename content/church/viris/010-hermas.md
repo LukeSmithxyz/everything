@@ -3,7 +3,7 @@ title: "Hermas"
 worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
- order: "010"
+ order: "10"
  da: "492"
  translator: "Ernest Cushing Richardson"
  dt: "1885"

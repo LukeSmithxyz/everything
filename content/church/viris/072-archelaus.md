@@ -3,7 +3,7 @@ title: "Archelaus the bishop"
 worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
- order: "072"
+ order: "72"
  da: "492"
  translator: "Ernest Cushing Richardson"
  dt: "1885"

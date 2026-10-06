@@ -1,5 +1,6 @@
 ---
 title: "IX. Of the reign of King Edwin, and how Paulinus, coming to preach the Gospel, first converted his daughter and others to the mysteries of the faith of Christ."
+worktitle: "The Ecclessiastical History of the English People: Book II"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -11,21 +12,21 @@ params:
 
 At this time the nation of the Northumbrians, that is, the English tribe
 dwelling on the north side of the river Humber, with their king,
-Edwin,(206) received the Word of faith through the preaching of
-Paulinus,(207) of whom we have before spoken. This king, as an earnest of
+Edwin, received the Word of faith through the preaching of
+Paulinus, of whom we have before spoken. This king, as an earnest of
 his reception of the faith, and his share in the heavenly kingdom,
 received an increase also of his temporal realm, for he reduced under his
-dominion all the parts of Britain(208) that were provinces either of the
+dominion all the parts of Britain that were provinces either of the
 English, or of the Britons, a thing which no English king had ever done
 before; and he even subjected to the English the Mevanian islands, as has
-been said above.(209) The more important of these, which is to the
+been said above. The more important of these, which is to the
 southward, is the larger in extent, and more fruitful, containing nine
 hundred and sixty families, according to the English computation; the
 other contains above three hundred.
 
 The occasion of this nation’s reception of the faith was the alliance by
 marriage of their aforesaid king with the kings of Kent, for he had taken
-to wife Ethelberg, otherwise called Tata,(210) daughter to King Ethelbert.
+to wife Ethelberg, otherwise called Tata, daughter to King Ethelbert.
 When he first sent ambassadors to ask her in marriage of her brother
 Eadbald, who then reigned in Kent, he received the answer, “That it was
 not lawful to give a Christian maiden in marriage to a pagan husband, lest
@@ -49,22 +50,22 @@ Edwin with the aforesaid maiden as an attendant on their union in the
 flesh. But his mind was wholly bent upon calling the nation to which he
 was sent to the knowledge of truth; according to the words of the Apostle,
 “To espouse her to the one true Husband, that he might present her as a
-chaste virgin to Christ.”(211) Being come into that province, he laboured
+chaste virgin to Christ.” Being come into that province, he laboured
 much, not only to retain those that went with him, by the help of God,
 that they should not abandon the faith, but, if haply he might, to convert
 some of the pagans to the grace of the faith by his preaching. But, as the
 Apostle says, though he laboured long in the Word, “The god of this world
 blinded the minds of them that believed not, lest the light of the
-glorious Gospel of Christ should shine unto them.”(212)
+glorious Gospel of Christ should shine unto them.”
 
 The next year there came into the province one called Eumer, sent by the
-king of the West-Saxons, whose name was Cuichelm,(213) to lie in wait for
+king of the West-Saxons, whose name was Cuichelm, to lie in wait for
 King Edwin, in hopes at once to deprive him of his kingdom and his life.
 He had a two-edged dagger, dipped in poison, to the end that, if the wound
 inflicted by the weapon did not avail to kill the king, it might be aided
 by the deadly venom. He came to the king on the first day of the Easter
-festival,(214) at the river Derwent, where there was then a royal
-township,(215) and being admitted as if to deliver a message from his
+festival, at the river Derwent, where there was then a royal
+township, and being admitted as if to deliver a message from his
 master, whilst unfolding in cunning words his pretended embassy, he
 started up on a sudden, and unsheathing the dagger under his garment,
 assaulted the king. When Lilla, the king’s most devoted servant, saw this,
@@ -87,7 +88,7 @@ renounce his idols, and serve Christ; and as a pledge that he would
 perform his promise, he delivered up that same daughter to Bishop
 Paulinus, to be consecrated to Christ. She was the first to be baptized of
 the nation of the Northumbrians, and she received Baptism on the holy day
-of Pentecost, along with eleven others of her house.(216) At that time,
+of Pentecost, along with eleven others of her house. At that time,
 the king, being recovered of the wound which he had received, raised an
 army and marched against the nation of the West-Saxons; and engaging in
 war, either slew or received in surrender all those of whom he learned

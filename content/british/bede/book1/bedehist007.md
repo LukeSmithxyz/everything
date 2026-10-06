@@ -1,5 +1,6 @@
 ---
 title: "VII. The Passion of St. Alban and his companions, who at that time shed their blood for our Lord."
+worktitle: "The Ecclessiastical History of the English People: Book I"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -9,7 +10,7 @@ params:
 
 
 
-At that time suffered St. Alban,(50) of whom the priest Fortunatus,(51) in
+At that time suffered St. Alban, of whom the priest Fortunatus, in
 the Praise of Virgins, where he makes mention of the blessed martyrs that
 came to the Lord from all parts of the world, says:
 
@@ -19,7 +20,7 @@ came to the Lord from all parts of the world, says:
 
 This Alban, being yet a pagan, at the time when at the bidding of
 unbelieving rulers all manner of cruelty was practised against the
-Christians, gave entertainment in his house to a certain clerk,(52) flying
+Christians, gave entertainment in his house to a certain clerk, flying
 from his persecutors. This man he observed to be engaged in continual
 prayer and watching day and night; when on a sudden the Divine grace
 shining on him, he began to imitate the example of faith and piety which
@@ -70,7 +71,7 @@ perceived that he was not to be overcome by tortures, or withdrawn from
 the exercise of the Christian religion, he ordered him to be put to death.
 Being led to execution, he came to a river, which, with a most rapid
 course, ran between the wall of the town and the arena where he was to be
-executed.(53) He there saw a great multitude of persons of both sexes, and
+executed. He there saw a great multitude of persons of both sexes, and
 of divers ages and conditions, who were doubtless assembled by Divine
 inspiration, to attend the blessed confessor and martyr, and had so filled
 the bridge over the river, that he could scarce pass over that evening. In
@@ -102,7 +103,7 @@ its service to the martyr. For it was impossible that the martyr, who had
 left no water remaining in the river, should desire it on the top of the
 hill, unless he thought it fitting. The river then having done service and
 fulfilled the pious duty, returned to its natural course, leaving a
-testimony of its obedience.(54) Here, therefore, the head of the undaunted
+testimony of its obedience. Here, therefore, the head of the undaunted
 martyr was struck off, and here he received the crown of life, which God
 has promised to them that love him. But he who laid impious hands on the
 holy man’s neck was not permitted to rejoice over his dead body; for his
@@ -118,15 +119,15 @@ so many heavenly miracles, ordered the persecution to cease immediately,
 and began to honour the death of the saints, by which he once thought that
 they might have been turned from their zeal for the Christian faith. The
 blessed Alban suffered death on the twenty-second day of June, near the
-city of Verulam,(55) which is now by the English nation called
+city of Verulam, which is now by the English nation called
 Verlamacaestir, or Vaeclingacaestir, where afterwards, when peaceable
 Christian times were restored, a church of wonderful workmanship, and
-altogether worthy to commemorate his martyrdom, was erected.(56) In which
+altogether worthy to commemorate his martyrdom, was erected. In which
 place the cure of sick persons and the frequent working of wonders cease
 not to this day.
 
-At that time suffered Aaron and Julius,(57) citizens of the City of
-Legions,(58) and many more of both sexes in divers places; who, after that
+At that time suffered Aaron and Julius, citizens of the City of
+Legions, and many more of both sexes in divers places; who, after that
 they had endured sundry torments, and their limbs had been mangled after
 an unheard-of manner, when their warfare was accomplished, yielded their
 souls up to the joys of the heavenly city.

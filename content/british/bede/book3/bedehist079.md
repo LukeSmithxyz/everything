@@ -1,5 +1,6 @@
 ---
-title: "XXV. How the question arose about the due time of keeping Easter, with those that came out of Scotland.(454)"
+title: "XXV. How the question arose about the due time of keeping Easter, with those that came out of Scotland."
+worktitle: "The Ecclessiastical History of the English People: Book III"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -14,20 +15,20 @@ built a church in the Isle of Lindisfarne, fit for the episcopal see;
 nevertheless, after the manner of the Scots, he made it, not of stone, but
 entirely of hewn oak, and covered it with reeds; and it was afterwards
 dedicated in honour of the blessed Peter the Apostle, by the most reverend
-Archbishop Theodore. Eadbert,(455) also bishop of that place, took off the
+Archbishop Theodore. Eadbert, also bishop of that place, took off the
 thatch, and caused it to be covered entirely, both roof and walls, with
 plates of lead.
 
 At this time, a great and frequently debated question arose about the
-observance of Easter;(456) those that came from Kent or Gaul affirming,
+observance of Easter; those that came from Kent or Gaul affirming,
 that the Scots celebrated Easter Sunday contrary to the custom of the
 universal Church. Among them was a most zealous defender of the true
-Easter, whose name was Ronan,(457) a Scot by nation, but instructed in the
+Easter, whose name was Ronan, a Scot by nation, but instructed in the
 rule of ecclesiastical truth in Gaul or Italy. Disputing with Finan, he
 convinced many, or at least induced them to make a more strict inquiry
 after the truth; yet he could not prevail upon Finan, but, on the
 contrary, embittered him the more by reproof, and made him a professed
-opponent of the truth, for he was of a violent temper. James,(458)
+opponent of the truth, for he was of a violent temper. James,
 formerly the deacon of the venerable Archbishop Paulinus, as has been said
 above, observed the true and Catholic Easter, with all those that he could
 instruct in the better way. Queen Eanfled and her followers also observed
@@ -47,7 +48,7 @@ important persons, but even by the bishops, Honorius of Canterbury, and
 Felix of the East Angles.
 
 But after the death of Finan, who succeeded him, when Colman, who was also
-sent from Scotland,(459) came to be bishop, a greater controversy arose
+sent from Scotland, came to be bishop, a greater controversy arose
 about the observance of Easter, and other rules of ecclesiastical life.
 Whereupon this question began naturally to influence the thoughts and
 hearts of many who feared, lest haply, having received the name of
@@ -55,32 +56,32 @@ Christians, they might run, or have run, in vain. This reached the ears of
 the rulers, King Oswy and his son Alchfrid. Now Oswy, having been
 instructed and baptized by the Scots, and being very perfectly skilled in
 their language, thought nothing better than what they taught; but
-Alchfrid, having for his teacher in Christianity the learned Wilfrid,(460)
+Alchfrid, having for his teacher in Christianity the learned Wilfrid,
 who had formerly gone to Rome to study ecclesiastical doctrine, and spent
-much time at Lyons with Dalfinus,(461) archbishop of Gaul, from whom also
+much time at Lyons with Dalfinus, archbishop of Gaul, from whom also
 he had received the crown of ecclesiastical tonsure, rightly thought that
 this man’s doctrine ought to be preferred before all the traditions of the
 Scots. For this reason he had also given him a monastery of forty
-families, at a place called Inhrypum;(462) which place, not long before,
+families, at a place called Inhrypum; which place, not long before,
 he had given for a monastery to those that were followers of the Scots;
 but forasmuch as they afterwards, being left to their choice, preferred to
 quit the place rather than alter their custom, he gave it to him, whose
 life and doctrine were worthy of it.
 
-Agilbert, bishop of the West Saxons,(463) above-mentioned, a friend of
+Agilbert, bishop of the West Saxons, above-mentioned, a friend of
 King Alchfrid and of Abbot Wilfrid, had at that time come into the
 province of the Northumbrians, and was staying some time among them; at
 the request of Alchfrid, he made Wilfrid a priest in his aforesaid
-monastery. He had in his company a priest, whose name was Agatho.(464) The
+monastery. He had in his company a priest, whose name was Agatho. The
 question being raised there concerning Easter and the tonsure and other
 ecclesiastical matters, it was arranged, that a synod should be held in
-the monastery of Streanaeshalch,(465) which signifies the Bay of the
-Lighthouse, where the Abbess Hilda,(466) a woman devoted to the service of
+the monastery of Streanaeshalch, which signifies the Bay of the
+Lighthouse, where the Abbess Hilda, a woman devoted to the service of
 God, then ruled; and that there this question should be decided. The
 kings, both father and son, came thither, and the bishops, Colman with his
 Scottish clerks, and Agilbert with the priests Agatho and Wilfrid. James
 and Romanus were on their side; but the Abbess Hilda and her followers
-were for the Scots, as was also the venerable Bishop Cedd,(467) long
+were for the Scots, as was also the venerable Bishop Cedd, long
 before ordained by the Scots, as has been said above, and he acted in that
 council as a most careful interpreter for both parties.
 
@@ -96,7 +97,7 @@ bishop; all our forefathers, men beloved of God, are known to have
 celebrated it after the same manner; and that it may not seem to any
 contemptible and worthy to be rejected, it is the same which the blessed
 John the Evangelist, the disciple specially beloved of our Lord, with all
-the churches over which he presided, is recorded to have celebrated.”(468)
+the churches over which he presided, is recorded to have celebrated.”
 When he had said thus much, and more to the like effect, the king
 commanded Agilbert to make known the manner of his observance and to show
 whence it was derived, and on what authority he followed it. Agilbert
@@ -127,12 +128,12 @@ Jews who were among the Gentiles, were not able at once to cast off all
 the observances of the Law which had been instituted by God, in the same
 way as it is necessary that all who come to the faith should forsake the
 idols which were invented by devils. For this reason it was, that Paul
-circumcised Timothy,(469) that he offered sacrifice in the temple,(470)
-that he shaved his head with Aquila and Priscilla at Corinth;(471) for no
+circumcised Timothy, that he offered sacrifice in the temple,
+that he shaved his head with Aquila and Priscilla at Corinth; for no
 other advantage than to avoid giving offence to the Jews. Hence it was,
 that James said to the same Paul, ‘Thou seest, brother, how many thousands
 of Jews there are which believe; and they are all zealous of the
-Law.’(472) And yet, at this time, when the light of the Gospel is
+Law.’ And yet, at this time, when the light of the Gospel is
 spreading throughout the world, it is needless, nay, it is not lawful, for
 the faithful either to be circumcised, or to offer up to God sacrifices of
 flesh. So John, according to the custom of the Law, began the celebration
@@ -159,7 +160,7 @@ all the successors of the blessed John in Asia, since his death, and all
 the Church throughout the world, have since followed; and that this is the
 true Easter, and the only one to be celebrated by the faithful, was not
 newly decreed by the council of Nicaea, but only confirmed afresh; as the
-history of the Church informs us.(473)
+history of the Church informs us.
 
 “Thus it is plain, that you, Colman, neither follow the example of John,
 as you imagine, nor that of Peter, whose tradition you oppose with full
@@ -180,7 +181,7 @@ which the Law ordered to be specially observed. Thus, as I have said
 before, you agree neither with John nor Peter, nor with the Law, nor the
 Gospel, in the celebration of the greatest festival.”
 
-To this Colman rejoined: “Did the holy Anatolius,(474) much commended in
+To this Colman rejoined: “Did the holy Anatolius, much commended in
 the history of the Church, judge contrary to the Law and the Gospel, when
 he wrote, that Easter was to be celebrated from the fourteenth to the
 twentieth moon? Is it to be believed that our most reverend Father Columba
@@ -229,7 +230,7 @@ also, if he was Christ’s servant,) was a holy man and powerful in
 miracles, yet could he be preferred before the most blessed chief of the
 Apostles, to whom our Lord said, ‘Thou art Peter, and upon this rock I
 will build my Church, and the gates of hell shall not prevail against it,
-and I will give unto thee the keys of the kingdom of Heaven?’ ”(475)
+and I will give unto thee the keys of the kingdom of Heaven?’ ”
 
 When Wilfrid had ended thus, the king said, “Is it true, Colman, that
 these words were spoken to Peter by our Lord?” He answered, “It is true, O

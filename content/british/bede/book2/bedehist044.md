@@ -1,5 +1,6 @@
 ---
 title: "X. How Pope Boniface, by letter, exhorted the same king to embrace the faith."
+worktitle: "The Ecclessiastical History of the English People: Book II"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -8,7 +9,7 @@ params:
 ---
 
 
-At this time he received a letter from Pope Boniface(217) exhorting him to
+At this time he received a letter from Pope Boniface exhorting him to
 embrace the faith, which was as follows:
 
 
@@ -24,12 +25,12 @@ embrace the faith, which was as follows:
     express how great it is; yet inasmuch as His Humanity, having
     opened the doors of the heart to receive Himself, mercifully, by
     secret inspiration, puts into the minds of men such things as It
-    reveals concerning Itself,(218) we have thought fit to extend our
+    reveals concerning Itself, we have thought fit to extend our
     episcopal care so far as to make known to you the fulness of the
     Christian faith; to the end that, bringing to your knowledge the
     Gospel of Christ, which our Saviour commanded should be preached
     to all nations, we might offer to you the cup of the means of
-    salvation.(219)
+    salvation.
 
     “Thus the goodness of the Supreme Majesty, which, by the word
     alone of His command, made and created all things, the heaven, the
@@ -48,7 +49,7 @@ embrace the faith, which was as follows:
     because the pre-eminence of all kingdoms is granted by His
     disposition. It hath pleased Him, therefore, in the mercy of His
     loving kindness, and for the greater benefit of all His
-    creatures,(220) by the fire of His Holy Spirit wonderfully to
+    creatures, by the fire of His Holy Spirit wonderfully to
     kindle the cold hearts even of the nations seated at the
     extremities of the earth in the knowledge of Himself.
 
@@ -74,12 +75,12 @@ embrace the faith, which was as follows:
     the pernicious superstition of idolatry, appears by the examples
     of the perishing of those whom they worship. Wherefore it is said
     of them by the Psalmist, ‘All the gods of the nations are
-    devils,(221) but the Lord made the heavens.’ And again, ‘Eyes have
+    devils, but the Lord made the heavens.’ And again, ‘Eyes have
     they, but they see not; they have ears, but they hear not; noses
     have they, but they smell not; they have hands, but they handle
     not; feet have they, but they walk not. Therefore they are made
     like unto those that place the hope of their confidence in
-    them.’(222) For how can they have power to help any man, that are
+    them.’ For how can they have power to help any man, that are
     made out of corruptible matter, by the hands of your inferiors and
     subjects, and on which, by employing human art, you have bestowed
     a lifeless similitude of members? which, moreover, unless they be

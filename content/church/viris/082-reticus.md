@@ -3,7 +3,7 @@ title: "Reticus the bishop"
 worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
- order: "082"
+ order: "82"
  da: "492"
  translator: "Ernest Cushing Richardson"
  dt: "1885"

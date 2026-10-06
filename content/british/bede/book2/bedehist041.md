@@ -1,5 +1,6 @@
 ---
 title: "VII. How Bishop Mellitus by prayer quenched a fire in his city."
+worktitle: "The Ecclessiastical History of the English People: Book II"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -11,11 +12,11 @@ params:
 In this king’s reign, the blessed Archbishop Laurentius was taken up to
 the heavenly kingdom: he was buried in the church and monastery of the
 holy Apostle Peter, close by his predecessor Augustine, on the 2nd day of
-the month of February.(198) Mellitus, who was bishop of London, succeeded
+the month of February. Mellitus, who was bishop of London, succeeded
 to the see of Canterbury, being the third archbishop from Augustine;
 Justus, who was still living, governed the church of Rochester. These
 ruled the Church of the English with much care and industry, and received
-letters of exhortation from Boniface,(199) bishop of the Roman Apostolic
+letters of exhortation from Boniface, bishop of the Roman Apostolic
 see, who presided over the Church after Deusdedit, in the year of our Lord
 619. Mellitus laboured under the bodily infirmity of gout, but his mind
 was sound and active, cheerfully passing over all earthly things, and
@@ -30,7 +31,7 @@ considerable part of the city was already destroyed, and the fierce flames
 were advancing towards the bishop’s abode, when he, trusting in God, where
 human help failed, ordered himself to be carried towards the raging masses
 of fire which were spreading on every side. The church of the four crowned
-Martyrs(200) was in the place where the fire raged most fiercely. The
+Martyrs was in the place where the fire raged most fiercely. The
 bishop, being carried thither by his servants, weak as he was, set about
 averting by prayer the danger which the strong hands of active men had not
 been able to overcome with all their exertions. Immediately the wind,

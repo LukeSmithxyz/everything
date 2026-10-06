@@ -3,7 +3,7 @@ title: "Pamphilus the presbyter"
 worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
- order: "075"
+ order: "75"
  da: "492"
  translator: "Ernest Cushing Richardson"
  dt: "1885"

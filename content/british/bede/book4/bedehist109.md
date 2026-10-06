@@ -1,5 +1,6 @@
 ---
 title: "XXV. Of the vision that appeared to a certain man of God before the monastery of the city Coludi was burned down."
+worktitle: "The Ecclessiastical History of the English People: Book IV"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -8,7 +9,7 @@ params:
 ---
 
 
-At this time, the monastery of virgins, called the city of Coludi,(714)
+At this time, the monastery of virgins, called the city of Coludi,
 above-mentioned, was burned down, through carelessness; and yet all that
 knew it might have been aware that it happened by reason of the wickedness
 of those who dwelt in it, and chiefly of those who seemed to be the
@@ -18,7 +19,7 @@ ways, and by fasting and tears and prayers, like the Ninevites, have
 averted the anger of the just Judge.
 
 For there was in that monastery a man of the Scottish race, called
-Adamnan,(715) leading a life entirely devoted to God in continence and
+Adamnan, leading a life entirely devoted to God in continence and
 prayer, insomuch that he never took any food or drink, except only on
 Sundays and Thursdays; and often spent whole nights in watching and
 prayer. This strictness in austerity of life he had first adopted from the
@@ -33,7 +34,7 @@ confessed his guilt, and desired to be advised how he might escape the
 wrath to come. The priest having heard his offence, said, “A great wound
 requires greater care in the healing thereof; wherefore give yourself as
 far as you are able to fasting and psalms, and prayer, to the end that
-thus coming before the presence of the Lord in confession,”(716) you may
+thus coming before the presence of the Lord in confession,” you may
 find Him merciful. But he, being oppressed with great grief by reason of
 his guilty conscience, and desiring to be the sooner loosed from the
 inward fetters of sin, which lay heavy upon him, answered, “I am still
@@ -67,7 +68,7 @@ His companion, perceiving it, asked what was the reason, to which he
 answered: “The time is at hand when a devouring fire shall reduce to ashes
 all the buildings which you here behold, both public and private.” The
 other, hearing these words, when they presently came into the monastery,
-told them to Aebba,(717) the mother of the community. She with good cause
+told them to Aebba, the mother of the community. She with good cause
 being much troubled at that prediction, called the man to her, and
 straitly questioned him concerning the matter and how he came to know it.
 He answered, “Being engaged one night lately in watching and singing
@@ -81,7 +82,7 @@ transgressions.’ He replied, ‘You speak truly, for you and many more have
 need to redeem their sins by good works, and when they cease from temporal
 labours, then to labour the more eagerly for desire of eternal blessings;
 but this very few do; for I, having now gone through all this monastery in
-order, have looked into the huts(718) and beds of all, and found none of
+order, have looked into the huts and beds of all, and found none of
 them except yourself busy about the health of his soul; but all of them,
 both men and women, are either sunk in slothful sleep, or are awake in
 order to commit sin; for even the cells that were built for prayer or
@@ -105,7 +106,7 @@ judgement came suddenly upon them.
 That all this fell out after this manner, was told me by my most reverend
 fellow-priest, Aedgils, who then lived in that monastery. Afterwards, when
 many of the inhabitants had departed thence, on account of the
-destruction, he lived a long time in our monastery,(719) and died there.
+destruction, he lived a long time in our monastery, and died there.
 We have thought fit to insert this in our History, to admonish the reader
 of the works of the Lord, how terrible He is in His doing toward the
 children of men, lest haply we should at some time or other yield to the

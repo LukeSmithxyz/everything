@@ -3,7 +3,7 @@ title: "Arnobius the rhetorician"
 worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
- order: "079"
+ order: "79"
  da: "492"
  translator: "Ernest Cushing Richardson"
  dt: "1885"

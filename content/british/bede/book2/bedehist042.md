@@ -1,5 +1,6 @@
 ---
 title: "VIII. How Pope Boniface sent the Pall and a letter to Justus, successor to Mellitus."
+worktitle: "The Ecclessiastical History of the English People: Book II"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -20,22 +21,22 @@ granted to your work, how faithfully and vigilantly you have laboured, my
 brother, for the Gospel of Christ; for Almighty God has not forsaken
 either the mystery of His Name, or the fruit of your labours, having
 Himself faithfully promised to the preachers of the Gospel, ‘Lo! I am with
-you alway, even unto the end of the world’;(201) which promise His mercy
+you alway, even unto the end of the world’; which promise His mercy
 has particularly manifested in this ministry imposed upon you, opening the
 hearts of the nations to receive the wondrous mystery of your preaching.
 For He has blessed with a rich reward your Eminence’s acceptable course,
 by the support of His loving kindness; granting a plentiful increase to
 your labours in the faithful management of the talents committed to you,
-and bestowing it on that which you might confirm to many generations.(202)
+and bestowing it on that which you might confirm to many generations.
 This is conferred on you by that recompense whereby, constantly
 persevering in the ministry imposed upon you, you have awaited with
 praiseworthy patience the redemption of that nation, and that they might
 profit by your merits, salvation has been bestowed on them. For our Lord
-Himself says, ‘He that endureth to the end shall be saved.’(203) You are,
+Himself says, ‘He that endureth to the end shall be saved.’ You are,
 therefore, saved by the hope of patience, and the virtue of endurance, to
 the end that the hearts of unbelievers, being cleansed from their natural
 disease of superstition, might obtain the mercy of their Saviour: for
-having received letters from our son Adulwald,(204) we perceive with how
+having received letters from our son Adulwald, we perceive with how
 much knowledge of the Sacred Word you, my brother, have brought his mind
 to the belief in true conversion and the certainty of the faith.
 Therefore, firmly confiding in the long-suffering of the Divine clemency,
@@ -46,7 +47,7 @@ perfect work may be conferred on you by the Lord, the Rewarder of all the
 just; and that the universal confession of all nations, having received
 the mystery of the Christian faith, may declare, that in truth ‘Their
 sound is gone out into all the earth, and their words unto the end of the
-world.’(205)
+world.’
 
 “We have also, my brother, moved by the warmth of our goodwill, sent you
 by the bearer of these presents, the pall, giving you authority to use it

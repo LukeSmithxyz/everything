@@ -1,5 +1,6 @@
 ---
 title: "IX. How miracles of healing have been frequently wrought in the place where King Oswald was killed; and how, first, a traveller’s horse was restored and afterwards a young girl cured of the palsy."
+worktitle: "The Ecclessiastical History of the English People: Book III"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -11,14 +12,14 @@ params:
 Oswald, the most Christian king of the Northumbrians, reigned nine years,
 including that year which was held accursed for the barbarous cruelty of
 the king of the Britons and the reckless apostacy of the English kings;
-for, as was said above,(339) it is agreed by the unanimous consent of all,
+for, as was said above, it is agreed by the unanimous consent of all,
 that the names and memory of the apostates should be erased from the
 catalogue of the Christian kings, and no year assigned to their reign.
 After which period, Oswald was killed in a great battle, by the same pagan
 nation and pagan king of the Mercians, who had slain his predecessor
-Edwin, at a place called in the English tongue Maserfelth,(340) in the
+Edwin, at a place called in the English tongue Maserfelth, in the
 thirty-eighth year of his age, on the fifth day of the month of
-August.(341)
+August.
 
 How great his faith was towards God, and how remarkable his devotion, has
 been made evident by miracles even after his death; for, in the place
@@ -38,7 +39,7 @@ It happened, not long after his death, that a man was travelling on
 horseback near that place, when his horse on a sudden fell sick, stood
 still, hung his head, and foamed at the mouth, and, at length, as his pain
 increased, he fell to the ground; the rider dismounted, and taking off his
-saddle,(342) waited to see whether the beast would recover or die. At
+saddle, waited to see whether the beast would recover or die. At
 length, after writhing for a long time in extreme anguish, the horse
 happened in his struggles to come to the very place where the great king
 died. Immediately the pain abated, the beast ceased from his frantic

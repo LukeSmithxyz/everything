@@ -1,5 +1,6 @@
 ---
 title: "XXIII. How Bishop Cedd, having a place for building a monastery given him by King Ethelwald, consecrated it to the Lord with prayer and fasting; and concerning his death."
+worktitle: "The Ecclessiastical History of the English People: Book III"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -11,7 +12,7 @@ params:
 
 The same man of God, whilst he was bishop among the East Saxons, was also
 wont oftentimes to visit his own province, Northumbria, for the purpose of
-exhortation. Oidilwald,(425) the son of King Oswald, who reigned among the
+exhortation. Oidilwald, the son of King Oswald, who reigned among the
 Deiri, finding him a holy, wise, and good man, desired him to accept some
 land whereon to build a monastery, to which the king himself might
 frequently resort, to pray to the Lord and hear the Word, and where he
@@ -26,7 +27,7 @@ whereon to build a monastery among steep and distant mountains, which
 looked more like lurking-places for robbers and dens of wild beasts, than
 dwellings of men; to the end that, according to the prophecy of Isaiah,
 “In the habitation of dragons, where each lay, might be grass with reeds
-and rushes;”(426) that is, that the fruits of good works should spring up,
+and rushes;” that is, that the fruits of good works should spring up,
 where before beasts were wont to dwell, or men to live after the manner of
 beasts.
 
@@ -46,23 +47,23 @@ the holy work might not be intermitted, on account of the king’s affairs,
 entreated his priest, Cynibill, who was also his own brother, to complete
 his pious undertaking. Cynibill readily consented, and when the duty of
 fasting and prayer was over, he there built the monastery, which is now
-called Laestingaeu,(427) and established therein religious customs
+called Laestingaeu, and established therein religious customs
 according to the use of Lindisfarne, where he had been trained.
 
 When Cedd had for many years held the office of bishop in the aforesaid
 province, and also taken charge of this monastery, over which he placed
-provosts,(428) it happened that he came thither at a time when there was
+provosts, it happened that he came thither at a time when there was
 plague, and fell sick and died. He was first buried without the walls; but
 in the process of time a church was built of stone in the monastery, in
 honour of the Blessed Mother of God, and his body was laid in it, on the
 right side of the altar.
 
 The bishop left the monastery to be governed after him by his brother
-Ceadda,(429) who was afterwards made bishop, as shall be told hereafter.
+Ceadda, who was afterwards made bishop, as shall be told hereafter.
 For, as it rarely happens, the four brothers we have mentioned, Cedd and
 Cynibill, and Caelin and Ceadda, were all celebrated priests of the Lord,
 and two of them also came to be bishops. When the brethren who were in his
-monastery, in the province of the East Saxons,(430) heard that the bishop
+monastery, in the province of the East Saxons, heard that the bishop
 was dead and buried in the province of the Northumbrians, about thirty men
 of that monastery came thither, being desirous either to live near the
 body of their father, if it should please God, or to die and be buried

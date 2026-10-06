@@ -1,5 +1,6 @@
 ---
 title: "XXVIII. How Pope Gregory wrote to the bishop of Arles to help Augustine in the work of God."
+worktitle: "The Ecclessiastical History of the English People: Book I"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -11,7 +12,7 @@ params:
 Thus far the answers of the holy Pope Gregory, to the questions of the
 most reverend prelate, Augustine. Now the letter, which he says he had
 written to the bishop of Arles, was directed to Vergilius, successor to
-Aetherius,(130) and was in the following words:
+Aetherius, and was in the following words:
 
 “_To his most reverend and holy brother and fellow bishop, Vergilius;
 Gregory, servant of the servants of God._ With how much kindness brethren,

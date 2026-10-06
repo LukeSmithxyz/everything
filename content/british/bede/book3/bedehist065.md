@@ -1,5 +1,6 @@
 ---
 title: "XI. How a light from Heaven stood all night over his relics, and how those possessed with devils were healed by them."
+worktitle: "The Ecclessiastical History of the English People: Book III"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -12,11 +13,11 @@ params:
 Among the rest, I think we ought not to pass over in silence the miracles
 and signs from Heaven that were shown when King Oswald’s bones were found,
 and translated into the church where they are now preserved. This was done
-by the zealous care of Osthryth, queen of the Mercians,(343) the daughter
+by the zealous care of Osthryth, queen of the Mercians, the daughter
 of his brother Oswy, who reigned after him, as shall be said hereafter.
 
 There is a famous monastery in the province of Lindsey, called
-Beardaneu,(344) which that queen and her husband Ethelred greatly loved
+Beardaneu, which that queen and her husband Ethelred greatly loved
 and venerated, conferring upon it many honours. It was here that she was
 desirous to lay the revered bones of her uncle. When the wagon in which
 those bones were carried arrived towards evening at the aforesaid
@@ -37,15 +38,15 @@ purpose, and placed in the church, with due honour; and that there might
 be a perpetual memorial of the royal character of this holy man, they hung
 up over the monument his banner of gold and purple. Then they poured out
 the water in which they had washed the bones, in a corner of the
-cemetery.(345) From that time, the very earth which received that holy
+cemetery. From that time, the very earth which received that holy
 water, had the power of saving grace in casting out devils from the bodies
 of persons possessed.
 
 Lastly, when the aforesaid queen afterwards abode some time in that
 monastery, there came to visit her a certain venerable abbess, who is
-still living, called Ethelhild, the sister of the holy men, Ethelwin(346)
+still living, called Ethelhild, the sister of the holy men, Ethelwin
 and Aldwin, the first of whom was bishop in the province of Lindsey, the
-other abbot of the monastery of Peartaneu;(347) not far from which was the
+other abbot of the monastery of Peartaneu; not far from which was the
 monastery of Ethelhild. When this lady was come, in a conversation between
 her and the queen, the discourse, among other things, turning upon Oswald,
 she said, that she also had that night seen the light over his relics
@@ -73,7 +74,7 @@ the casket in which it was. As soon as she came with it, as she had been
 bidden, and was entering the hall of the house, in the inner part whereof
 the possessed person was writhing in torment, he suddenly became silent,
 and laid down his head, as if he had been falling asleep, stretching out
-all his limbs to rest. “Silence fell upon all and intent they gazed,”(348)
+all his limbs to rest. “Silence fell upon all and intent they gazed,”
 anxiously waiting to see the end of the matter. And after about the space
 of an hour the man that had been tormented sat up, and fetching a deep
 sigh, said, “Now I am whole, for I am restored to my senses.” They

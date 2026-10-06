@@ -3,7 +3,7 @@ title: "Justus of Tiberias"
 worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
- order: "014"
+ order: "14"
  da: "492"
  translator: "Ernest Cushing Richardson"
  dt: "1885"

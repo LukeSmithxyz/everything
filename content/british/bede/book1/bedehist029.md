@@ -1,5 +1,6 @@
 ---
 title: "XXIX. How the same Pope sent to Augustine the Pall and a letter, along with several ministers of the Word."
+worktitle: "The Ecclessiastical History of the English People: Book I"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -12,7 +13,7 @@ Moreover, the same Pope Gregory, hearing from Bishop Augustine, that the
 harvest which he had was great and the labourers but few, sent to him,
 together with his aforesaid envoys, certain fellow labourers and ministers
 of the Word, of whom the chief and foremost were Mellitus, Justus,
-Paulinus, and Rufinianus,(131) and by them all things in general that were
+Paulinus, and Rufinianus, and by them all things in general that were
 necessary for the worship and service of the Church, to wit, sacred
 vessels and altar-cloths, also church-furniture, and vestments for the
 bishops and clerks, as likewise relics of the holy Apostles and martyrs;
@@ -44,7 +45,7 @@ preside over the bishops he shall have ordained, as to be in no way
 subject to the jurisdiction of the bishop of London. But for the future
 let there be this distinction as regards honour between the bishops of the
 cities of London and York, that he who has been first ordained have the
-precedence.(132) But let them take counsel and act in concert and with one
+precedence. But let them take counsel and act in concert and with one
 mind dispose whatsoever is to be done for zeal of Christ; let them judge
 rightly, and carry out their judgement without dissension.
 

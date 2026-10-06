@@ -1,5 +1,6 @@
 ---
 title: "XXVII. How St. Augustine, being made a bishop, sent to acquaint Pope Gregory with what had been done in Britain, and asked and received replies, of which he stood in need."
+worktitle: "The Ecclessiastical History of the English People: Book I"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -11,9 +12,9 @@ params:
 
 In the meantime, Augustine, the man of God, went to Arles, and, according
 to the orders received from the holy Father Gregory, was ordained
-archbishop of the English nation,(118) by Aetherius,(119) archbishop of
+archbishop of the English nation, by Aetherius, archbishop of
 that city. Then returning into Britain, he sent Laurentius the the
-priest(120) and Peter the monk(121) to Rome, to acquaint Pope Gregory,
+priest and Peter the monk to Rome, to acquaint Pope Gregory,
 that the English nation had received the faith of Christ, and that he was
 himself made their bishop. At the same time, he desired his solution of
 some doubts which seemed urgent to him. He soon received fitting answers
@@ -42,7 +43,7 @@ of our fathers in the primitive Church, among whom, none said that aught
 of the things which they possessed was his own, but they had all things
 common.
 
-But if there are any clerks not received into holy orders,(122) who cannot
+But if there are any clerks not received into holy orders, who cannot
 live continent, they are to take wives, and receive their stipends outside
 of the community; because we know that it is written concerning the same
 fathers of whom we have spoken that a distribution was made unto every man
@@ -55,11 +56,11 @@ anything of assigning portions, or dispensing hospitality and showing
 mercy; inasmuch as all that they have over is to be spent in pious and
 religious works, according to the teaching of Him who is the Lord and
 Master of all, “Give alms of such things as ye have over, and behold all
-things are clean unto you.”(123)
+things are clean unto you.”
 
 _Augustine’s Second Question._—Whereas the faith is one and the same, are
 there different customs in different Churches? and is one custom of Masses
-observed in the holy Roman Church, and another in the Church of Gaul?(124)
+observed in the holy Roman Church, and another in the Church of Gaul?
 
 _Pope Gregory answers._—You know, my brother, the custom of the Roman
 Church in which you remember that you were bred up. But my will is, that
@@ -105,7 +106,7 @@ _Augustine’s Fifth Question._—To what degree may the faithful marry with
 their kindred? and is it lawful to marry a stepmother or a brother’s wife?
 
 _Gregory answers._—A certain secular law in the Roman commonwealth allows,
-that the son and daughter of a brother and sister,(125) or of two full
+that the son and daughter of a brother and sister, or of two full
 brothers, or two sisters, may be joined in matrimony; but we have found,
 by experience, that the offspring of such wedlock cannot grow up; and the
 Divine law forbids a man to “uncover the nakedness of his kindred.” Hence
@@ -154,7 +155,7 @@ present as witnesses to you in ordaining a bishop? But we would have you,
 my brother, to ordain bishops in such a manner, that the said bishops may
 not be far asunder, to the end that there be no lack, but that at the
 ordination of a bishop other pastors also, whose presence is of great
-benefit, should easily come together.(126) Thus, when, by the help of God,
+benefit, should easily come together. Thus, when, by the help of God,
 bishops shall have been ordained in places near to one another, no
 ordination of a bishop is to take place without assembling three or four
 bishops. For, even in spiritual affairs, we may take example by the
@@ -171,7 +172,7 @@ _Augustine’s Seventh Question._—How are we to deal with the bishops of
 Gaul and Britain?
 
 _Gregory answers._—We give you no authority over the bishops of Gaul,
-because the bishop of Arles received the pall(127) in the old times of my
+because the bishop of Arles received the pall in the old times of my
 predecessors, and we must by no means deprive him of the authority he has
 received. If it shall therefore happen, my brother, that you go over into
 the province of Gaul, you are to concert with the said bishop of Arles,
@@ -186,14 +187,14 @@ showing good works for them to imitate, you shall recall the perverted to
 the pursuit of holiness; for it is written in the Law, “When thou comest
 into the standing corn of thy neighbour, then thou mayest bruise the ears
 with thine hand and eat; but thou shalt not move a sickle unto thy
-neighbours’ standing corn.”(128) For thou mayest not apply the sickle of
+neighbours’ standing corn.” For thou mayest not apply the sickle of
 judgement in that harvest which thou seest to have been committed to
 another; but by the influence of good works thou shalt clear the Lord’s
 wheat of the chaff of its vices, and convert it by exhortation and
 persuasion in the body of the Church, as it were, by eating. But
 whatsoever is to be done by authority, must be transacted with the
 aforesaid bishop of Arles, lest that should be omitted, which the ancient
-institution of the fathers has appointed.(129) But as for all the bishops
+institution of the fathers has appointed. But as for all the bishops
 of Britain, we commit them to your care, that the unlearned may be taught,
 the weak strengthened by persuasion, and the perverse corrected by
 authority.

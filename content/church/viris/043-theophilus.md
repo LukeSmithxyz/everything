@@ -3,7 +3,7 @@ title: "Theophilus another bishop"
 worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
- order: "043"
+ order: "43"
  da: "492"
  translator: "Ernest Cushing Richardson"
  dt: "1885"

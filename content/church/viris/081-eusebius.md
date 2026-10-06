@@ -3,7 +3,7 @@ title: "Eusebius the bishop"
 worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
- order: "081"
+ order: "81"
  da: "492"
  translator: "Ernest Cushing Richardson"
  dt: "1885"

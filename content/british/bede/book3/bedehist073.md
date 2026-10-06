@@ -1,5 +1,6 @@
 ---
 title: "XIX. How Fursa built a monastery among the East Angles, and of his visions and sanctity, to which, his flesh remaining uncorrupted after death bore testimony."
+worktitle: "The Ecclessiastical History of the English People: Book III"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -9,7 +10,7 @@ params:
 
 
 Whilst Sigbert still governed the kingdom, there came out of Ireland a
-holy man called Fursa,(379) renowned both for his words and actions, and
+holy man called Fursa, renowned both for his words and actions, and
 remarkable for singular virtues, being desirous to live as a stranger and
 pilgrim for the Lord’s sake, wherever an opportunity should offer. On
 coming into the province of the East Angles, he was honourably received by
@@ -23,30 +24,30 @@ vision of angels; in which he was admonished diligently to persevere in
 the ministry of the Word which he had undertaken, and indefatigably to
 apply himself to his usual watching and prayers; inasmuch as his end was
 certain, but the hour thereof uncertain, according to the saying of our
-Lord, “Watch therefore, for ye know neither the day nor the hour.”(380)
+Lord, “Watch therefore, for ye know neither the day nor the hour.”
 Being confirmed by this vision, he set himself with all speed to build a
 monastery on the ground which had been given him by King Sigbert, and to
 establish a rule of life therein. This monastery was pleasantly situated
 in the woods, near the sea; it was built within the area of a fort, which
 in the English language is called Cnobheresburg, that is, Cnobhere’s
-Town;(381) afterwards, Anna, king of that province, and certain of the
+Town; afterwards, Anna, king of that province, and certain of the
 nobles, embellished it with more stately buildings and with gifts.
 
-This man was of noble Scottish(382) blood, but much more noble in mind
+This man was of noble Scottish blood, but much more noble in mind
 than in birth. From his boyish years, he had earnestly applied himself to
 reading sacred books and observing monastic discipline, and, as is most
 fitting for holy men, he carefully practised all that he learned to be
 right.
 
-Now, in course of time he himself built a monastery,(383) wherein he might
+Now, in course of time he himself built a monastery, wherein he might
 with more freedom devote himself to his heavenly studies. There, falling
 sick, as the book concerning his life clearly informs us, he fell into a
 trance, and quitting his body from the evening till cockcrow, he was
 accounted worthy to behold the sight of the choirs of angels, and to hear
 their glad songs of praise. He was wont to declare, that among other
 things he distinctly heard this refrain: “The saints shall go from
-strength to strength.”(384) And again, “The God of gods shall be seen in
-Sion.”(385) Being restored to his body, and again taken from it three days
+strength to strength.” And again, “The God of gods shall be seen in
+Sion.” Being restored to his body, and again taken from it three days
 after, he not only saw the greater joys of the blessed, but also fierce
 conflicts of evil spirits, who by frequent accusations wickedly
 endeavoured to obstruct his journey to heaven; but the angels protected
@@ -128,28 +129,28 @@ heat of mid-summer, by reason of the great terror or joy of which he
 spoke.
 
 To return to what we were saying before, when, after preaching the Word of
-God many years in Scotland,(386) he could not well endure the disturbance
+God many years in Scotland, he could not well endure the disturbance
 of the crowds that resorted to him, leaving all that he looked upon as his
 own, he departed from his native island, and came with a few brothers
 through the Britons into the province of the English, and preaching the
-Word there, as has been said, built a famous monastery.(387) When this was
+Word there, as has been said, built a famous monastery. When this was
 duly carried out, he became desirous to rid himself of all business of
 this world, and even of the monastery itself, and forthwith left the care
 of it and of its souls, to his brother Fullan, and the priests Gobban and
-Dicull,(388) and being himself free from all worldly affairs, resolved to
+Dicull, and being himself free from all worldly affairs, resolved to
 end his life as a hermit. He had another brother called Ultan, who, after
 a long monastic probation, had also adopted the life of an anchorite. So,
 seeking him out alone, he lived a whole year with him in self-denial and
 prayer, and laboured daily with his hands.
 
 Afterwards seeing the province thrown into confusion by the irruptions of
-the pagans,(389) and foreseeing that the monasteries would also be in
+the pagans, and foreseeing that the monasteries would also be in
 danger, he left all things in order, and sailed over into Gaul, and being
-there honourably entertained by Clovis, king of the Franks,(390) or by the
+there honourably entertained by Clovis, king of the Franks, or by the
 patrician Ercinwald, he built a monastery in the place called
-Latineacum,(391) and falling sick not long after, departed this life. The
+Latineacum, and falling sick not long after, departed this life. The
 same Ercinwald, the patrician, took his body, and kept it in the porch of
-a church he was building in his town of Perrona,(392) till the church
+a church he was building in his town of Perrona, till the church
 itself should be dedicated. This happened twenty-seven days after, and the
 body being taken from the porch, to be re-buried near the altar, was found
 as whole as if he had died that very hour. And again, four years after,

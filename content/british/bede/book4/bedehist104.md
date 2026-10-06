@@ -1,5 +1,6 @@
 ---
 title: "XX. A Hymn concerning her."
+worktitle: "The Ecclessiastical History of the English People: Book IV"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -14,7 +15,7 @@ the bride of Christ; and to imitate the method of Holy Scripture, wherein
 many songs are inserted in the history, and these, as is well known, are
 composed in metre and verse.
 
-“Trinity,(669) Gracious, Divine, Who rulest all the ages; favour my task,
+“Trinity, Gracious, Divine, Who rulest all the ages; favour my task,
 Trinity, Gracious, Divine.
 
 “Let Maro sound the trumpet of war, let us sing the gifts of peace; the
@@ -39,7 +40,7 @@ rejoices.
 “Her honour has made many a blossom to spring from that pure shoot, virgin
 blossoms her honour has made to spring.
 
-“Scorched by the fierce flames, the maiden Agatha(670) yielded not; in
+“Scorched by the fierce flames, the maiden Agatha yielded not; in
 like manner Eulalia endures, scorched by the fierce flames.
 
 “The lofty soul of chaste Tecla overcomes the wild beasts; chaste Euphemia
@@ -67,19 +68,19 @@ Heavenly Bridegroom?
 mayst follow even now, methinks, in the steps of the Mother of Heaven’s
 King, that thou too mayst be a mother in God.
 
-“Twelve years(671) she had reigned, a bride dedicated to God, then in the
+“Twelve years she had reigned, a bride dedicated to God, then in the
 cloister dwelt, a bride dedicated to God.
 
 “To Heaven all consecrated she lived, abounding in lofty deeds, then to
 Heaven all consecrated she gave up her soul.
 
-“Twice eight Novembers(672) the maid’s fair flesh lay in the tomb, nor did
+“Twice eight Novembers the maid’s fair flesh lay in the tomb, nor did
 the maid’s fair flesh see corruption in the tomb.
 
 “This was Thy work, O Christ, that her very garments were bright and
 undefiled even in the grave; O Christ, this was Thy work.
 
-“The dark serpent(673) flies before the honour due to the holy raiment;
+“The dark serpent flies before the honour due to the holy raiment;
 disease is driven away, and the dark serpent flies.
 
 “Rage fills the foe who of old conquered Eve; exultant the maiden triumphs

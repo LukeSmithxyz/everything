@@ -1,5 +1,6 @@
 ---
 title: "XVII. How Germanus the Bishop, sailing into Britain with Lupus, first quelled the tempest of the sea, and afterwards that of the Pelagians, by Divine power."
+worktitle: "The Ecclessiastical History of the English People: Book I"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -9,7 +10,7 @@ params:
 
 
 Some few years before their arrival, the Pelagian heresy, brought over by
-Agricola, the son of Severianus,(92) a Pelagian bishop, had corrupted with
+Agricola, the son of Severianus, a Pelagian bishop, had corrupted with
 its foul taint the faith of the Britons. But whereas they absolutely
 refused to embrace that perverse doctrine, and blaspheme the grace of
 Christ, yet were not able of themselves to confute the subtilty of the
@@ -18,7 +19,7 @@ counsels and determined to crave aid of the Gallican prelates in that
 spiritual warfare. Hereupon, these, having assembled a great synod,
 consulted together to determine what persons should be sent thither to
 sustain the faith, and by unanimous consent, choice was made of the
-apostolic prelates, Germanus, Bishop of Auxerre, and Lupus of Troyes,(93)
+apostolic prelates, Germanus, Bishop of Auxerre, and Lupus of Troyes,
 to go into Britain to confirm the people’s faith in the grace of God. With
 ready zeal they complied with the request and commands of the Holy Church,
 and put to sea. The ship sped safely with favouring winds till they were
@@ -59,7 +60,7 @@ through their merits. Thus the whole country readily came over to their
 way of thinking; the authors of the erroneous belief kept themselves in
 hiding, and, like evil spirits, grieved for the loss of the people that
 were rescued from them. At length, after long deliberation, they had the
-boldness to enter the lists.(94) They came forward in all the splendour of
+boldness to enter the lists. They came forward in all the splendour of
 their wealth, with gorgeous apparel, and supported by a numerous
 following; choosing rather to hazard the contest, than to undergo among
 the people whom they had led astray, the reproach of having been silenced,

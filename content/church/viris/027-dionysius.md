@@ -3,7 +3,7 @@ title: "Dionysius the bishop"
 worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
- order: "027"
+ order: "27"
  da: "492"
  translator: "Ernest Cushing Richardson"
  dt: "1885"

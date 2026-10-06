@@ -1,5 +1,6 @@
 ---
 title: "XXVI. How Colman, being worsted, returned home; and Tuda succeeded him in the bishopric; and of the state of the church under those teachers."
+worktitle: "The Ecclessiastical History of the English People: Book III"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -12,8 +13,8 @@ The disputation being ended, and the assembly broken up, Agilbert returned
 home. Colman, perceiving that his doctrine was rejected, and his party
 despised, took with him those who wished to follow him, to wit, such as
 would not accept the Catholic Easter and the tonsure in the form of a
-crown,(476) (for there was no small dispute about that also,) and went
-back into Scotland,(477) to consult with his people what was to be done in
+crown, (for there was no small dispute about that also,) and went
+back into Scotland, to consult with his people what was to be done in
 this case. Cedd, forsaking the practices of the Scots, returned to his
 bishopric, having submitted to the Catholic observance of Easter. This
 debate took place in the year of our Lord 664, which was the twenty-second
@@ -22,19 +23,19 @@ Scots among the English; for Aidan was bishop seventeen years, Finan ten,
 and Colman three.
 
 When Colman had gone back into his own country, Tuda, the servant of
-Christ, was made bishop of the Northumbrians(478) in his place, having
+Christ, was made bishop of the Northumbrians in his place, having
 been instructed and ordained bishop among the Southern Scots, having also
 the crown of the ecclesiastical tonsure, according to the custom of that
 province, and observing the Catholic rule with regard to the time of
-Easter.(479) He was a good and religious man, but he governed the church a
-very short time; he had come from Scotland(480) whilst Colman was yet
+Easter. He was a good and religious man, but he governed the church a
+very short time; he had come from Scotland whilst Colman was yet
 bishop, and, both by word and deed, diligently taught all men those things
-that appertain to the faith and truth. But Eata,(481) who was abbot of the
-monastery called Mailros,(482) a man most reverend and gentle, was
+that appertain to the faith and truth. But Eata, who was abbot of the
+monastery called Mailros, a man most reverend and gentle, was
 appointed abbot over the brethren that chose to remain in the church of
 Lindisfarne, when the Scots went away. It is said that Colman, upon his
 departure, requested and obtained this of King Oswy, because Eata was one
-of Aidan’s twelve boys of the English nation,(483) whom he received in the
+of Aidan’s twelve boys of the English nation, whom he received in the
 early years of his episcopate, to be instructed in Christ; for the king
 greatly loved Bishop Colman on account of his innate discretion. This is
 that Eata, who, not long after, was made bishop of the same church of

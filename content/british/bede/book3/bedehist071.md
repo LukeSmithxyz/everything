@@ -1,5 +1,6 @@
 ---
 title: "XVII. How a prop of the church on which Bishop Aidan was leaning when he died, could not be consumed when the rest of the Church was on fire; and concerning his inward life."
+worktitle: "The Ecclessiastical History of the English People: Book III"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -10,7 +11,7 @@ params:
 
 Aidan was in the king’s township, not far from the city of which we have
 spoken above, at the time when death caused him to quit the body, after he
-had been bishop sixteen(370) years; for having a church and a chamber in
+had been bishop sixteen years; for having a church and a chamber in
 that place, he was wont often to go and stay there, and to make excursions
 from it to preach in the country round about, which he likewise did at
 other of the king’s townships, having nothing of his own besides his
@@ -18,14 +19,14 @@ church and a few fields about it. When he was sick they set up a tent for
 him against the wall at the west end of the church, and so it happened
 that he breathed his last, leaning against a buttress that was on the
 outside of the church to strengthen the wall. He died in the seventeenth
-year of his episcopate, on the 31st of August.(371) His body was thence
+year of his episcopate, on the 31st of August. His body was thence
 presently translated to the isle of Lindisfarne, and buried in the
 cemetery of the brethren. Some time after, when a larger church was built
 there and dedicated in honour of the blessed prince of the Apostles, his
 bones were translated thither, and laid on the right side of the altar,
 with the respect due to so great a prelate.
 
-Finan,(372) who had likewise been sent thither from Hii, the island
+Finan, who had likewise been sent thither from Hii, the island
 monastery of the Scots, succeeded him, and continued no small time in the
 bishopric. It happened some years after, that Penda, king of the Mercians,
 coming into these parts with a hostile army, destroyed all he could with
@@ -47,12 +48,12 @@ where the people coming in might kneel, and implore the Divine mercy. And
 it is well known that since then many have found grace and been healed in
 that same place, as also that by means of splinters cut off from the
 buttress, and put into water, many more have obtained a remedy for their
-own infirmities and those of their friends.(373)
+own infirmities and those of their friends.
 
 I have written thus much concerning the character and works of the
 aforesaid Aidan, in no way commending or approving his lack of wisdom with
 regard to the observance of Easter; nay, heartily detesting it, as I have
-most manifestly proved in the book I have written, “De Temporibus”;(374)
+most manifestly proved in the book I have written, “De Temporibus”;
 but, like an impartial historian, unreservedly relating what was done by
 or through him, and commending such things as are praiseworthy in his
 actions, and preserving the memory thereof for the benefit of the readers;
@@ -71,7 +72,7 @@ These things I greatly admire and love in the aforesaid bishop, because I
 do not doubt that they were pleasing to God; but I do not approve or
 praise his observance of Easter at the wrong time, either through
 ignorance of the canonical time appointed, or, if he knew it, being
-prevailed on by the authority of his nation not to adopt it.(375) Yet this
+prevailed on by the authority of his nation not to adopt it. Yet this
 I approve in him, that in the celebration of his Easter, the object which
 he had at heart and reverenced and preached was the same as ours, to wit,
 the redemption of mankind, through the Passion, Resurrection and Ascension

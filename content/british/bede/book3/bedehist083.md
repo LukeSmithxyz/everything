@@ -1,5 +1,6 @@
 ---
 title: "XXIX. How the priest Wighard was sent from Britain to Rome, to be ordained archbishop; of his death there, and of the letters of the Apostolic Pope giving an account thereof."
+worktitle: "The Ecclessiastical History of the English People: Book III"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -14,7 +15,7 @@ what ought to be done about the state of the English Church, for Oswy,
 though educated by the Scots, had rightly perceived that the Roman was the
 Catholic and Apostolic Church. They selected, with the consent and by the
 choice of the holy Church of the English nation, a priest named
-Wighard,(500) one of Bishop Deusdedit’s clergy, a good man and fitted for
+Wighard, one of Bishop Deusdedit’s clergy, a good man and fitted for
 the episcopate, and sent him to Rome to be ordained bishop, to the end
 that, having been raised to the rank of an archbishop, he might ordain
 Catholic prelates for the Churches of the English nation throughout all
@@ -38,20 +39,20 @@ not exult and be joyful at these good works? For your nation has believed
 in Christ the Almighty God, according to the words of the Divine prophets,
 as it is written in Isaiah, ‘In that day there shall be a root of Jesse,
 which shall stand for an ensign of the people; to it shall the Gentiles
-seek.’(502) And again, ‘Listen, O isles, unto me, and hearken ye people
-from far.’(503) And a little after, ‘It is a light thing that thou
+seek.’ And again, ‘Listen, O isles, unto me, and hearken ye people
+from far.’ And a little after, ‘It is a light thing that thou
 shouldst be my servant to raise up the tribes of Jacob, and to restore the
 outcast of Israel. I have given thee for a light to the Gentiles, that
-thou mayst be my salvation unto the end of the earth.’(504) And again,
-‘Kings shall see, princes also shall arise and worship.’(505) And
+thou mayst be my salvation unto the end of the earth.’ And again,
+‘Kings shall see, princes also shall arise and worship.’ And
 immediately after, ‘I have given thee for a covenant of the people, to
 establish the earth, and possess the scattered heritages; that thou mayest
 say to the prisoners, Go forth; to them that are in darkness, Show
-yourselves.’(506) And again, ‘I the Lord have called thee in
+yourselves.’ And again, ‘I the Lord have called thee in
 righteousness, and have held thine hand, and have kept thee, and have
 given thee for a covenant of the people, for a light of the Gentiles; to
 open the blind eyes, to bring out the prisoner from the prison, and them
-that sit in darkness from the prison-house.’(507)
+that sit in darkness from the prison-house.’
 
 “Behold, most excellent son, how it is plain as day that it was prophesied
 not only of you, but also of all the nations, that they should believe in
@@ -67,7 +68,7 @@ uniformly throughout all the world,—
 
 “Finally,” he adds, “we have not been able now, on account of the length
 of the journey, to find a man, apt to teach, and qualified in all respects
-to be a bishop, according to the tenor of your letters.(508) But,
+to be a bishop, according to the tenor of your letters. But,
 assuredly, as soon as such a fit person shall be found, we will send him
 well instructed to your country, that he may, by word of mouth, and
 through the Divine oracles, with the blessing of God, root out all the
@@ -79,9 +80,9 @@ removed out of this world, and is buried at the threshold of the Apostles,
 for whom we have been much grieved, because he died here. Nevertheless, we
 have caused the blessed gifts of the saints, that is, the relics of the
 blessed Apostles, Peter and Paul, and of the holy martyrs, Laurentius,
-John, and Paul, and Gregory, and Pancratius,(509) to be given to your
+John, and Paul, and Gregory, and Pancratius, to be given to your
 servants, the bearers of these our letters, to be by them delivered to
-your Excellency. And to your consort(510) also, our spiritual daughter, we
+your Excellency. And to your consort also, our spiritual daughter, we
 have by the aforesaid bearers sent a cross, with a gold key to it, made
 out of the most holy chains of the blessed Apostles, Peter and Paul; for,
 hearing of her pious zeal, all the Apostolic see rejoices with us, even as
@@ -93,7 +94,7 @@ have for your Protector, the Redeemer of mankind, our Lord Jesus Christ,
 Who will prosper you in all things, that you may gather together a new
 people of Christ, establishing there the Catholic and Apostolic faith. For
 it is written, ‘Seek ye first the kingdom of God and His righteousness,
-and all these things shall be added unto you.’(511) Truly your Highness
+and all these things shall be added unto you.’ Truly your Highness
 seeks, and shall obtain, and all your islands shall be made subject to
 you, even as we desire. Saluting your Excellency with fatherly affection,
 we never cease to pray to the Divine Goodness, to vouchsafe to assist you

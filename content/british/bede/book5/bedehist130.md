@@ -1,5 +1,6 @@
 ---
 title: "XIV. How another in like manner, being at the point of death, saw the place of punishment appointed for him in Hell."
+worktitle: "The Ecclessiastical History of the English People: Book V"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -34,10 +35,10 @@ have myself seen my judgement passed.”
 Whilst uttering these words, he died without having received the saving
 Viaticum, and his body was buried in the farthest parts of the monastery,
 nor did any one dare either to say Masses or sing psalms, or even to pray
-for him.(850) Oh how far asunder hath God put light from darkness! The
+for him. Oh how far asunder hath God put light from darkness! The
 blessed Stephen, the first martyr, being about to suffer death for the
 truth, saw the heavens opened, and the glory of God, and Jesus standing on
-the right hand of God;(851) and where he was to be after death, there he
+the right hand of God; and where he was to be after death, there he
 fixed the eyes of his mind, that he might die the more joyfully. But this
 workman, of darkened mind and life, when death was at hand, saw Hell
 opened, and witnessed the damnation of the Devil and his followers; he saw

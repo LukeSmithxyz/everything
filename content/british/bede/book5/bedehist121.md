@@ -1,5 +1,6 @@
 ---
 title: "V. How he likewise recalled by his prayers a thegn’s servant from death."
+worktitle: "The Ecclessiastical History of the English People: Book V"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -8,7 +9,7 @@ params:
 ---
 
 
-At another time also, being called to consecrate the church(787) of a
+At another time also, being called to consecrate the church of a
 thegn named Addi, when he had performed the required duty, he was
 entreated by the thegn to go in to one of his servants, who lay
 dangerously ill, insomuch that having lost all use of his limbs, he seemed

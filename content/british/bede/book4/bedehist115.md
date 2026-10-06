@@ -1,5 +1,6 @@
 ---
 title: "XXXI. Of one that was cured of a palsy at his tomb."
+worktitle: "The Ecclessiastical History of the English People: Book IV"
 author: "The Venerable Bede"
 params:
  da: "731"

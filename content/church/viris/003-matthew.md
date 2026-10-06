@@ -3,7 +3,7 @@ title: "Matthew, surnamed Levi"
 worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
- order: "003"
+ order: "3"
  da: "492"
  translator: "Ernest Cushing Richardson"
  dt: "1885"

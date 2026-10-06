@@ -3,7 +3,7 @@ title: "Cornelius the bishop"
 worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
- order: "066"
+ order: "66"
  da: "492"
  translator: "Ernest Cushing Richardson"
  dt: "1885"

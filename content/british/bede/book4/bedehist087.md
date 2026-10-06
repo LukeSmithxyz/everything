@@ -1,5 +1,6 @@
 ---
 title: "III. How the above-mentioned Ceadda was made Bishop of the province of Mercians. Of his life, death, and burial."
+worktitle: "The Ecclessiastical History of the English People: Book IV"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -9,11 +10,11 @@ params:
 
 
 At that time, the province of the Mercians was governed by King Wulfhere,
-who, on the death of Jaruman,(543) desired of Theodore that a bishop
+who, on the death of Jaruman, desired of Theodore that a bishop
 should be given to him and his people; but Theodore would not ordain a new
 one for them, but requested of King Oswy that Ceadda might be their
 bishop. He then lived in retirement at his monastery, which is at
-Laestingaeu,(544) while Wilfrid administered the bishopric of York, and of
+Laestingaeu, while Wilfrid administered the bishopric of York, and of
 all the Northumbrians, and likewise of the Picts, as far as King Oswy was
 able to extend his dominions. And, seeing that it was the custom of that
 most reverend prelate to go about the work of the Gospel everywhere on
@@ -22,14 +23,14 @@ had a long journey to undertake; and finding him very unwilling, in his
 zeal and love for his pious labour, he himself, with his own hands, lifted
 him on horseback; for he knew him to be a holy man, and therefore obliged
 him to ride wherever he had need to go. Ceadda having received the
-bishopric of the Mercians and of Lindsey,(545) took care to administer it
+bishopric of the Mercians and of Lindsey, took care to administer it
 with great perfection of life, according to the example of the ancient
 fathers. King Wulfhere also gave him land of the extent of fifty families,
-to build a monastery, at the place called Ad Barvae,(546) or “At the
+to build a monastery, at the place called Ad Barvae, or “At the
 Wood,” in the province of Lindsey, wherein traces of the monastic life
 instituted by him continue to this day.
 
-He had his episcopal see in the place called Lyccidfelth,(547) in which he
+He had his episcopal see in the place called Lyccidfelth, in which he
 also died, and was buried, and where the see of the succeeding bishops of
 that province continues to this day. He had built himself a retired
 habitation not far from the church, wherein he was wont to pray and read
@@ -38,19 +39,19 @@ often as he had any spare time from the labour and ministry of the Word.
 When he had most gloriously governed the church in that province for two
 years and a half, the Divine Providence so ordaining, there came round a
 season like that of which Ecclesiastes says, “That there is a time to cast
-away stones, and a time to gather stones together;”(548) for a plague fell
+away stones, and a time to gather stones together;” for a plague fell
 upon them, sent from Heaven, which, by means of the death of the flesh,
 translated the living stones of the Church from their earthly places to
 the heavenly building. And when, after many of the Church of that most
 reverend prelate had been taken away out of the flesh, his hour also drew
 near wherein he was to pass out of this world to the Lord, it happened one
 day that he was in the aforesaid habitation with only one brother, called
-Owini,(549) his other companions having upon some due occasion returned to
+Owini, his other companions having upon some due occasion returned to
 the church. Now Owini was a monk of great merit, having forsaken the world
 with the sole desire of the heavenly reward; worthy in all respects to
 have the secrets of the Lord revealed to him in special wise, and worthy
 to have credit given by his hearers to what he said. For he had come with
-Queen Ethelthryth(550) from the province of the East Angles, and was the
+Queen Ethelthryth from the province of the East Angles, and was the
 chief of her thegns, and governor of her house. As the fervour of his
 faith increased, resolving to renounce the secular life, he did not go
 about it slothfully, but so entirely forsook the things of this world,
@@ -132,7 +133,7 @@ anxiously devote himself with all his heart to prayers and psalms till the
 weather became calm. Being asked by his brethren why he did so, he
 answered, “Have not you read—‘The Lord also thundered in the heavens, and
 the Highest gave his voice. Yea, he sent out his arrows and scattered
-them; and he shot out lightnings, and discomfited them.’(551) For the Lord
+them; and he shot out lightnings, and discomfited them.’ For the Lord
 moves the air, raises the winds, hurls lightning, and thunders from
 heaven, to rouse the inhabitants of the earth to fear him; to put them in
 mind of judgement to come; to dispel their pride, and confound their
@@ -148,13 +149,13 @@ struck down.”
 
 With this revelation and narrative of the aforesaid brother, concerning
 the death of this prelate, agrees the account of the most reverend Father
-Egbert, above spoken of,(552) who long and zealously led a monastic life
+Egbert, above spoken of, who long and zealously led a monastic life
 with the same Ceadda, when both were youths, in Ireland, in prayer and
 self-denial and meditation on the Holy Scriptures. But whereas Ceadda
 afterwards returned into his own country, Egbert continued to live abroad
 for the Lord’s sake till the end of his life. A long time after, Hygbald,
 a man of great holiness and continence, who was an abbot in the province
-of Lindsey,(553) came from Britain to visit him, and whilst, as became
+of Lindsey, came from Britain to visit him, and whilst, as became
 holy men, they were discoursing of the life of the former fathers, and
 rejoicing to imitate the same, mention was made of the most reverend
 prelate, Ceadda; whereupon Egbert said, “I know a man in this island,
@@ -165,7 +166,7 @@ the heavenly kingdom.” Whether he said this of himself, or some other, we
 do not certainly know; but because it was said by so great a man, there
 can be no doubt of the truth thereof.
 
-Ceadda died on the 2nd of March,(554) and was first buried by St. Mary’s
+Ceadda died on the 2nd of March, and was first buried by St. Mary’s
 Church, but afterwards, when the church of the most blessed chief of the
 Apostles, Peter, was built in the same place, his bones were translated
 into it. In both which places, as a testimony of his virtue, frequent
@@ -181,7 +182,7 @@ wont to put in their hand and take out some of the dust. This they put
 into water and give to sick cattle or men to drink, whereupon they are
 presently eased of their infirmity, and restored to their desired health.
 
-In his place, Theodore ordained Wynfrid,(555) a man of good and sober
+In his place, Theodore ordained Wynfrid, a man of good and sober
 life, to preside, like his predecessors, over the bishoprics of the
 Mercians, the Midland Angles, and Lindsey, of all which, Wulfhere, who was
 still living, was king. Wynfrid was one of the clergy of the prelate he

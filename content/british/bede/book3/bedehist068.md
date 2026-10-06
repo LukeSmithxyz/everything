@@ -1,5 +1,6 @@
 ---
 title: "XIV. How on the death of Paulinus, Ithamar was made bishop of Rochester in his stead; and of the wonderful humility of King Oswin, who was cruelly slain by Oswy."
+worktitle: "The Ecclessiastical History of the English People: Book III"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -9,23 +10,23 @@ params:
 ---
 
 
-Oswald being translated to the heavenly kingdom, his brother Oswy,(355) a
+Oswald being translated to the heavenly kingdom, his brother Oswy, a
 young man of about thirty years of age, succeeded him on the throne of his
 earthly kingdom, and held it twenty-eight years with much trouble, being
 attacked by the pagan nation of the Mercians, that had slain his brother,
-as also by his son Alchfrid,(356) and by his nephew Oidilwald,(357) the
+as also by his son Alchfrid, and by his nephew Oidilwald, the
 son of his brother who reigned before him. In his second year, that is, in
 the year of our Lord 644, the most reverend Father Paulinus, formerly
 Bishop of York, but at that time Bishop of the city of Rochester, departed
 to the Lord, on the 10th day of October, having held the office of a
 bishop nineteen years, two months, and twenty-one days; and was buried in
-the sacristy of the blessed Apostle Andrew,(358) which King Ethelbert had
+the sacristy of the blessed Apostle Andrew, which King Ethelbert had
 built from the foundation, in the same city of Rochester. In his place,
-Archbishop Honorius ordained Ithamar,(359) of the Kentish nation, but not
+Archbishop Honorius ordained Ithamar, of the Kentish nation, but not
 inferior to his predecessors in learning and conduct of life.
 
 Oswy, during the first part of his reign, had a partner in the royal
-dignity called Oswin, of the race of King Edwin, and son to Osric(360) of
+dignity called Oswin, of the race of King Edwin, and son to Osric of
 whom we have spoken above, a man of wonderful piety and devotion, who
 governed the province of the Deiri seven years in very great prosperity,
 and was himself beloved by all men. But Oswy, who governed all the other
@@ -38,15 +39,15 @@ himself, and he thought it better at that time to lay aside all thoughts
 of engaging, and to reserve himself for better times. He therefore
 disbanded the army which he had assembled, and ordered all his men to
 return to their own homes, from the place that is called
-Wilfaraesdun,(361) that is, Wilfar’s Hill, which is about ten miles
+Wilfaraesdun, that is, Wilfar’s Hill, which is about ten miles
 distant from the village called Cataract, towards the north-west. He
 himself, with only one trusty thegn, whose name was Tondhere, withdrew and
-lay concealed in the house of Hunwald, a noble,(362) whom he imagined to
+lay concealed in the house of Hunwald, a noble, whom he imagined to
 be his most assured friend. But, alas! it was far otherwise; for Hunwald
 betrayed him, and Oswy, by the hands of his reeve, Ethilwin, foully slew
 him and the thegn aforesaid. This happened on the 20th of August, in the
 ninth year of his reign, at a place called Ingetlingum, where afterwards,
-to atone for this crime, a monastery was built,(363) wherein prayers
+to atone for this crime, a monastery was built, wherein prayers
 should be daily offered up to God for the redemption of the souls of both
 kings, to wit, of him that was murdered, and of him that commanded the
 murder.
@@ -94,5 +95,5 @@ life, because this nation is not worthy of such a ruler.” Not long after,
 the bishop’s gloomy foreboding was fulfilled by the king’s sad death, as
 has been said above. But Bishop Aidan himself was also taken out of this
 world, not more than twelve days after the death of the king he loved, on
-the 31st of August,(364) to receive the eternal reward of his labours from
+the 31st of August, to receive the eternal reward of his labours from
 the Lord.

@@ -1,5 +1,6 @@
 ---
 title: "XV. How the Angles, being invited into Britain, at first drove off the enemy; but not long after, making a league with them, turned their weapons against their allies."
+worktitle: "The Ecclessiastical History of the English People: Book I"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -8,10 +9,10 @@ params:
 ---
 
 
-In the year of our Lord 449,(84) Marcian, the forty-sixth from Augustus,
+In the year of our Lord 449, Marcian, the forty-sixth from Augustus,
 being made emperor with Valentinian, ruled the empire seven years. Then
-the nation of the Angles, or Saxons,(85) being invited by the aforesaid
-king,(86) arrived in Britain with three ships of war and had a place in
+the nation of the Angles, or Saxons, being invited by the aforesaid
+king, arrived in Britain with three ships of war and had a place in
 which to settle assigned to them by the same king, in the eastern part of
 the island, on the pretext of fighting in defence of their country, whilst
 their real intentions were to conquer it. Accordingly they engaged with
@@ -30,13 +31,13 @@ province of the West-Saxons who are to this day called Jutes, seated
 opposite to the Isle of Wight. From the Saxons, that is, the country which
 is now called Old Saxony, came the East-Saxons, the South-Saxons, and the
 West-Saxons. From the Angles, that is, the country which is called
-Angulus,(87) and which is said, from that time, to have remained desert to
+Angulus, and which is said, from that time, to have remained desert to
 this day, between the provinces of the Jutes and the Saxons, are descended
 the East-Angles, the Midland-Angles, the Mercians, all the race of the
 Northumbrians, that is, of those nations that dwell on the north side of
 the river Humber, and the other nations of the Angles. The first
 commanders are said to have been the two brothers Hengist and Horsa. Of
-these Horsa was afterwards slain in battle by the Britons,(88) and a
+these Horsa was afterwards slain in battle by the Britons, and a
 monument, bearing his name, is still in existence in the eastern parts of
 Kent. They were the sons of Victgilsus, whose father was Vitta, son of
 Vecta, son of Woden; from whose stock the royal race of many provinces

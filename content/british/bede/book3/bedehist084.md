@@ -1,5 +1,6 @@
 ---
 title: "XXX. How the East Saxons, during a pestilence, returned to idolatry, but were soon brought back from their error by the zeal of Bishop Jaruman."
+worktitle: "The Ecclessiastical History of the English People: Book III"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -8,9 +9,9 @@ params:
 ---
 
 
-At the same time, the Kings Sighere and Sebbi,(512) though themselves
+At the same time, the Kings Sighere and Sebbi, though themselves
 subject to Wulfhere, king of the Mercians, governed the province of the
-East Saxons after Suidhelm, of whom we have spoken above.(513) When that
+East Saxons after Suidhelm, of whom we have spoken above. When that
 province was suffering from the aforesaid disastrous plague, Sighere, with
 his part of the people, forsook the mysteries of the Christian faith, and
 turned apostate. For the king himself, and many of the commons and nobles,
@@ -22,7 +23,7 @@ people, very devoutly preserved the faith which he had received, and, as
 we shall show hereafter, ended his faithful life in great felicity.
 
 King Wulfhere, hearing that the faith of the province was in part
-profaned, sent Bishop Jaruman,(514) who was successor to Trumhere, to
+profaned, sent Bishop Jaruman, who was successor to Trumhere, to
 correct their error, and recall the province to the true faith. He acted
 with much discretion, as I was informed by a priest who bore him company
 in that journey, and had been his fellow labourer in the Word, for he was

@@ -1,5 +1,6 @@
 ---
 title: "VI. Of King Oswald’s wonderful piety and religion."
+worktitle: "The Ecclessiastical History of the English People: Book III"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -14,7 +15,7 @@ kingdom unknown to his fathers, but also obtained of the one God, Who made
 heaven and earth, a greater earthly kingdom than any of his ancestors. In
 brief, he brought under his dominion all the nations and provinces of
 Britain, which are divided into four languages, to wit, those of the
-Britons, the Picts, the Scots, and the English.(313) Though raised to that
+Britons, the Picts, the Scots, and the English. Though raised to that
 height of regal power, wonderful to relate, he was always humble, kind,
 and generous to the poor and to strangers.
 
@@ -31,7 +32,7 @@ an act of piety, clasped his right hand and said, “May this hand never
 decay.” This fell out according to his prayer, for his hands with the arms
 being cut off from his body, when he was slain in battle, remain
 uncorrupted to this day, and are kept in a silver shrine, as revered
-relics, in St. Peter’s church in the royal city,(314) which has taken its
+relics, in St. Peter’s church in the royal city, which has taken its
 name from Bebba, one of its former queens. Through this king’s exertions
 the provinces of the Deiri and the Bernicians, which till then had been at
 variance, were peacefully united and moulded into one people. He was

@@ -1,5 +1,6 @@
 ---
 title: "XIII. How another contrarywise before his death saw a book containing his sins, which was shown him by devils."
+worktitle: "The Ecclessiastical History of the English People: Book V"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -11,7 +12,7 @@ params:
 
 But contrarywise there was a man in the province of the Mercians, whose
 visions and words, but not his manner of life, were of profit to others,
-though not to himself. In the reign of Coenred,(847) who succeeded
+though not to himself. In the reign of Coenred, who succeeded
 Ethelred, there was a layman who was a king’s thegn, no less acceptable to
 the king for his outward industry, than displeasing to him for his neglect
 of his own soul. The king diligently admonished him to confess and amend,
@@ -78,6 +79,6 @@ youth. If, contrarywise, he had taken care in his youth to correct the
 errors of his boyhood, and by well-doing to put them away from the sight
 of God, he might have been admitted to the fellowship of those of whom the
 Psalm says, “Blessed are those whose iniquities are forgiven, and whose
-sins are covered.”(848) This story, as I learned it of the venerable
-Bishop Pechthelm,(849) I have thought good to set forth plainly, for the
+sins are covered.” This story, as I learned it of the venerable
+Bishop Pechthelm, I have thought good to set forth plainly, for the
 salvation of such as shall read or hear it.

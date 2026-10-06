@@ -1,5 +1,6 @@
 ---
 title: "I. How Ethelwald, successor to Cuthbert, leading a hermit’s life, calmed a tempest by his prayers when the brethren were in danger at sea."
+worktitle: "The Ecclessiastical History of the English People: Book V"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -9,11 +10,11 @@ params:
 ---
 
 
-The venerable Ethelwald(766) succeeded the man of God, Cuthbert, in the
-exercise of a solitary life, which he spent in the isle of Farne(767)
+The venerable Ethelwald succeeded the man of God, Cuthbert, in the
+exercise of a solitary life, which he spent in the isle of Farne
 before he became a bishop. After he had received the priesthood, he
 consecrated his office by deeds worthy of that degree for many years in
-the monastery which is called Inhrypum.(768) To the end that his merit and
+the monastery which is called Inhrypum. To the end that his merit and
 manner of life may be the more certainly made known, I will relate one
 miracle of his, which was told me by one of the brothers for and on whom
 the same was wrought; to wit, Guthfrid, the venerable servant and priest
@@ -47,6 +48,6 @@ the man of God, to the end that we might escape.”
 
 The man of God remained in the isle of Farne twelve years, and died there;
 but was buried in the church of the blessed Apostle Peter, in the isle of
-Lindisfarne, beside the bodies of the aforesaid bishops.(769) These things
-happened in the days of King Aldfrid,(770) who, after his brother Egfrid,
+Lindisfarne, beside the bodies of the aforesaid bishops. These things
+happened in the days of King Aldfrid, who, after his brother Egfrid,
 ruled the nation of the Northumbrians for nineteen years.

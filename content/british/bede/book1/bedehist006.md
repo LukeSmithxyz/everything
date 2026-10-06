@@ -1,5 +1,6 @@
 ---
 title: "VI. Of the reign of Diocletian, and how he persecuted the Christians."
+worktitle: "The Ecclessiastical History of the English People: Book I"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -9,10 +10,10 @@ params:
 
 
 
-In the year of our Lord 286,(46) Diocletian, the thirty-third from
+In the year of our Lord 286, Diocletian, the thirty-third from
 Augustus, and chosen emperor by the army, reigned twenty years, and
 created Maximian, surnamed Herculius, his colleague in the empire. In
-their time, one Carausius,(47) of very mean birth, but a man of great
+their time, one Carausius, of very mean birth, but a man of great
 ability and energy, being appointed to guard the sea-coasts, then infested
 by the Franks and Saxons, acted more to the prejudice than to the
 advantage of the commonwealth, by not restoring to its owners any of the
@@ -22,9 +23,9 @@ infest the frontiers. When, therefore, an order was sent by Maximian that
 he should be put to death, he took upon him the imperial purple, and
 possessed himself of Britain, and having most valiantly conquered and held
 it for the space of seven years, he was at length put to death by the
-treachery of his associate Allectus.(48) The usurper, having thus got the
+treachery of his associate Allectus. The usurper, having thus got the
 island from Carausius, held it three years, and was then vanquished by
-Asclepiodotus,(49) the captain of the Praetorian guards, who thus at the
+Asclepiodotus, the captain of the Praetorian guards, who thus at the
 end of ten years restored Britain to the Roman empire.
 
 Meanwhile, Diocletian in the east, and Maximian Herculius in the west,

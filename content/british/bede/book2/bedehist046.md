@@ -1,5 +1,6 @@
 ---
 title: "XII. How Edwin was persuaded to believe by a vision which he had once seen when he was in exile."
+worktitle: "The Ecclessiastical History of the English People: Book II"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -11,7 +12,7 @@ params:
 Thus wrote the aforesaid Pope Boniface for the salvation of King Edwin and
 his nation. But a heavenly vision, which the Divine Goodness was pleased
 once to reveal to this king, when he was in banishment at the court of
-Redwald, king of the Angles,(226) was of no little use in urging him to
+Redwald, king of the Angles, was of no little use in urging him to
 receive and understand the doctrines of salvation. For when Paulinus
 perceived that it was a difficult task to incline the king’s proud mind to
 the humility of the way of salvation and the reception of the mystery of
@@ -24,7 +25,7 @@ admonished the king to perform the vow which he had made, when he received
 the vision, promising to fulfil it, if he should be delivered from the
 troubles of that time, and advanced to the throne.
 
-The vision was this. When Ethelfrid,(227) his predecessor, was persecuting
+The vision was this. When Ethelfrid, his predecessor, was persecuting
 him, he wandered for many years as an exile, hiding in divers places and
 kingdoms, and at last came to Redwald, beseeching him to give him
 protection against the snares of his powerful persecutor. Redwald
@@ -54,7 +55,7 @@ be overwhelmed with many thoughts, not knowing what to do, or which way to
 turn.
 
 When he had remained a long time in silent anguish of mind, consumed with
-inward fire,(228) on a sudden in the stillness of the dead of night he saw
+inward fire, on a sudden in the stillness of the dead of night he saw
 approaching a person, whose face and habit were strange to him, at sight
 of whom, seeing that he was unknown and unlooked for, he was not a little
 startled. The stranger coming close up, saluted him, and asked why he sat
@@ -107,7 +108,7 @@ messengers, but helped him to recover his kingdom. For as soon as the
 messengers had returned home, he raised a mighty army to subdue Ethelfrid;
 who, meeting him with much inferior forces, (for Redwald had not given him
 time to gather and unite all his power,) was slain on the borders of the
-kingdom of Mercia, on the east side of the river that is called Idle.(229)
+kingdom of Mercia, on the east side of the river that is called Idle.
 In this battle, Redwald’s son, called Raegenheri, was killed. Thus Edwin,
 in accordance with the prophecy he had received, not only escaped the
 danger from his enemy, but, by his death, succeeded the king on the

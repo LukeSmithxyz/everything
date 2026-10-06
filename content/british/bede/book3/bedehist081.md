@@ -1,5 +1,6 @@
 ---
 title: "XXVII. How Egbert, a holy man of the English nation, led a monastic life in Ireland."
+worktitle: "The Ecclessiastical History of the English People: Book III"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -9,12 +10,12 @@ params:
 
 
 In the same year of our Lord 664, there happened an eclipse of the sun, on
-the third day of May,(484) about the tenth hour of the day. In the same
-year, a sudden pestilence(485) depopulated first the southern parts of
+the third day of May, about the tenth hour of the day. In the same
+year, a sudden pestilence depopulated first the southern parts of
 Britain, and afterwards attacking the province of the Northumbrians,
 ravaged the country far and near, and destroyed a great multitude of men.
-By this plague the aforesaid priest of the Lord, Tuda,(486) was carried
-off, and was honourably buried in the monastery called Paegnalaech.(487)
+By this plague the aforesaid priest of the Lord, Tuda, was carried
+off, and was honourably buried in the monastery called Paegnalaech.
 Moreover, this plague prevailed no less disastrously in the island of
 Ireland. Many of the nobility, and of the lower ranks of the English
 nation, were there at that time, who, in the days of the Bishops Finan and
@@ -26,13 +27,13 @@ another. The Scots willingly received them all, and took care to supply
 them with daily food without cost, as also to furnish them with books for
 their studies, and teaching free of charge.
 
-Among these were Ethelhun and Egbert,(488) two youths of great capacity,
-of the English nobility. The former of whom was brother to Ethelwin,(489)
+Among these were Ethelhun and Egbert, two youths of great capacity,
+of the English nobility. The former of whom was brother to Ethelwin,
 a man no less beloved by God, who also at a later time went over into
 Ireland to study, and having been well instructed, returned into his own
 country, and being made bishop in the province of Lindsey, long and nobly
 governed the Church. These two being in the monastery which in the
-language of the Scots is called Rathmelsigi,(490) and having lost all
+language of the Scots is called Rathmelsigi, and having lost all
 their companions, who were either cut off by the plague, or dispersed into
 other places, were both seized by the same sickness, and grievously
 afflicted. Of these, Egbert, (as I was informed by a priest venerable for
@@ -59,7 +60,7 @@ requested, and that he had obtained his request.
 
 In brief, Ethelhun died the next night; but Egbert, throwing off his
 sickness, recovered and lived a long time after to grace the episcopal
-office, which he received, by deeds worthy of it;(491) and blessed with
+office, which he received, by deeds worthy of it; and blessed with
 many virtues, according to his desire, lately, in the year of our Lord
 729, being ninety years of age, he departed to the heavenly kingdom. He
 passed his life in great perfection of humility, gentleness, continence,

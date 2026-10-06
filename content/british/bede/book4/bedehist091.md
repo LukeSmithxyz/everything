@@ -1,5 +1,6 @@
 ---
 title: "VII. How it was indicated by a light from heaven where the bodies of the nuns should be buried in the monastery of Berecingum."
+worktitle: "The Ecclessiastical History of the English People: Book IV"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -13,7 +14,7 @@ committed to writing by those who were acquainted with them, that their
 memory might be preserved, and succeeding generations edified, and these
 are in the possession of many persons; some of them we also have taken
 pains to include in our History of the Church. At the time of the
-pestilence, already often mentioned,(584) which ravaged all the country
+pestilence, already often mentioned, which ravaged all the country
 far and wide, it had also seized on that part of this monastery where the
 men abode, and they were daily hurried away to the Lord. The careful
 mother of the community began often to inquire of the sisters, when they

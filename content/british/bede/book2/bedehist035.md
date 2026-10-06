@@ -1,5 +1,6 @@
 ---
-title: "I. Of the death of the blessed Pope Gregory.(143)"
+title: "I. Of the death of the blessed Pope Gregory."
+worktitle: "The Ecclessiastical History of the English People: Book II"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -7,7 +8,7 @@ params:
  de: "604"
 ---
 
-At this time, that is, in the year of our Lord 605,(144) the blessed Pope
+At this time, that is, in the year of our Lord 605, the blessed Pope
 Gregory, after having most gloriously governed the Roman Apostolic see
 thirteen years, six months, and ten days, died, and was translated to an
 eternal abode in the kingdom of Heaven. Of whom, seeing that by his zeal
@@ -19,12 +20,12 @@ was placed over the Churches long before converted to the true faith, he
 made our nation, till then enslaved to idols, the Church of Christ, so
 that concerning him we may use those words of the Apostle; “if he be not
 an apostle to others, yet doubtless he is to us; for the seal of his
-apostleship are we in the Lord.”(145)
+apostleship are we in the Lord.”
 
 He was by nation a Roman, son of Gordianus, tracing his descent from
 ancestors that were not only noble, but religious. Moreover Felix, once
 bishop of the same Apostolic see, a man of great honour in Christ and in
-the Church, was his forefather.(146) Nor did he show his nobility in
+the Church, was his forefather. Nor did he show his nobility in
 religion by less strength of devotion than his parents and kindred. But
 that nobility of this world which was seen in him, by the help of the
 Divine Grace, he used only to gain the glory of eternal dignity; for soon
@@ -55,7 +56,7 @@ labour of converting many, than by the former calm of his private life,
 and chiefly because, whilst holding the pontifical office, he set about
 organizing his house like a monastery. And when first drawn from the
 monastery, ordained to the ministry of the altar, and sent to
-Constantinople as representative(147) of the Apostolic see, though he now
+Constantinople as representative of the Apostolic see, though he now
 took part in the secular affairs of the palace, yet he did not abandon the
 fixed course of his heavenly life; for some of the brethren of his
 monastery, who had followed him to the royal city in their brotherly love,
@@ -69,7 +70,7 @@ not only guarded against the assaults of the world, but more and more
 roused to the exercises of a heavenly life.
 
 For they persuaded him to interpret by a mystical exposition the book of
-the blessed Job,(148) which is involved in great obscurity; nor could he
+the blessed Job, which is involved in great obscurity; nor could he
 refuse to undertake that work, which brotherly affection imposed on him
 for the future benefit of many; but in a wonderful manner, in five and
 thirty books of exposition, he taught how that same book is to be
@@ -79,7 +80,7 @@ faithful. This work he began as papal representative in the royal city,
 but finished it at Rome after being made pope. Whilst he was still in the
 royal city, by the help of the grace of Catholic truth, he crushed in its
 first rise a new heresy which sprang up there, concerning the state of our
-resurrection. For Eutychius,(149) bishop of that city, taught, that our
+resurrection. For Eutychius, bishop of that city, taught, that our
 body, in the glory of resurrection, would be impalpable, and more subtile
 than wind and air. The blessed Gregory hearing this, proved by force of
 truth, and by the instance of the Resurrection of our Lord, that this
@@ -89,9 +90,9 @@ rendered subtile by the effect of spiritual power, but is palpable by the
 reality of nature; according to the example of our Lord’s Body, concerning
 which, when risen from the dead, He Himself says to His disciples, “Handle
 Me and see, for a spirit hath not flesh and bones, as ye see Me
-have.”(150) In maintaining this faith, the venerable Father Gregory so
+have.” In maintaining this faith, the venerable Father Gregory so
 earnestly strove against the rising heresy, and with the help of the most
-pious emperor, Tiberius Constantine,(151) so fully suppressed it, that
+pious emperor, Tiberius Constantine, so fully suppressed it, that
 none has been since found to revive it.
 
 He likewise composed another notable book, the “Liber Pastoralis,” wherein
@@ -108,9 +109,9 @@ ought to strive after, so by describing the miracles of saints, he might
 make known the glory of those virtues. Further, in twenty-two homilies, he
 showed how much light is latent in the first and last parts of the prophet
 Ezekiel, which seemed the most obscure. Besides which, he wrote the “Book
-of Answers,”(152) to the questions of the holy Augustine, the first bishop
+of Answers,” to the questions of the holy Augustine, the first bishop
 of the English nation, as we have shown above, inserting the same book
-entire in this history; and the useful little “Synodical Book,”(153) which
+entire in this history; and the useful little “Synodical Book,” which
 he composed with the bishops of Italy on necessary matters of the Church;
 as well as private letters to certain persons. And it is the more
 wonderful that he could write so many lengthy works, seeing that almost
@@ -118,7 +119,7 @@ all the time of his youth, to use his own words, he was frequently
 tormented with internal pain, constantly enfeebled by the weakness of his
 digestion, and oppressed by a low but persistent fever. But in all these
 troubles, forasmuch as he carefully reflected that, as the Scripture
-testifies,(154) “He scourgeth every son whom He receiveth,” the more
+testifies, “He scourgeth every son whom He receiveth,” the more
 severely he suffered under those present evils, the more he assured
 himself of his eternal hope.
 
@@ -128,7 +129,7 @@ churches or adorning them with gold and silver, but Gregory was wholly
 intent upon gaining souls. Whatsoever money he had, he took care to
 distribute diligently and give to the poor, that his righteousness might
 endure for ever, and his horn be exalted with honour; so that the words of
-the blessed Job might be truly said of him,(155) “When the ear heard me,
+the blessed Job might be truly said of him, “When the ear heard me,
 then it blessed me; and when the eye saw me, it gave witness to me:
 because I delivered the poor that cried, and the fatherless, and him that
 had none to help him. The blessing of him that was ready to perish came
@@ -141,7 +142,7 @@ after: “If I have withheld,” says he, “the poor from their desire; or have
 caused the eyes of the widow to fail; or have eaten my morsel myself
 alone, and the fatherless hath not eaten thereof: (for from my youth
 compassion grew up with me, and from my mother’s womb it came forth with
-me.”(156))
+me.”)
 
 To his works of piety and righteousness this also may be added, that he
 saved our nation, by the preachers he sent hither, from the teeth of the
@@ -167,10 +168,10 @@ celebrated in the churches of the holy Apostles, Peter and Paul, over
 their bodies. And in the celebration of Masses, he added three petitions
 of the utmost perfection: “And dispose our days in thy peace, and bid us
 to be preserved from eternal damnation, and to be numbered in the flock of
-thine elect.”(157)
+thine elect.”
 
 He governed the Church in the days of the Emperors Mauritius and Phocas,
-and passing out of this life in the second year of the same Phocas,(158)
+and passing out of this life in the second year of the same Phocas,
 he departed to the true life which is in Heaven. His body was buried in
 the church of the blessed Apostle Peter before the sacristy, on the 12th
 day of March, to rise one day in the same body in glory with the rest of
@@ -212,13 +213,13 @@ therefore again asked, what was the name of that nation? and was answered,
 that they were called Angles. “Right,” said he, “for they have an angelic
 face, and it is meet that such should be co-heirs with the Angels in
 heaven. What is the name of the province from which they are brought?” It
-was replied, that the natives of that province were called Deiri.(159)
+was replied, that the natives of that province were called Deiri.
 “Truly are they _De ira_,” said he, “saved from wrath, and called to the
 mercy of Christ. How is the king of that province called?” They told him
-his name was Aelli;(160) and he, playing upon the name, said, “Allelujah,
+his name was Aelli; and he, playing upon the name, said, “Allelujah,
 the praise of God the Creator must be sung in those parts.”
 
-Then he went to the bishop of the Roman Apostolic see(161) (for he was not
+Then he went to the bishop of the Roman Apostolic see (for he was not
 himself then made pope), and entreated him to send some ministers of the
 Word into Britain to the nation of the English, that it might be converted
 to Christ by them; declaring himself ready to carry out that work with the

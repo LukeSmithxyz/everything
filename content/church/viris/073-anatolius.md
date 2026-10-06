@@ -3,7 +3,7 @@ title: "Anatolius the bishop"
 worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
- order: "073"
+ order: "73"
  da: "492"
  translator: "Ernest Cushing Richardson"
  dt: "1885"

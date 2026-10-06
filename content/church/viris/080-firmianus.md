@@ -3,7 +3,7 @@ title: "Firmianus the rhetorician, surnamed Lactantius"
 worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
- order: "080"
+ order: "80"
  da: "492"
  translator: "Ernest Cushing Richardson"
  dt: "1885"

@@ -1,5 +1,6 @@
 ---
 title: "XIX. How Queen Ethelthryth always preserved her virginity, and her body suffered no corruption in the grave."
+worktitle: "The Ecclessiastical History of the English People: Book IV"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -9,10 +10,10 @@ params:
 ---
 
 
-King Egfrid took to wife Ethelthryth, the daughter of Anna,(660) king of
+King Egfrid took to wife Ethelthryth, the daughter of Anna, king of
 the East Angles, of whom mention has been often made; a man of true
 religion, and altogether noble in mind and deed. She had before been given
-in marriage to another, to wit, Tondbert, ealdorman(661) of the Southern
+in marriage to another, to wit, Tondbert, ealdorman of the Southern
 Gyrwas; but he died soon after he had married her, and she was given to
 the aforesaid king. Though she lived with him twelve years, yet she
 preserved the glory of perfect virginity, as I was informed by Bishop
@@ -30,10 +31,10 @@ corruption, is a token that she had not been defiled by man.
 She had long asked of the king that he would permit her to lay aside
 worldly cares, and to serve only Christ, the true King, in a monastery;
 and having at length with difficulty prevailed, she entered the monastery
-of the Abbess Aebba,(662) who was aunt to King Egfrid, at the place called
-the city of Coludi,(663) having received the veil of the religious habit
+of the Abbess Aebba, who was aunt to King Egfrid, at the place called
+the city of Coludi, having received the veil of the religious habit
 from the hands of the aforesaid Bishop Wilfrid; but a year after she was
-herself made abbess in the district called Elge,(664) where, having built
+herself made abbess in the district called Elge, where, having built
 a monastery, she began, by the example of a heavenly life and by her
 teaching, to be the virgin mother of many virgins dedicated to God. It is
 told of her that from the time of her entering the monastery, she would
@@ -52,7 +53,7 @@ the Lord, in the midst of her flock, seven years after she had been made
 abbess; and, as she had ordered, was buried among them in a wooden coffin
 in her turn, according to the order in which she had passed away.
 
-She was succeeded in the office of abbess by her sister Sexburg,(665) who
+She was succeeded in the office of abbess by her sister Sexburg, who
 had been wife to Earconbert, king of Kent. This abbess, when her sister
 had been buried sixteen years, thought fit to take up her bones, and,
 putting them into a new coffin, to translate them into the church.
@@ -60,8 +61,8 @@ Accordingly she ordered some of the brothers to find a stone whereof to
 make a coffin for this purpose. They went on board ship, for the district
 of Ely is on every side encompassed with water and marshes, and has no
 large stones, and came to a small deserted city, not far from thence,
-which, in the language of the English, is called Grantacaestir,(666) and
-presently, near the city walls, they found a white marble coffin,(667)
+which, in the language of the English, is called Grantacaestir, and
+presently, near the city walls, they found a white marble coffin,
 most beautifully wrought, and fitly covered with a lid of the same sort of
 stone. Perceiving, therefore, that the Lord had prospered their journey,
 they returned thanks to Him and carried it to the monastery.
@@ -97,7 +98,7 @@ It is said that when she was sore troubled with the aforesaid tumour and
 pain in her jaw and neck, she took great pleasure in that sort of
 sickness, and was wont to say, “I know of a surety that I deservedly bear
 the weight of my trouble on my neck, for I remember that, when I was a
-young maiden, I bore on it the needless weight of necklaces;(668) and
+young maiden, I bore on it the needless weight of necklaces; and
 therefore I believe the Divine goodness would have me endure the pain in
 my neck, that so I may be absolved from the guilt of my needless levity,
 having now, instead of gold and pearls, the fiery heat of a tumour rising

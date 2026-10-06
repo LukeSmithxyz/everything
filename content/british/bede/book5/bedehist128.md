@@ -1,5 +1,6 @@
 ---
 title: "XII. How one in the province of the Northumbrians, rose from the dead, and related many things which he had seen, some to be greatly dreaded and some to be desired."
+worktitle: "The Ecclessiastical History of the English People: Book V"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -14,7 +15,7 @@ the death of the soul, a certain man, who had been some time dead, rose
 again to the life of the body, and related many memorable things that he
 had seen; some of which I have thought fit here briefly to describe. There
 was a certain householder in that district of the Northumbrians which is
-called Incuneningum,(841) who led a godly life, with all his house. This
+called Incuneningum, who led a godly life, with all his house. This
 man fell sick, and his sickness daily increasing, he was brought to
 extremity, and died in the beginning of the night; but at dawn he came to
 life again, and suddenly sat up, whereat all those that sat about the body
@@ -28,7 +29,7 @@ continuing in prayer till day, forthwith divided all his substance into
 three parts; one whereof he gave to his wife, another to his children, and
 the third, which he kept himself, he straightway distributed among the
 poor. Not long after, being set free from the cares of this world, he came
-to the monastery of Mailros,(842) which is almost enclosed by the winding
+to the monastery of Mailros, which is almost enclosed by the winding
 of the river Tweed, and having received the tonsure, went apart into a
 place of abode which the abbot had provided, and there he continued till
 the day of his death, in so great contrition of mind and mortifying of the
@@ -36,7 +37,7 @@ body, that even if his tongue had been silent, his life would have
 declared that he had seen many things either to be dreaded or coveted,
 which were hidden from other men.
 
-Thus he related what he had seen.(843) “He that led me had a countenance
+Thus he related what he had seen. “He that led me had a countenance
 full of light, and shining raiment, and we went in silence, as it seemed
 to me, towards the rising of the summer sun. And as we walked we came to a
 broad and deep valley of infinite length; it lay on our left, and one side
@@ -59,7 +60,7 @@ on a sudden I saw the place before us begin to grow dark and filled with
 shadows. When we entered into them, the shadows by degrees grew so thick,
 that I could see nothing else, save only the darkness and the shape and
 garment of him that led me. As we went on ‘through the shades in the lone
-night,’(844) lo! on a sudden there appeared before us masses of foul flame
+night,’ lo! on a sudden there appeared before us masses of foul flame
 constantly rising as it were out of a great pit, and falling back again
 into the same. When I had been led thither, my guide suddenly vanished,
 and left me alone in the midst of darkness and these fearful sights. As
@@ -172,12 +173,12 @@ declining age with coarse bread and cold water. He often went to that man,
 and by repeated questioning, heard of him what manner of things he had
 seen when out of the body; by whose account those few particulars which we
 have briefly set down came also to our knowledge. And he related his
-visions to King Aldfrid,(845) a man most learned in all respects, and was
+visions to King Aldfrid, a man most learned in all respects, and was
 by him so willingly and attentively heard, that at his request he was
 admitted into the monastery above-mentioned, and received the crown of the
 monastic tonsure; and the said king, whensoever he came into those parts,
 very often went to hear him. At that time the abbot and priest
-Ethelwald,(846) a man of godly and sober life, presided over that
+Ethelwald, a man of godly and sober life, presided over that
 monastery. He now occupies the episcopal see of the church of Lindisfarne,
 leading a life worthy of his degree.
 

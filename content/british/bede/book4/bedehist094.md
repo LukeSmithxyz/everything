@@ -1,5 +1,6 @@
 ---
 title: "X. How a blind woman, praying in the burial-place of that monastery, was restored to her sight."
+worktitle: "The Ecclessiastical History of the English People: Book IV"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -10,7 +11,7 @@ params:
 
 Hildilid, a devout handmaid of God, succeeded Ethelburg in the office of
 abbess and presided over that monastery with great vigour many years, till
-she was of an extreme old age,(585) in the observance of regular
+she was of an extreme old age, in the observance of regular
 discipline, and carefully providing all things for the common use. The
 narrowness of the space where the monastery is built, led her to determine
 that the bones of the servants and handmaidens of Christ, who had been
@@ -19,7 +20,7 @@ church of the Blessed Mother of God, and interred in one place. How often
 a brightness of heavenly light was seen there, when this was done, and a
 fragrancy of wonderful sweetness arose, and what other signs were
 revealed, whosoever reads will find in the book from which we have taken
-these tales.(586)
+these tales.
 
 But in truth, I think it by no means fit to pass over the miracle of
 healing, which the same book informs us was wrought in the cemetery of

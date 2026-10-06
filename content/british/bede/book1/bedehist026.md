@@ -1,5 +1,6 @@
 ---
 title: "XXVI. How St. Augustine in Kent followed the doctrine and manner of life of the primitive Church, and settled his episcopal see in the royal city."
+worktitle: "The Ecclessiastical History of the English People: Book I"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -18,7 +19,7 @@ taught, and being always ready to suffer any adversity, and even to die
 for that truth which they preached. In brief, some believed and were
 baptized, admiring the simplicity of their blameless life, and the
 sweetness of their heavenly doctrine. There was on the east side of the
-city, a church dedicated of old to the honour of St. Martin,(117) built
+city, a church dedicated of old to the honour of St. Martin, built
 whilst the Romans were still in the island, wherein the queen, who, as has
 been said before, was a Christian, was wont to pray. In this they also
 first began to come together, to chant the Psalms, to pray, to celebrate

@@ -3,7 +3,7 @@ title: "Miltiades"
 worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
- order: "039"
+ order: "39"
  da: "492"
  translator: "Ernest Cushing Richardson"
  dt: "1885"

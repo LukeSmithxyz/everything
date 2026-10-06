@@ -1,5 +1,6 @@
 ---
 title: "XVII. How Edwin received letters of exhortation from Pope Honorius, who also sent the pall to Paulinus."
+worktitle: "The Ecclessiastical History of the English People: Book II"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -43,7 +44,7 @@ mind immediately to grant those things which you hoped would be by us
 ordained for your bishops, and this we do on account of the sincerity of
 your faith, which has been made known to us abundantly in terms of praise
 by the bearers of these presents. We have sent two palls to the two
-metropolitans, Honorius and Paulinus;(257) to the intent, that when either
+metropolitans, Honorius and Paulinus; to the intent, that when either
 of them shall be called out of this world to his Creator, the other may,
 by this authority of ours, substitute another bishop in his place; which
 privilege we are induced to grant by the warmth of our love for you, as

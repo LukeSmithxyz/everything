@@ -1,5 +1,6 @@
 ---
-title: "XXIV. That there was in her monastery a brother, on whom the gift of song was bestowed by Heaven.(709)"
+title: "XXIV. That there was in her monastery a brother, on whom the gift of song was bestowed by Heaven."
+worktitle: "The Ecclessiastical History of the English People: Book IV"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -48,7 +49,7 @@ sleep, he remembered all that he had sung in his dream, and soon added
 more after the same manner, in words which worthily expressed the praise
 of God.
 
-In the morning he came to the reeve(710) who was over him, and having told
+In the morning he came to the reeve who was over him, and having told
 him of the gift he had received, was conducted to the abbess, and bidden,
 in the presence of many learned men, to tell his dream, and repeat the
 verses, that they might all examine and give their judgement upon the
@@ -63,7 +64,7 @@ the secular habit, and take upon him monastic vows; and having received
 him into the monastery, she and all her people admitted him to the company
 of the brethren, and ordered that he should be taught the whole course of
 sacred history. So he, giving ear to all that he could learn, and bearing
-it in mind, and as it were ruminating, like a clean animal,(711) turned it
+it in mind, and as it were ruminating, like a clean animal, turned it
 into most harmonious verse; and sweetly singing it, made his masters in
 their turn his hearers. He sang the creation of the world, the origin of
 man, and all the history of Genesis, the departure of the children of
@@ -90,7 +91,7 @@ wondering why he should desire it, because there was as yet no sign of his
 approaching death, nevertheless did his bidding. When they had lain down
 there, and had been conversing happily and pleasantly for some time with
 those that were in the house before, and it was now past midnight, he
-asked them, whether they had the Eucharist within?(712) They answered,
+asked them, whether they had the Eucharist within? They answered,
 “What need of the Eucharist? for you are not yet appointed to die, since
 you talk so merrily with us, as if you were in good health.”
 “Nevertheless,” said he, “bring me the Eucharist.” Having received It into
@@ -101,7 +102,7 @@ their turn they asked him to be of the same mind towards them. He answered
 at once, “I am in charity, my children, with all the servants of God.”
 Then strengthening himself with the heavenly Viaticum, he prepared for the
 entrance into another life, and asked how near the time was when the
-brothers should be awakened to sing the nightly praises of the Lord?(713)
+brothers should be awakened to sing the nightly praises of the Lord?
 They answered, “It is not far off.” Then he said, “It is well, let us
 await that hour;” and signing himself with the sign of the Holy Cross, he
 laid his head on the pillow, and falling into a slumber for a little

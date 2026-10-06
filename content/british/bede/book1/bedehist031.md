@@ -1,5 +1,6 @@
 ---
 title: "XXXI. How Pope Gregory, by letter, exhorted Augustine not to glory in his miracles."
+worktitle: "The Ecclessiastical History of the English People: Book I"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -24,7 +25,7 @@ inwardly to fall through vain-glory. For we must call to mind, that when
 the disciples returned with joy from preaching, and said to their Heavenly
 Master, ‘Lord, even the devils are subject to us through Thy Name;’
 forthwith they received the reply, ‘In this rejoice not; but rather
-rejoice, because your names are written in heaven.’(134) For their minds
+rejoice, because your names are written in heaven.’ For their minds
 were set on private and temporal joys, when they rejoiced in miracles; but
 they are recalled from the private to the common joy, and from the
 temporal to the eternal, when it is said to them, ‘Rejoice in this,

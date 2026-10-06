@@ -1,5 +1,6 @@
 ---
 title: "II. How, among innumerable other miracles of healing wrought by the wood of the cross, which King Oswald, being ready to engage against the barbarians, erected, a certain man had his injured arm healed."
+worktitle: "The Ecclessiastical History of the English People: Book III"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -29,20 +30,20 @@ men or cattle to drink, or they sprinkle them therewith, and these are
 presently restored to health.
 
 The place is called in the English tongue Hefenfelth, or the Heavenly
-Field,(290) which name it undoubtedly received of old as a presage of what
+Field, which name it undoubtedly received of old as a presage of what
 was afterwards to happen, denoting, that the heavenly trophy was to be
 erected, the heavenly victory begun, and heavenly miracles shown forth to
 this day. The place is near the wall in the north which the Romans
 formerly drew across the whole of Britain from sea to sea, to restrain the
 onslaught of the barbarous nations, as has been said before. Hither also
-the brothers of the church of Hagustald,(291) which is not far distant,
+the brothers of the church of Hagustald, which is not far distant,
 long ago made it their custom to resort every year, on the day before that
 on which King Oswald was afterwards slain, to keep vigils there for the
 health of his soul, and having sung many psalms of praise, to offer for
 him in the morning the sacrifice of the Holy Oblation. And since that good
 custom has spread, they have lately built a church there, which has
 attached additional sanctity and honour in the eyes of all men to that
-place;(292) and this with good reason; for it appears that there was no
+place; and this with good reason; for it appears that there was no
 symbol of the Christian faith, no church, no altar erected throughout all
 the nation of the Bernicians, before that new leader in war, prompted by
 the zeal of his faith, set up this standard of the Cross as he was going

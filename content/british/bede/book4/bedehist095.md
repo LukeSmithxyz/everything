@@ -1,5 +1,6 @@
 ---
 title: "XI. How Sebbi, king of the same province, ended his life in a monastery."
+worktitle: "The Ecclessiastical History of the English People: Book IV"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -8,7 +9,7 @@ params:
 ---
 
 
-At that time, as the same little book informs us, Sebbi,(587) a very
+At that time, as the same little book informs us, Sebbi, a very
 devout man, of whom mention has been made above, governed the kingdom of
 the East Saxons. His mind was set on religious acts, frequent prayer and
 pious fruits of almsgiving; he esteemed a private and monastic life better
@@ -22,7 +23,7 @@ which he afterwards died, and he admonished his wife, that they should
 then at least together devote themselves to the service of God, since they
 could no longer together enjoy, or rather serve, the world. Having with
 much difficulty obtained this of her, he went to Waldhere, bishop of
-London, who had succeeded Earconwald,(588) and with his blessing received
+London, who had succeeded Earconwald, and with his blessing received
 the religious habit, which he had long desired. He also carried to him a
 considerable sum of money, to be given to the poor, reserving nothing to
 himself, but rather coveting to remain poor in spirit for the sake of the
@@ -59,9 +60,9 @@ at the knees, if they could, so that the coffin might contain it. But
 Heaven interposed and a miracle prevented the execution of either of those
 designs; for on a sudden, in the presence of the bishop and Sighard, who
 was the son of that same king and monk, and who reigned after him jointly
-with his brother Suefred,(589) and of no small number of men, that coffin
+with his brother Suefred, and of no small number of men, that coffin
 was found to fit the length of the body, insomuch that a pillow might even
 be put in at the head; and at the feet the coffin was four inches longer
 than the body. He was buried in the church of the blessed teacher of the
-Gentiles,(590) by whose doctrine he had learned to hope for heavenly
+Gentiles, by whose doctrine he had learned to hope for heavenly
 things.

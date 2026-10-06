@@ -1,5 +1,6 @@
 ---
 title: "XV. How Bishop Aidan foretold to certain seamen that a storm would arise, and gave them some holy oil to calm it."
+worktitle: "The Ecclessiastical History of the English People: Book III"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -11,9 +12,9 @@ params:
 How great the merits of Aidan were, was made manifest by the Judge of the
 heart, with the testimony of miracles, whereof it will suffice to mention
 three, that they may not be forgotten. A certain priest, whose name was
-Utta,(365) a man of great weight and sincerity, and on that account
+Utta, a man of great weight and sincerity, and on that account
 honoured by all men, even the princes of the world, was sent to Kent, to
-bring thence, as wife for King Oswy, Eanfled,(366) the daughter of King
+bring thence, as wife for King Oswy, Eanfled, the daughter of King
 Edwin, who had been carried thither when her father was killed. Intending
 to go thither by land, but to return with the maiden by sea, he went to
 Bishop Aidan, and entreated him to offer up his prayers to the Lord for
@@ -36,6 +37,6 @@ uproar. Thus it came to pass that the man of God, by the spirit of
 prophecy, foretold the storm that was to come to pass, and by virtue of
 the same spirit, though absent in the body, calmed it when it had arisen.
 The story of this miracle was not told me by a person of little credit,
-but by Cynimund, a most faithful priest of our church,(367) who declared
+but by Cynimund, a most faithful priest of our church, who declared
 that it was related to him by Utta, the priest, in whose case and through
 whom the same was wrought.

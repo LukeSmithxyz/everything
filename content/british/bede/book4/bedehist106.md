@@ -1,5 +1,6 @@
 ---
 title: "XXII. How a certain captive’s chains fell off when Masses were sung for him."
+worktitle: "The Ecclessiastical History of the English People: Book IV"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -18,7 +19,7 @@ and sitting up, bound his own wounds as best as he could. Then having
 rested awhile, he stood up, and went away to see if he could find any
 friends to take care of him; but in so doing he was discovered and taken
 by some of the enemy’s army, and carried before their lord, who was one of
-King Ethelred’s nobles.(678) Being asked by him who he was, and fearing to
+King Ethelred’s nobles. Being asked by him who he was, and fearing to
 own himself a thegn, he answered that he was a peasant, a poor man and
 married, and he declared that he had come to the war with others like
 himself to bring provisions to the army. The noble entertained him, and
@@ -28,7 +29,7 @@ bound, for as soon as they that bound him were gone, his bonds were
 loosed.
 
 Now he had a brother called Tunna, who was a priest and abbot of a
-monastery in the city which is still called Tunnacaestir after him.(679)
+monastery in the city which is still called Tunnacaestir after him.
 This man, hearing that his brother had been killed in the battle, went to
 see if haply he could find his body; and finding another very like him in
 all respects, he believed it to be his. So he carried it to his monastery,
@@ -62,7 +63,7 @@ leave to ransom himself if he could. Now it was at the third hour, when
 the Masses were wont to be said, that his bonds were most frequently
 loosed. He, having taken an oath that he would either return, or send his
 owner the money for the ransom, went into Kent to King Hlothere, who was
-son to the sister of Queen Ethelthryth,(680) above spoken of, for he had
+son to the sister of Queen Ethelthryth, above spoken of, for he had
 once been that queen’s thegn. From him he asked and obtained the price of
 his freedom, and as he had promised, sent it to his master for his ransom.
 

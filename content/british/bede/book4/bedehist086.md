@@ -1,5 +1,6 @@
 ---
 title: "II. How Theodore visited all places; how the Churches of the English began to be instructed in the study of Holy Scripture, and in the Catholic truth; and how Putta was made bishop of the Church of Rochester in the room of Damianus."
+worktitle: "The Ecclessiastical History of the English People: Book IV"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -31,16 +32,16 @@ sacred studies had masters at hand to teach them.
 
 From that time also they began in all the churches of the English to learn
 Church music, which till then had been only known in Kent. And, excepting
-James, of whom we have spoken above,(536) the first teacher of singing in
-the churches of the Northumbrians was Eddi, surnamed Stephen,(537) invited
+James, of whom we have spoken above, the first teacher of singing in
+the churches of the Northumbrians was Eddi, surnamed Stephen, invited
 from Kent by the most reverend Wilfrid, who was the first of the bishops
 of the English nation that learned to deliver to the churches of the
-English the Catholic manner of life.(538)
+English the Catholic manner of life.
 
 Theodore, journeying through all parts, ordained bishops in fitting
 places, and with their assistance corrected such things as he found
 faulty. Among the rest, when he charged Bishop Ceadda with not having been
-duly consecrated,(539) he, with great humility, answered, “If you know
+duly consecrated, he, with great humility, answered, “If you know
 that I have not duly received episcopal ordination, I willingly resign the
 office, for I never thought myself worthy of it; but, though unworthy, for
 obedience sake I submitted, when bidden to undertake it.” Theodore,
@@ -51,8 +52,8 @@ was by request ordained and sent, Wilfrid was also sent from Britain into
 Gaul to be ordained; and because he returned before Theodore, he ordained
 priests and deacons in Kent till the archbishop should come to his see.
 But when Theodore came to the city of Rochester, where the bishopric had
-been long vacant by the death of Damian,(540) he ordained a man named
-Putta,(541) trained rather in the teaching of the Church and more addicted
+been long vacant by the death of Damian, he ordained a man named
+Putta, trained rather in the teaching of the Church and more addicted
 to simplicity of life than active in worldly affairs, but specially
 skilful in Church music, after the Roman use, which he had learned from
-the disciples of the blessed Pope Gregory.(542)
+the disciples of the blessed Pope Gregory.

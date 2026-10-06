@@ -1,5 +1,6 @@
 ---
 title: "XXIV. Chronological recapitulation of the whole work: also concerning the author himself."
+worktitle: "The Ecclessiastical History of the English People: Book V"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -10,7 +11,7 @@ params:
 
 I have thought fit briefly to sum up those things which have been related
 at length under their particular dates, that they may be the better kept
-in memory.(1031)
+in memory.
 
 In the sixtieth year before the Incarnation of our Lord, Caius Julius
 Cæsar, first of the Romans invaded Britain, and was victorious, yet could
@@ -21,7 +22,7 @@ came to Britain, received the surrender of a great part of the island, and
 added the Orkney islands to the Roman empire. [I, 3.]
 
 In the year of our Lord 167, Eleuther, being made bishop at Rome, governed
-the Church most gloriously fifteen years.(1032) To whom Lucius, king of
+the Church most gloriously fifteen years. To whom Lucius, king of
 Britain, sent a letter, asking to be made a Christian, and succeeded in
 obtaining his request. [I, 4.]
 
@@ -43,16 +44,16 @@ seven years; in whose time the English, being called in by the Britons,
 came into Britain. [I, 15.]
 
 In the year 538, an eclipse of the sun came to pass on the 16th of
-February, from the first hour until the third.(1033)
+February, from the first hour until the third.
 
 In the year 540, an eclipse of the sun came to pass on the 20th of June,
 and the stars appeared during almost half an hour after the third hour of
 the day.
 
-In the year 547, Ida(1034) began to reign; he was the founder of the royal
+In the year 547, Ida began to reign; he was the founder of the royal
 family of the Northumbrians, and he reigned twelve years.
 
-In the year 565, the priest, Columba, came out of Scotland,(1035) into
+In the year 565, the priest, Columba, came out of Scotland, into
 Britain, to teach the Picts, and he built a monastery in the isle of Hii.
 [III, 4.]
 
@@ -116,7 +117,7 @@ Hertford, in the presence of King Egfrid, Archbishop Theodore presiding:
 the synod was of great profit, and its decrees are contained in ten
 articles. [_Ibid._]
 
-In the year 675,(1036) Wulfhere, king of the Mercians, when he had reigned
+In the year 675, Wulfhere, king of the Mercians, when he had reigned
 seventeen years, died and left the government to his brother Ethelred.
 
 In the year 676, Ethelred ravaged Kent. [IV, 12.]
@@ -141,21 +142,21 @@ Britain. [V, 7.]
 In the year 690, Archbishop Theodore died. [V, 8.]
 
 In the year 697, Queen Osthryth was murdered by her own nobles, to wit,
-the nobles of the Mercians.(1037)
+the nobles of the Mercians.
 
 In the year 698, Berctred, an ealdorman of the king of the Northumbrians,
-was slain by the Picts.(1038)
+was slain by the Picts.
 
 In the year 704, Ethelred, after he had reigned thirty-one years over the
 nation of the Mercians, became a monk, and gave up the kingdom to Coenred.
-[V, 19.](1039)
+[V, 19.]
 
 In the year 705, Aldfrid, king of the Northumbrians, died. [V, 18.]
 
 In the year 709, Coenred, king of the Mercians, having reigned five years,
 went to Rome. [V, 19.]
 
-In the year 711, the commander Bertfrid fought with the Picts.(1040)
+In the year 711, the commander Bertfrid fought with the Picts.
 
 In the year 716, Osred, king of the Northumbrians, was killed; and
 Ceolred, king of the Mercians, died; and the man of God, Egbert, brought
@@ -178,24 +179,24 @@ Mercians. [_Ibid._]
 Thus much of the Ecclesiastical History of Britain, and more especially of
 the English nation, as far as I could learn either from the writings of
 the ancients, or the tradition of our forefathers, or of my own knowledge,
-with the help of the Lord, I, Bede,(1041) the servant of Christ, and
+with the help of the Lord, I, Bede, the servant of Christ, and
 priest of the monastery of the blessed Apostles, Peter and Paul, which is
-at Wearmouth and Jarrow,(1042) have set forth. Having been born in the
+at Wearmouth and Jarrow, have set forth. Having been born in the
 territory of that same monastery, I was given, by the care of kinsmen, at
 seven years of age, to be educated by the most reverend Abbot
-Benedict,(1043) and afterwards by Ceolfrid,(1044) and spending all the
+Benedict, and afterwards by Ceolfrid, and spending all the
 remaining time of my life a dweller in that monastery, I wholly applied
 myself to the study of Scripture; and amidst the observance of monastic
 rule, and the daily charge of singing in the church, I always took delight
 in learning, or teaching, or writing. In the nineteenth year of my age, I
 received deacon’s orders; in the thirtieth, those of the priesthood, both
-of them by the ministry of the most reverend Bishop John,(1045) and at the
+of them by the ministry of the most reverend Bishop John, and at the
 bidding of the Abbot Ceolfrid. From the time when I received priest’s
 orders, till the fifty-ninth year of my age, I have made it my business,
 for my own needs and those of my brethren, to compile out of the works of
 the venerable Fathers, the following brief notes on the Holy Scriptures,
 and also to make some additions after the manner of the meaning and
-interpretation given by them:(1046)
+interpretation given by them:
 
 On the Beginning of Genesis, to the birth of Isaac and the casting out of
 Ishmael, four books.
@@ -208,7 +209,7 @@ On the first part of Samuel, to the Death of Saul, three books.
 Concerning the Building of the Temple, of Allegorical Exposition, and
 other matters, two books.
 
-Likewise on the Book of Kings, thirty Questions.(1047)
+Likewise on the Book of Kings, thirty Questions.
 
 On the Proverbs of Solomon, three books.
 
@@ -230,7 +231,7 @@ On the Books of Kings and Chronicles;
 
 On the Book of the blessed Father Job;
 
-On the Proverbs,(1048) Ecclesiastes, and the Song of Songs;
+On the Proverbs, Ecclesiastes, and the Song of Songs;
 
 On the Prophets Isaiah, Ezra, and Nehemiah.
 
@@ -240,7 +241,7 @@ On the Gospel of Luke, six books.
 
 Of Homilies on the Gospel, two books.
 
-On the Apostle,(1049) whatsoever I have found in the works of St.
+On the Apostle, whatsoever I have found in the works of St.
 Augustine I have taken heed to transcribe in order.
 
 On the Acts of the Apostles, two books.
@@ -254,19 +255,19 @@ Likewise, Chapters of Lessons on all the New Testament, except the Gospel.
 Likewise a book of Epistles to divers Persons, of which one is of the Six
 Ages of the world; one of the Halting-places of the Children of Israel;
 one on the words of Isaiah, “And they shall be shut up in the prison, and
-after many days shall they be visited”;(1050) one of the Reason of
-Leap-Year, and one of the Equinox, according to Anatolius.(1051)
+after many days shall they be visited”; one of the Reason of
+Leap-Year, and one of the Equinox, according to Anatolius.
 
 Likewise concerning the Histories of Saints: I translated the Book of the
-Life and Passion of St. Felix, Confessor,(1052) from the metrical work of
+Life and Passion of St. Felix, Confessor, from the metrical work of
 Paulinus, into prose; the Book of the Life and Passion of St.
-Anastasius,(1053) which was ill translated from the Greek, and worse
+Anastasius, which was ill translated from the Greek, and worse
 amended by some ignorant person, I have corrected as to the sense as far
-as I could; I have written the Life of the Holy Father Cuthbert,(1054) who
+as I could; I have written the Life of the Holy Father Cuthbert, who
 was both monk and bishop, first in heroic verse, and afterwards in prose.
 
 The History of the Abbots of this monastery, in which I rejoice to serve
-the Divine Goodness, to wit, Benedict, Ceolfrid, and Huaetbert,(1055) in
+the Divine Goodness, to wit, Benedict, Ceolfrid, and Huaetbert, in
 two books.
 
 The Ecclesiastical History of our Island and Nation, in five books.
@@ -301,18 +302,18 @@ all wisdom, and appear for ever before Thy face.
 CONTINUATION
 
 
-_The Continuation of Bede._(1056)
+_The Continuation of Bede._
 
 In the year 731 King Ceolwulf was taken prisoner, and tonsured, and sent
 back to his kingdom; Bishop Acca was driven from his see.
 
-In the year 732, Egbert(1057) was made Bishop of York, in the room of
+In the year 732, Egbert was made Bishop of York, in the room of
 Wilfrid.
 
 [Cynibert Bishop of Lindsey died.]
 
 [In the year of our Lord 733, Archbishop Tatwine, having received the pall
-by Apostolic authority, ordained Alwic(1058) and Sigfrid,(1059) bishops.]
+by Apostolic authority, ordained Alwic and Sigfrid, bishops.]
 
 In the year 733, there was an eclipse of the sun on the 14th day of August
 about the third hour, in such wise that the whole orb of the sun seemed to
@@ -326,55 +327,55 @@ In the year from the Incarnation of Christ, 734, bishop Tatwine died.
 
 In the year 735, Nothelm was ordained archbishop; and bishop Egbert,
 having received the pall from the Apostolic see, was the first to be
-established as archbishop(1060) after Paulinus, and he ordained
-Frithbert,(1061) and Frithwald(1062) bishops; and the priest Bede
-died.(1063)
+established as archbishop after Paulinus, and he ordained
+Frithbert, and Frithwald bishops; and the priest Bede
+died.
 
 In the year 737, an excessive drought rendered the land unfruitful; and
 Ceolwulf, voluntarily receiving the tonsure, left the kingdom to
-Eadbert.(1064)
+Eadbert.
 
-In the year 739, Edilhart,(1065) king of the West-Saxons, died, as did
+In the year 739, Edilhart, king of the West-Saxons, died, as did
 Archbishop Nothelm.
 
-In the year 740, Cuthbert(1066) was consecrated in Nothelm’s stead.
+In the year 740, Cuthbert was consecrated in Nothelm’s stead.
 Ethelbald, king of the Mercians, cruelly and wrongfully wasted part of
 Northumbria, their king, Eadbert, with his army, being employed against
-the Picts. Bishop Ethelwald died also, and Conwulf,(1067) was consecrated
-in his stead. Arnwin(1068) and Eadbert(1069) were slain.
+the Picts. Bishop Ethelwald died also, and Conwulf, was consecrated
+in his stead. Arnwin and Eadbert were slain.
 
-In the year 741, a great drought came upon the country. Charles,(1070)
-king of the Franks, died; and his sons, Caroloman and Pippin,(1071)
+In the year 741, a great drought came upon the country. Charles,
+king of the Franks, died; and his sons, Caroloman and Pippin,
 reigned in his stead.
 
 In the year 745, Bishop Wilfrid and Ingwald, Bishop of London, departed to
 the Lord.
 
-In the year 747, the man of God, Herefrid,(1072) died.
+In the year 747, the man of God, Herefrid, died.
 
 In the year 750, Cuthred, king of the West Saxons, rose up against king
 Ethelbald and Oengus; Theudor and Eanred died; Eadbert added the plain of
-Kyle and other places to his dominions.(1073)
+Kyle and other places to his dominions.
 
 In the year 753, in the fifth year of King Eadbert, on the 9th of
-January,(1074) an eclipse of the sun came to pass; afterwards, in the same
+January, an eclipse of the sun came to pass; afterwards, in the same
 year and month, on the 24th day of January, the moon suffered an eclipse,
 being covered with a gloomy, black shield, in like manner as was the sun a
 little while before.
 
-In the year 754, Boniface,(1075) called also Winfrid, Bishop of the
+In the year 754, Boniface, called also Winfrid, Bishop of the
 Franks, received the crown of martyrdom, together with fifty-three others;
 and Redger was consecrated archbishop in his stead, by pope Stephen.
 
 In the year 757, Ethelbald, king of the Mercians, was treacherously and
-miserably murdered, in the night, by his own guards; Beornred(1076) began
-his reign; Cyniwulf,(1077) king of the West Saxons, died; and the same
+miserably murdered, in the night, by his own guards; Beornred began
+his reign; Cyniwulf, king of the West Saxons, died; and the same
 year, Offa, having put Beornred to flight, sought to gain the kingdom of
 the Mercians by bloodshed.
 
 In the year 758, Eadbert, king of the Northumbrians, receiving St. Peter’s
 tonsure for the love of God, and to the end that he might take the
-heavenly country by force,(1078) left the kingdom to his son Oswulf.
+heavenly country by force, left the kingdom to his son Oswulf.
 
 In the year 755, Oswulf was wickedly murdered by his own thegns; and
 Ethelwald, being chosen the same year by his people, entered upon the
@@ -382,11 +383,11 @@ kingdom; in whose second year there was great tribulation by reason of
 pestilence, which continued almost two years, divers grievous sicknesses
 raging, but more especially the disease of dysentery.
 
-In the year 761, Oengus,(1079) king of the Picts, died; who, from the
+In the year 761, Oengus, king of the Picts, died; who, from the
 beginning to the end of his reign, continued to be a blood-stained and
-tyrannical butcher; Oswin(1080) was also slain.
+tyrannical butcher; Oswin was also slain.
 
-In the year 765, King Aluchred came to the throne.(1081)
+In the year 765, King Aluchred came to the throne.
 
 In the year 766, Archbishop Egbert, of the royal race, and endued
 with divine knowledge, as also Frithbert, both of them truly faithful

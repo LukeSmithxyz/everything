@@ -3,7 +3,7 @@ title: "Theodorus, surnamed Gregory the bishop"
 worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
- order: "065"
+ order: "65"
  da: "492"
  translator: "Ernest Cushing Richardson"
  dt: "1885"

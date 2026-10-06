@@ -3,7 +3,7 @@ title: "Ammonius"
 worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
- order: "055"
+ order: "55"
  da: "492"
  translator: "Ernest Cushing Richardson"
  dt: "1885"

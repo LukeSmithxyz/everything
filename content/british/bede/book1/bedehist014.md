@@ -1,5 +1,6 @@
 ---
 title: "XIV. How the Britons, compelled by the great famine, drove the barbarians out of their territories; and soon after there ensued, along with abundance of corn, decay of morals, pestilence, and the downfall of the nation."
+worktitle: "The Ecclessiastical History of the English People: Book I"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -40,7 +41,7 @@ fear of death. Whereupon, not long after, a more severe vengeance for
 their fearful crimes fell upon the sinful nation. They held a council to
 determine what was to be done, and where they should seek help to prevent
 or repel the cruel and frequent incursions of the northern nations; and in
-concert with their King Vortigern,(83) it was unanimously decided to call
+concert with their King Vortigern, it was unanimously decided to call
 the Saxons to their aid from beyond the sea, which, as the event plainly
 showed, was brought about by the Lord’s will, that evil might fall upon
 them for their wicked deeds.

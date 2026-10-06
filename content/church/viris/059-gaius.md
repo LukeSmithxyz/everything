@@ -3,7 +3,7 @@ title: "Gaius"
 worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
- order: "059"
+ order: "59"
  da: "492"
  translator: "Ernest Cushing Richardson"
  dt: "1885"

@@ -1,5 +1,6 @@
 ---
 title: "V. Of the life of Bishop Aidan."
+worktitle: "The Ecclessiastical History of the English People: Book III"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -9,7 +10,7 @@ params:
 
 From this island, then, and the fraternity of these monks, Aidan was sent
 to instruct the English nation in Christ, having received the dignity of a
-bishop. At that time Segeni,(311) abbot and priest, presided over that
+bishop. At that time Segeni, abbot and priest, presided over that
 monastery. Among other lessons in holy living, Aidan left the clergy a
 most salutary example of abstinence and continence; it was the highest
 commendation of his doctrine with all men, that he taught nothing that he
@@ -46,7 +47,7 @@ having taught and instructed them, advanced them to priest’s orders.
 
 It is said, that when King Oswald had asked a bishop of the Scots to
 administer the Word of faith to him and his nation, there was first sent
-to him another man of more harsh disposition,(312) who, after preaching
+to him another man of more harsh disposition, who, after preaching
 for some time to the English and meeting with no success, not being gladly
 heard by the people, returned home, and in an assembly of the elders
 reported, that he had not been able to do any good by his teaching to the

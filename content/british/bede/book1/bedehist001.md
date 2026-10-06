@@ -1,5 +1,6 @@
 ---
 title: "I. Of the Situation of Britain and Ireland, and of their ancient inhabitants."
+worktitle: "The Ecclessiastical History of the English People: Book I"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -14,11 +15,11 @@ north-west, facing, though at a considerable distance, the coasts of
 Germany, France, and Spain, which form the greatest part of Europe. It
 extends 800 miles in length towards the north, and is 200 miles in
 breadth, except where several promontories extend further in breadth, by
-which its compass is made to be 4,875 miles.(22) To the south lies Belgic
+which its compass is made to be 4,875 miles. To the south lies Belgic
 Gaul. To its nearest shore there is an easy passage from the city of
-Rutubi Portus, by the English now corrupted into Reptacaestir.(23) The
-distance from here across the sea to Gessoriacum,(24) the nearest shore in
-the territory of the Morini,(25) is fifty miles, or as some writers say,
+Rutubi Portus, by the English now corrupted into Reptacaestir. The
+distance from here across the sea to Gessoriacum, the nearest shore in
+the territory of the Morini, is fifty miles, or as some writers say,
 450 furlongs. On the other side of the island, where it opens upon the
 boundless ocean, it has the islands called Orcades. Britain is rich in
 grain and trees, and is well adapted for feeding cattle and beasts of
@@ -33,7 +34,7 @@ scarlet dye is made, a most beautiful red, which never fades with the heat
 of the sun or exposure to rain, but the older it is, the more beautiful it
 becomes. It has both salt and hot springs, and from them flow rivers which
 furnish hot baths, proper for all ages and both sexes, in separate places,
-according to their requirements. For water, as St. Basil says,(26)
+according to their requirements. For water, as St. Basil says,
 receives the quality of heat, when it runs along certain metals, and
 becomes not only hot but scalding. Britain is rich also in veins of
 metals, as copper, iron, lead, and silver; it produces a great deal of
@@ -55,16 +56,16 @@ Italy, and other countries of the same latitude, the longest day or night
 extends but to fifteen hours, and the shortest to nine.
 
 There are in the island at present, following the number of the books in
-which the Divine Law was written, five(27) languages of different nations
+which the Divine Law was written, five languages of different nations
 employed in the study and confession of the one self-same knowledge, which
 is of highest truth and true sublimity, to wit, English, British,
 Scottish, Pictish, and Latin, the last having become common to all by the
 study of the Scriptures. But at first this island had no other inhabitants
 but the Britons, from whom it derived its name, and who, coming over into
-Britain, as is reported, from Armorica,(28) possessed themselves of the
+Britain, as is reported, from Armorica, possessed themselves of the
 southern parts thereof. Starting from the south, they had occupied the
 greater part of the island, when it happened, that the nation of the
-Picts, putting to sea from Scythia,(29) as is reported, in a few ships of
+Picts, putting to sea from Scythia, as is reported, in a few ships of
 war, and being driven by the winds beyond the bounds of Britain, came to
 Ireland and landed on its northern shores. There, finding the nation of
 the Scots, they begged to be allowed to settle among them, but could not
@@ -85,13 +86,13 @@ southern. Now the Picts had no wives, and asked them of the Scots; who
 would not consent to grant them upon any other terms, than that when any
 question should arise, they should choose a king from the female royal
 race rather than from the male: which custom, as is well known, has been
-observed among the Picts to this day.(30) In process of time, Britain,
+observed among the Picts to this day. In process of time, Britain,
 besides the Britons and the Picts, received a third nation, the Scots,
 who, migrating from Ireland under their leader, Reuda, either by fair
 means, or by force of arms, secured to themselves those settlements among
 the Picts which they still possess. From the name of their commander, they
 are to this day called Dalreudini; for, in their language, Dal signifies a
-part.(31)
+part.
 
 Ireland is broader than Britain and has a much healthier and milder
 climate; for the snow scarcely ever lies there above three days: no man
@@ -114,5 +115,5 @@ and the Picts.
 There is a very large gulf of the sea, which formerly divided the nation
 of the Britons from the Picts; it runs from the west far into the land,
 where, to this day, stands a strong city of the Britons, called
-Alcluith.(32) The Scots, arriving on the north side of this bay, settled
+Alcluith. The Scots, arriving on the north side of this bay, settled
 themselves there.

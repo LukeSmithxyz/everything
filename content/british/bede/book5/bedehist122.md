@@ -1,5 +1,6 @@
 ---
 title: "VI. How, both by his prayers and blessing, he recalled from death one of his clerks, who had bruised himself by a fall."
+worktitle: "The Ecclessiastical History of the English People: Book V"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -8,10 +9,10 @@ params:
 ---
 
 
-Nor do I think that this miracle, which Herebald,(788) the servant of
+Nor do I think that this miracle, which Herebald, the servant of
 Christ, says was wrought upon himself by the bishop, is to be passed over
 in silence. He was then one of that bishop’s clergy, but now presides as
-abbot in the monastery at the mouth of the river Tyne.(789) “Living with
+abbot in the monastery at the mouth of the river Tyne. “Living with
 him,” said he, “and being very well acquainted with his course of life, I
 found it to be in all points worthy of a bishop, as far as it is lawful
 for men to judge; but I have known by the experience of others, and more
@@ -75,17 +76,17 @@ the dulness of his understanding, learn the ministry of catechizing and
 baptizing; for which reason I enjoined upon him altogether to desist from
 presuming to exercise that ministry, which he could not duly perform.’
 This said, he set himself to catechize me that same hour; and it came to
-pass that when he breathed on my face,(790) straightway I felt better. He
+pass that when he breathed on my face, straightway I felt better. He
 called the surgeon and ordered him to set and bind up my skull where it
 was fractured; and presently having received his blessing, I was so much
 better that I mounted on horseback the next day, and travelled with him to
 another place; and being soon after perfectly recovered, I was washed in
 the water of life.”
 
-He continued in his bishopric thirty-three years,(791) and then ascending
+He continued in his bishopric thirty-three years, and then ascending
 to the heavenly kingdom, was buried in St. Peter’s Chapel, in his own
-monastery, which is called, “In the wood of the Deiri,”(792) in the year
+monastery, which is called, “In the wood of the Deiri,” in the year
 of our Lord 721. For having, by his great age, become unable to govern his
-bishopric, he ordained Wilfrid,(793) his priest, bishop of the church of
+bishopric, he ordained Wilfrid, his priest, bishop of the church of
 York, and retired to the aforesaid monastery, and there ended his days in
 godly conversation.

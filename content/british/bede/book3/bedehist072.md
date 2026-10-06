@@ -1,5 +1,6 @@
 ---
 title: "XVIII. Of the life and death of the religious King Sigbert."
+worktitle: "The Ecclessiastical History of the English People: Book III"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -9,14 +10,14 @@ params:
 
 
 At this time, the kingdom of the East Angles, after the death of Earpwald,
-the successor of Redwald, was governed by his brother Sigbert,(376) a good
+the successor of Redwald, was governed by his brother Sigbert, a good
 and religious man, who some time before had been baptized in Gaul, whilst
 he lived in banishment, a fugitive from the enmity of Redwald. When he
 returned home, as soon as he ascended the throne, being desirous to
 imitate the good institutions which he had seen in Gaul, he founded a
 school wherein boys should be taught letters, and was assisted therein by
 Bishop Felix, who came to him from Kent, and who furnished them with
-masters and teachers after the manner of the people of Kent.(377)
+masters and teachers after the manner of the people of Kent.
 
 This king became so great a lover of the heavenly kingdom, that at last,
 quitting the affairs of his kingdom, and committing them to his kinsman
@@ -35,7 +36,7 @@ carry nothing in his hand but a wand, and was killed with King Ecgric; and
 the pagans pressing on, all their army was either slaughtered or
 dispersed.
 
-They were succeeded in the kingdom by Anna,(378) the son of Eni, of the
+They were succeeded in the kingdom by Anna, the son of Eni, of the
 blood royal, a good man, and the father of good children, of whom, in the
 proper place, we shall speak hereafter. He also was afterwards slain like
 his predecessors by the same pagan chief of the Mercians.

@@ -1,5 +1,6 @@
 ---
 title: "XV. How divers churches of the Scots, at the instance of Adamnan, adopted the Catholic Easter; and how the same wrote a book about the holy places."
+worktitle: "The Ecclessiastical History of the English People: Book V"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -8,11 +9,11 @@ params:
 ---
 
 
-At this time a great part of the Scots in Ireland,(852) and some also of
-the Britons in Britain,(853) by the grace of God, adopted the reasonable
-and ecclesiastical time of keeping Easter. For when Adamnan,(854) priest
+At this time a great part of the Scots in Ireland, and some also of
+the Britons in Britain, by the grace of God, adopted the reasonable
+and ecclesiastical time of keeping Easter. For when Adamnan, priest
 and abbot of the monks that were in the island of Hii, was sent by his
-nation on a mission to Aldfrid, king of the English,(855) he abode some
+nation on a mission to Aldfrid, king of the English, he abode some
 time in that province, and saw the canonical rites of the Church.
 Moreover, he was earnestly admonished by many of the more learned sort,
 not to presume to live contrary to the universal custom of the Church,
@@ -25,7 +26,7 @@ For he was a good and wise man, and excellently instructed in knowledge of
 the Scriptures. Returning home, he endeavoured to bring his own people
 that were in Hii, or that were subject to that monastery, into the way of
 truth, which he had embraced with all his heart; but he could not prevail.
-He sailed over into Ireland,(856) and preaching to those people, and with
+He sailed over into Ireland, and preaching to those people, and with
 sober words of exhortation making known to them the lawful time of Easter,
 he brought back many of them, and almost all that were free from the
 dominion of those of Hii, from the error of their fathers to the Catholic
@@ -35,14 +36,14 @@ Returning to his island, after having celebrated the canonical Easter in
 Ireland, he was instant in preaching the Catholic observance of the season
 of Easter in his monastery, yet without being able to achieve his end; and
 it so happened that he departed this life before the next year came
-round,(857) the Divine goodness so ordaining it, that as he was a great
+round, the Divine goodness so ordaining it, that as he was a great
 lover of peace and unity, he should be taken away to everlasting life
 before he should be obliged, on the return of the season of Easter, to be
 at greater variance with those that would not follow him into the truth.
 
 This same man wrote a book concerning the holy places, of great profit to
 many readers; his authority was the teaching and dictation of Arculf, a
-bishop of Gaul,(858) who had gone to Jerusalem for the sake of the holy
+bishop of Gaul, who had gone to Jerusalem for the sake of the holy
 places; and having wandered over all the Promised Land, travelled also to
 Damascus, Constantinople, Alexandria, and many islands in the sea, and
 returning home by ship, was cast upon the western coast of Britain by a
@@ -55,7 +56,7 @@ to writing. Thus he composed a work, as I have said, profitable to many,
 and chiefly to those who, being far removed from those places where the
 patriarchs and Apostles lived, know no more of them than what they have
 learnt by reading. Adamnan presented this book to King Aldfrid, and
-through his bounty it came to be read by lesser persons.(859) The writer
+through his bounty it came to be read by lesser persons. The writer
 thereof was also rewarded by him with many gifts and sent back into his
 country. I believe it will be of advantage to our readers if we collect
-some passages from his writings, and insert them in this our History.(860)
+some passages from his writings, and insert them in this our History.

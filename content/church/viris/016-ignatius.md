@@ -3,7 +3,7 @@ title: "Ignatius the bishop"
 worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
- order: "016"
+ order: "16"
  da: "492"
  translator: "Ernest Cushing Richardson"
  dt: "1885"

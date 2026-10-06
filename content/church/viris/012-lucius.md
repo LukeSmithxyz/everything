@@ -3,7 +3,7 @@ title: "Lucius Annaeus Seneca"
 worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
- order: "012"
+ order: "12"
  da: "492"
  translator: "Ernest Cushing Richardson"
  dt: "1885"

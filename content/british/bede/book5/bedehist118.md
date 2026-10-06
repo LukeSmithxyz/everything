@@ -1,5 +1,6 @@
 ---
 title: "II. How Bishop John cured a dumb man by his blessing."
+worktitle: "The Ecclessiastical History of the English People: Book V"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -7,16 +8,16 @@ params:
  de: "687"
 ---
 
-In the beginning of Aldfrid’s reign, Bishop Eata(771) died, and was
+In the beginning of Aldfrid’s reign, Bishop Eata died, and was
 succeeded in the bishopric of the church of Hagustald by the holy man
-John,(772) of whom those that knew him well are wont to tell many
-miracles, and more particularly Berthun,(773) a man worthy of all
+John, of whom those that knew him well are wont to tell many
+miracles, and more particularly Berthun, a man worthy of all
 reverence and of undoubted truthfulness, and once his deacon, now abbot of
-the monastery called Inderauuda,(774) that is, “In the wood of the Deiri”:
+the monastery called Inderauuda, that is, “In the wood of the Deiri”:
 some of which miracles we have thought fit to hand on to posterity. There
-is a certain remote dwelling(775) enclosed by a mound, among scattered
+is a certain remote dwelling enclosed by a mound, among scattered
 trees, not far from the church of Hagustald, being about a mile and a half
-distant and separated from it by the river Tyne, having an oratory(776)
+distant and separated from it by the river Tyne, having an oratory
 dedicated to St. Michael the Archangel, where the man of God used
 frequently, as occasion offered, and specially in Lent, to abide with a
 few companions and in quiet give himself to prayer and study. Having come
@@ -48,7 +49,7 @@ day and the next night, as long as he could keep awake, as those who were
 present relate, to say something, and to express his private thoughts and
 wishes to others, which he could never do before; after the manner of the
 man long lame, who, when he was healed by the Apostles Peter and
-John,(777) leaping up, stood and walked, and entered with them into the
+John, leaping up, stood and walked, and entered with them into the
 temple, walking, and leaping, and praising the Lord, rejoicing to have the
 use of his feet, which he had so long lacked. The bishop, rejoicing with
 him at his cure, caused the physician to take in hand the healing of the

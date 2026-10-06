@@ -1,5 +1,6 @@
 ---
 title: "XIV. How a pestilence ceased through the intercession of King Oswald."
+worktitle: "The Ecclessiastical History of the English People: Book IV"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -13,13 +14,13 @@ In this monastery, at that time, certain special manifestations of the
 heavenly grace are said to have been shown forth; in as much as the
 tyranny of the Devil had been recently cast out and Christ had begun to
 reign there. Of these I have thought it proper to perpetuate the memory of
-one which the most reverend Bishop Acca(626) was wont often to relate to
+one which the most reverend Bishop Acca was wont often to relate to
 me, affirming that it had been told him by most creditable brothers of the
 same monastery. About the same time that this province had received the
 faith of Christ, a grievous pestilence fell upon many provinces of
 Britain; which, also, by the Divine dispensation, reached to the aforesaid
 monastery, then governed by the most religious priest of Christ,
-Eappa;(627) and many, as well of those that had come thither with the
+Eappa; and many, as well of those that had come thither with the
 bishop, as of those of the same province of the South Saxons who had been
 lately called to the faith, were snatched away out of this world. The
 brethren, therefore, thought fit to keep a fast of three days, and humbly
@@ -40,7 +41,7 @@ which he had received. The Apostles therefore, greeting him with loving
 words, said, “My son, fear not death, concerning which thou art troubled;
 for this day we will bring thee to the kingdom of Heaven; but first thou
 must needs wait till the Masses are celebrated, that having received thy
-voyage provision,(628) the Body and Blood of our Lord, and so being set
+voyage provision, the Body and Blood of our Lord, and so being set
 free from sickness and death, thou mayest be taken up to the everlasting
 joys in Heaven.
 
@@ -58,12 +59,12 @@ Northumbrians, with the authority of a temporal kingdom and the devotion
 of Christian piety which leads to the eternal kingdom. For this very day
 that king was killed in body by the infidels in war, and straightway taken
 up to Heaven to the everlasting joys of souls, and brought into fellowship
-with the number of the elect. Let them look in their records,(629) wherein
+with the number of the elect. Let them look in their records, wherein
 the burial of the dead is set down, and they will find that he was, this
 day, as we have said, taken out of this world. Let them, therefore,
 celebrate Masses in all the oratories of this monastery, either in
 thanksgiving because their prayers are heard, or else in memory of the
-aforesaid King Oswald, who once governed their nation,(630) and therefore
+aforesaid King Oswald, who once governed their nation, and therefore
 humbly prayed to the Lord for them, as for converts of his nation; and let
 all the brethren assemble in the church, and all communicate in the
 heavenly Sacrifices, and so let them cease to fast, and refresh the body

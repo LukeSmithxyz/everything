@@ -3,7 +3,7 @@ title: "Hegesippus the historian"
 worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
- order: "022"
+ order: "22"
  da: "492"
  translator: "Ernest Cushing Richardson"
  dt: "1885"

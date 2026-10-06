@@ -1,5 +1,6 @@
 ---
 title: "XI. How Pope Boniface advised the king’s consort to use her best endeavours for his salvation."
+worktitle: "The Ecclessiastical History of the English People: Book II"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -54,7 +55,7 @@ effect:
     Saviour Jesus Christ, your husband also may be added to the number
     of Christians; that so you may uphold the rights of marriage in
     the bond of a holy and unblemished union. For it is written, ‘They
-    twain shall be one flesh.’(223) How then can it be said, that
+    twain shall be one flesh.’ How then can it be said, that
     there is unity in the bond between you, if he continues a stranger
     to the brightness of your faith, separated from it by the darkness
     of detestable error?
@@ -75,7 +76,7 @@ effect:
     of the Divine faith may kindle his understanding through your
     frequent exhortations; and so the testimony of Holy Scripture may
     shine forth clearly, fulfilled by you, ‘The unbelieving husband
-    shall be saved by the believing wife.’(224) For to this end you
+    shall be saved by the believing wife.’ For to this end you
     have obtained the mercy of the Lord’s goodness, that you might
     restore with increase to your Redeemer the fruit of faith and of
     the benefits entrusted to your hands. That you may be able to
@@ -86,7 +87,7 @@ effect:
     fatherly affection, we exhort you, that when the opportunity of a
     bearer shall offer, you will with all speed comfort us with the
     glad tidings of the wonderful work which the heavenly Power shall
-    vouchsafe to perform by your means in the conversion(225) of your
+    vouchsafe to perform by your means in the conversion of your
     consort, and of the nation subject to you; to the end, that our
     solicitude, which earnestly awaits the fulfilment of its desire in
     the soul’s salvation of you and yours, may, by hearing from you,

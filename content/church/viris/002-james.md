@@ -3,7 +3,7 @@ title: "James, the brother of our Lord"
 worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
- order: "002"
+ order: "2"
  da: "492"
  translator: "Ernest Cushing Richardson"
  dt: "1885"

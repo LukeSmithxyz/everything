@@ -3,7 +3,7 @@ title: "Barnabas, surnamed Joseph"
 worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
- order: "006"
+ order: "6"
  da: "492"
  translator: "Ernest Cushing Richardson"
  dt: "1885"

@@ -3,7 +3,7 @@ title: "Rhodo, the disciple of Tatian"
 worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
- order: "037"
+ order: "37"
  da: "492"
  translator: "Ernest Cushing Richardson"
  dt: "1885"

@@ -1,5 +1,6 @@
 ---
 title: "XXX. A copy of the letter which Pope Gregory sent to the Abbot Mellitus, then going into Britain."
+worktitle: "The Ecclessiastical History of the English People: Book I"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -52,6 +53,6 @@ our aforesaid brother, that he, being placed where he is at present, may
 consider how he is to order all things. God preserve you in safety, most
 beloved son.
 
-“Given the 17th of June,(133) in the nineteenth year of the reign of our
+“Given the 17th of June, in the nineteenth year of the reign of our
 most religious lord, Mauritius Tiberius Augustus, the eighteenth year
 after the consulship of our said lord, and the fourth indiction.”

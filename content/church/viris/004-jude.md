@@ -3,7 +3,7 @@ title: "Jude, the brother of James"
 worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
- order: "004"
+ order: "4"
  da: "492"
  translator: "Ernest Cushing Richardson"
  dt: "1885"

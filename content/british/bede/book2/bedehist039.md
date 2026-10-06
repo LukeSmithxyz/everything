@@ -1,5 +1,6 @@
 ---
 title: "V. How, after the death of the kings Ethelbert and Sabert, their successors restored idolatry; for which reason, both Mellitus and Justus departed out of Britain."
+worktitle: "The Ecclessiastical History of the English People: Book II"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -14,7 +15,7 @@ Ethelbert, king of Kent, having most gloriously governed his temporal
 kingdom fifty-six years, entered into the eternal joys of the kingdom of
 Heaven. He was the third of the English kings who ruled over all the
 southern provinces that are divided from the northern by the river Humber
-and the borders contiguous to it;(190) but the first of all that ascended
+and the borders contiguous to it; but the first of all that ascended
 to the heavenly kingdom. The first who had the like sovereignty was Aelli,
 king of the South-Saxons; the second, Caelin, king of the West-Saxons,
 who, in their own language, is called Ceaulin; the third, as has been
@@ -25,7 +26,7 @@ Northumbrian nation, that is, of those who live in the district to the
 north of the river Humber; his power was greater; he had the overlordship
 over all the nations who inhabit Britain, both English and British, except
 only the people of Kent; and he reduced also under the dominion of the
-English, the Mevanian Islands(191) of the Britons, lying between Ireland
+English, the Mevanian Islands of the Britons, lying between Ireland
 and Britain; the sixth was Oswald, the most Christian king of the
 Northumbrians, whose kingdom was within the same bounds; the seventh, his
 brother Oswy, ruled over a kingdom of like extent for a time, and for the
@@ -33,11 +34,11 @@ most part subdued and made tributary the nations of the Picts and Scots,
 who occupy the northern parts of Britain: but of that hereafter.
 
 King Ethelbert died on the 24th day of the month of February, twenty-one
-years after he had received the faith,(192) and was buried in St. Martin’s
+years after he had received the faith, and was buried in St. Martin’s
 chapel within the church of the blessed Apostles Peter and Paul, where
 also lies his queen, Bertha. Among other benefits which he conferred upon
 his nation in his care for them, he established, with the help of his
-council of wise men,(193) judicial decisions, after the Roman model; which
+council of wise men, judicial decisions, after the Roman model; which
 are written in the language of the English, and are still kept and
 observed by them. Among which, he set down first what satisfaction should
 be given by any one who should steal anything belonging to the Church, the
@@ -46,7 +47,7 @@ those whom he had received along with their doctrine.
 
 This Ethelbert was the son of Irminric, whose father was Octa, whose
 father was Oeric, surnamed Oisc, from whom the kings of Kent are wont to
-be called Oiscings.(194) His father was Hengist, who, being invited by
+be called Oiscings. His father was Hengist, who, being invited by
 Vortigern, first came into Britain, with his son Oisc, as has been said
 above.
 
@@ -54,7 +55,7 @@ But after the death of Ethelbert, the accession of his son Eadbald proved
 very harmful to the still tender growth of the new Church; for he not only
 refused to accept the faith of Christ, but was also defiled with such
 fornication, as the Apostle testifies, as is not so much as named among
-the Gentiles, that one should have his father’s wife.(195) By both which
+the Gentiles, that one should have his father’s wife. By both which
 crimes he gave occasion to those to return to their former uncleanness,
 who, under his father, had, either for favour or fear of the king,
 submitted to the laws of the faith and of a pure life. Nor did the
@@ -92,7 +93,7 @@ and Justus accordingly went away first, and withdrew into the parts of
 Gaul, intending there to await the event. But the kings, who had driven
 from them the herald of the truth, did not continue long unpunished in
 their worship of devils. For marching out to battle against the nation of
-the Gewissi,(196) they were all slain with their army. Nevertheless, the
+the Gewissi, they were all slain with their army. Nevertheless, the
 people, having been once turned to wickedness, though the authors of it
 were destroyed, would not be corrected, nor return to the unity of faith
 and charity which is in Christ.

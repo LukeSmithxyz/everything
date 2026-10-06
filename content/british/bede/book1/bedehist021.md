@@ -1,5 +1,6 @@
 ---
 title: "XXI. How, when the Pelagian heresy began to spring up afresh, Germanus, returning to Britain with Severus, first restored bodily strength to a lame youth, then spiritual health to the people of God, having condemned or converted the Heretics."
+worktitle: "The Ecclessiastical History of the English People: Book I"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -12,11 +13,11 @@ Not long after, news was brought from the same island, that certain
 persons were again attempting to teach and spread abroad the Pelagian
 heresy, and again the holy Germanus was entreated by all the priests, that
 he would defend the cause of God, which he had before maintained. He
-speedily complied with their request; and taking with him Severus,(99) a
+speedily complied with their request; and taking with him Severus, a
 man of singular sanctity, who was disciple to the blessed father, Lupus,
 bishop of Troyes, and at that time, having been ordained bishop of the
 Treveri, was preaching the Word of God to the tribes of Upper Germany, put
-to sea, and with favouring winds and calm waters sailed to Britain.(100)
+to sea, and with favouring winds and calm waters sailed to Britain.
 
 In the meantime, the evil spirits, speeding through the whole island, were
 constrained against their will to foretell that Germanus was coming,
@@ -48,10 +49,10 @@ and untainted. Thus when they had settled all things, the blessed prelates
 returned home as prosperously as they had come.
 
 But Germanus, after this, went to Ravenna to intercede for the
-tranquillity of the Armoricans,(101) where, after being very honourably
+tranquillity of the Armoricans, where, after being very honourably
 received by Valentinian and his mother, Placidia, he departed hence to
 Christ; his body was conveyed to his own city with a splendid retinue, and
 mighty works attended his passage to the grave. Not long after,
 Valentinian was murdered by the followers of Aetius, the patrician, whom
-he had put to death, in the sixth(102) year of the reign of Marcian, and
+he had put to death, in the sixth year of the reign of Marcian, and
 with him ended the empire of the West.

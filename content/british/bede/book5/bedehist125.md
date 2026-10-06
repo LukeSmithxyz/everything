@@ -1,5 +1,6 @@
 ---
 title: "IX. How the holy man, Egbert, would have gone into Germany to preach, but could not; and how Wictbert went, but because he availed nothing, returned into Ireland, whence he came."
+worktitle: "The Ecclessiastical History of the English People: Book V"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -8,7 +9,7 @@ params:
 ---
 
 
-At that time the venerable servant of Christ, and priest, Egbert,(813) who
+At that time the venerable servant of Christ, and priest, Egbert, who
 is to be named with all honour, and who, as was said before, lived as a
 stranger and pilgrim in Ireland to obtain hereafter a country in heaven,
 purposed in his mind to profit many, taking upon him the work of an
@@ -16,9 +17,9 @@ apostle, and, by preaching the Gospel, to bring the Word of God to some of
 those nations that had not yet heard it; many of which tribes he knew to
 be in Germany, from whom the Angles or Saxons, who now inhabit Britain,
 are known to have derived their race and origin; for which reason they are
-still corruptly called “Garmans”(814) by the neighbouring nation of the
+still corruptly called “Garmans” by the neighbouring nation of the
 Britons. Such are the Frisians, the Rugini, the Danes, the Huns, the Old
-Saxons, and the Boructuari.(815) There are also in the same parts many
+Saxons, and the Boructuari. There are also in the same parts many
 other peoples still enslaved to pagan rites, to whom the aforesaid soldier
 of Christ determined to go, sailing round Britain, if haply he could
 deliver any of them from Satan, and bring them to Christ; or if this might
@@ -31,9 +32,9 @@ courageous companions, fit to preach the Word, inasmuch as they were
 renowned for their good deeds and their learning, and when all things
 necessary were provided for the voyage, there came to him on a certain day
 early in the morning one of the brethren, who had been a disciple of the
-priest, Boisil,(816) beloved of God, and had ministered to him in Britain,
-when the said Boisil was provost of the monastery of Mailros,(817) under
-the Abbot Eata, as has been said above.(818) This brother told him a
+priest, Boisil, beloved of God, and had ministered to him in Britain,
+when the said Boisil was provost of the monastery of Mailros, under
+the Abbot Eata, as has been said above. This brother told him a
 vision which he had seen that night. “When after matins,” said he, “I had
 laid me down in my bed, and was fallen into a light slumber, Boisil, that
 was sometime my master and brought me up in all love, appeared to me, and
@@ -41,12 +42,12 @@ asked, whether I knew him? I said, ‘Yes, you are Boisil.’ He answered, ‘I
 am come to bring Egbert a message from our Lord and Saviour, which must
 nevertheless be delivered to him by you. Tell him, therefore, that he
 cannot perform the journey he has undertaken; for it is the will of God
-that he should rather go to teach the monasteries of Columba.’ ”(819) Now
+that he should rather go to teach the monasteries of Columba.’ ” Now
 Columba was the first teacher of the Christian faith to the Picts beyond
 the mountains northward, and the first founder of the monastery in the
 island of Hii, which was for a long time much honoured by many tribes of
 the Scots and Picts. The said Columba is now by some called Columcille,
-the name being compounded from “Columba” and “Cella.”(820) Egbert, having
+the name being compounded from “Columba” and “Cella.” Egbert, having
 heard the words of the vision, charged the brother that had told it him,
 not to tell it to any other, lest haply it should be a lying vision. But
 when he considered the matter secretly with himself, he apprehended that
@@ -67,15 +68,15 @@ voyage, and had waited some days for fair winds, there arose one night so
 violent a storm, that part of what was on board was lost, and the ship
 itself was left lying on its side in the sea. Nevertheless, all that
 belonged to Egbert and his companions was saved. Then he, saying, in the
-words of the prophet, “For my sake this great tempest is upon you,”(821)
+words of the prophet, “For my sake this great tempest is upon you,”
 withdrew himself from that undertaking and was content to remain at home.
 
-But one of his companions, called Wictbert,(822) notable for his contempt
+But one of his companions, called Wictbert, notable for his contempt
 of the world and for his learning and knowledge, for he had lived many
 years as a stranger and pilgrim in Ireland, leading a hermit’s life in
 great perfection, took ship, and arriving in Frisland, preached the Word
 of salvation for the space of two whole years to that nation and to its
-king, Rathbed;(823) but reaped no fruit of all his great labour among his
+king, Rathbed; but reaped no fruit of all his great labour among his
 barbarous hearers. Returning then to the chosen place of his pilgrimage,
 he gave himself up to the Lord in his wonted life of silence, and since he
 could not be profitable to strangers by teaching them the faith, he took

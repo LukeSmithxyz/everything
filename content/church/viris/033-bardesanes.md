@@ -3,7 +3,7 @@ title: "Bardesanes the heresiarch"
 worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
- order: "033"
+ order: "33"
  da: "492"
  translator: "Ernest Cushing Richardson"
  dt: "1885"

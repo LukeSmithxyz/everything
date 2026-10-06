@@ -1,5 +1,6 @@
 ---
 title: "XVIII. How the some holy man gave sight to the blind daughter of a tribune, and then coming to St. Alban, there received of his relics, and left other relics of the blessed Apostles and other martyrs."
+worktitle: "The Ecclessiastical History of the English People: Book I"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -36,6 +37,6 @@ should find shelter in one tomb. These being honourably bestowed, and laid
 together, he took up a handful of dust from the place where the blessed
 martyr’s blood had been shed, to carry away with him. In this dust the
 blood had been preserved, showing that the slaughter of the martyrs was
-red, though the persecutor was pale in death.(95) In consequence of these
+red, though the persecutor was pale in death. In consequence of these
 things, an innumerable multitude of people was that day converted to the
 Lord.

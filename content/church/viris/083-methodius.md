@@ -3,7 +3,7 @@ title: "Methodius the bishop"
 worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
- order: "083"
+ order: "83"
  da: "492"
  translator: "Ernest Cushing Richardson"
  dt: "1885"

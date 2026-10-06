@@ -3,7 +3,7 @@ title: "Trypho the pupil of Origen"
 worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
- order: "057"
+ order: "57"
  da: "492"
  translator: "Ernest Cushing Richardson"
  dt: "1885"

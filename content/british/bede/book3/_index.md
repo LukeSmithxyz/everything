@@ -1,5 +1,5 @@
 ---
-title: "Book 3"
+title: "The Ecclessiastical History of the English People: Book III"
 params:
  da: "731"
  des: "633"

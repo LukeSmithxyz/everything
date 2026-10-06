@@ -1,5 +1,6 @@
 ---
 title: "XXX. How his body was found altogether uncorrupted after it had been buried eleven years; and how his successor in the bishopric departed this world not long after."
+worktitle: "The Ecclessiastical History of the English People: Book IV"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -46,7 +47,7 @@ the brothers did as he had commanded them, and when they had wrapped the
 body in new garments, and laid it in a new coffin, they placed it above
 the pavement of the sanctuary. Soon after, Bishop Eadbert, beloved of God,
 fell grievously sick, and his fever daily increasing in severity, ere
-long, that is, on the 6th of May,(763) he also departed to the Lord, and
+long, that is, on the 6th of May, he also departed to the Lord, and
 they laid his body in the grave of the blessed father Cuthbert, placing
 over it the coffin, with the uncorrupted remains of that father. The
 miracles of healing, sometimes wrought in that place testify to the merits

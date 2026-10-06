@@ -3,7 +3,7 @@ title: "Simon Peter"
 worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
- order: "001"
+ order: "1"
  da: "492"
  translator: "Ernest Cushing Richardson"
  dt: "1885"

@@ -3,7 +3,7 @@ title: "Fortunatianus the bishop"
 worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
- order: "097"
+ order: "97"
  da: "492"
  translator: "Ernest Cushing Richardson"
  dt: "1885"

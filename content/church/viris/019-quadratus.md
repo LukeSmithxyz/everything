@@ -3,7 +3,7 @@ title: "Quadratus the bishop"
 worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
- order: "019"
+ order: "19"
  da: "492"
  translator: "Ernest Cushing Richardson"
  dt: "1885"

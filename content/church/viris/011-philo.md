@@ -3,7 +3,7 @@ title: "Philo Judaeus"
 worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
- order: "011"
+ order: "11"
  da: "492"
  translator: "Ernest Cushing Richardson"
  dt: "1885"

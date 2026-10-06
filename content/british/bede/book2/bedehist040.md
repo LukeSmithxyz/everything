@@ -1,5 +1,6 @@
 ---
 title: "VI. How Laurentius, being reproved by the Apostle Peter, converted King Eadbald to Christ; and how the king soon recalled Mellitus and Justus to preach the Word."
+worktitle: "The Ecclessiastical History of the English People: Book II"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -43,5 +44,5 @@ King Eadbald had not so much authority in the kingdom as his father, and
 was not able to restore the bishop to his church against the will and
 consent of the pagans. But he and his nation, after his conversion to the
 Lord, sought to obey the commandments of God. Lastly, he built the church
-of the holy Mother of God,(197) in the monastery of the most blessed chief
+of the holy Mother of God, in the monastery of the most blessed chief
 of the Apostles, which was afterwards consecrated by Archbishop Mellitus.

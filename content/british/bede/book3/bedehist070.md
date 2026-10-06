@@ -1,5 +1,6 @@
 ---
 title: "XVI. How the same Aidan, by his prayers, saved the royal city when it was fired by the enemy"
+worktitle: "The Ecclessiastical History of the English People: Book III"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -12,7 +13,7 @@ Another notable miracle of the same father is related by many such as were
 likely to have knowledge thereof; for during the time that he was bishop,
 the hostile army of the Mercians, under the command of Penda, cruelly
 ravaged the country of the Northumbrians far and near, even to the royal
-city,(368) which has its name from Bebba, formerly its queen. Not being
+city, which has its name from Bebba, formerly its queen. Not being
 able to take it by storm or by siege, he endeavoured to burn it down; and
 having pulled down all the villages in the neighbourhood of the city, he
 brought thither an immense quantity of beams, rafters, partitions, wattles
@@ -21,7 +22,7 @@ land side, and when he found the wind favourable, he set fire to it and
 attempted to burn the town.
 
 At that time, the most reverend Bishop Aidan was dwelling in the Isle of
-Farne,(369) which is about two miles from the city; for thither he was
+Farne, which is about two miles from the city; for thither he was
 wont often to retire to pray in solitude and silence; and, indeed, this
 lonely dwelling of his is to this day shown in that island. When he saw
 the flames of fire and the smoke carried by the wind rising above the city

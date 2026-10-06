@@ -3,7 +3,7 @@ title: "Hippolytus the bishop"
 worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
- order: "061"
+ order: "61"
  da: "492"
  translator: "Ernest Cushing Richardson"
  dt: "1885"

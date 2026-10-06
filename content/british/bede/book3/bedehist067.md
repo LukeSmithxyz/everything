@@ -1,5 +1,6 @@
 ---
 title: "XIII. How a certain person in Ireland was restored, when at the point of death, by his relics."
+worktitle: "The Ecclessiastical History of the English People: Book III"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -10,9 +11,9 @@ params:
 
 Nor was the fame of the renowned Oswald confined to Britain, but,
 spreading rays of healing light even beyond the sea, reached also to
-Germany and Ireland. For the most reverend prelate, Acca,(352) is wont to
-relate, that when, in his journey to Rome,(353) he and his bishop Wilfrid
-stayed some time with Wilbrord,(354) the holy archbishop of the Frisians,
+Germany and Ireland. For the most reverend prelate, Acca, is wont to
+relate, that when, in his journey to Rome, he and his bishop Wilfrid
+stayed some time with Wilbrord, the holy archbishop of the Frisians,
 he often heard him tell of the wonders which had been wrought in that
 province at the relics of that most worshipful king. And he used to say
 that in Ireland, when, being yet only a priest, he led the life of a

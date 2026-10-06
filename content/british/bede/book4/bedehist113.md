@@ -1,5 +1,6 @@
 ---
 title: "XXIX. How this bishop foretold that his own death was at hand to the anchorite Herebert."
+worktitle: "The Ecclessiastical History of the English People: Book IV"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -9,7 +10,7 @@ params:
 
 
 Having spent two years in his bishopric, he returned to his island and
-hermitage,(756) being warned of God that the day of his death, or rather
+hermitage, being warned of God that the day of his death, or rather
 of his entrance into that life which alone can be called life, was drawing
 near; as he, at that time, with his wonted candour, signified to certain
 persons, though in words which were somewhat obscure, but which were
@@ -19,10 +20,10 @@ the same openly.
 There was a certain priest, called Herebert, a man of holy life, who had
 long been united with the man of God, Cuthbert, in the bonds of spiritual
 friendship. This man leading a solitary life in the island of that great
-lake from which the river Derwent flows at its beginning,(757) was wont to
+lake from which the river Derwent flows at its beginning, was wont to
 visit him every year, and to receive from him the teaching of everlasting
 salvation. Hearing that Bishop Cuthbert was come to the city of
-Lugubalia,(758) he went thither to him, according to his custom, seeking
+Lugubalia, he went thither to him, according to his custom, seeking
 to be more and more inflamed in heavenly desires through his wholesome
 admonitions. Whilst they alternately entertained one another with draughts
 of the celestial life, the bishop, among other things, said, “Brother
@@ -46,7 +47,7 @@ mercy of Heaven has granted what we desired.”
 The event established the truth of this promise and prophecy, for after
 their parting, they never again saw one another in the flesh; but their
 spirits quitting their bodies on one and the same day, to wit, the 20th of
-March,(759) were immediately united in fellowship in the blessed vision,
+March, were immediately united in fellowship in the blessed vision,
 and together translated to the heavenly kingdom by the ministry of angels.
 But Herebert was first wasted by a long-continued infirmity, through the
 dispensation of the Lord’s mercy, as may be believed, to the end that if
@@ -60,10 +61,10 @@ The most reverend father died in the isle of Farne, earnestly entreating
 the brothers that he might also be buried there, where he had served no
 small time under the Lord’s banner. But at length yielding to their
 entreaties, he consented to be carried back to the isle of Lindisfarne,
-and there buried in the church.(760) This being done, the venerable Bishop
-Wilfrid held the episcopal see of that church one year,(761) till such
+and there buried in the church. This being done, the venerable Bishop
+Wilfrid held the episcopal see of that church one year, till such
 time as a bishop should be chosen to be ordained in the room of Cuthbert.
-Afterwards Eadbert(762) was ordained, a man renowned for his knowledge of
+Afterwards Eadbert was ordained, a man renowned for his knowledge of
 the Holy Scriptures, as also for his observance of the heavenly precepts,
 and chiefly for almsgiving, so that, according to the law, he gave every
 year the tenth part, not only of four-footed beasts, but also of all corn

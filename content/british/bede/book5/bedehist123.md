@@ -1,5 +1,6 @@
 ---
 title: "VII. How Caedwalla, king of the West Saxons, went to Rome to be baptized; and his successor Ini, also devoutly journeyed to the same threshold of the holy Apostles."
+worktitle: "The Ecclessiastical History of the English People: Book V"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -8,7 +9,7 @@ params:
 ---
 
 
-In the third year of the reign of Aldfrid,(794) Caedwalla, king of the
+In the third year of the reign of Aldfrid, Caedwalla, king of the
 West Saxons, having most vigorously governed his nation for two years,
 quitted his crown for the sake of the Lord and an everlasting kingdom, and
 went to Rome, being desirous to obtain the peculiar honour of being
@@ -18,16 +19,16 @@ life is opened to mankind; and he hoped at the same time, that being made
 clean by Baptism, he should soon be freed from the bonds of the flesh and
 pass to the eternal joys of Heaven; both which things, by the help of the
 Lord, came to pass according as he had conceived in his mind. For coming
-to Rome, at the time that Sergius(795) was pope, he was baptized on the
-Holy Saturday before Easter Day,(796) in the year of our Lord 689, and
-being still in his white garments,(797) he fell sick, and was set free
+to Rome, at the time that Sergius was pope, he was baptized on the
+Holy Saturday before Easter Day, in the year of our Lord 689, and
+being still in his white garments, he fell sick, and was set free
 from the bonds of the flesh on the 20th of April, and obtained an entrance
 into the kingdom of the blessed in Heaven. At his baptism, the aforesaid
 pope had given him the name of Peter, to the end, that he might be also
 united in name to the most blessed chief of the Apostles, to whose most
 holy body his pious love had led him from the utmost bounds of the earth.
 He was likewise buried in his church, and by the pope’s command an
-epitaph(798) was written on his tomb, wherein the memory of his devotion
+epitaph was written on his tomb, wherein the memory of his devotion
 might be preserved for ever, and the readers or hearers thereof might be
 stirred up to give themselves to religion by the example of what he had
 done.
@@ -42,7 +43,7 @@ receive at his font pure waters of life, and in bright draughts drink of
 the shining radiance whence a quickening glory streams through all the
 world. And even as he gained with eager soul the prize of the new life, he
 laid aside barbaric rage, and, changed in heart, he changed his name with
-joy. Sergius the Pope bade him be called Peter, himself his father,(799)
+joy. Sergius the Pope bade him be called Peter, himself his father,
 when he rose born anew from the font, and the grace of Christ, cleansing
 him, bore him forthwith clothed in white raiment to the heights of Heaven.
 O wondrous faith of the king, but greatest of all the mercy of Christ,
@@ -56,15 +57,15 @@ sceptre, whom thou seest attain to the kingdom of Christ.”
 
 “Here was buried Caedwalla, called also Peter, king of the Saxons, on the
 twentieth day of April, in the second indiction, aged about thirty years,
-in the reign of our most pious lord, the Emperor Justinian,(800) in the
+in the reign of our most pious lord, the Emperor Justinian, in the
 fourth year of his consulship, in the second year of the pontificate of
 our Apostolic lord, Pope Sergius.”
 
-When Caedwalla went to Rome, Ini(801) succeeded to the kingdom, being of
+When Caedwalla went to Rome, Ini succeeded to the kingdom, being of
 the blood royal; and having reigned thirty-seven years over that nation,
 he in like manner left his kingdom and committed it to younger men, and
 went away to the threshold of the blessed Apostles, at the time when
-Gregory(802) was pope, being desirous to spend some part of his pilgrimage
+Gregory was pope, being desirous to spend some part of his pilgrimage
 upon earth in the neighbourhood of the holy places, that he might obtain
 to be more readily received into the fellowship of the saints in heaven.
 This same thing, about that time, was wont to be done most zealously by

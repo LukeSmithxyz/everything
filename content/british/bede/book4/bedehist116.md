@@ -1,5 +1,6 @@
 ---
 title: "XXXII. Of one who was lately cured of a disease in his eye at the relics of St. Cuthbert."
+worktitle: "The Ecclessiastical History of the English People: Book IV"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -11,8 +12,8 @@ params:
 Nor is that cure to be passed over in silence, which was performed by his
 relics three years ago, and was told me lately by the brother himself, on
 whom it was wrought. It happened in the monastery, which, being built near
-the river Dacore,(764) has taken its name from the same, over which, at
-that time, the religious Suidbert(765) presided as abbot. In that
+the river Dacore, has taken its name from the same, over which, at
+that time, the religious Suidbert presided as abbot. In that
 monastery was a youth whose eyelid was disfigured by an unsightly tumour,
 which growing daily greater, threatened the loss of the eye. The
 physicians endeavoured to mitigate it by applying ointments, but in vain.

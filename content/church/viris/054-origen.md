@@ -3,7 +3,7 @@ title: "Origen, surnamed Adamantius"
 worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
- order: "054"
+ order: "54"
  da: "492"
  translator: "Ernest Cushing Richardson"
  dt: "1885"

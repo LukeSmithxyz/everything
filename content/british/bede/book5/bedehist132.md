@@ -1,5 +1,6 @@
 ---
 title: "XVI. The account given in the aforesaid book of the place of our Lord’s Nativity, Passion, and Resurrection."
+worktitle: "The Ecclessiastical History of the English People: Book V"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -9,7 +10,7 @@ params:
 
 
 He wrote concerning the place of the Nativity of our Lord, after this
-manner:(861) “Bethlehem, the city of David, is situated on a narrow ridge,
+manner: “Bethlehem, the city of David, is situated on a narrow ridge,
 encompassed on all sides with valleys, being a mile in length from west to
 east, and having a low wall without towers, built along the edge of the
 level summit. In the eastern corner thereof is a sort of natural half
@@ -35,7 +36,7 @@ supported by twelve columns. Between each of the walls is a broad passage,
 which contains three altars at three different points of the middle wall;
 to the south, the north, and the west. It has eight doors or entrances in
 a straight line through the three walls; four whereof face the south-east,
-and four the east.(862) In the midst of it is the round tomb of our Lord
+and four the east. In the midst of it is the round tomb of our Lord
 cut out of the rock, the top of of which a man standing within can touch
 with his hand; on the east is the entrance, against which that great stone
 was set. To this day the tomb bears the marks of the iron tools within,
@@ -50,4 +51,4 @@ nevertheless, the lesser part of it stands as an altar of hewn stone
 before the door of the tomb; the greater part is set up as another altar,
 four-cornered, at the east end of the same church, and is covered with
 linen cloths. The colour of the said tomb and sepulchre is white and red
-mingled together.”(863)
+mingled together.”

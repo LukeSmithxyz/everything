@@ -3,7 +3,7 @@ title: "Irenaeus the bishop"
 worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
- order: "035"
+ order: "35"
  da: "492"
  translator: "Ernest Cushing Richardson"
  dt: "1885"

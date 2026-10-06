@@ -1,5 +1,6 @@
 ---
 title: "XXVII. How Cuthbert, a man of God, was made bishop; and how he lived and taught whilst still in the monastic life."
+worktitle: "The Ecclessiastical History of the English People: Book IV"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -8,19 +9,19 @@ params:
 ---
 
 
-In the same year in which King Egfrid departed this life,(739) he, as has
-been said, caused the holy and venerable Cuthbert(740) to be ordained
+In the same year in which King Egfrid departed this life, he, as has
+been said, caused the holy and venerable Cuthbert to be ordained
 bishop of the church of Lindisfarne. He had for many years led a solitary
 life, in great continence of body and mind, in a very small island, called
-Farne,(741) in the ocean about nine miles distant from that same church.
-From his earliest childhood(742) he had always been inflamed with the
+Farne, in the ocean about nine miles distant from that same church.
+From his earliest childhood he had always been inflamed with the
 desire of a religious life; and he adopted the name and habit of a monk
 when he was quite a young man: he first entered the monastery of
-Mailros,(743) which is on the bank of the river Tweed, and was then
-governed by the Abbot Eata,(744) a man of great gentleness and simplicity,
+Mailros, which is on the bank of the river Tweed, and was then
+governed by the Abbot Eata, a man of great gentleness and simplicity,
 who was afterward made bishop of the church of Hagustald or
-Lindisfarne,(745) as has been said above. The provost of the monastery at
-that time was Boisil,(746) a priest of great virtue and of a prophetic
+Lindisfarne, as has been said above. The provost of the monastery at
+that time was Boisil, a priest of great virtue and of a prophetic
 spirit. Cuthbert, humbly submitting himself to this man’s direction, from
 him received both a knowledge of the Scriptures, and an example of good
 works.
@@ -70,7 +71,7 @@ place also as abbot. From ancient times, the bishop was wont to reside
 there with his clergy, and the abbot with his monks, who were likewise
 under the paternal care of the bishop; because Aidan, who was the first
 bishop of the place, being himself a monk, brought monks thither, and
-settled the monastic institution there;(747) as the blessed Father
+settled the monastic institution there; as the blessed Father
 Augustine is known to have done before in Kent, when the most reverend
 Pope Gregory wrote to him, as has been said above, to this effect: “But in
 that you, my brother, having been instructed in monastic rules, must not
@@ -78,4 +79,4 @@ live apart from your clergy in the Church of the English, which has been
 lately, by the will of God, converted to the faith, you must establish the
 manner of conversation of our fathers in the primitive Church, among whom,
 none said that aught of the things which they possessed was his own; but
-they had all things common.”(748)
+they had all things common.”

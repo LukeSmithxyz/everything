@@ -3,7 +3,7 @@ title: "Heraclitus"
 worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
- order: "046"
+ order: "46"
  da: "492"
  translator: "Ernest Cushing Richardson"
  dt: "1885"

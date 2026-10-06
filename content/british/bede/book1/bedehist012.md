@@ -1,5 +1,6 @@
 ---
 title: "XII. How the Britons, being ravaged by the Scots and Picts, sought succour from the Romans, who coming a second time, built a wall across the island; but when this was broken down at once by the aforesaid enemies, they were reduced to greater distress than before."
+worktitle: "The Ecclessiastical History of the English People: Book I"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -21,8 +22,8 @@ separated from that part of it which was possessed by the Britons, two
 broad and long inlets of the sea lying between them, one of which runs
 into the interior of Britain, from the Eastern Sea, and the other from the
 Western, though they do not reach so far as to touch one another. The
-eastern has in the midst of it the city Giudi.(74) On the Western Sea,
-that is, on its right shore, stands the city of Alcluith,(75) which in
+eastern has in the midst of it the city Giudi. On the Western Sea,
+that is, on its right shore, stands the city of Alcluith, which in
 their language signifies the Rock Cluith, for it is close by the river of
 that name.
 
@@ -38,13 +39,13 @@ enemy. So they returned home with great triumph. But the islanders
 building the wall which they had been told to raise, not of stone, since
 they had no workmen capable of such a work, but of sods, made it of no
 use. Nevertheless, they carried it for many miles between the two bays or
-inlets of the sea of which we have spoken;(76) to the end that where the
+inlets of the sea of which we have spoken; to the end that where the
 protection of the water was wanting, they might use the rampart to defend
 their borders from the irruptions of the enemies. Of the work there
 erected, that is, of a rampart of great breadth and height, there are
 evident remains to be seen at this day. It begins at about two miles’
-distance from the monastery of Aebbercurnig,(77) west of it, at a place
-called in the Pictish language Peanfahel,(78) but in the English tongue,
+distance from the monastery of Aebbercurnig, west of it, at a place
+called in the Pictish language Peanfahel, but in the English tongue,
 Penneltun, and running westward, ends near the city of Alcluith.
 
 But the former enemies, when they perceived that the Roman soldiers were
@@ -65,7 +66,7 @@ they themselves were enervated by cowardice. Moreover, thinking that it
 might be some help to the allies, whom they were forced to abandon, they
 constructed a strong stone wall from sea to sea, in a straight line
 between the towns that had been there built for fear of the enemy, where
-Severus also had formerly built a rampart.(79) This famous wall, which is
+Severus also had formerly built a rampart. This famous wall, which is
 still to be seen, was raised at public and private expense, the Britons
 also lending their assistance. It is eight feet in breadth, and twelve in
 height, in a straight line from east to west, as is still evident to

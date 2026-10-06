@@ -1,5 +1,6 @@
 ---
 title: "XVII. What he likewise wrote of the place of our Lord’s Ascension, and the tombs of the patriarchs."
+worktitle: "The Ecclessiastical History of the English People: Book V"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -12,8 +13,8 @@ Concerning the place of our Lord’s Ascension, the aforesaid author writes
 thus. “The Mount of Olives is equal in height to Mount Sion, but exceeds
 it in breadth and length; it bears few trees besides vines and olives, and
 is fruitful in wheat and barley, for the nature of that soil is not such
-as to yield thickets,(864) but grass and flowers. On the very top of it,
-where our Lord ascended into heaven, is a large round church,(865) having
+as to yield thickets, but grass and flowers. On the very top of it,
+where our Lord ascended into heaven, is a large round church, having
 round about it three chapels with vaulted roofs. For the inner building
 could not be vaulted and roofed, by reason of the passage of our Lord’s
 Body; but it has an altar on the east side, sheltered by a narrow roof. In
@@ -30,7 +31,7 @@ beholders with a certain zeal and compunction. Every year, on the day of
 the Ascension of our Lord, when Mass is ended, a strong blast of wind is
 wont to come down, and to cast to the ground all that are in the church.”
 
-Of the situation of Hebron, and the tombs of the fathers,(866) he writes
+Of the situation of Hebron, and the tombs of the fathers, he writes
 thus. “Hebron, once a habitation and the chief city of David’s kingdom,
 now only showing by its ruins what it then was, has, one furlong to the
 east of it, a double cave in the valley, where the sepulchres of the

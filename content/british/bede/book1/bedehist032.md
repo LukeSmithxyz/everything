@@ -1,5 +1,6 @@
 ---
 title: "XXXII. How Pope Gregory sent letters and gifts to King Ethelbert."
+worktitle: "The Ecclessiastical History of the English People: Book I"
 author: "The Venerable Bede"
 params:
  da: "731"

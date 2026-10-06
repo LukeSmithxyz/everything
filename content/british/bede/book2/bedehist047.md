@@ -1,5 +1,6 @@
 ---
 title: "XIII. Of the Council he held with his chief men concerning their reception of the faith of Christ, and how the high priest profaned his own altars."
+worktitle: "The Ecclessiastical History of the English People: Book II"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -13,7 +14,7 @@ bound to receive the faith which Paulinus taught; but that he would confer
 about it with his chief friends and counsellors, to the end that if they
 also were of his opinion, they might all together be consecrated to Christ
 in the font of life. Paulinus consenting, the king did as he said; for,
-holding a council with the wise men,(230) he asked of every one in
+holding a council with the wise men, he asked of every one in
 particular what he thought of this doctrine hitherto unknown to them, and
 the new worship of God that was preached? The chief of his own priests,
 Coifi, immediately answered him, “O king, consider what this is which is
@@ -73,6 +74,6 @@ rejoicing in the knowledge of the worship of the true God, he commanded
 his companions to tear down and set on fire the temple, with all its
 precincts. This place where the idols once stood is still shown, not far
 from York, to the eastward, beyond the river Derwent, and is now called
-Godmunddingaham,(231) where the high priest, by the inspiration of the
+Godmunddingaham, where the high priest, by the inspiration of the
 true God, profaned and destroyed the altars which he had himself
-consecrated.(232)
+consecrated.

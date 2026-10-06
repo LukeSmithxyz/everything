@@ -1,5 +1,6 @@
 ---
 title: "XX. How the same Bishops brought help from Heaven to the Britons in a battle, and then returned home."
+worktitle: "The Ecclessiastical History of the English People: Book I"
 author: "The Venerable Bede"
 params:
  da: "731"
@@ -24,13 +25,13 @@ Lord, and so fitted up for the army in the field as if it were in a city.
 Still wet with the baptismal water the troops set forth; the faith of the
 people was fired; and where arms had been deemed of no avail, they looked
 to the help of God. News reached the enemy of the manner and method of
-their purification,(97) who, assured of success, as if they had to deal
+their purification, who, assured of success, as if they had to deal
 with an unarmed host, hastened forward with renewed eagerness. But their
 approach was made known by scouts. When, after the celebration of Easter,
 the greater part of the army, fresh from the font, began to take up arms
 and prepare for war, Germanus offered to be their leader. He picked out
 the most active, explored the country round about, and observed, in the
-way by which the enemy was expected, a valley encompassed by hills(98) of
+way by which the enemy was expected, a valley encompassed by hills of
 moderate height. In that place he drew up his untried troops, himself
 acting as their general. And now a formidable host of foes drew near,
 visible, as they approached, to his men lying in ambush. Then, on a
