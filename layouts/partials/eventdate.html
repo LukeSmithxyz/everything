@@ -1,13 +1,13 @@
-{{- with .Param "de" }}<span class="eventdate">({{ if lt . 0 }}{{ math.Abs . }} B.C.{{else}}{{ . }} A.D.{{ end }})</span>{{- end -}}
+{{- with .Param "de" }}<span class="eventdate">{{ if lt . 0 }}{{ math.Abs . }} B.C.{{else}}{{ . }} A.D.{{ end }}</span>{{- end -}}
 {{- if not ( eq .Params.des .Params.def false ) -}}
-<span class="eventdate">(
+<span class="eventdate">
 {{- if le 0 (math.Product .Params.des .Params.def) }}
 {{- math.Abs .Params.des }}-{{ math.Abs .Params.def }}
-{{- if gt ( math.Abs .Params.des ) .Params.des  }} B.C.
+{{- if gt 0 .Params.des }} B.C.
 {{- else }} A.D.
 {{- end -}}
 {{ else -}}
 {{- math.Abs .Params.des }} B.C.-{{ .Params.def }} A.D.
 {{- end -}}
-)</span>
+</span>
 {{- end -}}

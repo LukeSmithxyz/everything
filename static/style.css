@@ -1,12 +1,43 @@
 header {
 	text-align: center ;
+	margin-bottom: 2em ;
+	padding: .5em 0 ;
+}
+header .worktitle {
+	font-size: x-large ;
+	font-weight: bold ;
+	font-variant: small-caps ;
+}
+
+header .eventdate::before {
+	content: "Taking place " ;
+}
+
+header .authordate {
+}
+
+header .translation {
+	font-size: small ;
 }
 header h1 {
 	font-size: xx-large ;
+	font-variant: small-caps ;
+	margin-bottom: .5em ;
+	margin-top: 0 ;
 }
 
-h1 {
+.articlelist {
 	font-size: large ;
+	max-width: 600px ;
+	margin: auto ;
+}
+
+article h1 {
+	font-size: x-large ;
+	text-align: center ;
+	border-bottom: solid black ;
+	max-width: 800px ;
+	margin: auto ;
 }
 h2 {
 	font-size: normal ;
@@ -25,6 +56,17 @@ h3 {
 	text-decoration: none ;
 }
 
+body {
+	max-width: 1000px ;
+	margin: auto ;
+	background-color: Gainsboro ;
+	color: #111 ;
+}
+
+main {
+	padding: 1em ;
+}
+
 h1:hover .hlink,
 h2:hover .hlink,
 h3:hover .hlink,
@@ -35,4 +77,42 @@ h6:hover .hlink { display: inline-block ; }
 .docnum {
 	font-size: small ;
 	color: gray ;
+}
+
+footer {
+	clear: both ;
+	text-align: center ;
+	margin: 3em ;
+}
+
+nav ul {
+	padding: 0 ;
+	margin: 0 ;
+	text-align: center ;
+	list-style: none ;
+}
+
+nav:after {
+    content: '';
+    display: block;
+    clear: both;
+}
+
+#next {
+	float: right ;
+	max-width: 40% ;
+	border-style: inset;
+	border-width: 1px;
+	padding: 1em;
+}
+#prev {
+	float: left ;
+	max-width: 40% ;
+	border-style: inset;
+	border-width: 1px;
+	padding: 1em;
+}
+
+@media print {
+	nav { display: none ; }
 }

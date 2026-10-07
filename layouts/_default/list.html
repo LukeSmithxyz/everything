@@ -9,7 +9,7 @@
 	{{- if ne .Parent.Params.author .Params.author -}}
 	{{- if ne .Params.author .Params.title }} by {{ .Params.author }}{{ end }}
 	{{ end -}}
-	{{ partial "humandate.html" . -}}
+	{{ partial "eventdate.html" . -}}
 	{{- with .RegularPagesRecursive.Len }} <span class="docnum">({{ . }} 📁)</span>{{ end -}}
 </li>
 {{- end }}

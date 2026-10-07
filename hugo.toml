@@ -7,7 +7,6 @@ pluralizelisttitles = "false"
 [security]
   allowContent = [ '.*' ]
 
-
 [markup]
  [markup.goldmark]
   [markup.goldmark.parser]

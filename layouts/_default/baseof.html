@@ -18,22 +18,40 @@
 {{ if .Site.Menus.main }}{{ partial "nav.html" . }}{{ end -}}
 <main>
 <header>
-{{- with .Param "worktitle" }}{{ . }}{{- end }}
+	{{- with .Param "author" }}<span class="author">{{ . }}'s</span>{{- end }}
+	{{- if .Param "worktitle" }}<span class="worktitle"><a href="{{ .Page.Parent.RelPermalink }}">{{ .Param "worktitle" }}</a></span>{{- end }}
 	<h1 id="tag_{{ replaceRE "(\\s)" "-" .Title }}">{{ block "title" . }}{{ end }}</h1>
-{{- with .Param "subtitle" }}<h2>{{ . }}</h2>{{- end }}
-{{- with .Param "author" }}<span class="author">{{ . }}</span>{{- end }}
-{{ partial "humandate.html" . }}
-{{- with .Param "da" }}<span class="authorshipdate">written {{ . }}</span>{{- end }}
+{{- with .Param "subtitle" }}<h2 class="subtitle">{{ . }}</h2>{{- end }}
+{{ partial "eventdate.html" . }}
+{{ partial "authordate.html" . }}
 {{ partial "translation.html" . }}
-<a href="{{ .Site.Home.RelPermalink }}">main</a>
 </header>
+<nav>
+{{ if not .IsHome }}
+<ul>
+	{{ if .Param "worktitle" }}
+	{{ $plus :=  add ( int ( .Param "order" ) ) 1 }}
+	{{ $minus := sub ( int ( .Param "order" ) ) 1 }}
+	{{ range .Parent.RegularPages }}
+	{{ if eq ( .Param "order" ) $plus }}
+	<li id="next"><a href="{{ .RelPermalink }}">{{ .Title }}<br>→</a></li>
+	{{ else if eq ( .Param "order" ) $minus }}
+	<li id="prev"><a href="{{ .RelPermalink }}">{{ .Title }}<br>←</a></li>
+	{{ end }}
+	{{ end }}
+	{{ else if not .Parent.IsHome }}
+<li><a href="{{ .Parent.RelPermalink }}">{{ .Parent.Title }}</a></li>
+	{{ end }}
+	<li><a href="{{ .Site.Home.RelPermalink }}">Home</a></li>
+	</ul>
+{{ end }}
+</nav>
 <article>
 {{ if .Param "toc" }}{{ .TableOfContents }}{{ end }}
 {{ block "main" . -}}
 {{- .Content -}}
 {{ end -}}
 {{ if .Param "taglist" }}{{ partial "taglist.html" . }}{{ end -}}
-{{ if .Param "nextprev" }}{{ partial "nextprev.html" . -}}{{ end -}}
 </article>
 </main>
 {{ block "footer" . -}}

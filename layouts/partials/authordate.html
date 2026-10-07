@@ -1,0 +1,13 @@
+{{- with .Param "da" }}<span class="authordate">Written {{ if lt . 0 }}{{ math.Abs . }} B.C.{{else}}{{ . }} A.D.{{ end }}</span>{{- end -}}
+{{- if not ( eq .Params.das .Params.daf false ) -}}
+<span class="authordate">Written between
+{{- if le 0 (math.Product .Params.das .Params.daf) }}
+ {{ math.Abs .Params.das }} and {{ math.Abs .Params.daf }}
+{{- if gt 0 .Params.das }} B.C.
+{{- else }} A.D.
+{{- end -}}
+{{ else -}}
+{{- math.Abs .Params.das }} B.C. and {{ .Params.daf }} A.D.
+{{- end -}}
+</span>
+{{- end -}}
