@@ -19,7 +19,9 @@
 <main>
 <header>
 	{{- with .Param "author" }}<span class="author">{{ . }}'s</span>{{- end }}
-	{{- if .Param "worktitle" }}<span class="worktitle"><a href="{{ .Page.Parent.RelPermalink }}">{{ .Param "worktitle" }}</a></span>{{- end }}
+	{{- if .Param "worktitle" }}
+	{{- if .Parent.Param "worktitle" }}<span id="upperworktitle"><a href="{{ .Page.Parent.Parent.RelPermalink }}">{{ .Parent.Param "worktitle" }}</a></span>{{- end }}
+	<span id="worktitle"><a href="{{ .Page.Parent.RelPermalink }}">{{ .Param "worktitle" }}</a></span>{{- end }}
 	<h1 id="tag_{{ replaceRE "(\\s)" "-" .Title }}">{{ block "title" . }}{{ end }}</h1>
 {{- with .Param "subtitle" }}<h2 class="subtitle">{{ . }}</h2>{{- end }}
 {{ partial "eventdate.html" . }}

@@ -3,10 +3,14 @@ header {
 	margin-bottom: 2em ;
 	padding: .5em 0 ;
 }
-header .worktitle {
+header #worktitle {
 	font-size: x-large ;
 	font-weight: bold ;
 	font-variant: small-caps ;
+	display: block ;
+}
+header #upperworktitle {
+	display: block ;
 }
 
 header .eventdate::before {
