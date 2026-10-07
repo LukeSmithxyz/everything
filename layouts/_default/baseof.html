@@ -26,26 +26,26 @@
 {{ partial "authordate.html" . }}
 {{ partial "translation.html" . }}
 </header>
+{{- if not .IsHome -}}
 <nav>
-{{ if not .IsHome }}
 <ul>
-	{{ if .Param "worktitle" }}
-	{{ $plus :=  add ( int ( .Param "order" ) ) 1 }}
-	{{ $minus := sub ( int ( .Param "order" ) ) 1 }}
-	{{ range .Parent.RegularPages }}
-	{{ if eq ( .Param "order" ) $plus }}
+	{{- if .Param "worktitle" }}
+	{{- $plus :=  add ( int ( .Param "order" ) ) 1 }}
+	{{- $minus := sub ( int ( .Param "order" ) ) 1 }}
+	{{- range .Parent.RegularPages }}
+	{{- if eq ( .Param "order" ) $plus }}
 	<li id="next"><a href="{{ .RelPermalink }}">{{ .Title }}<br>→</a></li>
-	{{ else if eq ( .Param "order" ) $minus }}
+	{{- else if eq ( .Param "order" ) $minus }}
 	<li id="prev"><a href="{{ .RelPermalink }}">{{ .Title }}<br>←</a></li>
-	{{ end }}
-	{{ end }}
-	{{ else if not .Parent.IsHome }}
-<li><a href="{{ .Parent.RelPermalink }}">{{ .Parent.Title }}</a></li>
-	{{ end }}
-	<li><a href="{{ .Site.Home.RelPermalink }}">Home</a></li>
-	</ul>
-{{ end }}
+	{{- end }}
+	{{- end }}
+	{{- else if not .Parent.IsHome }}
+<li id="parentlink"><a href="{{ .Parent.RelPermalink }}">{{ .Parent.Title }}</a></li>
+	{{- end }}
+	<li id="homelink"><a href="{{ .Site.Home.RelPermalink }}">Home</a></li>
+</ul>
 </nav>
+{{- end }}
 <article>
 {{ if .Param "toc" }}{{ .TableOfContents }}{{ end }}
 {{ block "main" . -}}
