@@ -1,10 +1,12 @@
 ---
 title: "Categories"
 author: "Aristotle"
+params:
+ translator: "E. M. Edghill"
 ---
 
 
-Translated by E. M. Edghill
+
 
 # SECTION 1
 

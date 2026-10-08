@@ -1,10 +1,12 @@
 ---
 title: "On the Gait of Animals"
 author: "Aristotle"
+params:
+ translator: "A. S. L. Farquharson"
 ---
 
 
-Translated by A. S. L. Farquharson
+
 
 ## Part 1
 

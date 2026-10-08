@@ -1,10 +1,12 @@
 ---
 title: "On Sense and the Sensible"
 author: "Aristotle"
+params:
+ translator: "J. I. Beare"
 ---
 
 
-Translated by J. I. Beare
+
 
 
 # SECTION 1
@@ -1295,5 +1297,3 @@ in relation to each organ. Of the remaining subjects, we must first
 consider that of memory and remembering.
 
 # THE END
-
-

@@ -1,10 +1,12 @@
 ---
 title: "The Athenian Constitution"
 author: "Aristotle"
+params:
+ translator: "Sir Frederic G. Kenyon"
 ---
 
 
-Translated by Sir Frederic G. Kenyon
+
 
 # SECTION 1
 

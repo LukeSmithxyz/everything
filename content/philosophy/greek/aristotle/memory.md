@@ -1,10 +1,12 @@
 ---
 title: "On Memory and Reminiscence"
 author: "Aristotle"
+params:
+ translator: "J. I. Beare"
 ---
 
 
-Translated by J. I. Beare
+
 
 ## Part 1
 

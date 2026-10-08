@@ -1,10 +1,12 @@
 ---
 title: "On Dreams"
 author: "Aristotle"
+params:
+ translator: "J. I. Beare"
 ---
 
 
-Translated by J. I. Beare
+
 
 ## Part 1
 

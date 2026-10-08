@@ -1,10 +1,12 @@
 ---
 title: "Metaphysics"
 author: "Aristotle"
+params:
+ translator: "W. D. Ross"
 ---
 
 
-Translated by W. D. Ross
+
 
 
 # BOOK I
@@ -10229,5 +10231,3 @@ from sensible things, as some say, and that they are not the first
 principles. "
 
 # THE END
-
-

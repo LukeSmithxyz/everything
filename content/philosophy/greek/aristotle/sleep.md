@@ -1,10 +1,12 @@
 ---
 title: "On Sleep and Sleeplessness"
 author: "Aristotle"
+params:
+ translator: "J. I. Beare"
 ---
 
 
-Translated by J. I. Beare
+
 
 ## Part 1
 
@@ -441,5 +443,3 @@ its conservation; since remission of movement tends to the conservation
 of animals.
 
 # THE END
-
-

@@ -1,10 +1,12 @@
 ---
 title: "The History of Animals"
 author: "Aristotle"
+params:
+ translator: "D'Arcy Wentworth Thompson"
 ---
 
 
-Translated by D'Arcy Wentworth Thompson
+
 
 
 # BOOK I

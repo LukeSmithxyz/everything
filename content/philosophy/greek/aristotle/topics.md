@@ -1,10 +1,12 @@
 ---
 title: "Topics"
 author: "Aristotle"
+params:
+ translator: "W. A. Pickard-Cambridge"
 ---
 
 
-Translated by W. A. Pickard-Cambridge
+
 
 
 # BOOK I
@@ -6435,5 +6437,3 @@ and those in regard to which it is rather difficult to produce points
 for ourselves from matters of everyday experience.
 
 # THE END
-
-

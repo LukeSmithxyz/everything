@@ -1,10 +1,12 @@
 ---
 title: "On Prophesying by Dreams"
 author: "Aristotle"
+params:
+ translator: "J. I. Beare"
 ---
 
 
-Translated by J. I. Beare
+
 
 ## Part 1
 
@@ -195,5 +197,3 @@ as to divination as a result of dreams, in every form of it, have
 now been discussed.
 
 # THE END
-
-

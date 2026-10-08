@@ -1,10 +1,12 @@
 ---
 title: "Rhetoric"
 author: "Aristotle"
+params:
+ translator: "W. Rhys Roberts"
 ---
 
 
-Translated by W. Rhys Roberts
+
 
 
 # BOOK I
@@ -6546,5 +6548,3 @@ and will mark the difference between the oration and the peroration.
 your judgement.'
 
 # THE END
-
-

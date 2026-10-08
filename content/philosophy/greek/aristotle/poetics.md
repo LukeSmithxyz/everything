@@ -1,10 +1,12 @@
 ---
 title: "Poetics"
 author: "Aristotle"
+params:
+ translator: "S. H. Butcher"
 ---
 
 
-Translated by S. H. Butcher
+
 
 
 # SECTION 1
@@ -1461,5 +1463,3 @@ the causes that make a poem good or bad; the objections of the critics
 and the answers to these objections....
 
 # THE END
-
-

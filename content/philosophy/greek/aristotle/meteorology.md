@@ -1,10 +1,12 @@
 ---
 title: "Meteorology"
 author: "Aristotle"
+params:
+ translator: "E. W. Webster"
 ---
 
 
-Translated by E. W. Webster
+
 
 
 # BOOK I
@@ -3967,5 +3969,3 @@ the non-homogeneous too, and lastly the bodies made up of these, such
 as man, plants, and the rest.
 
 # THE END
-
-

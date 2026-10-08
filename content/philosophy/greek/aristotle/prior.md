@@ -1,10 +1,12 @@
 ---
 title: "Prior Analytics"
 author: "Aristotle"
+params:
+ translator: "A. J. Jenkinson"
 ---
 
 
-Translated by A. J. Jenkinson
+
 
 
 # BOOK I
@@ -4294,5 +4296,3 @@ B: otherwise, there would not be a single sign correlative with each
 affection.
 
 # THE END
-
-

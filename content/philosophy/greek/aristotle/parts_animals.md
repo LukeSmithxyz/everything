@@ -1,10 +1,12 @@
 ---
 title: "On the Parts of Animals"
 author: "Aristotle"
+params:
+ translator: "William Ogle"
 ---
 
 
-Translated by William Ogle
+
 
 
 # BOOK I
@@ -5444,5 +5446,3 @@ on, and in due sequence must next deal with the question of their
 generation.
 
 # THE END
-
-

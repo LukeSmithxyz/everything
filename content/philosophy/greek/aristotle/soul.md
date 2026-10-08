@@ -1,10 +1,12 @@
 ---
 title: "On the Soul"
 author: "Aristotle"
+params:
+ translator: "J. A. Smith"
 ---
 
 
-Translated by J. A. Smith
+
 
 
 # BOOK I
@@ -3025,5 +3027,3 @@ it may have communication made to it, and a tongue that it may communicate
 with its fellows.
 
 # THE END
-
-

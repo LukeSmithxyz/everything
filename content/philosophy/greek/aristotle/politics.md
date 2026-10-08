@@ -1,10 +1,12 @@
 ---
 title: "Politics"
 author: "Aristotle"
+params:
+ translator: "Benjamin Jowett"
 ---
 
 
-Translated by Benjamin Jowett
+
 
 
 # BOOK ONE

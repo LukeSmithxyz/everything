@@ -1,10 +1,12 @@
 ---
 title: "On Youth and Old Age, On Life and Death, On Breathing"
 author: "Aristotle"
+params:
+ translator: "G. R. T. Ross"
 ---
 
 
-Translated by G. R. T. Ross
+
 
 
 # SECTION 1
@@ -1051,5 +1053,3 @@ investigators into nature generally push their studies so far as to
 conclude with an account of medical principles.
 
 # THE END
-
-

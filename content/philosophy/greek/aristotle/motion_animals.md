@@ -1,10 +1,12 @@
 ---
 title: "On the Motion of Animals"
 author: "Aristotle"
+params:
+ translator: "A. S. L. Farquharson"
 ---
 
 
-Translated by A. S. L. Farquharson
+
 
 ## Part 1
 
@@ -518,5 +520,3 @@ of sleep, of memory, and of movement in general; it remains to speak
 of animal generation.
 
 # THE END
-
-

@@ -1,10 +1,12 @@
 ---
 title: "On Longevity and Shortness of Life"
 author: "Aristotle"
+params:
+ translator: "G. R. T. Ross"
 ---
 
 
-Translated by G. R. T. Ross
+
 
 ## Part 1
 

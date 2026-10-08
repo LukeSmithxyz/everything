@@ -1,10 +1,12 @@
 ---
 title: "Physics"
 author: "Aristotle"
+params:
+ translator: "R. P. Hardie and R. K. Gaye"
 ---
 
 
-Translated by R. P. Hardie and R. K. Gaye
+
 
 
 # BOOK I
@@ -7884,5 +7886,3 @@ an infinite time. It is clear, therefore, that the first movent is
 indivisible and is without parts and without magnitude.
 
 # THE END
-
-

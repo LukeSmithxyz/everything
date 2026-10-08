@@ -1,10 +1,12 @@
 ---
 title: "On Sophistical Refutations"
 author: "Aristotle"
+params:
+ translator: "W. A. Pickard-Cambridge"
 ---
 
 
-Translated by W. A. Pickard-Cambridge
+
 
 
 # SECTION 1
@@ -2105,5 +2107,3 @@ shortcomings of the inquiry, and for the discoveries thereof your
 warm thanks.
 
 # THE END
-
-

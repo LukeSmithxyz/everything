@@ -1,10 +1,12 @@
 ---
 title: "Posterior Analytics"
 author: "Aristotle"
+params:
+ translator: "G. R. G. Mure"
 ---
 
 
-Translated by G. R. G. Mure
+
 
 
 # BOOK I
@@ -3190,5 +3192,3 @@ grasps the original basic premiss, while science as a whole is similarly
 related as originative source to the whole body of fact.
 
 # THE END
-
-
