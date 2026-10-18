@@ -4,16 +4,59 @@
 
 # ¶
 
+file="$(mktemp -u).html"
+curl -L "$1" > "$file"
+
+
+dlfile="$HOME/.local/share/imgstodl"
+imgdir="/home/luke/work/code/everything/static/pix"
+
+# file=/tmp/tmp.upkXlepH53.html
+
+IFS='
+'
+
+lines=$(grep -o "<img resource[^>]*>" "$file")
+
+for line in $lines; do
+	a="${line#*resource=\"}"
+	a="${a%%\"*}"
+	a="${a##*File:}"
+	b="${line#*/thumb/}"
+	b="${b%%.*}"
+	b="${b%/*}"
+	ext="${a##*.}"
+	name="${a%%.*}"
+	target="https://upload.wikimedia.org/wikipedia/commons/$b/$a"
+	# curl -LO "$target"
+	if [ -z "$repl" ]; then
+		export repl="s|<figure.*<img resource=\".*$a[^>]*>.*</figure>|{{< img src=\"/$name.$ext\" >}}|g"
+		# export todl="{$target}"
+		[ ! -f "$imgdir/$a" ] && export todl="$target	$imgdir/$a"
+	else
+		export repl="$repl;s|<figure.*<img resource=\".*$a[^>]*>.*</figure>|{{< img src=\"/$name.$ext\" >}}|g"
+		# export todl="${todl%\}},$target}"
+		[ ! -f "$imgdir/$a" ] && export todl="$todl
+$target	$imgdir/$a"
+	fi
+done
+
+[ ! -z "$todl" ] && echo "$todl" >> "$dlfile"
+
+# We can give the script a second argument to prefix the footnotes. This is if
+# we combine multiple small pages on Wikisource into one page on our site.
 [ -z "$2" ] || pre="$2-"
 
-w3m -dump "$1" | sed  "
+sed "$repl" "$file" |  hxextract '.prp-pages-output' - | w3m -T text/html -dump | sed  "
+	$repl
 	s|^\s*\([0-9]\+\)\. ↑ |[^$pre\1]: |
 	s|\^\[\([0-9]\+\)\]|[^$pre\1]|
 	s|^\([0-9]\+\)\. |\1\\\. |
 	s|[”“]|\"|g
 	s|[‘’]|'|g
+	s|​||g
 	/^Footnotes$/d
 	/^\[edit\]$/d
-	/^\*$/Q
+		"
 
-		" | sed -e '1,/^→$/ d'
+rm -f "$file"

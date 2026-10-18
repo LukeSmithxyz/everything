@@ -1,0 +1,30 @@
+<!--
+	class: class of the figure
+	link: url the image directs to
+	alt: alternative text
+	caption: caption
+	mouse: what the image says when moused over ("title" in HTML)
+-->
+<figure class="imgfig
+	{{- with .Get "class" }} {{.}}{{ end -}}
+	">
+	{{- with .Get "link"}}<a href="{{.}}">{{ end -}}
+	<img src="/pix/{{ .Get "src" }}" alt="
+			 {{- if .Get "alt" -}}
+				{{.}}
+			{{- else -}}
+				{{ .Get "src" }}
+			{{- end -}}
+				       "
+		{{- with .Get "width"}}width="{{.}}"{{ end -}}
+		{{- with .Get "height"}}height="{{.}}"{{ end -}}
+		{{- with .Get "mouse" }} title="{{.}}"{{ end -}}
+	     	loading="lazy"
+	>
+	{{- if .Get "link"}}</a>{{ end -}}
+	{{- with .Get "caption" -}}
+	<figcaption>
+	{{- . -}}
+	</figcaption>
+	{{- end -}}
+</figure>
