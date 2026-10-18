@@ -2385,7 +2385,7 @@ the distance between a comet and the sun being given, the velocity of the comet
 is nearly given. And hence arises this problem.
 
 
-PROBLEM.
+Problem.
 
 The relation betwixt the velocity of a comet and its distance from the sun's
 centre being given, the comet's trajectory is required.
@@ -2413,7 +2413,7 @@ whole computation is this.
 
 
 
-LEMMA I.
+# Lemma I.
 
     To cut two right lines OR, TP, given in position, by a third right line RP,
     so as TRP may be a right angle; and, if another right line SP is drawn to
@@ -2457,7 +2457,7 @@ without those perplexed computations and resolutions of affected equations
 which hitherto have been in use.
 
 
-LEMMA II.
+# Lemma II.
 
     To cut three right lines given in position, by a fourth right line that
     shall pass through a point assigned in any of the three, and so as its
@@ -2476,7 +2476,7 @@ given, and from thence its remaining sides are found; and from the given ratios
 the lines GF and BE are also given.
 
 
-LEMMA III.
+# Lemma III.
 
 To find and represent by a linear description the hourly motion of a comet to
 any given time.
@@ -2513,7 +2513,7 @@ velocity; for thus the errors of the observations will bear a less proportion
 to the differences of the longitudes.
 
 
-LEMMA IV.
+# Lemma IV.
 
 To find the longitudes of a comet to any given times.
 
@@ -2522,7 +2522,7 @@ times, and drawing the lines Tr, Tρ. The way of working by trigonometry is
 manifest.
 
 
-LEMMA V.
+# Lemma V.
 
 To find the latitudes.
 
@@ -2532,7 +2532,7 @@ meeting PH, will be the tangents of the sought latitudes to Tr and Tρ as
 radiuses.
 
 
-PROBLEM I.
+Problem I.
 
 From the assumed ratio of the velocity to determine the trajectory of a comet.
 
@@ -2582,7 +2582,7 @@ given right line pῶ would be carried with a velocity that is to the velocity o
 the earth as pῶ to V × tτ.   Q.E.F.
 
 
-PROBLEM II.
+Problem II.
 
 To correct the assumed ratio of the velocity and the trajectory thence found.
 

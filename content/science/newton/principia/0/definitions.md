@@ -81,7 +81,7 @@ I likewise call attractions and impulses, in the same sense, accelerative, and m
 
 
 
-# SCHOLIUM.
+# Scholium.
 
 Hitherto I have laid down the definitions of such words as are less known, and explained the sense in which I would have them to be understood in the following discourse. I do not define time, space, place and motion, as being well known to all. Only I must observe, that the vulgar conceive those quantities under no other notions but from the relation they bear to sensible objects. And thence arise certain prejudices, for the removing of which, it will be convenient to distinguish them into absolute and relative, true and apparent, mathematical and common.
 
