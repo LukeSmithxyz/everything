@@ -1,6 +1,6 @@
 ---
 title: "XIX. How Fursa built a monastery among the East Angles, and of his visions and sanctity, to which, his flesh remaining uncorrupted after death bore testimony."
-worktitle: "The Ecclessiastical History of the English People: Book III"
+worktitle: "Book III"
 author: "The Venerable Bede"
 params:
  da: "731"

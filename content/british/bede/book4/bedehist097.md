@@ -1,6 +1,6 @@
 ---
 title: "XIII. How Bishop Wilfrid converted the province of the South Saxons to Christ."
-worktitle: "The Ecclessiastical History of the English People: Book IV"
+worktitle: "Book IV"
 author: "The Venerable Bede"
 params:
  da: "731"

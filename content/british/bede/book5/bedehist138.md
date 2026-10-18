@@ -1,6 +1,6 @@
 ---
 title: "XXII. How the monks of Hii, and the monasteries subject to them, began to celebrate the canonical Easter at the preaching of Egbert."
-worktitle: "The Ecclessiastical History of the English People: Book V"
+worktitle: "Book V"
 author: "The Venerable Bede"
 params:
  da: "731"

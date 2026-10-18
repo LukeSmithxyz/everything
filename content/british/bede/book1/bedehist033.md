@@ -1,6 +1,6 @@
 ---
 title: "XXXIII. How Augustine repaired the church of our Saviour, and built the monastery of the blessed Peter the Apostle; and concerning Peter the first abbot of the same."
-worktitle: "The Ecclessiastical History of the English People: Book I"
+worktitle: "Book I"
 author: "The Venerable Bede"
 params:
  da: "731"

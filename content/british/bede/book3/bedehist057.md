@@ -1,6 +1,6 @@
 ---
 title: "III. How the same king Oswald, asking a bishop of the Scottish nation, had Aidan sent him, and granted him an episcopal see in the Isle of Lindisfarne."
-worktitle: "The Ecclessiastical History of the English People: Book III"
+worktitle: "Book III"
 author: "The Venerable Bede"
 params:
  da: "731"

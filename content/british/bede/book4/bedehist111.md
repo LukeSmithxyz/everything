@@ -1,6 +1,6 @@
 ---
 title: "XXVII. How Cuthbert, a man of God, was made bishop; and how he lived and taught whilst still in the monastic life."
-worktitle: "The Ecclessiastical History of the English People: Book IV"
+worktitle: "Book IV"
 author: "The Venerable Bede"
 params:
  da: "731"

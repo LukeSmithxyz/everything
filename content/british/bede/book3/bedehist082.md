@@ -1,6 +1,6 @@
 ---
 title: "XXVIII. How, when Tuda was dead, Wilfrid was ordained, in Gaul, and Ceadda, among the West Saxons, to be bishops for the province of the Northumbrians."
-worktitle: "The Ecclessiastical History of the English People: Book III"
+worktitle: "Book III"
 author: "The Venerable Bede"
 params:
  da: "731"

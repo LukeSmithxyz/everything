@@ -1,6 +1,6 @@
 ---
 title: "II. How Caius Julius Caesar was the first Roman that came into Britain."
-worktitle: "The Ecclessiastical History of the English People: Book I"
+worktitle: "Book I"
 author: "The Venerable Bede"
 params:
  da: "731"

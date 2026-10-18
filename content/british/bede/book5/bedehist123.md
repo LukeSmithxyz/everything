@@ -1,6 +1,6 @@
 ---
 title: "VII. How Caedwalla, king of the West Saxons, went to Rome to be baptized; and his successor Ini, also devoutly journeyed to the same threshold of the holy Apostles."
-worktitle: "The Ecclessiastical History of the English People: Book V"
+worktitle: "Book V"
 author: "The Venerable Bede"
 params:
  da: "731"

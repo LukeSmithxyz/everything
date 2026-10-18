@@ -1,6 +1,6 @@
 ---
 title: "XXIX. How the priest Wighard was sent from Britain to Rome, to be ordained archbishop; of his death there, and of the letters of the Apostolic Pope giving an account thereof."
-worktitle: "The Ecclessiastical History of the English People: Book III"
+worktitle: "Book III"
 author: "The Venerable Bede"
 params:
  da: "731"

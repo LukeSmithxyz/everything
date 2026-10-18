@@ -1,6 +1,6 @@
 ---
 title: "XIX. How Coinred, king of the Mercians, and Offa, king of the East Saxons, ended their days at Rome, in the monastic habit; and of the life and death of Bishop Wilfrid."
-worktitle: "The Ecclessiastical History of the English People: Book V"
+worktitle: "Book V"
 author: "The Venerable Bede"
 params:
  da: "731"

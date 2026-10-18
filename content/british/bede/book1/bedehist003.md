@@ -1,6 +1,6 @@
 ---
 title: "III. How Claudius, the second of the Romans who came into Britain, brought the islands Orcades into subjection to the Roman empire; and Vespasian, sent by him, reduced the Isle of Wight under the dominion of the Romans."
-worktitle: "The Ecclessiastical History of the English People: Book I"
+worktitle: "Book I"
 author: "The Venerable Bede"
 params:
  da: "731"

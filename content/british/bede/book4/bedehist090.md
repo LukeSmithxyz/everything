@@ -1,6 +1,6 @@
 ---
 title: "VI. How Wynfrid being deposed, Sexwulf received his bishopric, and Earconwald was made bishop of the East Saxons."
-worktitle: "The Ecclessiastical History of the English People: Book IV"
+worktitle: "Book IV"
 author: "The Venerable Bede"
 params:
  da: "731"

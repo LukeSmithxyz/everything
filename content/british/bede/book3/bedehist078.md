@@ -1,6 +1,6 @@
 ---
 title: "XXIV. How when King Penda was slain, the province of the Mercians received the faith of Christ, and Oswy gave possessions and territories to God, for building monasteries, as a thank offering for the victory obtained."
-worktitle: "The Ecclessiastical History of the English People: Book III"
+worktitle: "Book III"
 author: "The Venerable Bede"
 params:
  da: "731"

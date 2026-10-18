@@ -1,6 +1,6 @@
 ---
 title: "XI. How the venerable Suidbert in Britain, and Wilbrord at Rome, were ordained bishops for Frisland."
-worktitle: "The Ecclessiastical History of the English People: Book V"
+worktitle: "Book V"
 author: "The Venerable Bede"
 params:
  da: "731"

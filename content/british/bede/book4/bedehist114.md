@@ -1,6 +1,6 @@
 ---
 title: "XXX. How his body was found altogether uncorrupted after it had been buried eleven years; and how his successor in the bishopric departed this world not long after."
-worktitle: "The Ecclessiastical History of the English People: Book IV"
+worktitle: "Book IV"
 author: "The Venerable Bede"
 params:
  da: "731"

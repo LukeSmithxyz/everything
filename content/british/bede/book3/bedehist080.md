@@ -1,6 +1,6 @@
 ---
 title: "XXVI. How Colman, being worsted, returned home; and Tuda succeeded him in the bishopric; and of the state of the church under those teachers."
-worktitle: "The Ecclessiastical History of the English People: Book III"
+worktitle: "Book III"
 author: "The Venerable Bede"
 params:
  da: "731"

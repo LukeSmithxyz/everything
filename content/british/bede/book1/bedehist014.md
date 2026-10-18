@@ -1,6 +1,6 @@
 ---
 title: "XIV. How the Britons, compelled by the great famine, drove the barbarians out of their territories; and soon after there ensued, along with abundance of corn, decay of morals, pestilence, and the downfall of the nation."
-worktitle: "The Ecclessiastical History of the English People: Book I"
+worktitle: "Book I"
 author: "The Venerable Bede"
 params:
  da: "731"

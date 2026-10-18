@@ -1,6 +1,6 @@
 ---
 title: "VI. How Laurentius, being reproved by the Apostle Peter, converted King Eadbald to Christ; and how the king soon recalled Mellitus and Justus to preach the Word."
-worktitle: "The Ecclessiastical History of the English People: Book II"
+worktitle: "Book II"
 author: "The Venerable Bede"
 params:
  da: "731"

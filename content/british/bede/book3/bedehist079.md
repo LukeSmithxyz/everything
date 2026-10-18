@@ -1,6 +1,6 @@
 ---
 title: "XXV. How the question arose about the due time of keeping Easter, with those that came out of Scotland."
-worktitle: "The Ecclessiastical History of the English People: Book III"
+worktitle: "Book III"
 author: "The Venerable Bede"
 params:
  da: "731"

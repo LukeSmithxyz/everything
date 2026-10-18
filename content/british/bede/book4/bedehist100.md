@@ -1,6 +1,6 @@
 ---
 title: "XVI. How the Isle of Wight received Christian inhabitants, and two royal youths of that island were killed immediately after Baptism."
-worktitle: "The Ecclessiastical History of the English People: Book IV"
+worktitle: "Book IV"
 author: "The Venerable Bede"
 params:
  da: "731"

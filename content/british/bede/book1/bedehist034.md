@@ -1,6 +1,6 @@
 ---
 title: "XXXIV. How Ethelfrid, king of the Northumbrians, having vanquished the nations of the Scots, expelled them from the territories of the English."
-worktitle: "The Ecclessiastical History of the English People: Book I"
+worktitle: "Book I"
 author: "The Venerable Bede"
 params:
  da: "731"

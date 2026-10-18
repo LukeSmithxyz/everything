@@ -1,6 +1,6 @@
 ---
 title: "X. How Pope Boniface, by letter, exhorted the same king to embrace the faith."
-worktitle: "The Ecclessiastical History of the English People: Book II"
+worktitle: "Book II"
 author: "The Venerable Bede"
 params:
  da: "731"

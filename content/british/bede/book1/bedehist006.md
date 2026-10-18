@@ -1,6 +1,6 @@
 ---
 title: "VI. Of the reign of Diocletian, and how he persecuted the Christians."
-worktitle: "The Ecclessiastical History of the English People: Book I"
+worktitle: "Book I"
 author: "The Venerable Bede"
 params:
  da: "731"

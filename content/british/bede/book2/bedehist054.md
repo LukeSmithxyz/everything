@@ -1,6 +1,6 @@
 ---
 title: "XX. How Edwin being slain, Paulinus returned into Kent, and had the bishopric of Rochester conferred upon him."
-worktitle: "The Ecclessiastical History of the English People: Book II"
+worktitle: "Book II"
 author: "The Venerable Bede"
 params:
  da: "731"

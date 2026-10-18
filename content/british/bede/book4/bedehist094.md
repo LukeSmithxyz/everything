@@ -1,6 +1,6 @@
 ---
 title: "X. How a blind woman, praying in the burial-place of that monastery, was restored to her sight."
-worktitle: "The Ecclessiastical History of the English People: Book IV"
+worktitle: "Book IV"
 author: "The Venerable Bede"
 params:
  da: "731"

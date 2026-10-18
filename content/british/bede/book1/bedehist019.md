@@ -1,6 +1,6 @@
 ---
 title: "XIX. How the same holy man, being detained there by sickness, by his prayers quenched a fire that had broken out among the houses, and was himself cured of his infirmity by a vision."
-worktitle: "The Ecclessiastical History of the English People: Book I"
+worktitle: "Book I"
 author: "The Venerable Bede"
 params:
  da: "731"

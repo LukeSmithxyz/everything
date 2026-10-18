@@ -1,6 +1,6 @@
 ---
 title: "XX. How, when Honorius died, Deusdedit became Archbishop of Canterbury; and of those who were at that time bishops of the East Angles, and of the church of Rochester."
-worktitle: "The Ecclessiastical History of the English People: Book III"
+worktitle: "Book III"
 author: "The Venerable Bede"
 params:
  da: "731"

@@ -1,6 +1,6 @@
 ---
 title: "XXXI. How Pope Gregory, by letter, exhorted Augustine not to glory in his miracles."
-worktitle: "The Ecclessiastical History of the English People: Book I"
+worktitle: "Book I"
 author: "The Venerable Bede"
 params:
  da: "731"

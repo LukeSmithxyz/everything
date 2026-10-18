@@ -1,6 +1,6 @@
 ---
 title: "XIV. How another in like manner, being at the point of death, saw the place of punishment appointed for him in Hell."
-worktitle: "The Ecclessiastical History of the English People: Book V"
+worktitle: "Book V"
 author: "The Venerable Bede"
 params:
  da: "731"

@@ -1,6 +1,6 @@
 ---
 title: "XXVIII. How the same St. Cuthbert, living the life of an Anchorite, by his prayers obtained a spring in a dry soil, and had a crop from seed sown by the labour of his hands out of season."
-worktitle: "The Ecclessiastical History of the English People: Book IV"
+worktitle: "Book IV"
 author: "The Venerable Bede"
 params:
  da: "731"

@@ -1,6 +1,6 @@
 ---
 title: "XI. How Pope Boniface advised the king’s consort to use her best endeavours for his salvation."
-worktitle: "The Ecclessiastical History of the English People: Book II"
+worktitle: "Book II"
 author: "The Venerable Bede"
 params:
  da: "731"

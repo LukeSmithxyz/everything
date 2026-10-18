@@ -1,6 +1,6 @@
 ---
 title: "XVI. How the same Aidan, by his prayers, saved the royal city when it was fired by the enemy"
-worktitle: "The Ecclessiastical History of the English People: Book III"
+worktitle: "Book III"
 author: "The Venerable Bede"
 params:
  da: "731"

@@ -1,6 +1,6 @@
 ---
 title: "I. How Ethelwald, successor to Cuthbert, leading a hermit’s life, calmed a tempest by his prayers when the brethren were in danger at sea."
-worktitle: "The Ecclessiastical History of the English People: Book V"
+worktitle: "Book V"
 author: "The Venerable Bede"
 params:
  da: "731"

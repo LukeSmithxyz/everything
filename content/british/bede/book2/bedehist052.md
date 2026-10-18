@@ -1,6 +1,6 @@
 ---
 title: "XVIII. How Honorius, who succeeded Justus in the bishopric of Canterbury, received the pall and letters from Pope Honorius."
-worktitle: "The Ecclessiastical History of the English People: Book II"
+worktitle: "Book II"
 author: "The Venerable Bede"
 params:
  da: "731"

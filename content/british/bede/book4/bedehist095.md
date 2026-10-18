@@ -1,6 +1,6 @@
 ---
 title: "XI. How Sebbi, king of the same province, ended his life in a monastery."
-worktitle: "The Ecclessiastical History of the English People: Book IV"
+worktitle: "Book IV"
 author: "The Venerable Bede"
 params:
  da: "731"

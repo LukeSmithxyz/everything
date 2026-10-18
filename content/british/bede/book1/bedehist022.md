@@ -1,6 +1,6 @@
 ---
 title: "XXII. How the Britons, being for a time at rest from foreign invasions, wore themselves out by civil wars, and at the same time gave themselves up to more heinous crimes."
-worktitle: "The Ecclessiastical History of the English People: Book I"
+worktitle: "Book I"
 author: "The Venerable Bede"
 params:
  da: "731"

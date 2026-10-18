@@ -1,6 +1,6 @@
 ---
 title: "XVI. The account given in the aforesaid book of the place of our Lord’s Nativity, Passion, and Resurrection."
-worktitle: "The Ecclessiastical History of the English People: Book V"
+worktitle: "Book V"
 author: "The Venerable Bede"
 params:
  da: "731"

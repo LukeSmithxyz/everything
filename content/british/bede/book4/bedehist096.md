@@ -1,6 +1,6 @@
 ---
 title: "XII. How Haedde succeeded Leutherius in the bishopric of the West Saxons; how Cuichelm succeeded Putta in the bishopric of the church of Rochester, and was himself succeeded by Gebmund; and who were then bishops of the Northumbrians."
-worktitle: "The Ecclessiastical History of the English People: Book IV"
+worktitle: "Book IV"
 author: "The Venerable Bede"
 params:
  da: "731"

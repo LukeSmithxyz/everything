@@ -1,6 +1,6 @@
 ---
 title: "I. Of the death of the blessed Pope Gregory."
-worktitle: "The Ecclessiastical History of the English People: Book II"
+worktitle: "Book II"
 author: "The Venerable Bede"
 params:
  da: "731"

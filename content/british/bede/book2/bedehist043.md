@@ -1,6 +1,6 @@
 ---
 title: "IX. Of the reign of King Edwin, and how Paulinus, coming to preach the Gospel, first converted his daughter and others to the mysteries of the faith of Christ."
-worktitle: "The Ecclessiastical History of the English People: Book II"
+worktitle: "Book II"
 author: "The Venerable Bede"
 params:
  da: "731"

@@ -1,6 +1,6 @@
 ---
 title: "XXV. How Augustine, coming into Britain, first preached in the Isle of Thanet to the King of Kent, and having obtained licence from him, went into Kent, in order to preach therein."
-worktitle: "The Ecclessiastical History of the English People: Book I"
+worktitle: "Book I"
 author: "The Venerable Bede"
 params:
  da: "731"

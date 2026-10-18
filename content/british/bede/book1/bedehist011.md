@@ -1,6 +1,6 @@
 ---
 title: "XI. How during the reign of Honorius, Gratian and Constantine were created tyrants in Britain; and soon after the former was slain in Britain, and the latter in Gaul."
-worktitle: "The Ecclessiastical History of the English People: Book I"
+worktitle: "Book I"
 author: "The Venerable Bede"
 params:
  da: "731"

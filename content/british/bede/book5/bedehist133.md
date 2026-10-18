@@ -1,6 +1,6 @@
 ---
 title: "XVII. What he likewise wrote of the place of our Lord’s Ascension, and the tombs of the patriarchs."
-worktitle: "The Ecclessiastical History of the English People: Book V"
+worktitle: "Book V"
 author: "The Venerable Bede"
 params:
  da: "731"

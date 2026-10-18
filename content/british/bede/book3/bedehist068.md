@@ -1,6 +1,6 @@
 ---
 title: "XIV. How on the death of Paulinus, Ithamar was made bishop of Rochester in his stead; and of the wonderful humility of King Oswin, who was cruelly slain by Oswy."
-worktitle: "The Ecclessiastical History of the English People: Book III"
+worktitle: "Book III"
 author: "The Venerable Bede"
 params:
  da: "731"

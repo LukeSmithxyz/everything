@@ -1,6 +1,6 @@
 ---
 title: "XIII. How another contrarywise before his death saw a book containing his sins, which was shown him by devils."
-worktitle: "The Ecclessiastical History of the English People: Book V"
+worktitle: "Book V"
 author: "The Venerable Bede"
 params:
  da: "731"

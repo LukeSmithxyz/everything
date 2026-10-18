@@ -1,6 +1,6 @@
 ---
 title: "XVII. How Germanus the Bishop, sailing into Britain with Lupus, first quelled the tempest of the sea, and afterwards that of the Pelagians, by Divine power."
-worktitle: "The Ecclessiastical History of the English People: Book I"
+worktitle: "Book I"
 author: "The Venerable Bede"
 params:
  da: "731"

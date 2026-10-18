@@ -1,6 +1,6 @@
 ---
 title: "X. How Wilbrord, preaching in Frisland, converted many to Christ; and how his two companions, the Hewalds, suffered martyrdom."
-worktitle: "The Ecclessiastical History of the English People: Book V"
+worktitle: "Book V"
 author: "The Venerable Bede"
 params:
  da: "731"

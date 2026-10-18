@@ -1,6 +1,6 @@
 ---
 title: "XV. How divers churches of the Scots, at the instance of Adamnan, adopted the Catholic Easter; and how the same wrote a book about the holy places."
-worktitle: "The Ecclessiastical History of the English People: Book V"
+worktitle: "Book V"
 author: "The Venerable Bede"
 params:
  da: "731"

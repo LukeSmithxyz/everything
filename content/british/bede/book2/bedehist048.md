@@ -1,6 +1,6 @@
 ---
 title: "XIV. How King Edwin and his nation became Christians; and where Paulinus baptized them."
-worktitle: "The Ecclessiastical History of the English People: Book II"
+worktitle: "Book II"
 author: "The Venerable Bede"
 params:
  da: "731"

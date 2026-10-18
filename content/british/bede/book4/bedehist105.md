@@ -1,6 +1,6 @@
 ---
 title: "XXI. How Bishop Theodore made peace between the kings Egfrid and Ethelred."
-worktitle: "The Ecclessiastical History of the English People: Book IV"
+worktitle: "Book IV"
 author: "The Venerable Bede"
 params:
  da: "731"

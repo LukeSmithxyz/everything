@@ -1,6 +1,6 @@
 ---
 title: "V. How he likewise recalled by his prayers a thegn’s servant from death."
-worktitle: "The Ecclessiastical History of the English People: Book V"
+worktitle: "Book V"
 author: "The Venerable Bede"
 params:
  da: "731"

@@ -1,6 +1,6 @@
 ---
 title: "XXI. How, when the Pelagian heresy began to spring up afresh, Germanus, returning to Britain with Severus, first restored bodily strength to a lame youth, then spiritual health to the people of God, having condemned or converted the Heretics."
-worktitle: "The Ecclessiastical History of the English People: Book I"
+worktitle: "Book I"
 author: "The Venerable Bede"
 params:
  da: "731"

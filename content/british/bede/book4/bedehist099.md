@@ -1,6 +1,6 @@
 ---
 title: "XV. How King Caedwalla, king of the Gewissae, having slain Ethelwalch, wasted that Province with cruel slaughter and devastation."
-worktitle: "The Ecclessiastical History of the English People: Book IV"
+worktitle: "Book IV"
 author: "The Venerable Bede"
 params:
  da: "731"

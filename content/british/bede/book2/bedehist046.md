@@ -1,6 +1,6 @@
 ---
 title: "XII. How Edwin was persuaded to believe by a vision which he had once seen when he was in exile."
-worktitle: "The Ecclessiastical History of the English People: Book II"
+worktitle: "Book II"
 author: "The Venerable Bede"
 params:
  da: "731"

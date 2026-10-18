@@ -1,6 +1,6 @@
 ---
 title: "VIII. How, when the persecution ceased, the Church in Britain enjoyed peace till the time of the Arian heresy."
-worktitle: "The Ecclessiastical History of the English People: Book I"
+worktitle: "Book I"
 author: "The Venerable Bede"
 params:
  da: "731"

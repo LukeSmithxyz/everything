@@ -1,6 +1,6 @@
 ---
 title: "XII. How the Britons, being ravaged by the Scots and Picts, sought succour from the Romans, who coming a second time, built a wall across the island; but when this was broken down at once by the aforesaid enemies, they were reduced to greater distress than before."
-worktitle: "The Ecclessiastical History of the English People: Book I"
+worktitle: "Book I"
 author: "The Venerable Bede"
 params:
  da: "731"

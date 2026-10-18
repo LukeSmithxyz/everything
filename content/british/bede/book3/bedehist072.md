@@ -1,6 +1,6 @@
 ---
 title: "XVIII. Of the life and death of the religious King Sigbert."
-worktitle: "The Ecclessiastical History of the English People: Book III"
+worktitle: "Book III"
 author: "The Venerable Bede"
 params:
  da: "731"

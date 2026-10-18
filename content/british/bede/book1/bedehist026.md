@@ -1,6 +1,6 @@
 ---
 title: "XXVI. How St. Augustine in Kent followed the doctrine and manner of life of the primitive Church, and settled his episcopal see in the royal city."
-worktitle: "The Ecclessiastical History of the English People: Book I"
+worktitle: "Book I"
 author: "The Venerable Bede"
 params:
  da: "731"

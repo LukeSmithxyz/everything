@@ -1,6 +1,6 @@
 ---
 title: "XX. A Hymn concerning her."
-worktitle: "The Ecclessiastical History of the English People: Book IV"
+worktitle: "Book IV"
 author: "The Venerable Bede"
 params:
  da: "731"

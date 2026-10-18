@@ -1,6 +1,6 @@
 ---
 title: "XIII. How in the reign of Theodosius the younger, in whose time Palladius was sent to the Scots that believed in Christ, the Britons begging assistance of Ætius, the consul, could not obtain it."
-worktitle: "The Ecclessiastical History of the English People: Book I"
+worktitle: "Book I"
 author: "The Venerable Bede"
 params:
  da: "731"

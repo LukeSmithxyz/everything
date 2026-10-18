@@ -1,6 +1,6 @@
 ---
 title: "XXII. How under King Sigbert, through the preaching of Cedd, the East Saxons again received the faith, which they had before cast off."
-worktitle: "The Ecclessiastical History of the English People: Book III"
+worktitle: "Book III"
 author: "The Venerable Bede"
 params:
  da: "731"

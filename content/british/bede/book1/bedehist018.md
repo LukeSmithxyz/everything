@@ -1,6 +1,6 @@
 ---
 title: "XVIII. How the some holy man gave sight to the blind daughter of a tribune, and then coming to St. Alban, there received of his relics, and left other relics of the blessed Apostles and other martyrs."
-worktitle: "The Ecclessiastical History of the English People: Book I"
+worktitle: "Book I"
 author: "The Venerable Bede"
 params:
  da: "731"

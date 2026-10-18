@@ -1,6 +1,6 @@
 ---
 title: "VIII. How Pope Boniface sent the Pall and a letter to Justus, successor to Mellitus."
-worktitle: "The Ecclessiastical History of the English People: Book II"
+worktitle: "Book II"
 author: "The Venerable Bede"
 params:
  da: "731"

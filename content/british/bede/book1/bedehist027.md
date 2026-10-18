@@ -1,6 +1,6 @@
 ---
 title: "XXVII. How St. Augustine, being made a bishop, sent to acquaint Pope Gregory with what had been done in Britain, and asked and received replies, of which he stood in need."
-worktitle: "The Ecclessiastical History of the English People: Book I"
+worktitle: "Book I"
 author: "The Venerable Bede"
 params:
  da: "731"

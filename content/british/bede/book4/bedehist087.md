@@ -1,6 +1,6 @@
 ---
 title: "III. How the above-mentioned Ceadda was made Bishop of the province of Mercians. Of his life, death, and burial."
-worktitle: "The Ecclessiastical History of the English People: Book IV"
+worktitle: "Book IV"
 author: "The Venerable Bede"
 params:
  da: "731"

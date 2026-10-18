@@ -1,6 +1,6 @@
 ---
 title: "I. Of the Situation of Britain and Ireland, and of their ancient inhabitants."
-worktitle: "The Ecclessiastical History of the English People: Book I"
+worktitle: "Book I"
 author: "The Venerable Bede"
 params:
  da: "731"

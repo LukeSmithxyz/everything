@@ -1,6 +1,6 @@
 ---
 title: "II. How Bishop John cured a dumb man by his blessing."
-worktitle: "The Ecclessiastical History of the English People: Book V"
+worktitle: "Book V"
 author: "The Venerable Bede"
 params:
  da: "731"

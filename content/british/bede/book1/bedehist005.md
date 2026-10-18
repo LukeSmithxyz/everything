@@ -1,6 +1,6 @@
 ---
 title: "V. How the Emperor Severus divided from the rest by a rampart that part of Britain which had been recovered."
-worktitle: "The Ecclessiastical History of the English People: Book I"
+worktitle: "Book I"
 author: "The Venerable Bede"
 params:
  da: "731"

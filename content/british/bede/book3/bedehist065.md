@@ -1,6 +1,6 @@
 ---
 title: "XI. How a light from Heaven stood all night over his relics, and how those possessed with devils were healed by them."
-worktitle: "The Ecclessiastical History of the English People: Book III"
+worktitle: "Book III"
 author: "The Venerable Bede"
 params:
  da: "731"

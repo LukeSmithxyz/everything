@@ -1,6 +1,6 @@
 ---
 title: "XVIII. Of John, the precentor of the Apostolic see, who came into Britain to teach."
-worktitle: "The Ecclessiastical History of the English People: Book IV"
+worktitle: "Book IV"
 author: "The Venerable Bede"
 params:
  da: "731"

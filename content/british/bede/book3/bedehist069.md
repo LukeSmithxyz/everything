@@ -1,6 +1,6 @@
 ---
 title: "XV. How Bishop Aidan foretold to certain seamen that a storm would arise, and gave them some holy oil to calm it."
-worktitle: "The Ecclessiastical History of the English People: Book III"
+worktitle: "Book III"
 author: "The Venerable Bede"
 params:
  da: "731"

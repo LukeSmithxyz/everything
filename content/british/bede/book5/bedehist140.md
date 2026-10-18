@@ -1,6 +1,6 @@
 ---
 title: "XXIV. Chronological recapitulation of the whole work: also concerning the author himself."
-worktitle: "The Ecclessiastical History of the English People: Book V"
+worktitle: "Book V"
 author: "The Venerable Bede"
 params:
  da: "731"

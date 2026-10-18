@@ -1,6 +1,6 @@
 ---
 title: "IV. How he healed a thegn’s wife that was sick, with holy water."
-worktitle: "The Ecclessiastical History of the English People: Book V"
+worktitle: "Book V"
 author: "The Venerable Bede"
 params:
  da: "731"

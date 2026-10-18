@@ -1,6 +1,6 @@
 ---
 title: "IV. How Lucius, king of Britain, writing to Pope Eleutherus, desired to be made a Christian."
-worktitle: "The Ecclessiastical History of the English People: Book I"
+worktitle: "Book I"
 author: "The Venerable Bede"
 params:
  da: "731"

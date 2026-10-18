@@ -1,6 +1,8 @@
 ---
-title: "The Ecclessiastical History of the English People: Book I"
+title: "Book I"
+worktitle: "The Ecclessiastical History of the English People"
 params:
+ order: 1
  da: "731"
  des: "-55"
  def: "603"

@@ -1,6 +1,6 @@
 ---
 title: "XXIII. How Bishop Cedd, having a place for building a monastery given him by King Ethelwald, consecrated it to the Lord with prayer and fasting; and concerning his death."
-worktitle: "The Ecclessiastical History of the English People: Book III"
+worktitle: "Book III"
 author: "The Venerable Bede"
 params:
  da: "731"

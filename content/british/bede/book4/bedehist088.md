@@ -1,6 +1,6 @@
 ---
 title: "IV. How Bishop Colman, having left Britain, built two monasteries in the country of the Scots; the one for the Scots, the other for the English whom he had taken along with him."
-worktitle: "The Ecclessiastical History of the English People: Book IV"
+worktitle: "Book IV"
 author: "The Venerable Bede"
 params:
  da: "731"

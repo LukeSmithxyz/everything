@@ -1,6 +1,6 @@
 ---
 title: "XVI. How Paulinus preached in the province of Lindsey; and of the character of the reign of Edwin."
-worktitle: "The Ecclessiastical History of the English People: Book II"
+worktitle: "Book II"
 author: "The Venerable Bede"
 params:
  da: "731"

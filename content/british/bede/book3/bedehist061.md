@@ -1,6 +1,6 @@
 ---
 title: "VII. How the West Saxons received the Word of God by the preaching of Birinus; and of his successors, Agilbert and Leutherius."
-worktitle: "The Ecclessiastical History of the English People: Book III"
+worktitle: "Book III"
 author: "The Venerable Bede"
 params:
  da: "731"

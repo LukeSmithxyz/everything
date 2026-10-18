@@ -1,6 +1,6 @@
 ---
 title: "XIX. How the aforesaid Honorius first, and afterwards John, wrote letters to the nation of the Scots, concerning the observance of Easter, and the Pelagian heresy."
-worktitle: "The Ecclessiastical History of the English People: Book II"
+worktitle: "Book II"
 author: "The Venerable Bede"
 params:
  da: "731"

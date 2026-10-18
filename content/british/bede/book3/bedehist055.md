@@ -1,6 +1,6 @@
 ---
 title: "I. How King Edwin’s next successors lost both the faith of their nation and the kingdom; but the most Christian King Oswald retrieved both."
-worktitle: "The Ecclessiastical History of the English People: Book III"
+worktitle: "Book III"
 author: "The Venerable Bede"
 params:
  da: "731"

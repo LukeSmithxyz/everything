@@ -1,6 +1,6 @@
 ---
 title: "XVII. How a prop of the church on which Bishop Aidan was leaning when he died, could not be consumed when the rest of the Church was on fire; and concerning his inward life."
-worktitle: "The Ecclessiastical History of the English People: Book III"
+worktitle: "Book III"
 author: "The Venerable Bede"
 params:
  da: "731"

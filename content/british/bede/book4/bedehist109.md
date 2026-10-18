@@ -1,6 +1,6 @@
 ---
 title: "XXV. Of the vision that appeared to a certain man of God before the monastery of the city Coludi was burned down."
-worktitle: "The Ecclessiastical History of the English People: Book IV"
+worktitle: "Book IV"
 author: "The Venerable Bede"
 params:
  da: "731"

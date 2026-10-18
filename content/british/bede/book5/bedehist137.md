@@ -1,6 +1,6 @@
 ---
 title: "XXI. How the Abbot Ceolfrid sent master-builders to the King of the Picts to build a church, and with them an epistle concerning the Catholic Easter and the Tonsure."
-worktitle: "The Ecclessiastical History of the English People: Book V"
+worktitle: "Book V"
 author: "The Venerable Bede"
 params:
  da: "731"

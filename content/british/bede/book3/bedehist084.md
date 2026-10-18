@@ -1,6 +1,6 @@
 ---
 title: "XXX. How the East Saxons, during a pestilence, returned to idolatry, but were soon brought back from their error by the zeal of Bishop Jaruman."
-worktitle: "The Ecclessiastical History of the English People: Book III"
+worktitle: "Book III"
 author: "The Venerable Bede"
 params:
  da: "731"

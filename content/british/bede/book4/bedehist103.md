@@ -1,6 +1,6 @@
 ---
 title: "XIX. How Queen Ethelthryth always preserved her virginity, and her body suffered no corruption in the grave."
-worktitle: "The Ecclessiastical History of the English People: Book IV"
+worktitle: "Book IV"
 author: "The Venerable Bede"
 params:
  da: "731"

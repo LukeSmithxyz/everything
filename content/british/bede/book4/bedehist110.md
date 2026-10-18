@@ -1,6 +1,6 @@
 ---
 title: "XXVI. Of the death of the Kings Egfrid and Hlothere."
-worktitle: "The Ecclessiastical History of the English People: Book IV"
+worktitle: "Book IV"
 author: "The Venerable Bede"
 params:
  da: "731"

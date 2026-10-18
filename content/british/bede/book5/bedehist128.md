@@ -1,6 +1,6 @@
 ---
 title: "XII. How one in the province of the Northumbrians, rose from the dead, and related many things which he had seen, some to be greatly dreaded and some to be desired."
-worktitle: "The Ecclessiastical History of the English People: Book V"
+worktitle: "Book V"
 author: "The Venerable Bede"
 params:
  da: "731"

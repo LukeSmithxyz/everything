@@ -1,6 +1,6 @@
 ---
 title: "II. How Augustine admonished the bishops of the Britons on behalf of Catholic peace, and to that end wrought a heavenly miracle in their presence; and of the vengeance that pursued them for their contempt."
-worktitle: "The Ecclessiastical History of the English People: Book II"
+worktitle: "Book II"
 author: "The Venerable Bede"
 params:
  da: "731"

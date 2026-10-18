@@ -1,6 +1,6 @@
 ---
 title: "IX. How the holy man, Egbert, would have gone into Germany to preach, but could not; and how Wictbert went, but because he availed nothing, returned into Ireland, whence he came."
-worktitle: "The Ecclessiastical History of the English People: Book V"
+worktitle: "Book V"
 author: "The Venerable Bede"
 params:
  da: "731"

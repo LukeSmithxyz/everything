@@ -1,6 +1,6 @@
 ---
 title: "XX. How the same Bishops brought help from Heaven to the Britons in a battle, and then returned home."
-worktitle: "The Ecclessiastical History of the English People: Book I"
+worktitle: "Book I"
 author: "The Venerable Bede"
 params:
  da: "731"

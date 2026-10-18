@@ -1,6 +1,6 @@
 ---
 title: "VII. The Passion of St. Alban and his companions, who at that time shed their blood for our Lord."
-worktitle: "The Ecclessiastical History of the English People: Book I"
+worktitle: "Book I"
 author: "The Venerable Bede"
 params:
  da: "731"

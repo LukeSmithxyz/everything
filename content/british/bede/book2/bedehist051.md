@@ -1,6 +1,6 @@
 ---
 title: "XVII. How Edwin received letters of exhortation from Pope Honorius, who also sent the pall to Paulinus."
-worktitle: "The Ecclessiastical History of the English People: Book II"
+worktitle: "Book II"
 author: "The Venerable Bede"
 params:
  da: "731"

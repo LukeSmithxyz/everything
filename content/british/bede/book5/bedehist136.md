@@ -1,6 +1,6 @@
 ---
 title: "XX. How Albinus succeeded to the godly Abbot Hadrian, and Acca to Bishop Wilfrid."
-worktitle: "The Ecclessiastical History of the English People: Book V"
+worktitle: "Book V"
 author: "The Venerable Bede"
 params:
  da: "731"

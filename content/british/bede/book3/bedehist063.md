@@ -1,6 +1,6 @@
 ---
 title: "IX. How miracles of healing have been frequently wrought in the place where King Oswald was killed; and how, first, a traveller’s horse was restored and afterwards a young girl cured of the palsy."
-worktitle: "The Ecclessiastical History of the English People: Book III"
+worktitle: "Book III"
 author: "The Venerable Bede"
 params:
  da: "731"

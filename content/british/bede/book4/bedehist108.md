@@ -1,6 +1,6 @@
 ---
 title: "XXIV. That there was in her monastery a brother, on whom the gift of song was bestowed by Heaven."
-worktitle: "The Ecclessiastical History of the English People: Book IV"
+worktitle: "Book IV"
 author: "The Venerable Bede"
 params:
  da: "731"

@@ -1,6 +1,6 @@
 ---
 title: "III. How St. Augustine made Mellitus and Justus bishops; and of his death."
-worktitle: "The Ecclessiastical History of the English People: Book II"
+worktitle: "Book II"
 author: "The Venerable Bede"
 params:
  da: "731"

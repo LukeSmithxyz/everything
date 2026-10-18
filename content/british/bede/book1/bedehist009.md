@@ -1,6 +1,6 @@
 ---
 title: "IX. How during the reign of Gratian, Maximus, being created Emperor in Britain, returned into Gaul with a mighty army."
-worktitle: "The Ecclessiastical History of the English People: Book I"
+worktitle: "Book I"
 author: "The Venerable Bede"
 params:
  da: "731"

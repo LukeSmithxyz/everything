@@ -1,6 +1,6 @@
 ---
 title: "XIV. How a pestilence ceased through the intercession of King Oswald."
-worktitle: "The Ecclessiastical History of the English People: Book IV"
+worktitle: "Book IV"
 author: "The Venerable Bede"
 params:
  da: "731"
