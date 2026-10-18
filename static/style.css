@@ -117,6 +117,13 @@ nav:after {
 	padding: 1em;
 }
 
+img {
+	max-width: 300px ;
+	max-height: 300px ;
+	margin: auto ;
+	display: block ;
+}
+
 @media print {
 	nav { display: none ; }
 }
