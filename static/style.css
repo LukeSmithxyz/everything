@@ -18,10 +18,12 @@ header .eventdate::before {
 }
 
 header .authordate {
+	display: block ;
 }
 
 header .translation {
 	font-size: small ;
+	display: block ;
 }
 header h1 {
 	font-size: xx-large ;
