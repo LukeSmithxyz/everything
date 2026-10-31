@@ -98,6 +98,15 @@ nav ul {
 	list-style: none ;
 }
 
+nav ul li {
+	margin: 0 ;
+	padding: 0 ;
+}
+
+nav ul li a {
+	display: block ;
+}
+
 nav:after {
     content: '';
     display: block;
@@ -109,14 +118,16 @@ nav:after {
 	max-width: 40% ;
 	border-style: inset;
 	border-width: 1px;
-	padding: 1em;
 }
 #prev {
 	float: left ;
 	max-width: 40% ;
 	border-style: inset;
 	border-width: 1px;
-	padding: 1em;
+}
+
+#next a, #prev a {
+	padding: 1em ;
 }
 
 img {
