@@ -6,10 +6,8 @@ params:
  order: 10
 ---
 
-CHAPTER X
 
 
-THE THEOLOGY OF CONSECRATION
 
 The eucharist, then, manifests the true being of the cnurch as the Body
 of Christ and of the Christian as the member of Christ, because it
@@ -53,10 +51,8 @@ bread-blessing and the berakah were said by the primitive president of the
 1 Dan. vii. 13. * Matt. xxvi. 26.
 
 
-268
 
 
-THE THEOLOGY OF CONSECRATION 269
 
 Christian chaburah in the name of the whole society at the beginning and
 end of its corporate meal, following the invariable jewish custom which
@@ -108,7 +104,6 @@ heaven of heavens', into Whose eternal offering of Himself the earthly
 1 1 Cor. adv. 16. I Clem., 44. 8 Ibid 40. 4 Ibid., 41.
 
 
-270 THE SHAPE OF THE LITURGY
 
 eucharist is taken up. As such the bishop is by office and 'liturgy' the
 proper minister of all sacraments to his own church, though he was soon
@@ -158,7 +153,6 @@ eucharistic action or the 'priesthood of the laity' or tae relation of the
 celebrant to the congregation or the function of the eucharistic prayer in
 
 
-THE THEOLOGY OF CONSECRATION
 
 
 27*
@@ -210,10 +204,8 @@ constitutes any particular celebration 'a' eucharist.
 This is the meaning of being 'in the communion of the catholic church'—
 
 
-272
 
 
-THE SHAPE OF THE LITURGY
 
 
 that the whole Body of Christ accepts and makes its own and is, as it were,
@@ -266,7 +258,6 @@ of the table-blessing of the New Covenant.
 * F. Gavin, Jewish Antecedents of the Christian Sacraments, p. 69.
 
 
-THE THEOLOGY OF CONSECRATION 273
 
 And that Covenant is 'in My Blood*. From the day that our Lord's
 judicial execution by crucifixion was interpreted as 'atoning*, and therefore
@@ -318,10 +309,8 @@ the very interesting rabbinic passages collected in Strack-Billerbeck, Kommentar
 zum N,T.> iv. 935-6.
 
 
-274
 
 
-THE SHAPE OF THE LITURG
 
 
 of the Pascha as the annual commemoration of the actual historical events
@@ -376,7 +365,6 @@ historical events of the Passion, but never of the eucharist.
 5 Adv. Haer., iv. 18, 5.
 
 
-THE THEOLOGY OF CONSECRATION 275
 
 primitive usage of the word epiklesis in connection with the eucharist is
 intimately connected with this jewish "blessing of the Name' in all food
@@ -438,10 +426,8 @@ tions) by S. Thomas Aquinas (5. Th ., iii. 66, 6 ad Imum).
 9 Ap. I. 66 (cf.p. 159).
 
 
-THE SHAPE OF THE LITURG
 
 
-276
 
 central constructional position of the account of the institution in the
 prayer as a whole. But we have seen that Sarapion in the fourth century
@@ -499,7 +485,6 @@ the 'Angel* seems to combine all the notions of the 'Presence*, the 'Name* and t
 Word* of God, together with the 'sanctity' and 'awfulness* of that Name.
 
 
-THE THEOLOGY OF CONSECRATION 277
 
 Presence* idea in Christian 'usage, a survival of the New Testament con¬
 ception of the 'presence* of the heavenly Christ as the 'quickening Spirit*1
@@ -555,7 +540,6 @@ Lord Himself acting by the words of institution.
 8 C/. p. 278. 7 Cat., xxiii. 7.
 
 
-278 THE SHAPE OF THE LITURGY
 
 terms of the doctrine of the Trinity, not like Sarapior. in his invocation
 of the Word, in terms of the doctrine of the incarnation. Thus, though
@@ -611,7 +595,6 @@ passages that the author of the Didascalia necessarity used a liturgy
 4 Ibid.) p. In.
 
 
-THE THEOLOGY OF CONSECRATION 279
 
 resembling that of Cyril at Jerusalem a century later. So far as this latter
 passage goes, its evidence as regards practice would be entirely satisfied by
@@ -667,12 +650,10 @@ God, after the manner of Melchizedek still even now accomplishes by means of
 His ministers the rites of His priestly work among men.*
 
 
-280 THE SHAPE OF THE LITUR
 
 was this doctrine of the eucharistic priesthood of Q
 
 
-GJY
 
 irist that the Syrian
 
@@ -734,10 +715,8 @@ most MSS.)
 3 C/. p.266.
 
 
-28 1
 
 
-THE THEOLOGY OF CONSECRATION
 
 The influence of the Jerusalem rite on those of other churches in the
 formative period of the later fourth and early fifth century was very great
@@ -790,10 +769,8 @@ Chrysostom of the old 'Spirit = Word* terminology in connection with the euchari
 see in Heb . Horn., xiv. 2 (xii. 201 B).
 
 
-282
 
 
-THE SHAPE OF THE LITURGY
 
 
 Consecration by the Son and by the Spirit may be reconcilable doctrines,
@@ -847,7 +824,6 @@ elaborate Cabasilas and Simeon, who in turn develop John Damt scene.
 2 Cf p. 104.
 
 
-THE THEOLOGY OF CONSECRATION 283
 
 'It is in remembrance of the angels who continually came to the
 passion and death of our Lord that the deacons stand in a circle and fan
@@ -899,7 +875,6 @@ phandsin ) to be truly the Body and Blood of our Lord, which are the
 1 Rom. viii. 11.
 
 
-284 THE SHAPE OF THE LITURGY
 
 memorials (? hypomnimata) of immortality. Indeed the Body of our Lord,
 which is from our own nature, was previously mortal by nature. When the
@@ -952,10 +927,8 @@ in holy communion. This is the very antithesis of the primitive notion of the ri
 Christ as the life of the church in the eucharist.
 
 
-THE THEOLOGY OF CONSECRATION
 
 
-285
 
 liturgy begins* in a solemn procession to the altar.1 During this the people
 offer adoration to the elements borne by before their eyes* while the choir
@@ -1015,10 +988,8 @@ in solemn state, the pallium (scarf) of the episcopal celebrant* who himself awa
 the procession at the altar.
 
 
-286
 
 
-THE SHAPE OF THE LITURGY
 
 ing rubrics are intended to reproduce vividly the treatment of our Lord's
 Body in His passion1 (e.g. the 'stabbing' of the bread witih the 'holy lance').
@@ -1073,7 +1044,6 @@ troversies in the East about the use of 'images* (eikones) in Christian worship.
 5 Brightman, L. E. 430, //. 18 sqq. (col a).
 
 
-THE THEOLOGY OF CONSECRATION 287
 
 We have already noted that the modem Eastern presentation of this
 theory, that the preparation and offertory of the elements makes them in
@@ -1121,10 +1091,8 @@ Byzantine clergy and the official tradition to press with any rigorousness
 1 de Spiritu Sancto, xxvii. 66.
 
 
-288
 
 
-THE SHAPE OF THE LITURGY
 
 
 the explanation of the eucharisdc action given by Theodore, whatever
@@ -1178,7 +1146,6 @@ interpretation of the whole eucharistic action as essentiall y an ' anamnesis of
 * Dial. 41.
 
 
-THE THEOLOGY OF CONSECRATION 289
 
 the resurrection' from a passion accomplished, as it were, in the sacristy
 'before the liturgy begins' (for this is what the whole conception amounts
@@ -1229,10 +1196,8 @@ tion under the general heading of 'Antiochene1 , as is now usual, though it has
 undergone considerable Antiochene influence at various periods.
 
 
-290
 
 
-THE SHAPE OF THE LITURGY
 
 
 tradition of the eucharist, as the anamnesis—the making present by
@@ -1282,10 +1247,8 @@ Holy Ghost, is capable only of one meaning—viz . that it effects the 'con¬
 secration', the making to be present in some way of a Body and Blood
 
 
-THE THEOLOGY OF CONSECRATION
 
 
-291
 
 which are not already upon the altar. This is its plain meaning in Cyril of
 Jerusalem, the first evidence we have of the use of such an invocation in the
@@ -1334,10 +1297,8 @@ person of the third century Syrian bishop who wrote the Didascalia , was
 essentially something altogether new to the churches of the fourth century.
 
 
-292
 
 
-THE SHAPE OF THE LITURGY
 
 
 This interpretation of the eucharist and the liturgical practice which
@@ -1371,7 +1332,6 @@ understanding of the eucharist. We Westerns have enough confusions and
 losses of our own to deplore in the field of eucharistic teaching and devo¬
 tion, without seeking to follow theirs.
 
-ADDITIONAL NOTE
 
 The Eastern Teaching on the Invocation
 
@@ -1387,10 +1347,8 @@ use of images he was confronted by his opponents (who held that the
 eucharist is the only lawful 'representation* of Christ) with the fact that in
 
 
-THE THEOLOGY OF CONSECRATION
 
 
-293
 
 the liturgy of S. Basil the elements are referred to as the 'antitypes* of the
 Body and Blood of Christ between the words of institution and the invo¬
@@ -1444,10 +1402,8 @@ SanctOy 35. M.P.G. xcvi. 637.
 embarrassed passage.)
 
 
-294
 
 
-THE SHAPE OF THE LITURGY
 
 
 stiffening opposition to the doctrine that the words or institution conse¬
@@ -1503,7 +1459,6 @@ others. [
 8 Alcuin Club Tracts, xii. (1917).
 
 
-THE THEOLOGY OF CONSECRATION 295
 
 nothing less than fantastic that in 1927-28 vve Anglicans should have
 permitted ourselves to discuss this subject chiefly by the method of hurling
@@ -1560,10 +1515,8 @@ power of His divine words perfects the things provided so that they may become
 His Body and Blood.*
 
 
-THE SHAPE OF THE LITURG
 
 
-296
 
 the consecration of the eucharist. Whether or not importance is to be
 attached to the previous recitation of the institution (they vary about this),
@@ -1614,10 +1567,8 @@ prayer. The passage is as follows:
 1 Leitourgiki ', P. Rompotos, Athens, 1869, Bk. ii. 2,pt\ 247-8.
 
 
-THE THEOLOGY OF CONSECRATION
 
 
-297
 
 
 sacrifice we make commemoration of His death, we pray that charity may
@@ -1674,7 +1625,6 @@ x
 D.S.L.
 
 
-298 THE SHAPE OF THE LITURGY
 
 This also is the Blood which flowed from its holy side. Giving thanks
 therefore unto Thy love for that Thou didst redeem us by the death of Thy
@@ -1726,10 +1676,8 @@ beginning of the present oriental liturgical practice in respect of the invo-
 col. 313. |
 
 
-THE THEOLOGY OF CONSECRATION
 
 
-299
 
 cation or epiklesis. It is quite dear that the liturgical traditions embodied
 in the invocations of (i) Addai and Mari, (ii) Cyril of Jerusalem, (1Y1)
@@ -1779,10 +1727,8 @@ tained it. In those rites in which it was not then contained a different
 formed the original nucleus of all prayers, indicates that the idea did not
 
 
-THE SHAPE OF THE LITURG
 
 
-300
 
 arise until after the hellenised churches had a fairly lengthy development
 behind them, during which they had forgotten their origins.
@@ -1845,7 +1791,6 @@ the communicants, though they are not clearly distinguished. For the 'offering' 
 this point cf. also S, James (/) and also (i). |
 
 
-THE THEOLOGY OF CONSECRATION 301
 
 which these ideas could be attached at ally except the 'petition for conse¬
 cration'. I would be prepared even to go a little further. Granted that there
@@ -1896,10 +1841,8 @@ so to combine them. They state one or the other, or in the case of Chrysos¬
 tom now one and now the other, without any attempt at a reconciliation.
 
 
-302
 
 
-THE SHAPE OF THE LITURGY
 
 
 Evidently the Antiochene church had not yet fully accepted the same doc¬

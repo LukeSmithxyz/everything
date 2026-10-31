@@ -452,7 +452,7 @@ king. That is not only a more joyful and more humane ideal. It is the
 divine and only authentic conception of the meaning of all human life, and
 its realization is in the eucharist.
 
-GREGORY DIX
+Gregory Dix
 
 Nashdom Abbey
 
@@ -474,7 +474,7 @@ book has already received suggests that this will affect no more than details
 and isolated points, leaving the general presentation of the subject here
 substantially unchanged.
 
-GREGORY DIX
+Gregory Dix
 
 Nashdom Abbey
 

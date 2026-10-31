@@ -6,9 +6,7 @@ params:
  order: 13
 ---
 
-CHAPTER XIII
 
-THE COMPLETION OF THE SHAPE OF THE LITURGY
 
 
 WE have seen that the two halves of what we call the eucharistic rite
@@ -78,13 +76,10 @@ G. Dismissal.
 (When it was held separately the synaxis seems to have concluded with
 some sort of dismissal of the faithful.)
 
-434
 
 
-THE COMPLETION OF THE SHAPE
 
 
-435
 
 
 We have now to trace the addition to this primitive nucleus of a 'second
@@ -135,7 +130,6 @@ dealing with this 'second stratum ' of prayers in the liturgy, though I have
 done my best to make it intelligible to the non-technical reader* because it
 
 
-436 THE SHAPE OF THE LITURGY
 
 is an essential part of the history of the eucharistic rites which Christians
 use to-day. But first it is necessary to say something of the process by
@@ -184,10 +178,8 @@ mere tokens of a holy thing which the unhallowed layman ought not to
 receive. It is not surprising that the distinction between the faithful and
 
 
-THE COMPLETION OF THE SHAPE
 
 
-437
 
 the excommunicate became too difficult to enforce so far as mere presence
 at the eucharist was concerned (and nothing else but presence was now in
@@ -239,7 +231,6 @@ ii. 23). In Gaul they survived till at least the eighth century in some places. 
 still found in the Mozarabic books and traces of them remain in most Eastern rites.
 
 
-438 THE SHAPE OF THE LITURGY
 
 the singing of hymns, all thje doors of the basilica of the Resurrection are
 thrown open. All the peoplp go in, but only the faithful not the catechu¬
@@ -297,10 +288,8 @@ vaguely dependent on the church of Antioch.
 3 Peregritiatto Etheriae , ed. cir., p. 74.
 
 
-THE COMPLETION OF THE SHAPE
 
 
-439
 
 But when this local Jerusalem custom began to be imitated in other
 places where there was no second church, and both services were held one
@@ -358,10 +347,8 @@ convention, not because the rule still had much practical value.
 L. E. 490, 11. 35-7.
 
 
-THE SHAPE OF THE LITURGY
 
 
-440
 
 his time.1 But he looks on this as an old local peculiarity and seems to have
 no idea of its former universality. Perhaps he was confused because in the
@@ -423,7 +410,6 @@ strably foreign accretions from Syrian, Spanish and French sources, only slowly 
 reluctantly accepted into the Papal rite between the seventh and fourteenth centuries .
 
 
-THE COMPLETION OF THE SHAPE 441
 
 the parish churches of Rome on Good Friday long before it was accepted
 in the official rite of the Pope. It was probably a survival* unchanged in the
@@ -483,7 +469,6 @@ West of the eucharist without a synaxis. ...
 beginning with the offertory and the invitation 'Ye that do truly*. There can, of
 
 
-442 THE SHAPE OF THE LITURGY
 
 Maundy Thursday after the ninth century. Apart from the single excep¬
 tion of the Liturgy of the Pre-sanctified (really a synaxis without the
@@ -537,7 +522,6 @@ entirely neglected for the liturgy of the Body; and it is not adequately replace
 Evensong, the monastic origin of which gives it a different basis and direction.
 
 
-THE COMPLETION OF THE SHAPE 443
 
 as on psychological grounds. 'That is not here our concern. The point is
 that in the fourth century it was new, and the expression of it by substi¬
@@ -586,7 +570,6 @@ in the table opposite p. 444 (which has been simplified in some columns
 by the omission of what are known to be mediaeval insertions). The items
 
 
-444 THE SHAPE OF THE LITURGY
 
 A, B, C, D, E, are found in all.1 These are the ancient nucleus. But of the
 other items prefixed to this, though each appears in several rites, none but
@@ -640,7 +623,6 @@ tamia) where A, the preliminary greeting, may always have been absent.
 * Cf. p. 428. 3 Evagrius, Eccl Hist.> iv. 7.
 
 
-THE COMPLETION OF THE SHAPE 445
 
 pagan mysticism upon all Christendom under cover of the name of Diony¬
 sius the Areopagite, the convert of S. Paul.1 The date and country, though
@@ -753,10 +735,8 @@ headed 'First Prayer of the Lord's (day).' It runs thus:
 1 Canons of Athanasius, 7, cd. W. Riedel and W. E. Crum, 1904, p. 16.
 
 
-THE COMPLETION OF THE SHAPE
 
 
-447
 
 'We beseech Thee, Father of the Only-begotten, Lord of the universe,
 Artificer of creation. Maker of the things that have been made; we stretch
@@ -807,7 +787,6 @@ salvation of our race; Who didst send forth Thy holy disciples and apostles
 1 Almost the meaning is 'respectable*.
 
 
-448 THE SHAPE OF THE LITURGY
 
 to proclaim and teach the gospel of Thy kingdom, and to heal every disease
 and sickness among Thy people: Do Thou now also. Master, send forth
@@ -862,10 +841,8 @@ a much later prayer (Brightman, p> 147) but retains a heading reminiscent of Sar
 pion's—'The first prayer of the morning'.
 
 
-449
 
 
-THE COMPLETION OF THE SHAPE
 
 There is no procession or opening greeting in the liturgy of Ap. Const.
 (Bk. ii. or Bk. viii.)* which begins straight away with the first lection* like
@@ -979,7 +956,6 @@ have failed to find evidence as to when they replaced the Monogenes in this func
 (Was it when the Enarxis was inserted?)
 
 
-THE COMPLETION OF THE SHAPE 451
 
 fifth-sixth century they both inserted at this point a litany, whose text in
 each case is based on a Greek original. The 'Three Great Prayers', the
@@ -1031,7 +1007,6 @@ cannot always be discerned.
 1 Nestorius, Bazaar of Heraclides> ed. Bedjan, p. 499.
 
 
-452 THE SHAPE OF THE LITURGY
 
 and gospel. The East Syrians (Nestorians) had adopted it in the Greek
 position before the eighth century, when it is mentioned by the Nestorian
@@ -1083,7 +1058,6 @@ eucharist than that; certainly it is 'before the sacrifice', but no more so than
 1 Liber Pontificalis ed. Duchesne 1 9p. 230.
 
 
-THE COMPLETION OF THE SHAPE 453
 
 the epistle and gospel in the compiler's eyes* i.e. it refers to the institution
 of a chanting of psalms in the synaxis. The tract and gradual between the
@@ -1141,10 +1115,8 @@ Felix III, in a.d. 487-8 cf A. Thiel, Epistulae Rom. Pont, genuinae , Braunsberg
 1868, 1, 263.
 
 
-THE SHAPE OF THE LITURGY
 
 
-454
 
 Western purists that he had followed the customs of Constantinople in the
 changes he had recently made in the Roman rite, S. Gregory says: cWe
@@ -1199,10 +1171,8 @@ Gregory*s own new usage, not to the old 'litany* in the strict sense.
 church for some hours, officiating at the vigil and baptisms and confirmations.
 
 
-THE COMPLETION OF THE SHAPE
 
 
-455
 
 (with Christe eleison for the middle three) sung alternately by the choir and
 people.1
@@ -1264,7 +1234,6 @@ dix to Dom Connolly's Homilies of Narsai, pp. 117-121) and a characteristic lett
 posthumously published, Dozvnside Review , xl. (1921), pp. 91 sg.
 
 
-456 THE SHAPE OF THE LITURGY
 
 Liber Pontificalis . This was probably the Constantinople and Jerusalem
 usage of the time, and lasted at Rome from c . A.D. 430 till the introduction
@@ -1316,7 +1285,6 @@ Symmachus systematised and made official a growing practice. The Gloria was in
 fact more closely connected with Easter than Christmas at Rome.
 
 
-THE COMPLETION OF THE SHAPE 457
 
 no more suitable text than this to celebrate the redemption which the
 scriptures announce.
@@ -1368,7 +1336,6 @@ with the calendar, in the Western rites as a group and not the Roman rite
 1059, stiU complains of the restriction.
 
 
-458 THE SHAPE OF THE LITURGY
 
 alone, that it seems better to leave it for discussion in this larger setting in
 the next chapter, and to rest the case for the moment upon the evidence
@@ -1418,7 +1385,6 @@ ceasing to be of any practical importance at Rome. The Introduction at
 Rome represents, therefore, the adaptation of the old pre-Nicene synaxis,
 
 
-THE COMPLETION OF THE SHAPE 459
 
 which had had to serve the purposes of propaganda outside the ranks of the
 faithful, to the needs of a 'public' worship in the new Christian world.
@@ -1474,7 +1440,6 @@ attempted to rescue the impugned authorship of Germanus, Etudes de liturgie , et
 on the subject in 1685.
 
 
-460 THE SHAPE OF THE LITURGY
 
 always the Letters of Germanus . Now that these turn out to be at least as
 much Spanish as French,1 and to represent 'Gallicanism' not in its early
@@ -1532,7 +1497,6 @@ boutade of Duchesne's in reply, cf. Origins, ed. cit.,p. 89, n. 1.
 1913, under the symbol A.
 
 
-THE COMPLETION OF THE SHAPE 461
 
 is arranged thus: 1 . The Ingressa , a psalm chant analogous to but not identical
 with the Roman introit. 2 (a). A diaconal litany* which like the Roman
@@ -1591,7 +1555,6 @@ introduced in other churches, probably because customs varied; but sets out the
 use it intends to be followed in France 'at mattins, mass and vespers*.
 
 
-462 THE SHAPE OF THE LITURGY
 
 Both met a need instinctively felt for a 'hymn* before the lections, to adapt
 the old synaxis form to the new conditions. When, later on, the Roman
@@ -1651,10 +1614,8 @@ statement that the Benedictus once followed the Kyrie hymn at Milan but has now
 entirely disappeared*. There is no evidence whatever for this statement.
 
 
-THE COMPLETION OF THE SHAPE
 
 
-463
 
 
 to make out, but the following are the main facts. The Mozarabic Intro¬
@@ -1719,7 +1680,6 @@ Paris, 1912.
 6 Lib. Moz. Sac., col. 697.
 
 
-464 THE SHAPE OF THE LITURGY
 
 ignored altogether, but this is not unnatural in the case of an exceptional
 festal feature of the rite. All things considered, it may well have formed
@@ -1778,7 +1738,6 @@ repetierint et explicaberinty non dicitur kirieleison sed statim colligit episco
 et post collecta orationcy etc.
 
 
-THE COMPLETION OF THE SHAPE 465
 
 on other occasions) 'but the bishop forthwith says the collect, and after the
 collect there follow the lections.5 This looks as though the Roman Intro¬
@@ -1834,10 +1793,8 @@ Lent iv.) Lib. Ord.y col. 231, 366. Just so some of the Gallican collects take u
 words of the Benedictus preceding diem, cf. p. 467.
 
 
-THE SHAPE OF THE LITURGY
 
 
-466
 
 evidence of the seventh-eighth century places one after the Benedictus .
 Taken in conjunction with the absence of a collect from the Spanish rite
@@ -1894,7 +1851,6 @@ pay some attention to this sort of historical influence at work, and allow for i
 history of the liturgy will remain incomprehensible.
 
 
-THE COMPLETION OF THE SHAPE 467
 
 A.D. 529. The Trisagion was imported into Gaul from Syria later in the
 century, but the native hymn was brief enough to survive as an appendage
@@ -1955,7 +1911,6 @@ Greek Gloria in excelsis , is not surprising (cf. pp. 538 sqq.).
 6 Gregory of Tours, Vitae Patrumy vi., ad fin .
 
 
-468 THE SHAPE OF THE LITURGY
 
 yet exist in the Spanish or African rites, or indeed in any but the Italian
 ones. The coincidence can! hardly be accidental. The Roman Introduction,
@@ -2008,7 +1963,6 @@ hymn, 3. the Roman variable collect—with a litany similar to the Roman
 (apparently a deacon's litany after the epistle, but it does not give the text).
 
 
-THE COMPLETION OF THE SHAPE 469
 
 one, but after the epistle instead of before the hymn.1 There is not much
 doubt of where the materials of the Irish rite were drawn from, even if
@@ -2062,10 +2016,8 @@ litany after the epistle in Lent.
 2 Cf. E. Bishop, Liturgica Historica , pp. 90-94*
 
 
-470
 
 
-THE SHAPE OF THE LITURGY
 
 only item of the Introduction which is found in all rites in some form is the
 'hymn' before the lectionsj1 whether it be drawn from the Psalter as in the
@@ -2123,10 +2075,8 @@ Monophysite rites on occasion, and also at Rome on Ember Saturdays.
 6 Eusebius, Eccl. Hist ., vi. 12.
 
 
-THE COMPLETION OF THE SHAPE
 
 
-471
 
 In the fifth century the church of Constantinople began to reduce the
 normal three lections to two by the abolition of the first (from the O.T.).
@@ -2181,10 +2131,8 @@ gospel by can. 12 of the fourth Council of Toledo in A.D. 633, for reasons which
 cannot now be discovered.
 
 
-472
 
 
-THE SHAPE OF THE LITURGY
 
 
 the chants between the epistle and gospel, of which the latest were the
@@ -2240,7 +2188,6 @@ eucharist is quite of a piece with the rest of his theology.
 2 C/. />. 447-
 
 
-THE COMPLETION OF THE SHAPE 473
 
 The prayer after the sermon has disappeared from the text of the
 Alexandrian liturgy of S. Mark (no doubt through the infrequency of
@@ -2294,13 +2241,11 @@ they were celebrated in sequence. The fusion of the two separate services
 8 Augustine, Sermons xxxiv; lxvii; cclxxii.
 
 
-21
 
 
 d.s.l.
 
 
-474
 
 
 THE SHjAPE OF THE LITURGY
@@ -2435,7 +2380,6 @@ lost in 6th
 cent.
 Prayers
 lost C. A.D.
-495
 
 
 >
@@ -2583,7 +2527,6 @@ its position when first
 5!
 
 
-THE COMPLETION OF THE SHAPE
 
 
 47* THE SHAPE OF THE LITURGY
@@ -2648,7 +2591,6 @@ in the West appears to coincide with Justinian's partial restoration of Byzantin
 rule in the Western Mediterranean during the sixth century.
 
 
-THE COMPLETION OF THE SHAPE 477
 
 both 'procession' rites, not 'oblation' rites, from at all events the fifth
 century.1
@@ -2758,10 +2700,8 @@ In form the change may no^ appear very great, but the effect is consider^
 petitions, omitting in each clause everything after 'that . . . #
 
 
-THE COMPLETION OF THE SHAPE
 
 
-479
 
 able. Under the old system the whole church did the substance of the
 praying , individually and in silence. The 'liturgies' of the deacon and
@@ -2875,10 +2815,8 @@ borne forth (for the communion) and Christ the Victim and the Lord the
 4 Theodore, Catecheses , vi., ed. cit.,p. 119,
 
 
-THE COMPLETION OF THE SHAPE
 
 
-481
 
 Lamb, when thou hearest (the deacon proclaim) "Let us all entreat to¬
 gether . . .", when you see the veil drawn aside—then bethink you that
@@ -2931,16 +2869,13 @@ sqq., appears to be still trustworthy on the architectural side, though its litu
 conclusions need revision in the light of the discovery of Theodore's Catecheses,
 
 
-482
 
 
-THE
 
 
 SIfAPE
 
 
-OF THE LITURGY
 
 
 worship from our own, though we need not therefore condemn it or even
@@ -3001,7 +2936,6 @@ churches, and by the seventh-eighth the silent recitation of most of the prayer
 Constantinople. 4. That except for the preface and certain cues, silent recitation
 
 
-THE COMPLETION OF THE SHAPE 483
 
 The main action of the eucharist was thus removed from the sight of the
 Eastern people. Except for the Great Entrance and the Communion all
@@ -3054,10 +2988,8 @@ innovation of the Lutherans in the sixteenth century. Anciently it was either su
 whispered.
 
 
-THE SHAPE OF THE LITURGY
 
 
-484
 
 devotion provided by the church for the faithful, magnificently phrased and
 noble in its all-embracing charity. The Western 'low mass', dialogued in
@@ -3114,10 +3046,8 @@ devotions of the priest. Their real participation, which was originally not only
 chants but in the action of the liturgy, is a thing much more difficult to restore.
 
 
-THE COMPLETION OF THE SHAPE
 
 
-485
 
 into most Western rites—I see no evidence that it was ever used in Africa—
 it disappeared from them again often without trace, because the people felt
@@ -3171,10 +3101,8 @@ what the church had always believed and not some new private invention
 2 Ap. Trad ., xxi. 12 sqq.
 
 
-THE SHAPE OF THE LITURGY
 
 
-486
 
 of their own. And since the old formulae, however well they might serve to
 distinguish a pagan or a jew from a Christian, were too imprecise to dis¬
@@ -3224,10 +3152,8 @@ tinuing this use of the creed; and so this originally heretical practice
 became a permanent feature of the Byzantine liturgy.
 
 
-THE COMPLETION OF THE SHAPE
 
 
-487
 
 The West held aloof for a while, but the third Council of Toledo (can. 2)
 in a.d. 589 directed that 'For the fortifying of our people's recent conver¬
@@ -3285,10 +3211,8 @@ show that the creed was recited in the Roman rite before this all break down upo
 examination.
 
 
-THE SHAPE OF THE LITURGY
 
 
-488
 
 half-heartedly. It never became there, as in the East, an invariable element
 of the rite, but was reserved for Sundays and the greater feasts, as an
@@ -3388,10 +3312,8 @@ and alia together formed the first prayer of the day, and had the function
 of 'striking the keynote' as it were of the special liturgical character of the
 
 
-490
 
 
-THE SHAPE OF THE LITURGY
 
 mass. When the variable 'collect' before the lections was introduced into
 the Spanish rite, it more or less duplicated this function; but by then the
@@ -3505,10 +3427,8 @@ be with you', but in the still older fashion with Oremus > dilectissimi fratres�
 fatio .
 
 
-492
 
 
-THE SHAPE OF THE LITURGY
 
 more appropriate point in the rite than did the second, once the lections of
 the synaxis had come to be thoroughly fused with the eucharist proper as
@@ -3563,7 +3483,6 @@ innovation.4
 3 Horn., xvii., ed. cit.3 pp, 3-4.
 
 
-THE COMPLETION OF THE SHAPE 493
 
 So far as can be made out from the obscure and scanty evidence the
 original form of this psalmody was what the ancients called 'responsorial ,
@@ -3613,7 +3532,6 @@ Augustine who discuss with evident appreciation the part of church music
 Easter vigil on Holy Saturday
 
 
-494 THE SHAPE OF THE LITURGY
 
 in worship, its legitimacy, its appropriateness and emotional effects, in a
 way which so far as I know is unparalleled in the East at this date. And
@@ -3664,7 +3582,6 @@ ment goes forth on the paten and in the cup (for the communion) with splendour
 and glory, with an escort of priests and a great procession of deacons* ( ibid.yp . 27).
 
 
-THE COMPLETION OF THE SHAPE 495
 
 admit only words'. That is the puritan theory of worship in a nutshell—to
 cadmit only words'. The Western interest in 'church song' which begins
@@ -3717,7 +3634,6 @@ mation of the judaeo-christian development than as an independent faith. It did 
 arise independently of the latter.
 
 
-496 THE SHAPE OF THE LITURGY
 
 us the grace of Thy Holy Spirit. Look upon us, 0 God, and behold this our
 worship, and accept it as Thou didst accept the gifts of Abel, the sacrifices
@@ -3771,10 +3687,8 @@ prayer . I suggest that he has in mind the prayer which now forms the first para
 of the Roman canon (cf. pp. 500 sgg.).
 
 
-497
 
 
-THE COMPLETION OF THE SHAPE
 
 Spirit, the martyrs crowned with the flowers of their confession, the
 apostles chosen for the office of preaching. Through whom we pray to
@@ -3829,7 +3743,6 @@ baptism and first communion of each communicant.
 but it does account for a great deal of its progress.
 
 
-498 THE SHAPE OF THE LITURGY
 
 the land of the living: Through . . .' Here again the reading of 'the Names'
 of the departed and the saints immediately before has produced the incon¬
@@ -3882,10 +3795,8 @@ offertory prayer I am unable to say from the evidence
 4 Ep xvi. 2, might just possibly be pressed to mean this.
 
 
-THE COMPLETION OF THE SHAPE
 
 
-499
 
 
 century and a half later has likewise no mention of the 'naming5 of living
@@ -3942,10 +3853,8 @@ de Cura Gerenda pro Mortuis 6, which seems to me to imply that there was a
 communion except on their deathbeds.
 
 
-500
 
 
-THE SHAPE OF THE LITURGY
 
 the dead offering in 'the name of' those departed from that church in its
 peace and communion, a touching illustration of the vividness of belief in
@@ -4001,7 +3910,6 @@ Note that in the Roman conception the people's oblation is still their munuSy or
 along with the priest.
 
 
-THE COMPLETION OF THE SHAPE 501
 
 'Together with Thy servant N. our Pope [and N. our bishop and all the
 orthodox and the worshippers (who are) of catholic and apostolic faith]
@@ -4062,10 +3970,8 @@ and Spanish-Gallican rites.
 4 E. Bishop, Liturgica Historical pp. 96 sqq.
 
 
-502
 
 
-THE SHAPE OF THE LITURGY
 
 till the eleventh century. 2. It is also plain that all this early evidence con¬
 templates only the reading out of names of striedy local interest, whether
@@ -4121,10 +4027,8 @@ Rome they named the Pope also, but Rome never adopted diptychs, and so was
 unable to return the compliment.
 
 
-THE COMPLETION OF THE SHAPE
 
 
-503
 
 
 the reigning patriarchs of the others in their diptych of the living. But in
@@ -4175,10 +4079,8 @@ pp. 535-6, must be corrected on this point in the light of S. John Chrysostom,
 Horn. xli. in 1 Cor.; Horn. xxi. in Act .
 
 
-THE SHAPE OF THE LITURGY
 
 
-504
 
 the eminence of the departed. It would appear, therefore, that the diptychs,
 in the form they finally took in the East—ue. a combination of lists of both
@@ -4231,7 +4133,6 @@ the patriarch Meletios Metaxakis of Constantinople adequately maintained ancient
 practice.
 
 
-THE COMPLETION OF THE SHAPE
 
 
 5°5
@@ -4290,13 +4191,11 @@ think, that while the East Syrian diptych of the dead represents a genuine
 3 Brightman, L. E. W., pp . 275 sqq.
 
 
-2L
 
 
 D.S.L.
 
 
-506 THE SHAPE OF THE LITURGY
 
 survival of the 'naming' of the 'parochial' dead, known and mourned by
 the congregation, the diptych of the living on die contrary represents an
@@ -4349,7 +4248,6 @@ many Western churches, including Rome. But it will be found upon examin-
 1924>P- 33)*
 
 
-THE COMPLETION OF THE SHAPE 507
 
 ation that it was Syrian rather than Byzantine customs which chiefly
 proved attractive.
@@ -4402,7 +4300,6 @@ archaic prayers, its cause must be looked for chiefly in things like the
 (as these are preserved in the Orationes Solemnes of Good Friday).
 
 
-508 THE SHAPE OF THE LITURGY
 
 
 clumsy insertion of the sanctus in the fifth century. But there is one element
@@ -4457,7 +4354,6 @@ argument to the contrary, that Felicity in the canon is the Roman widow, not the
 African slave-girl. j
 
 
-THE COMPLETION OF THE SHAPE 509
 
 of the Stowe diptych1 with that found in the Mozarabic rite2 will, I think,
 convince anyone of the origin of this supposed Irish practice. The Spanish
@@ -4570,7 +4466,6 @@ of the old 'prayers of the faithful' before the offertory, though they have no
 original connection with them. The 'prayers of the faithful' were the inter-
 
 
-THE COMPLETION OF THE SHAPE 511
 
 cessions of the synaxis, the 'Names' were the intercessions of the eucharist,
 in the days when these were still two separate rites.
@@ -4620,10 +4515,8 @@ not for condemnation, , O God of truth . . .' It remains to be seen how this is
 amplified outside the eucharistic prayer itself.
 
 
-512
 
 
-THE SHAPE OF THE LITURGY
 
 
 In Egypt
@@ -4684,10 +4577,8 @@ crucified and rose again, and Who sitteth on the right hand of the Uncreated, up
 this water and upon this (oil) . .
 
 
-513
 
 
-THE COMPLETION OF THE SHAPE
 
 nisably the 'modem' feeling of sacramental devotion that it expresses, con¬
 centrated on reception. The prayer at the fraction (carefully distinguished
@@ -4739,10 +4630,8 @@ intercessions. There is no direction that the people shall answer Kyrie
 with you', to which the kiss of peace is attached.
 
 
-THE SHAPE OF THE LITURGY
 
 
-5M
 
 eleison , but the whole has the appearance of a litany. It was apparently
 during this bidding that the fraction took place. There follows a solemn
@@ -4794,10 +4683,8 @@ his church. The fraction follows immediately upon the intercessions that
 1 de Bapt. Christi , 4 (opp., ed. cit ., ii. 374 C. sq.)*
 
 
-515
 
 
-THE COMPLETION OF THE SHAPE
 
 conclude the eucharist prayer and is done 'so that all of us who are present
 may receive (communion)'.1 This is accompanied, as in Sarapion, by a
@@ -4910,10 +4797,8 @@ in a.d. 624, has disappeared at this point since the fourteenth century.
 3 B rightman, L. E. W., p. 342.
 
 
-THE COMPLETION OF THE SHAPE
 
 
-517
 
 
 In Africa
@@ -4968,7 +4853,6 @@ which afterwards became a notable feature of all Western rites.)
 5i8
 
 
-THE SHAPE OF THE LITURGY
 
 
 The Roman Communion Blessing
@@ -5026,10 +4910,8 @@ Thy will, and ever to rejoice in the gifts of Thy loving-kindness: through . . .
 4 Cf. Dom Menard's note on the Gregorian Sacramentary , M.P.L., Ixxviii. 286-8.
 
 
-THE COMPLETION OF THE SHAPE
 
 
-519
 
 fraction, then the creed, followed by the praefatio to the Lord's prayer
 (varying in every mass), then the Lord's prayer itself; after this, a threefold
@@ -5080,7 +4962,6 @@ communion.
 1 Lxber Mozarabicus Sacramentorum , ed. cit., col. 85 sq.
 
 
-520 THE SHAPE OF THE LITURGY
 
 The developed Mozarabic post-communion of the middle ages runs
 thus: after the communion the choir sing an anthem (corresponding to the
@@ -5135,10 +5016,8 @@ Spanish ones. And comparison with these latter might help to clear up the diffic
 question of the relation of the seventh century Gallican rite to the Mozarabic.
 
 
-THE COMPLETION OF THE SHAPE
 
 
-521
 
 exhorts them to stay until 'the whole mass* (missas ad integrum ) has been
 completed, which, he says, is not until the bishop's blessing after the
@@ -5189,13 +5068,11 @@ are apt to survive in all rites).
 1 E.g.y Serm . 281, 2; 282, 2\ in the App. to the Sermons of S. Augustine (which are
 by Caesarius).
 
-2M
 
 
 D.S.L,
 
 
-522 THE SHAPE OF THE LITURGY
 
 The brief blessing 'May God Almighty, the Father, Son and Holy
 Ghost, bless you' which now follows the Ite missa est in the Roman rite
@@ -5246,7 +5123,6 @@ giving (the other addition of the 'second stratum'). Henceforward the
 of its indirect derivation from the old solemn blessing before the communion.
 
 
-THE COMPLETION OF THE SHAPE 523
 
 additions and changes made have about them the character of mere
 decorations, rather than of structural changes, though they are numerous
@@ -5297,7 +5173,6 @@ After this the persistent desire to improve upon the traditional liturgy,
 restrained by its 'completeness' as a whole, finds expression chiefly in the
 
 
-524 THE SHAPE OF THE LITURGY
 
 composition of 'devotions' preparatory to and looking back upon the litur¬
 gical action itself— 'preparations' and 'thanksgivings'— which are of the
@@ -5350,7 +5225,6 @@ the Western forms is still that m Bona, Rerum Liturgicarum Lib., II, ii (Paris
 1672), caps . 1 and 2, though it needs supplementing from texts discovered since.
 
 
-THE COMPLETION OF THE SHAPE 525
 
 action leaves him free.1 It is in this period too that we begin to find private
 prayers of the same kind inserted between the old public Agnus Dei and the
@@ -5402,7 +5276,6 @@ Becket3 London, 1873, III, p. 209 sq.). But I do not recollect noticing such pra
 provided in the altar-books before the thirteenth century.
 
 
-526 THE SHAPE OF THE LITURGY
 
 forms to bring about such an upheaval of the Shape of the Liturgy as this
 long interpolation involves.1

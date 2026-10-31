@@ -6,10 +6,8 @@ params:
  order: 15
 ---
 
-CHAPTER XV
 
 
-THE MEDIAEVAL DEVELOPMENT
 
 A. The Development of the Eastern Rites
 
@@ -57,13 +55,10 @@ see! He knew of it only by hearsay from the Trullan canons. Along with S. Mark
 (centuries older than the Byzantine rite) it is swept into limbo on the strength of a
 misapplied sentence from Justinian. Literally dozens of examples of this disastrous
 
-546
 
 
-THE MEDIAEVAL DEVELOPMENT
 
 
-547
 
 tactics ever to succeed. The dissidents retained their liturgical indepen¬
 dence of Constantinople by remaining outside the pale of orthodoxy.
@@ -120,10 +115,8 @@ stantinople on the Antiochene model. S. Basil appears to have come originally fr
 Asia Minor, though it has been in some things ' Antiochemsed*.
 
 
-THE SHAPE OF THE LITURGY
 
 
-548
 
 traced. It is now used with only the slightest verbal differences throughout
 the orthodox world in a variety of translations; and once there ceased to be a
@@ -170,10 +163,8 @@ Syrian rite. Along with the Digest of Justinian it is the greatest legacy of
 Byzantine thought to the world.
 
 
-THE MEDIAEVAL DEVELOPMENT
 
 
-549
 
 
 B. The Development of the Western Rites
@@ -224,7 +215,6 @@ against, on the modem problem of 'Rome5. In reality it is wholly unwarrant¬
 able to read back into the fifth and sixth centuries—or for the matter of
 
 
-550 THE SHAPE OF THE LITURGY
 
 that with any rigour into the seventh or even the eighth centuries, though
 the conception was developing about then—anything like the modern
@@ -273,7 +263,6 @@ the whole of the West (e.g. the 'naming' in connection with the offertory)
 make their appearance in the fourth century, and grow into real distinc-
 
 
-THE MEDIAEVAL DEVELOPMENT 551
 
 tions from the Eastern rites during the fifth and sixth centuries. (This is
 partly the result of different innovations being made simultaneously in the
@@ -323,7 +312,6 @@ and Spain this prayer consists always of five paragraphs:
 1 C/. />. 576.
 
 
-552 THE SHAPE OF THE LITURGY
 
 1. The Contestation Illatio or Immolation or as we should say, 'preface*.
 
@@ -382,10 +370,8 @@ Post-Mysterium: 'O Lord, we pray Thee, look with favour on these sacri-
 Italian prayer cited onp. 540.
 
 
-THE MEDIAEVAL DEVELOPMENT
 
 
-553
 
 fices before Thee; wherein no more gold and frankincense and myrrh is
 offered, but that which by these same gifts is declared, is (now) offered,
@@ -446,10 +432,8 @@ discussion; cf. legitima oratio , ap. Tertullian, de Oratione x.
 D.S.L.
 
 
-THE SHAPE OF THE LITURGY
 
 
-554
 
 the Holy Ghost Who proceedeth from Thee and Thy Son1 in the com¬
 munion of all saints, in the remission of all our sins. We believe, 0 Lord,
@@ -509,10 +493,8 @@ pridie to the Eastern */» the night \ The Roman form now used was inserted in a
 1500.
 
 
-THE MEDIAEVAL DEVELOPMENT
 
 
-555
 
 Post-Pridie: 'O God, bow down our necks under Thy yoke: that we may
 so bear Thy burden which is light unto them that love Thee with all
@@ -568,10 +550,8 @@ only seven in number in the Mozarabic rite prevented the addition of these two f
 some centuries.
 
 
-THE SHAPE OF THE LITURGY
 
 
-556
 
 suggests that this was still a local Roman peculiarity in the third and
 fourth centuries.1
@@ -633,7 +613,6 @@ Quaest. V . et. N.T., 109.
 4 Cf.p. 501.
 
 
-THE MEDIAEVAL DEVELOPMENT 557
 
 prayer for the communicants.1 But apart from this all the Western prayers
 have the same structure.2
@@ -698,10 +677,8 @@ exactly the same ideas. There are obscure traces in the canon of de Sacramentts 
 combination of or compromise between Hippolytan and other (? African) ideas.
 
 
-THE SHAPE OF THE LITURGY
 
 
-558
 
 and the influence of the calendar, neither of which, as we have seen, make
 their appearance in the Western rites till the fifth century. The preface and
@@ -751,10 +728,8 @@ aforesaid man of God, a remarkable and fairly long Book of Sacraments,
 1 Vigilius, Ep. ii, * S. Isidore, de Viris Illustribus , M.P.L., bcxxii, 1090.
 
 
-THE MEDIAEVAL DEVELOPMENT
 
 
-559
 
 
 divided into sections for the sequence of offices and seasons, and for the text
@@ -807,10 +782,8 @@ plicandi Deo et contestandi beneficiorum eius soliditate sui consentaneum .
 * Gennadius, ibid., lxxviii.
 
 
-THE SHAPE OF THE LITURGY
 
 
-560
 
 have written variable eucharistic prayers, though the word contestandi in¬
 evitably recalls the Gallican term contestatio for the variable preface. In
@@ -860,7 +833,6 @@ century Mozarabic Liber Sacramentorum for such important days in the
 calendar as Maundy Thursday, Ascension Day and others, and he ascribes
 
 
-THE MEDIAEVAL DEVELOPMENT 561
 
 each mass by name to its author. All those he mentions are bishops of
 Toledo after a.d. 650.1 He is writing officially on behalf of the whole
@@ -917,10 +889,8 @@ gona.
 for the province of Tarra-
 
 
-THE SHAPE OF THE LITURGY
 
 
-562
 
 unity with the rest of the Christian West. The Mozarabic remained the rite
 of the Christians living under the yoke of the Caliphs of Cordova. But as
@@ -971,7 +941,6 @@ the Western empire in Italy lasted longer in the North and East (to the death of
 the prefect Syagrius in a.d. 486) than in the rest of Gaul.
 
 
-THE MEDIAEVAL DEVELOPMENT 563
 
 England and Germany was effected by missions using the Roman rite,
 and the Gallican never took root in either country.
@@ -1023,7 +992,6 @@ group of Syrian rites, and so on. It must be repeated that the 'second
 period' from the end of the fourth to the seventh-eighth centuries is a
 
 
-564 THE SHAPE OF THE LITURGY
 
 confused period, when we must allow for two opposing tendencies at work
 on the liturgy all over Christendom. The abiding influence of provincial and
@@ -1128,7 +1096,6 @@ these exceptions Bishop claimed that this Frankish Gel. of the seventh
 century5 represented in substance the book used at Rome itself from c.
 
 
-566 THE SHAPE OF THE LITURGY
 
 a.d. 500 to c. a.d. 600, the book whose revision by S. Gregory produced
 Greg. c. A.D. 600.
@@ -1182,10 +1149,8 @@ ment of collects, epistles and gospels in the Book of Common Prayer)—but only
 after the tenth century. J
 
 
-THE MEDIAEVAL DEVELOPMENT
 
 
-567
 
 
 The Leonine Sacramentary
@@ -1236,7 +1201,6 @@ compiler knew the authentic text of the Gregorian Sacramentary compiled
 1 See Dom R. H. Connolly, Downside Review, xxxvi (1917 ),/>. 58.
 
 
-568 THE SHAPE OF THE LITURGY
 
 c. a.d. 595. 1 What, however, gives Le. its special importance is that among
 the sources upon which it has drawn is a genuinely Roman book of the
@@ -1293,7 +1257,6 @@ which dropped out of use in the thirteenth century, was replaced by the corres¬
 ponding texts from the Western missal then coming into general use in S. Italy.
 
 
-THE MEDIAEVAL DEVELOPMENT 569
 
 these are only chance survivors of a number of such rites* all 'Roman' in the
 Shape of their Liturgy and the text of their canon since the fifth century,
@@ -1347,10 +1310,8 @@ Mercati in Studi e Testi , vii (1902), pp. 35 sqq.)
 D.S.L.
 
 
-570
 
 
-THE SHAPE OF THE LITURGY
 
 
 The Gregorian Sacramentary
@@ -1402,7 +1363,6 @@ since they are found copied in one MS.
 2 Bede, Eccl Hist 1, 27.
 
 
-THE MEDIAEVAL DEVELOPMENT
 
 
 57i
@@ -1466,10 +1426,8 @@ messe avant S. Grdgoire ; Rev. d*hist . eccles. xxxix (1938), pp* 556 sqq.y thro
 light on his revision of the lections.
 
 
-THE SHAPE OF THE LITURGY
 
 
-572
 
 lovely simplicity. Again and again he drops or adds half a clause or changes
 a word or two, and the result is luminous, where the old form for all its
@@ -1521,7 +1479,6 @@ is virtually over. About a dozen masses were added in the century after his
 1 Liu Hist., p . viii.
 
 
-THE MEDIAEVAL DEVELOPMENT 573
 
 death, partly pieced together from old texts, partly new. And a complete
 outfit of prayers for the lesser Sundays—for which he had omitted to pro¬
@@ -1570,7 +1527,6 @@ European life . It was achieved not at Rome but in the new creative centre
 of Western thought, in GauL
 
 
-574 THE SHAPE OF THE LITURGY
 
 Just as the old Roman Gel. book., first compiled c. a.d. 500, had crossed
 the Alps and been brought into use in some churches in Gaul between
@@ -1625,7 +1581,6 @@ cent.* (see below); but none of them have been edited.
 xliii(i929), p. 96.
 
 
-THE MEDIAEVAL DEVELOPMENT 575
 
 form. The Western synthesis is being effected in the eighth century, though
 it is not yet complete.
@@ -1677,7 +1632,6 @@ P. de Puniet and that of Angouleme, ed . by Dom Cagin. That nearest to the origi
 is probably the MS. now at Padua, ed. by Dom Mohlberg.
 
 
-576 THE SHAPE OF THE LITURGY
 
 Countries, also within Charlemagne's grasp, the Roman rite was already in
 full possession. If he looked to the North or the East or the South-East of his
@@ -1728,10 +1682,8 @@ Whitby in A.D. 664. S. Wilfrid of York and Ripon is a declared ultra-
 Bede, Eccl Hut., I, xaux; IV, xviii; etc. * Ibid., II, 20.
 
 
-THE MEDIAEVAL DEVELOPMENT
 
 
-577
 
 montane; S. Benedict Biscop is an enthusiastic importer of Roman books
 and ecclesiastical paraphernalia generally;1 the Venerable Bede is an
@@ -1782,7 +1734,6 @@ flanked the Gallican rite, though such a result had been far from Gregory's
 1 Ibid., IV, 18. * Ibid., V, 22.
 
 
-578 THE SHAPE OF THE LITURGY
 
 thoughts. It was a further unforeseen result of his initiative that the eighth
 century English missions to the other Teutonic peoples made the Roman
@@ -1832,10 +1783,8 @@ further advantage of having received an admirable latinity and a stan¬
 dardised text from S. Gregory's revision, now canonised by the passage of
 
 
-THE MEDIAEVAL DEVELOPMENT
 
 
-579
 
 
 two centuries of reverence. Charlemagne's difficulty was not to introduce
@@ -1889,7 +1838,6 @@ specially evolved for legibility in the scriptorium of his monastery at Tours. I
 instance of the practical bent of his scholarship.
 
 
-580 THE SHAPE OF THE LITURGY
 
 stood would prove too bare for the Franks, or indeed for the Northern
 peoples generally. Accustomed to elaborate symbolical ceremonies and the
@@ -1937,7 +1885,6 @@ to be mingled. It was the decisive moment in the Western synthesis.
 H.B.S., 1915.
 
 
-THE MEDIAEVAL DEVELOPMENT 581
 
 The End of the Gallican Rite
 
@@ -1987,7 +1934,6 @@ lects provide, which led in the better times of the eighth century to the
 11*9 >P* 324*
 
 
-582 THE SHAPE OF THE LITURGY
 
 large-scale adoption of Roman prayers in books which professed to follow
 the Gallican rite.
@@ -2038,7 +1984,6 @@ this section on both the conclusions and evidence of Bishop's essays on The Gela
 Mass Book (op. cit ., pp. 39 sqq.)y and The Liturgical Reforms of Charlemagne {Down-
 
 
-THE MEDIAEVAL DEVELOPMENT 583
 
 be slowly provided by hand, fifty years is a long time for the carrying out
 of a heartily desired change. There are, too, quite a number of MSS. of the
@@ -2090,10 +2035,8 @@ to the matter than Bishop's discussions.
 1 And also of much in the Pontifical and Ritual.
 
 
-THE SHAPE OF THE LITURGY
 
 
-584
 
 exceptions) for six centuries, and of that which serves half of all Christen¬
 dom to this day. The decisive point in the history, is the work of Charle¬
@@ -2143,7 +2086,6 @@ synthesis was the Blessed Alcuin of York, the final begetter of the Western
 rite.
 
 
-THE MEDIAEVAL DEVELOPMENT 585
 
 Mediaeval and Post-Mediaeval Developments
 
@@ -2193,7 +2135,6 @@ Galiican rites* is like speaking of 'English, Yorkshire dialect and French' as t
 different languages.
 
 
-586 THE SHAPE OF THE LITURGY
 
 Wounds of our Lord Jesus Christ' and 'against the pagans') are fine
 compositions.
@@ -2243,7 +2184,6 @@ was by then just beginning to be taken up by churches in the North.1 Often
 1 The decade 1320-1330 sees its beginning in many important dioceses.
 
 
-THE MEDIAEVAL DEVELOPMENT 587
 
 enough the mediaeval promulgation of a new feast or mass takes the form
 of a 'grant' of it to particular churches or countries or orders which had
@@ -2293,7 +2233,6 @@ the celebrant's prayers.
 bishop of Chichester, in his Charge, Common Order in Christ' s Church (i937;>P- 49-
 
 
-588 THE SHAPE OF THE LITURGY
 
 We have heard a lot in England of late years of the bishop's jus litur-
 gicum. The term is entirely unknown to the canon law or to any writer in
@@ -2396,7 +2335,6 @@ by certain Malabar churches which traditionally used the Nestorian Addaiand Man-
 the increasing Byzandnisation of the modem Coptic rite, and so on.
 
 
-590 THE SHAPE OF THE LITURGY
 
 The 'simple said service' does derive from the primitive ceremonial, like
 the pontifical mass, and this through the type of thing described in the
@@ -2446,7 +2384,6 @@ cal— ornaments like the later mitre and gloves. There was in fact nothing
 to make any ceremonial difference between the rite of the bishop and that of
 
 
-THE MEDIAEVAL DEVELOPMENT 591
 
 
 the presbyter. A ceremonial on these lines, with a presbyter-celebrant and
@@ -2504,7 +2441,6 @@ sessions at the sedilia which represent the continuance of ancient custom.
 3 Rabanus Maurus, de Institutione Clertcorum3 1, 23.
 
 
-592 THE SHAPE OF THE LITURGY
 
 
 This is presented as being now the normal way of performing the rite,
@@ -2560,10 +2496,8 @@ i^S'Sifor'Mssfosr ri" of K - ■» «• «
 ficial Prtesthood by Fr. Joseph Barker, C.R., London, 1941.
 
 
-THE MEDIAEVAL DEVELOPMENT
 
 
-593
 
 liturgy as an effective system, which occurs in different regions at different
 times. As churches multiplied, presbyters more and more become not con-
@@ -2614,10 +2548,8 @@ sets of variable prayers "for travellers', 'for the sick5, 'against judges actin
 'C/.p.yS.
 
 
-THE SHAPE OF THE LITURGY
 
 
-594
 
 unjustly** 'for the amending of a quarrel*, and so on—for just such semi¬
 private occasions and needs, to be used on days when the calendar pre¬
@@ -2669,7 +2601,6 @@ in the fifth century, where it occasioned frequent remonstrances, but in
 1 C/'P* 501. (Frankish addition italicised.)
 
 
-THE MEDIAEVAL DEVELOPMENT 595
 
 vain. S. Paul's word 'eateth and drinketh judgement (■ krima ) unto himself'
 (i Cor. xi. 29) interpreted, perhaps over-pessimistically, as 'condemnation',
@@ -2720,7 +2651,6 @@ sions in the fifth and sixth centuries. Certainly the standard of instruction
 and of sincerity required was much lower than it had been in the fourth.
 
 
-596 THE SHAPE OF THE LITURGY
 
 But again one must remember that the church's own resources for giving
 instruction had been immensely decreased by the very catastrophes which
@@ -2770,7 +2700,6 @@ of moral exhortation is sounded clearly and continually. There are attempts
 to arouse the people's emotions by descriptions of the passion and various
 
 
-THE MEDIAEVAL DEVELOPMENT 597
 
 other incidents of the life of our Lord like the nativity, some of which are
 very moving. But always the end is to move the will to goodness, to moral
@@ -2820,10 +2749,8 @@ ion. With the retention of the people's communion, Rome still retained
 1 Bede, Ep. II
 
 
-THE SHAPE OF THE LITURGY
 
 
-598
 
 the rite of the people's offering of bread and wine, and the general sense
 that the eucharist was a corporate rite.
@@ -2875,7 +2802,6 @@ controversies about the eucharist in the sixteenth century. And I believe
 1 S. Th., Ill, lxxx, 10 * In IV Sent., dist. xii, ptm. ii art. 2, q. 2.
 
 
-THE MEDIAEVAL DEVELOPMENT 599
 
 that it can be shewn that in all their mistakes the Reformers were the vic¬
 tims—as they were the products—of the mediaeval deformations they
@@ -2927,7 +2853,6 @@ doctrines of the priesthood and the conversion of the elements were
 make this possible.
 
 
-600 THE SHAPE OF THE LITURGY
 
 retained, the remnants of the corporate action still provided an objective
 centre which was identical for all present. But it needed only a continuation
@@ -2979,7 +2904,6 @@ fact in a separate note, to which I venture to draw special attention.2
 1 Qf. p. 249. a See Additional Note , p. 605.
 
 
-THE MEDIAEVAL DEVELOPMENT 601
 
 Protestantism has in fact always been in a difficulty what to do with the
 eucharist, and whether or how to give it that central position in worship
@@ -3028,10 +2952,8 @@ worship or a central and unique place in the spiritual life of protestant
 individuals.
 
 
-602
 
 
-THE SHAPE OF THE LITURGY
 
 Its New Testament sanction and traditional position1 as the centre of
 Christian devotion secured for it a long continuance in high reverence,
@@ -3086,10 +3008,8 @@ Catholicism, by way both of reaction and development. Without that particular
 background it must remain largely unintelligible to the patristic Eastern tradition.
 
 
-THE MEDIAEVAL DEVELOPMENT
 
 
-603
 
 mass—the 'simple said service' performed by a single minister, at which
 the people had only to look and listen and silently pray. When the English
@@ -3143,7 +3063,6 @@ different function. His business was public worship as such. He was maintained b
 society to carry on public worship for the public, as society's representative.
 
 
-604 THE SHAPE OF THE LITURGY
 
 evidence of routine and formalism and sometimes downright irreverence
 in such corporations. Yet there is this to be said: Society at large supported
@@ -3193,7 +3112,6 @@ But the mediaeval public liturgy of the West did more. By making the cor¬
 porate eucharist its daily centre it asserted to the world in an unique way
 
 
-THE MEDIAEVAL DEVELOPMENT 605
 
 the dogmatic fact that in and through Jesus of Nazareth alone those claims
 are completely fulfilled. The mediaeval devotional approach to the eucha-
@@ -3202,7 +3120,6 @@ use of the liturgy is concerned—what else is this but the meaning of S.
 Paul's 'Ye do proclaim the Lord's death'?
 
 
-ADDITIONAL NOTE
 
 Mediaeval Eucharistic Devotions for Layfolk and the
 Protestant Conception of the Eucharist
@@ -3249,7 +3166,6 @@ and wine. So every man and woman that is in grace both the livingfand
 6o6
 
 
-THE SHAPE OF THE LITURGY
 
 the deadfmay be refreshed by that blessed sacrament. For not only it
 reneweth and feedeth by grace and augmentation of the same the souls of
@@ -3304,7 +3220,6 @@ spiritually, and so by Him to receive all these great benefits rehearsed . .
 'Have in meditation with perfect remembrance and your whole mind,
 
 
-THE MEDIAEVAL DEVELOPMENT 607
 
 considering the most tender mercy and love of our sweet Lord and
 Redeemer Jesu ... to suffer in our nature most shameful, terrible and cruel
@@ -3356,7 +3271,6 @@ tion of the world'. The whole meditation is concerned with the atonement.
 6o8
 
 
-THE SHAPE OF THE LITURGY
 
 
 but at the one point where this might be closely connected with the progress
@@ -3408,10 +3322,8 @@ justification, sanctification and glorification; and to signify and solemnise
 1 Baxter, Work$> ed. Orme, 1830, vol. xv.,/>/>. 451 sqq.
 
 
-THE MEDIAEVAL DEVELOPMENT
 
 
-609
 
 the renewal of their covenant with Him and their holy communion with
 Him and with one another ... we offer and deliver to Him ourselves as His
@@ -3475,7 +3387,6 @@ After this we come to the eucharistic action itself.
 6io
 
 
-THE SHAPE OF THE LITURGY
 
 
 upon the Table and then the Wine in like manner .. .let him bless them ,
@@ -3538,7 +3449,6 @@ traditional standpoint, better arranged than Cranmer's,—offertory, conse¬
 cration, fraction and communion following one another connectedly, with
 
 
-THE MEDIAEVAL DEVELOPMENT 611
 
 only brief devotional prayers between, though both the dialogue and the
 whole 'thanksgiving* element, the original nucleus of the rite, have com¬
@@ -3589,10 +3499,8 @@ eucharistic doctrine.1 And this, their desired alternative rite, is clearly
 clause 'that our sinful bodies may be made dean by His Body and our souls washed
 
 
-612
 
 
-THE SHAPE OF THE LITURGY
 
 
 based on that of Cranmer against which they were protesting. To an Angli¬

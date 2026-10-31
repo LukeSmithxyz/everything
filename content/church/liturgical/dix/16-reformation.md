@@ -6,10 +6,8 @@ params:
  order: 16
 ---
 
-CHAPTER XVI
 
 
-THE REFORMATION AND THE ANGLICAN LITURGY
 
 IT was after prolonged hesitation that the addition of this chapter to the
 book was decided on* and then only in deference to the advice of others.
@@ -52,13 +50,10 @@ we are to-day so conscious of our divisions* that there is scarcely any state¬
 ment that could be made about either the eucharist or our own rite which
 would not seem to some of one's fellow churchmen to call for immediate
 
-613
 
 
-THE SHAPE OF THE LITURGY
 
 
-614
 
 contradiction on conscientious grounds. It is quite understandable. These
 things go deep behind us. Two archbishops of Canterbury have lost their
@@ -107,7 +102,6 @@ interest which might be taken in it by, let us say, a well-educated Syrian
 Monophysite. I ask that it shall be taken as such, for whatever light such a
 
 
-THE REFORMATION AND ANGLICAN LITURGY 615
 
 dispassionate approach may throw on our problems, and not_as an attempt
 to argue for or against any particular proposals whatever as to practice.
@@ -165,7 +159,6 @@ it had assumed the character not only of a sacerdotal but of a directly
 6i6
 
 
-THE SHAPE OF THE LITURGY
 
 
 sacrificial act. Normally the celebrant alone communicated. The whole litur¬
@@ -225,7 +218,6 @@ but my understanding is not fruitful; I will pray with the spirit, and I will
 1 Mark xv. 34.
 
 
-THE REFORMATION AND ANGLICAN LITURGY 617
 
 pray with the understanding also',1 and used the vernacular. The local
 church of Rome had begun as a Greek-speaking body; the majority of its
@@ -280,7 +272,6 @@ artificially essayed, but it was its true descendant in many ways. As such it
 6i8
 
 
-THE SHAPE OF THE LITURGY
 
 was emphatically an international culture— or at this stage when nations
 were still embryonic, it is truer to say an inter-regional culture—whose
@@ -331,7 +322,6 @@ lay manuals of devotion was very unfortunate. No doubt the expense and
 labour of hand copying books had much to do with it. A translation of the
 
 
-THE REFORMATION AND ANGLICAN LITURGY 619
 
 missal would be a comparatively long book; a set of devotions for the
 length of a low mass was short, and could serve for every day in the year.
@@ -381,10 +371,8 @@ usage for 200 years and more.) This is the basis of the modem Roman
 Catholic rite; it is little else than the tenth century 'Gelasiamsed-Gregorian*
 
 
-620
 
 
-THE SHAPE OF THE LITURGY
 
 missal with unimportant additions. By thus imposing a rigid liturgical dis¬
 cipline in a purified and militarised mediaeval church, the post-Tridentine
@@ -435,7 +423,6 @@ very God?'1
 Jenkyns, Oxford, 1833,/). 442.
 
 
-THE REFORMATION AND ANGLICAN LITURGY 621
 
 Cranmer is not an unbiased witness, and there is a touch of his chaplain
 Becon's- scurrility on his pen here. But even if he parodies it, the type of
@@ -489,10 +476,8 @@ also of His blessed resurrection ... and also of His glorious ascension - '
 on this problem in theological history.
 
 
-622
 
 
-THE SHAPE OF THE LITURGY
 
 —'Bid these things to be borne by the hands of Thy holy angels to
 Thine altar on high in the sight of Thy divine majesty, that as many of
@@ -542,7 +527,6 @@ composed before the eschatological understanding had been lost. (There
 could not be a more significant instance of the power of the liturgical
 
 
-THE REFORMATION AND ANGLICAN LITURGY 623
 
 tradition to conserve a wider and more balanced conception than the
 rationalisations of the learned tradition of theology.) Yet the mediaeval
@@ -592,7 +576,6 @@ tion achieved centuries ago to rejoice and believe that we have been
 redeemed long ago on Calvary, and to renew our allegiance and gratitude
 
 
-624 THE SHAPE OF THE LITURGY
 
 to our Redeemer. We have 'communion' with Him when we take the bread
 and wine as He bade us do 'in remembrance' of Him, because the mere
@@ -644,7 +627,6 @@ followed by later protestantism, in spite of the hesitations of the Reformers.
 They would gladly have saved more of the primitive and mediaeval devo-
 
 
-THE REFORMATION AND ANGLICAN LITURGY 625
 
 tional estimation of the eucharist, if they could. But I ask attention for the
 fact that it is the logical development along one line of something which in
@@ -695,7 +677,6 @@ mit of the reopening in quite modem times of aspects of the matter which
 pelagianism and what amounted to 'justification by dodges*.
 
 
-626 THE SHAPE OF THE LITURGY
 
 the mediaeval teaching obscured or ignored.1 The advantage of the Coun¬
 ter-Reformation was that it conserved the text of a liturgy which dated in
@@ -746,7 +727,6 @@ sented a big modification of current mediaeval teaching. And the progress has go
 a good deal further in some Quarters since 1921,
 
 
-THE REFORMATION AND ANGLICAN LITURGY 627
 
 texts were frequently cited only from the collections of extracts found com¬
 piled for quite different purposes in the canon law, and were used polem¬
@@ -795,10 +775,8 @@ exasperate to the highest degree earnest and intelligent men who were
 wrestling with the loftiest problems of Christian thought. If men could then
 
 
-628
 
 
-THE SHAPE OF THE LITURGY
 
 have foreseen the spirituality of John of the Cross and Teresa, the zeal of
 Ignatius, the charity of Francis de Sales and Vincent de Paul, they might
@@ -849,7 +827,6 @@ officials, operating by the same methods and regulations, acting through
 the same courts, remained in full working order. It was the shock of this
 
 
-THE REFORMATION AND ANGLICAN LITURGY 629
 
 discovery which produced the second wave of the English Reformation, the
 puritan movement and ultimately the puritan revolution. But that is a
@@ -902,7 +879,6 @@ century, when the barbarous behaviour of the times caused so many profanations
 that various devices were tried to protect the contents of the chalice, e.g , the use of a
 
 
-630 THE SHAPE OF THE LITURGY
 
 with what was then going on in Christian worship in Saxony. At this stage
 he was content with polemics without suggesting changes in practice. He
@@ -969,7 +945,6 @@ issues as these affect the liturgy, which is why they are relegated to a foot-no
 Ill .sqq., 273 sq.).
 
 
-THE REFORMATION AND ANGLICAN LITURGY 631
 
 did not even discourage the laity from receiving under one kind, or priests
 from continuing to say the Latin mass, or even from receiving mass-fees,
@@ -1019,7 +994,6 @@ nann in 1515. (He did not lose his love of fighting after becoming a
 1 Werke , vi., pp. 526 sqq.
 
 
-632 THE SHAPE OF THE LITURGY
 
 Reformer, but was killed in full armour at the battle of Cappel in 1531.) In
 1519 he was accused of Lutheranism, and carried through a revolution in
@@ -1074,7 +1048,6 @@ balanced supernaturalism of his theology as a whole, which is the most
 6 de Vera et Falsa Rel.>p. 293.
 
 
-THE REFORMATION AND ANGLICAN LITURGY 633
 
 complete and satisfying to the mind of all the expositions which pro-
 testantism has received. Calvin is at one with Zwingli in denying any but a
@@ -1125,7 +1098,6 @@ devotional scheme of Christianity.
 receive* Spirit* by means of the Body (cf. p ♦ 266).
 
 
-634 THE SHAPE OF THE LITURGY
 
 It was, in fact, this difficulty of the New T estament evidence about the
 eucharist which broke up the early unity of the Reformation. Luther had
@@ -1176,7 +1148,6 @@ rage in threr geschichthchen Entmcklung , Leipzig, 1907, pp, 50-55.
 3 Werke, ed. cit., xv.,pp. 773 sq.
 
 
-THE REFORMATION AND ANGLICAN LITURGY 635
 
 only to prepare herself for it and to receive it . We can see here the effect of
 Luther's perpetual primary assumption about the end of religion, that it is
@@ -1231,7 +1202,6 @@ Lutheran confessions. I do not think this side of his teaching-— the metaphysi
 definition—was ever taken very seriously either by himself or by his followers.
 
 
-636 THE SHAPE OF THE LITURGY
 
 the German Lutherans were united with the German Calvinists in the
 Prussian State Church in the early nineteenth century, it was in the result
@@ -1282,7 +1252,6 @@ human ideas, the whole moulded in the end by certain voluntary actions of
 individual men and women. His mixture of Albanian and British blood did
 
 
-THE REFORMATION AND ANGLICAN LITURGY 637
 
 not cause Constantine to accept Christianity, with all the tremendous conse¬
 quences still flowing from that action of his; nor did the economic and cul¬
@@ -1333,10 +1302,8 @@ not think anyone has ever claimed personal sanctity as the outstanding
 for a peculiarly German state of mind.
 
 
-THE SHAPE OF THE LITURGY
 
 
-638
 
 characteristic of Luther, Calvin, Zwingli—or Cranmer.) That idea was the
 conception of a personal relation of each individual soul to God. It was a
@@ -1386,7 +1353,6 @@ teenth century was not the Bible, but the fact that they did not impinge upon
 the full sweep of the overmastering idea of the individual's relation to God,
 
 
-THE REFORMATION AND ANGLICAN LITURGY 639
 
 as the discarded doctrines might do. Even in sixteenth century protestantism
 it was not a direct relation to God which was in question; there was always
@@ -1433,10 +1399,8 @@ chief and most permanent sufferers by the accumulated mistakes of the
 mediaeval Latin church.
 
 
-640
 
 
-THE SHAPE OF THE LITURGY
 
 
 Archbishop Cranmer
@@ -1497,7 +1461,6 @@ people may understand?'1
 on reservation.)
 
 
-THE REFORMATION AND ANGLICAN LITURGY 641
 
 It is interesting to set beside Cranmer's own answers those returned by a
 group of six bishops who made a joint reply from the conservative side:
@@ -1581,10 +1544,8 @@ the mass, the scripture declareth
 not.
 
 
-THE SHAPE OF THE LITURGY
 
 
-642
 
 5. I think the use that the priest
 alone did receive the sacrament
@@ -1668,7 +1629,6 @@ subsequent events shew that the two parties were already using in different
 1 Ibid., pp. 179 sqq*
 
 
-THE REFORMATION AND ANGLICAN LITURGY 643
 
 senses, though that is not obvious here. One notes in both answers to this
 question the mediaeval restriction of the sacrifice of Christ entirely to His
@@ -1722,7 +1682,6 @@ went on to the paragraph contained in substance in the same exhortation in
 1548 (H.B.S., 1908), #>. x. sqq.
 
 
-644 THE SHAPE OF THE LITURGY
 
 the present Prayer Book, that any one still troubled in conscience after
 private self-examination and contrition, shall 'come to me or some other
@@ -1772,7 +1731,6 @@ long process how they should prepare themselves to the Communion of the
 Flesh and Blood of Christ. And then may every man come that listeth with-
 
 
-THE REFORMATION AND ANGLICAN LITURGY 645
 
 out going to Confession5.1 Other passages in the letter make it clear that
 'Mr. Cranmer' had been very interested; and it is certain that the Branden-
@@ -1827,7 +1785,6 @@ of the English Order to these two documents.
 of Communion H.B.S., 1908), pp, 49 sqq.
 
 
-646 THE SHAPE OF THE LITURGY
 
 the rite of 1549 does not view the rite as a sacrifice. His judges at his trial
 charged him with having taught three different doctrines at various times
@@ -1884,7 +1841,6 @@ the Body and Blood m communion. Here he has failed to do so thoroughly.
 4 Parker I, pp. 396 sqq. * J
 
 
-THE REFORMATION AND ANGLICAN LITURGY 647
 
 mer declared: 'As for the Sacrament I believe as I have taught in my book
 against the bishop of Winchester', by which he means his Answer unto a
@@ -1936,7 +1892,6 @@ The key-point in Cranmer's doctrine is his definition of what is meant by
 * Defence , V, 15, 18, pp. 459, 468.
 
 
-648 THE SHAPE OF THE LITURGY
 
 which he uses in a peculiar sense of his own, though he is careful to explain
 that sense, and returns' :o it again and again. But unless and until that
@@ -1990,7 +1945,6 @@ our whole affiance and trust in Him as teaching our salvation and offering
 1 There could not be a plainer repudiation of Lutheran doctrine in this matter.
 
 
-THE REFORMATION AND ANGLICAN LITURGY 649
 
 ourselves clearly unto Him, to love and serve Him all the days of our life.
 This is truly, sincerely and spiritually to eat His Flesh and to drink His
@@ -2042,13 +1996,11 @@ received by the death of Christ , and to testify that He is a member of Christ's
 Body , fed with His Flesh and drinking His Blood spiritually' [i.e. in the sense
 defined above].
 
-2U
 
 
 D.S.L.
 
 
-650 THE SHAPE OF THE LITURGY
 
 (2) V, 10 (/>. 455)* 'Christ did not ordain His sacraments to this use that
 one should receive them for another and the priest for all the lay people;
@@ -2103,7 +2055,6 @@ of Christ; but that they represent the very Body and Blood of Christ, and
 them that before they are set on the altar.)
 
 
-THE REFORMATION AND ANGLICAN LITURGY 651
 
 the holy food and nourishment we have by Him [i.e. through believing that
 He died for our sins]. And so they be called by the names of the Body and
@@ -2156,7 +2107,6 @@ him But the mistakes seem to have been made in all good faith, and from
 our present point of view all that matters is the renewed insistence that
 
 
-652 THE SHAPE OF THE LITURGY
 
 the right use of the Lord's supper only 'certifies! us of something which
 proceeds independently of it. But it may be asked* if 'consecration' is so
@@ -2212,7 +2162,6 @@ they must have sundry ministers under them* to supply that which is
 1 Parker II, pp. 116 sq.
 
 
-THE REFORMATION AND ANGLICAN LITURGY 653
 
 appointed to their several offices. The civil ministers under the king's
 majesty in this realm of England be those whom it shall please his highness
@@ -2271,7 +2220,6 @@ crimes? And whether they only may excommunicate by God's law?'
 Ans. CA bishop or priest by the scripture is neither commanded noi
 
 
-654 THE SHAPE OF THE LITURGY
 
 forbidden to excommunicate, but where the laws of any region giveth him
 authority to excommunicate, there they ought to use the same in such
@@ -2328,7 +2276,6 @@ But the humble confession of all penitent hearts, their knowledging of
 1 Ibid., p. 219.
 
 
-THE REFORMATION AND ANGLICAN LITURGY 655
 
 Christ's benefits, their thanksgiving for the same, their faith and consola¬
 tion in Christ, their humble submission and obedience to God's will and
@@ -2385,7 +2332,6 @@ and imprint inwardly in your heart by holy meditation the whole process
 of the passion . . . which is a meditation of sweetness unspeakable to them
 
 
-656 THE SHAPE OF THE LITURGY
 
 that inwardly can consider it.5 Plus fa change—? Was it really worth all
 that tremendous upheaval of English religion in order to add what Cranmer
@@ -2435,7 +2381,6 @@ has some articles of religion to which all preachers and lecturers in dfvinin-' 
 required to subscribe, or else a license for teaching is not granted them* and inthese
 
 
-THE REFORMATION AND ANGLICAN LITURGY 657
 
 goodness mercifully to accept this our sacrifice of praise and thanksgiving:
 most humbly beseeching Thee to grant that by the merits and death of
@@ -2487,7 +2432,6 @@ Spirit. Under the name of Augustine this had got into the mediaeval catenae and
 was frequently cited as a commonplace by scholastic authors.
 
 
-658 THE SHAPE OF THE LITURGY
 
 of administration and the kneeling recitation of the prayer of humble access
 before communion (as implying adoration)1 as setting forth the teaching
@@ -2544,7 +2488,6 @@ since June, writing in August 1549 ( Orig . Letters , II, clxxxix,p. 394).
 6 Cf. Hooper, Orig . Letters , I, xxxvi, p. 72.
 
 
-THE REFORMATION AND ANGLICAN LITURGY 659
 
 And so there came the second Act of Uniformity with the second Prayer
 Book annexed, in 1552, because 'there hath arisen in the use and exercise of
@@ -2598,7 +2541,6 @@ be 1546.)
 66o
 
 
-THE SHAPE OF THE LITURGY
 
 
 to answer Amen and listen. The collect for the day is always to be followed
@@ -2652,7 +2594,6 @@ the redemption of the world in the thought of the church. Cranmer had too much
 liturgical sense to make a mistake of that sort.
 
 
-THE REFORMATION AND ANGLICAN LITURGY 661
 
 deserves through the constant attempts to interpret his liturgy by ideas
 which he did not hold. Like Luther he believed that any form of offertory
@@ -2704,7 +2645,6 @@ They might not prove large enough for a general communion in both kinds in 1549*
 2 Brightman, The English Rite , I, p. lxxxi, gives the evidence.
 
 
-662 THE SHAPE OF THE LITURGY
 
 humbly beseech Thee most mercifully to accept our alms and to receive our
 prayers'. The alms had not been offered or even handled by the priest;
@@ -2755,7 +2695,6 @@ Alan, Who did humble Himself even to the death upon the cross for us
 miserable sinners which lay in darkness and in the shadow of death, that
 
 
-THE REFORMATION AND ANGLICAN LITURGY 663
 
 He might make us children of God and exalt us to everlasting life. And to
 the end that we should always remember the exceeding great love of our
@@ -2807,7 +2746,6 @@ Cyprian.
 2 Cf. Origen, in Is., 1, 2; de Princip I, iii. 4*
 
 
-664 THE SHAPE OF THE LITURGY
 
 inwardly in our hearts by His Holy Spirit, and confirmeth the same out¬
 wardly to our ears by hearing of His word and to our other senses by eating
@@ -2857,7 +2795,6 @@ has happened to fail in the cup.'1 But the practice was greatly disliked by
 1 Strype, Memorials of Thomas Cranmer > II, lxi,p. 899.
 
 
-THE REFORMATION AND ANGLICAN LITURGY 665
 
 all those who followed the Swiss school, which held that the recitation of
 the words was for the hearers , not for any effect upon the sacramental
@@ -2912,10 +2849,8 @@ cluding section is therefore devoted to this theme.
 D.S.L.
 
 
-666
 
 
-THE SHAPE OF THE LITURGY
 
 The old concept of the oblation was that Christ offers His perfect obla¬
 tion of Himself to the Father, and that the earthly church as His Body
@@ -2965,7 +2900,6 @@ those who constantly repeat this proposal. Fortunately for his reputation
 Cranmer was not under this delusion that the words of a prayer have no
 
 
-THE REFORMATION AND ANGLICAN LITURGY 667
 
 meaning, and that prayers are interchangeable as they stand between
 different parts of a rite.
@@ -2974,7 +2908,6 @@ The thanksgiving occupies in 1552 the same position in which it had
 served invariably in 1549. But again Cranmer made changes to bring out
 its meaning, which can better be seen if the two forms are set side by side.
 
-1549 1552
 
 'We most heartily thank Thee for 'We most heartily thank Thee for
 
@@ -3021,10 +2954,8 @@ till 1 662, one of the few verbal improvements in the rite then effected. _
 s Cf. A. 1 above. 3 Cf. F. 1 above. * Of. p. 632.
 
 
-668
 
 
-THE SHAPE OF THE LITURGY
 
 'hymn' of the synaxis common to all rites. This ensures that an element of
 the 'sacrifice of praise and thanksgiving' (in Cranmer's sense) shall ter¬
@@ -3078,7 +3009,6 @@ judgement, in an endeavour to emphasise a specifically Zwinglian feature of his
 rite.
 
 
-THE REFORMATION AND ANGLICAN LITURGY 669
 
 the offertory to take only 'so much bread and wine as will suffice for those
 appointed to communicate5, Bucer had written to Cranmer that from this
@@ -3128,7 +3058,6 @@ plies the whole structure of his present liturgy and some ninety-five per
 1 M. Buccr, Scripta Anglicana , Censura, iv. Works, p. 464
 
 
-670 THE SHAPE OF THE LITURGY
 
 cent, of its wording. We do not, of course, receive it because it is Cranmers/
 but as twice revised (in 1559 and 1662) and as the rite of the Church of
@@ -3178,7 +3107,6 @@ Shape' in 1552? (1) There is no offertory in bread and wine at all; it has
 been deliberately discarded. (2) Whether the 'eucharistic prayer' remains
 
 
-THE REFORMATION AND ANGLICAN LITURGY 671
 
 it is not easy to say. The notion of 'consecration* has been deliberately
 watered down to that of 'setting apart to a holy use', and attached to
@@ -3227,7 +3155,6 @@ the evangelist's thought throughout its length, but I venture to think it is
 certain that only w. 51-8 are intended to refer directly to the eucharist as a
 
 
-672 THE SHAPE OF THE LITURGY
 
 rite, while the remainder of the chapter is dealing with the much wider
 question of faith in Christ's Person and Office in terms of eucharistic
@@ -3277,7 +3204,6 @@ They must, I suppose, take this for an 'attack' on Cranmer and his work,
 and nothing I can say will prevent it. If to believe the man's own earnest
 
 
-THE REFORMATION AND ANGLICAN LITURGY 673
 
 and repeated claim to have been both sincere and consistent be an attack,
 then I have attacked him. But I wonder which Cranmer would have pre¬
@@ -3330,7 +3256,6 @@ abandoned and overthrown as those good princes were* (Parker II, p. 401)* A
 royalism which could idealise King John into a 'good prince* needs fanaticism.
 
 
-674 THE SHAPE OF THE LITURGY
 
 and More the witty chancellor, and old abbot Whiting— but they were in
 King Henry's time, and for a matter of treason, like the Carthusians —
@@ -3380,7 +3305,6 @@ so included, however, by Archbishop Whitgift in his account of the changes to
 Burleigh (Strype, Annals, I, i,p. 143).
 
 
-THE REFORMATION AND ANGLICAN LITURGY 675
 
 The Convocation of 1559 had nothing to do with making this change,
 which was probably due to the Queen herself. But it had already given
@@ -3433,10 +3357,8 @@ do write, yet did he not for all that see it, feel it, smell it or taste it. And
 1 This was re-inserted in 1571.
 
 
-THE SHAPE OF THE LITURGY
 
 
-676
 
 therefore, I told him I would speak against him herein, and the rather
 because the Article was of my own penning. And yet I would not for all
@@ -3487,7 +3409,6 @@ preachers to teach nothing 'but that which is agreeable to the doctrine of
 1 Calendar of State Papers (Domestic), Ixxviii. 37,
 
 
-THE REFORMATION AND ANGLICAN LITURGY 677
 
 the Old Testament and the New and that which the catholic fathers and
 ancient bishops have gathered out of that doctrine') issues in the compara¬
@@ -3539,10 +3460,8 @@ century 'high church' movement was much more a unity of sociological than of
 theological doctrine in more than one respect.
 
 
-THE SHAPE OF THE LITURGY
 
 
-678
 
 time that some of his colleagues were seeking his own ruin and death with
 every move of the game, and that the simplest or seemingly most everyday
@@ -3592,7 +3511,6 @@ with his own hopes; but he opposed both because they were certain to be rejected
 by the country at large. And his instinct was right in both cases.
 
 
-THE REFORMATION AND ANGLICAN LITURGY 679
 
 devised are nominally in force at the present day, with slight (though very
 important) modifications. But unless we understand that from 1547 on¬
@@ -3648,7 +3566,6 @@ specifically orders 'none other to be used throughout all his dominions'.
 68 o
 
 
-THE SHAPE OF THE LITURGY
 
 
 horrible ways—for not conforming to every fresh change of the royal con¬
@@ -3758,7 +3675,6 @@ tion) in 1542, etc.
 96 sqq .
 
 
-682 THE SHAPE OF THE LITURGY
 
 the primate, the successor of Becket and Langton and Edmund Rich, whose
 throne was the traditional bulwark of the liberties of the English church
@@ -3808,7 +3724,6 @@ Marian bishops to the restoration of the Prayer Book was overcome as the
 1 Works (Parker Soc. 1850), iv.,p. 904.
 
 
-THE REFORMATION AND ANGLICAN LITURGY 683
 
 passive opposition of Cranmer and Ridley and Latimer to the restoration of
 the Latin mass, and the passive opposition of Boner and Tunstall to the
@@ -3858,10 +3773,8 @@ gical settlement so narrowly imposed by Parliament was barely tolerated by
 the 'extreme left' now returning from its Marian exile abroad, but the Book
 
 
-THE SHAPE OF THE LITURGY
 
 
-684
 
 of 1549 satisfied no one. It was no use pressing for that. It represented (and
 was then understood to represent) the same ideas as 1552; but the protes-
@@ -3911,7 +3824,6 @@ cranky people. Their objections to the use of the Prayer Book were many
 of them captious and childishly pedantic, and some of them (from my own
 
 
-THE REFORMATION AND ANGLICAN LITURGY 685
 
 standpoint) plainly heretical. Yet one does not need to have read the whole
 story through their eyes to see how the fact that it was always a secular law
@@ -3961,10 +3873,8 @@ It rested really on the fact that Englishmen had to have a church of some
 which is still amusing.
 
 
-686
 
 
-THE SHAPE OF THE LITURGY
 
 kind, and this was the only kind of church which their government was
 prepared to let them have.
@@ -4014,7 +3924,6 @@ the reign of Edward VI and the earlier half of Elizabeth's. But voluntary,
 and above all weekday, churchgoing—on the popularity of which in
 
 
-THE REFORMATION AND ANGLICAN LITURGY 687
 
 England most fifteenth century travellers had remarked—virtually dis¬
 appeared. Ridley, no prejudiced witness in favour of the old religion,
@@ -4066,7 +3975,6 @@ and Romanists alike. Granted the formal continuance of the succession in
 68$
 
 
-THE SHAPE OF THE LITURGY
 
 
 the case of Archbishop Parker (a matter which can reasonably be left to
@@ -4119,7 +4027,6 @@ The situation certainly was different in 1662, in that there were now really
 Cardwell, Hist, of Conferences , pp, 161 sqq.
 
 
-THE REFORMATION AND ANGLICAN LITURGY 689
 
 three, not two factors in the situation: the church, represented by the
 Convocations; the newly restored royal executive; and the Parliament
@@ -4169,7 +4076,6 @@ Meanwhile the Book as revised by Convocation had been sent to the
 Privy Council, where certain changes seem to have been made, of which
 
 
-690 THE SHAPE OF THE LITURGY
 
 the only one of importance was the restoration of the 'Black Rubric' or
 'Declaration on Kneeling' at communion. This had been added by the
@@ -4220,7 +4126,6 @@ tion was only added after the Book had finally left Convocation, which had refus
 the puritan request for its replacement.
 
 
-THE REFORMATION AND ANGLICAN LITURGY 691
 
 them in the English rite. But the king had also charged them to avoid 'as
 much as may be all unnecessary alterations of the forms and liturgy where¬
@@ -4273,10 +4178,8 @@ position in which it was thought necessary to place it in order to smuggle it
 1 See J. Dowden, Further Studies in the Prayer Book, London, 1908, pp, 176 sqq.
 
 
-THE SHAPE OF THE LITURGY
 
 
-692
 
 through Parliament under cover of the collection had a serious disadvantage.
 It greatly confused the clear outline of the rite as Cranmer had left it from
@@ -4327,7 +4230,6 @@ rite as they stand, because the words of a prayer have a meaning. (As an offerto
 praver the prayer of oblation would not actually need the change of a word, though
 
 
-THE REFORMATION AND ANGLICAN LITURGY 693
 
 1662 also restored the fraction, as the puritans desired, along with the
 other manual acts. The seventeenth century puritans as Calvinists attached
@@ -4379,7 +4281,6 @@ than 'ourselves, our souls and bodies*, which is tautologous.)
 lCf.p.6 10.
 
 
-694 THE SHAPE OF THE LITURGY
 
 regard that nothing conduceth more to the settling of the Peace of this
 Nation . . . than an Universal agreement in the Public Worship of Almighty
@@ -4429,7 +4330,6 @@ abandoning it to its own devices. Convocation, the traditional organ of the
 church's own life, had been put to silence; but the church could no longer
 
 
-THE REFORMATION AND ANGLICAN LITURGY 695
 
 rely on the Hanoverian Crown and the Whig Parliament to some extent
 to supply the loss by their interest in its life and needs, as the Tudor
@@ -4478,10 +4378,8 @@ sation of English protestant dissent. I am not contending that the English
 church has not a right to a determined faith and worship. Of course it has.
 
 
-THE SHAPE OF THE LITURGY
 
 
-696
 
 But the whole method of arriving at them adopted in the sixteenth century
 seems to have been unsuitable and wrong in itself, though there may be
@@ -4532,7 +4430,6 @@ practice not theory, and the core of Christian practice is the liturgy. A par¬
 liamentary agitation for the more exact performance of the statutory
 
 
-THE REFORMATION AND ANGLICAN LITURGY 697
 
 liturgy by the clergy brought about a Royal Commission, whose report in
 1906 carefully analysed the symptoms but only hinted at the real cause of
@@ -4588,7 +4485,6 @@ in Feb. 1914*
 D.S.L.
 
 
-698 THE SHAPE OF THE LITURGY
 
 point of view of liturgy not of law. They could not, of course, forget the
 over-riding necessity of steering the result through Parliament. This prob¬
@@ -4639,7 +4535,6 @@ kinds which attracted much public attention.
 The revision had assumed the form not of amendments to 1662 but of a
 
 
-THE REFORMATION AND ANGLICAN LITURGY 699
 
 complete alternative rite, incorporating most of the material of 1662 with
 some additions or alterations, but designed to be used where desired instead
@@ -4675,10 +4570,7 @@ find that some things (at least) in this last chapter follow necessarily for
 him from what has gone before.
 
 
-ADDITIONAL NOTE:
-
-THE PRESENT LITURGICAL POSITION IN THE
-CHURQH OF ENGLAND
+ # The Present Liturgical Position in the Church of England
 
 The foregoing chapter tells a story one might have supposed sufficiently
 well known in most of its aspects for its practical lessons to be under¬
@@ -4736,7 +4628,6 @@ which had any chance whatever of success. (Before considering this
 diagnosis it is right also to report that no one of these documents admits
 
 
-THE REFORMATION AND ANGLICAN LITURGY 701
 
 
 that the episcopate bears any special responsibility for the development of
@@ -4791,7 +4682,6 @@ and persistently ungenerous treatment which they receive from some members of
 the Church Assembly.
 
 
-702 THE SHAPE OF THE LITURGY
 
 should use only the legal rite of 1662, exactly and without change. The
 church continued to use it as it had been doing before 1928, with a multi¬
@@ -4841,7 +4731,6 @@ were all enforcing was not dogma but law. What the bishops upheld against
 papist and puritan alike was the right of the state to enforce a sinEi<» forin of
 
 
-THE REFORMATION AND ANGLICAN LITURGY 703
 
 public worship in the practice of all its citizens regardless of their different
 private beliefs.
@@ -4892,10 +4781,8 @@ some fairly startling extracts in Bishop Frere s essay on The Church under Queen
 Elizabeth and James /.
 
 
-704
 
 
-THE SHAPE OF THE LITURGY
 
 
 in the history of Anglicanism. The title which R. G. Usher chose for his
@@ -4945,7 +4832,6 @@ church. So it came about that those whose theological beliefs led them in
 1 2 vols., London, 1910.
 
 
-THE REFORMATION AND ANGLICAN LITURGY 705
 
 the nineteenth century to vary the statutory way of worship were able to
 remain, somewhat uncomfortably, within the church, and still to express
@@ -4995,7 +4881,6 @@ line ceremonial, it remains true that these things in themselves were as
 much a revolution in the normal current Anglican practice of worship as
 
 
-706 THE SHAPE OF THE LITURGY
 
 were the doctrines they implied in current Anglican theology. An equiva¬
 lent series of innovations in the worship of any other Christian body in any
@@ -5044,7 +4929,6 @@ extreme limit of innovation, the Prayer Book of King Canute. Yet it was
 itself so drawn up that its champion. Bishop Frere, was once constrained
 
 
-THE REFORMATION AND ANGLICAN LITURGY 707
 
 to remark, 'You could drive a coach and horses through it in almost any
 direction, if you had a good lawyer.' With its innumerable permissive
@@ -5095,7 +4979,6 @@ The present situation has been called one of 'liturgical anarchy , which
 is one way of looking at it; though in itself the description is an interested
 
 
-708 THE SHAPE OF THE LITURGY
 
 exaggeration of the real facts by the advocates of an old-fashioned adminis¬
 trative absolutism of bishops which is now impossible even if it were
@@ -5144,7 +5027,6 @@ unloved baby of 1928 and seen it disowned by Parliament, they then
 seriously weakened the remaining authority of 1662 by their attempts to
 
 
-THE REFORMATION AND ANGLICAN LITURGY 709
 
 get 1928 accepted by the church. When that hope failed also, they spent
 two years in something rather like sulking, and in ignoring the whole
@@ -5195,7 +5077,6 @@ the awkward position of the bishops ever since about 1900. However,
 Commission {Report, Minutes of Evidence, 13230).
 
 
-7W THE SHAPE OF THE LITURGY
 
 Parliament soon discovered that it had no means of calling their bluff short
 of disestablishment, which it was not prepared to face, any more than were
@@ -5248,7 +5129,6 @@ quite different appreciation.
 in which it is now used at under 100.
 
 
-THE REFORMATION AND ANGLICAN LITURGY 711
 
 wrong methods under the wrong influences; and was not what it wanted,
 because it did not really express its mind.1
@@ -5301,7 +5181,6 @@ no priest out of more than 400 parishes in his diocese used 1662 exactly as the 
 prescribed, and only two used 1928 as printed.
 
 
-712 THE SHAPE OF THE LITURGY
 
 The bishops were in fact in a most unenviable position. By producing
 1927 they had virtually subscribed to the opinion that 1662 no longer
@@ -5350,7 +5229,6 @@ liturgical matters from one set of people, while explaining publicly to
 another that the total rejection of that authority not only in liturgy but in
 
 
-THE REFORMATION AND ANGLICAN LITURGY 713
 
 everything else as well, does not at all impair their position as 'real minis¬
 tries in Christ's church'.
@@ -5403,10 +5281,8 @@ officially, prematurely and in a way certain to wreck any prospects the
 D.S.I..
 
 
-7H
 
 
-THE SHAPE OF THE LITURGY
 
 
 scheme might have had. The carefully balanced proposals were first
@@ -5463,7 +5339,6 @@ proctor in May 1942— (Gazala! Tobruk!)— proposed that Parliament shnniri be
 approached about the position of the prayer of oblation.
 
 
-THE REFORMATION AND ANGLICAN LITURGY 715
 
 the position in which it found itself about A.D. 1534, before Cranmer's
 settlement began to be imposed.
@@ -5565,7 +5440,6 @@ number of people cease to observe a custom, then it just 'dies out'. Even
 the most obsolete law requires a definite act of the legislator to repeal it
 
 
-THE REFORMATION AND ANGLICAN LITURGY 717
 
 before it ceases to bind. A custom dies by ceasing to be observed. And its
 authority while it lives is a voluntarily accepted and natural thing, not a
@@ -5615,10 +5489,8 @@ priests and the laity in great numbers to think of the eucharistic action as
 the patristic authors had thought of it, and as Cranmer quite certainly did
 
 
-THE SHAPE OF THE LITURGY
 
 
-718
 
 not. And as soon as the liturgy began to be conceived of no longer as a
 Schedule annexed to an Act of Parliament, to be obeyed in that mechanical
@@ -5719,10 +5591,8 @@ approval at the end of that. The debate in the Upper House of Convocation
 in January 1942 demonstrated conclusively that the bishops as a body are
 
 
-720
 
 
-THE SHAPE OF THE LITURGY
 
 not equipped for composing a liturgy, and the initiation of measures in the
 Lower House is a cumbrous procedure. In any case the initiative in such a
@@ -5774,7 +5644,6 @@ as follows:
 minimum of Propers for the ecclesiastical year. We do not put it forward as
 
 
-THE REFORMATION AND ANGLICAN LITURGY 721
 
 representing the maximum of the Act of Uniformity which the "Anglo-
 catholics" can be forced to obey or the minimum which will content the
@@ -5826,7 +5695,6 @@ and why they dislike it. When they have made their alterations to their own
 satisfaction, let them consider again whether their amendments express
 
 
-722 THE SHAPE OF THE LITURGY
 
 dearly and fully what they themselves desire to express. If after a practical
 trial for, say, six months, they still think their amendment a real improve¬
@@ -5880,7 +5748,6 @@ amended edition in the same way in three years' time, incorporating every
 improvement offered to us which approves itself to our minH If thereafter
 
 
-THE REFORMATION AND ANGLICAN LITURGY 723
 
 at any time an occasion should present itself, we might be prepared to take
 whatever action seemed appropriate to secure it some measure of official
@@ -5931,7 +5798,6 @@ situation. The events of the last ten years suggest very strongly that the
 day has gone by when the church will accept a rite as satisfactory only
 
 
-724 THE SHAPE OF THE LITURGY
 
 because the bishops say so— and, really, the blame for this does not lie
 altogether with the church. Whether the new rite were 1928 or a different
@@ -5982,7 +5848,6 @@ appears to have been unanimously unconscious of the fact that its new panacea ha
 been three times discussed and rejected as futile between 1908 and 1918.
 
 
-THE REFORMATION AND ANGLICAN LITURGY 725
 
 of which they did not approve. Once more the whole weight of enforcement
 would rest on the bishops.
@@ -6034,7 +5899,6 @@ precisely what he does mean as to the relation of the consecrated elements to tn
 Body and Blood of Christ.
 
 
-726 THE SHAPE OF THE LITURGY
 
 means of arriving at it. The official proceedings before 1927 roused party
 feeling in the church to a dangerous degree. There are now other subjects
@@ -6084,7 +5948,6 @@ able voluntary acceptance and interest—as I believe it would, if people
 knew that they had a chance to join in its revision and perfecting in a
 
 
-THE REFORMATION AND ANGLICAN LITURGY 727
 
 practical way—would it be worth while to bring it forward for official
 acceptance. That is to say that the absolute sine qua non for any successful
@@ -6134,7 +5997,6 @@ be adopted. It would be the quality of the proposal as a good Anglican
 liturgy which would setde the fate of any such 'liturgical experiment'.
 
 
-728 THE SHAPE OF THE LITURGY
 
 And that is as it should be, for that is precisely what we are trying to
 find.
@@ -6185,7 +6047,6 @@ it too much to hope that the significance of this has not been lost where it
 is most necessary for it to be appreciated? The clergy and the church have
 
 
-THE REFORMATION AND ANGLICAN LITURGY 729
 
 for a long while now proved very refractory to 'regulation' and the droit
 administratif of a state-appointed episcopate. They might respond much
@@ -6236,7 +6097,6 @@ the laity— and, above all, available to be put before them as a whole from
 the start in books, it would certainly do a great deal to help them in their
 
 
-730 THE SHAPE OF THE LITURGY
 
 difficulties, even while they understood that the rite had no 'authority'. It
 is not its authority nearly so much as its comprehensibility which worries
@@ -6288,7 +6148,6 @@ meaning of the eucharistic action. The place above all others where it is
 virtually impossible to avoid stating plainly the meaning given to that action
 
 
-THE REFORMATION AND ANGLICAN LITURGY 731
 
 in any particular rite is in the 'second half' of the prayer, that which follows
 the words of institution. We have seen that Cranmer's eucharistic theology
@@ -6339,10 +6198,8 @@ for us upon the cross' (The Rationale of Ceremonial, ed. by Sir C. Cobb, Alcuin
 Club Coll. XVIII, London, 1910 ,p. 22). Cf.p. 117.
 
 
-732
 
 
-THE SHAPE OF THE LITURGY
 
 A new Anglican rite might gain or lose support by all sorts of features.
 But the simplest and most practical constructional test of its merits,
@@ -6393,7 +6250,6 @@ such an occasion as a 'National Day of Prayer' to realise that 'petition' for
 increased twenty-six per cent, in the same period.
 
 
-THE REFORMATION AND ANGLICAN LITURGY 733
 
 his own interests is the furthest we expect the ordinary man to go in his
 religious practice. That is the Christianity of the catechumen.
@@ -6448,7 +6304,6 @@ statesman and a politician, said that the latter is dangerous because he
 THE SHAPE OF THE LtTURGY
 
 
-734
 
 approaches great questions as though they were not truly great. If we and
 our bishops again approach the revision of our eucharistic liturgy in the

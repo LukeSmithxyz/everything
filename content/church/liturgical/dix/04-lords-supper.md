@@ -6,7 +6,6 @@ params:
  order: 4
 ---
 
-CHAPTER IV
 
 
 EUCHARIST AND LORD'S SUPPER
@@ -59,7 +58,6 @@ LV. (1937)7 P- 477 SQ'\ F* E. Vokes, The Riddle of the DidachL London, 1938, p.
 90 sqq. below
 
 
-48
 
 
 EUCHARIST AND LORD'S SUPPER 49
@@ -119,10 +117,8 @@ fashion all over Christendom in the fifteenth-sixteenth centuries, which died ou
 again in most places, but happened to 'catch on' among Copts and Anghcans.
 
 
-THE SHAPE OF THE LITURGY
 
 
-50
 
 tendency would have shewn itself somewhere to assimilate current prac¬
 tice to that recorded as original by witnesses so accepted. This change
@@ -180,7 +176,6 @@ here put forward.
 EUCHARIST AND LORD'S SUPPER
 
 
-51
 
 
 holy days, though there was no absolute rule about this. Each member of
@@ -238,10 +233,8 @@ ancient benedictions from this and other sources in Jewish Encycl ., iii. p- 8 s
 * Berakoth . Mishna, vi. 6 \Tosefta , iv. 8. (E.T.,p. 48.)
 
 
-52
 
 
-THE SHAPE OF THE LITURGY
 
 
 chaburah meal, because the meal proper began with the handwashing and
@@ -355,10 +348,8 @@ J Compiled by Rabbi S. Singer, with notes by the late Israel Abrahams (London,
 1932, p. 279*4.).
 
 
-THE SHAPE OF THE LITURGY
 
 
-54
 
 Palestine in our Lord's time. The short bread- and Wine-blessings given
 before, which are still in use, are found verbally in Berakoth} All three
@@ -421,7 +412,6 @@ the start of the meal itself.
 EUCHARIST AND LORD'S SUPPER
 
 
-55
 
 bringest forth bread from the earth.' And He distributes it in the usual
 way to His 'friends' ( chaberim), as He had done so often before. But this
@@ -477,10 +467,8 @@ the heathen, though it has no connection with the eucharist. It was simply the
 ordinary 'grace before meals*.
 
 
-56
 
 
-THE SHAPE OF THE LITURGY
 
 
 If the command 'Do this' docs not mean that our Lord supposed He
@@ -594,13 +582,11 @@ room'; and viii. 8 on what to do if the Thanksgiving gets forgotten altogether.
 s 1 Cor. x. 16.
 
 
-F
 
 
 D.S.L.
 
 
-58 THE SHAPE OF THE LITURGY
 
 quite certainly repeat from time to time without any command from Him
 —less often than the breaking of bread at the beginning of the meal, but
@@ -662,7 +648,6 @@ among us until Dr. Cirlot. My own debt to him in the rest of this chapter is con
 siderable, but difficult to assess exactly.
 
 
-59
 
 
 EUCHARIST AND LORD'S SUPPER
@@ -719,7 +704,6 @@ well known to modern scholars. This failure to criticise their own assumption in
 6o
 
 
-THE SHAPE OF THE LITURGY
 
 We are here concerned with New Testament criticism not directly but
 only as it affects the history of the liturgy. We have therefore a certain
@@ -837,10 +821,8 @@ the earliest evidence for 'bread-and-water eucharists' held by people certainly 
 the catholic church, and Cyprian Ep. 67 about the latest.
 
 
-62
 
 
-THE SHAPE OF THE LITURGY
 
 text* (Dj a , ff2, i, l) must certainly have existed ip the early second
 century, as did also the 'longer text'. The 'Western text' reads very oddly,
@@ -897,7 +879,6 @@ hardlyhope to discern what he meant.
 EUCHARIST AND LORD'S SUPPER
 
 
-63
 
 there we read that 'going back upstairs he broke bread ( klasas arton) and
 ate'. The same phrase in the same book cannot by its mere wording exclude
@@ -956,10 +937,8 @@ required by the situation there, and is actually attested by the earliest docume
 possess from the Corinthian church, the letter of Denys of Corinth to Soter of
 
 
-THE SHAPE OF THE LITURGY
 
 
-64
 
 deliberate misstatement, which would ruin the whole effect of the epistle.
 Nor does it really save the apostle's credit to suppose that he had hypnotised
@@ -1018,7 +997,6 @@ ii. 13; iv. 1, 2; 2 Thess. iii. 6.
 EUCHARIST AND LORD'S SUPPER
 
 
-65
 
 If the tradition of 1 Cor. can be traced back to Jerusalem, as I think can
 be proved in a moment, the fact has this much importance, that we can
@@ -1068,10 +1046,8 @@ narrative of fact, a story quite uninventable. The Lord Jesus, on the eve of
 the Crucifixion, actually did take bread, blessed it by the giving of thanks.
 
 
-66
 
 
-THE SHAPE OF THE LITURGY
 
 and said "This is my body", and proceeded, taking a cup, to say "This is
 my blood of the Covenant", or "This is the Covenant in my blood." 91
@@ -1136,7 +1112,6 @@ allowance for the exasperating impenitence of some of those concerned. Our pre-
 EUCHARIST AND LORD'S SUPPER
 
 
-67
 
 of its attempted synthesis between tradition and criticism will be found all
 along the line to lie less in its theology (which was usually trying to be
@@ -1190,10 +1165,8 @@ technique which distinguished the work and conclusions of a scholar like the lat
 C. H. Turner from those of the 'liberal catholic* school.
 
 
-68
 
 
-THE SHAPE OF THE LITURGY
 
 Once the new special connection between these two actions had been
 made in the minds of the disciples, even on the first oc< vision after the last
@@ -1247,7 +1220,6 @@ aetiological way, its substance in itself is something else, a narrative.
 EUCHARIST AND LORD'S SUPPER
 
 
-69
 
 originally put together with no other motive than of recording exactly
 what our Lord did and said at that supper, regardless of its 'point' for any
@@ -1300,7 +1272,6 @@ series of fifteen—no less!—accumulated 'conjectures' in surmounting the thir
 wine as representing the Lord's blood; not indeed a step that would have been
 
 
-70 THE SHAPE OF THE LITURGY
 
 words of our Lord Himself have ever established such an idea in the face
 of the persisting inhibitions exemplified in Acts x. 14; xi. 8; xv. 29; etc.?
@@ -1411,10 +1382,8 @@ wine . . . can never have been uttered by Jesus Himself',2 this atheist
 1 Hunkin, op, cit . p, 18. 2 Ur sprung und Anfange des Christentums> i. 179.
 
 
-THE SHAPE OF THE LITURGY
 
 
-72
 
 jewish historian used terms with which we have been made familiar by
 more than one modem Anglican bishop. He spoke for once not out of his
@@ -1519,10 +1488,8 @@ from no mere attempt to range Himself amongst the prophets of Israel, or
 amongst the righteous men of old, or amongst the best of his contem-
 
 
-THE SHAPE OF THE LITURGY
 
 
-74
 
 poraries, but from the consciousness that, according to t be will of God, the
 whole weight of the law and the prophets had come to rest upon him,
@@ -1576,7 +1543,6 @@ make this long dtation. f
 EUCHARIST AND LORD'S SUPPER
 
 
-75
 
 
 But this interpretation is only implied in the first three gospels, and
@@ -1629,7 +1595,6 @@ means. In that Kingdom He will drink new wine with them, and eat with
 complete while he is in this world, except only in Him.
 
 
-THE SHAPE OF THE LITURGY
 
 
 ?6
@@ -1793,7 +1758,6 @@ the bread and wine together. -
 w grapes and so forth in the Leonine Sacramentary, and other surviving traces of
 
 
-79
 
 
 EUCHARIST AND LORD'S SUPPER
@@ -1854,7 +1818,6 @@ choice of words in Mark xiv. 22, 23.
 So
 
 
-THE SHAPE OF THE LITURGY
 
 i.e.y more than a merely private party. Thus accidentally did gentile
 Christianity preserve evidence that the original jewish church had regarded
@@ -1959,10 +1922,8 @@ shape*, the bare elements of those parts of the chaburah rite to which our
 1 John xix. 36.
 
 
-82
 
 
-THE SHAPE OF THE LITURGY
 
 
 Lord had given a new Christian meaning, extracted from their setting in a
@@ -2075,10 +2036,8 @@ points this seems more or less secure.
 1 Acts xi. 3. 1 Berakoth , Tos., v. 21 (p. 73).
 
 
-THE SHAPE OF THE LITURGY
 
 
-84
 
 primitive— than that of some other churches. For in Tertullian1 we hear
 of prayer at the end of the meal, and also in the East. The absence of the
@@ -2190,10 +2149,8 @@ light.
 8 Ep.y hriii. 16.
 
 
-86
 
 
-THE SHAPE OF THE LITURGY
 
 
 * "We therefore having finished the length of a day and having come to
@@ -2301,10 +2258,8 @@ described. It is most usefully discussed a little later.
 *C/.p. 23.
 
 
-88
 
 
-THE SHAPE OF THE LITURGY
 
 
 confusion over the 'Hallelujah' psalms. (I am inclined to strike out the
@@ -2411,7 +2366,6 @@ dush) and the Thanksgiving—the invariable sign of a chaburah meeting —
 D.S.L.
 
 
-90
 
 
 THE SHAPE OF THE LITURGpf
@@ -2529,10 +2483,8 @@ including Hamack, but this was the general position.
 * Malachi i. 11, 14.
 
 
-92
 
 
-THE SHAPE OF THE LITURGY
 
 
 the three ideas: ( a ) thanksgiving for earthly food; (b) thanksgiving for the
@@ -2638,10 +2590,8 @@ But it appears to be Egyptian and of the early fourth century. It runs thus:
 1 Did . Ap.> ii. 58. Ed. R. H. Connolly, 1929* P- I22*
 
 
-94
 
 
-THE SHAPE OF THE LITURGY
 
 
 'After None take thy food having given thanks to God over thy table
@@ -2698,7 +2648,6 @@ translation from Coptic.)
 EUCHARIST AND LORD'S SUPPER
 
 
-95
 
 gether, just as the laity, met at the Lord's supper without a cleric, are bidden
 to do by Hippolytus a century before. What is interesting is to find the
@@ -2748,10 +2697,8 @@ made the separation. This is especially striking when we consider the
 1 Jewish Background of the Christian Sacraments 3 p, 204.
 
 
-THE SHAPE OF THE LITURGY
 
 
-9 6
 
 significance of the phrase 'the New Covenant in My Blood' in connection
 with the second paragraph of the berakah about the Old Covenant, which
@@ -2854,10 +2801,8 @@ would be communally provided, and the difficulties of 'one going hungry and
 another getting tipsy* in this part of the meal would be less likely to arise.
 
 
-THE SHAPE OF THE LITURGY
 
 
-98
 
 fellowship and Covenant-rite in some sort of balance. But gentile churches
 had no such previous training in their background. Even the meetings of
@@ -2961,10 +2906,8 @@ eucharist combined, and none such exists. On the contrary, they are here distin�
 guished.
 
 
-100
 
 
-THE SHAPE OF THE LITURGY
 
 
 must have continued uninterruptedly throughout the second century if
@@ -3021,7 +2964,6 @@ der Grtechischen Kirche , E. v. der Goltz, Leipzig, 1905 (T.U. xxix. ii).
 EUCHARIST AND LORD'S SUPPER
 
 
-IOI
 
 
 (i) The conditions which dictated the separation were much more likely
@@ -3071,10 +3013,8 @@ had 'the presidency of charity'. With a strong jewish minority in a Greek¬
 speaking church, the need for Greek equivalents to berakali and chabura
 
 
-102
 
 
-THE SHAPE OF THE LITURGY
 
 
 as technical terms would be felt there as soon as anywhere, much sooner

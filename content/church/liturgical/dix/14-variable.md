@@ -6,9 +6,7 @@ params:
  order: 14
 ---
 
-CHAPTER XIV
 
-VARIABLE PRAYERS AT THE EUCHARIST
 
 
 WE turn now to consider an innovation of the post-Nicene period
@@ -53,10 +51,8 @@ part of the year, and we have no evidence of a cycle of lections and chants
 for the ordinary Sundays in pre-Nicene times, despite the precedent of the
 three-year cycle of lections and chants in the synagogue. It is not, however,
 
-527
 
 
-528 THE SHAPE OF THE LITURGY
 
 with lections and chants that we are now concerned, but with the prayers
 said by the celebrant.
@@ -109,7 +105,6 @@ tom at Antioch and Constantinople in his sermons, Ambrose at Milan in de Sacra-
 mentis and Victorinus Afer at Rome (adv. arium , ii. 8). It is a universal tendency.
 
 
-VARIABLE PRAYERS AT THE EUCHARIST 529
 
 vating bishop to make changes, and especially to add to the traditional
 prayer clauses embodying new liturgical fashions, when someone came
@@ -163,10 +158,8 @@ be added in some churches.
 (eighth-ninth century) that S. John Chrysostom is an abbreviation of S. Basil and
 
 
-THE SHAPE OF THE LITURGY
 
 
-530
 
 Byzantine rite thus has variable prayers, and what governs their use is the
 liturgical calendar, just as in the West. In one respect the variability of
@@ -223,7 +216,6 @@ East. But the above rule is generally true, and represents the old universal pra
 of the East.
 
 
-VARIABLE PRAYERS AT THE EUCHARIST 531
 
 varying liturgy used throughout the year, in the fourth century fashion.
 Some Eastern churches already had several such sets in the fifth century,
@@ -278,10 +270,8 @@ There is some evidence that it was being developed in Gaul by c. A.D. 450.2
 2 Cf, p.558.
 
 
-THE SHAPE OF THE LITURGY
 
 
-532
 
 In Spain we have good evidence that it was already fully operative by c.
 a.d. 500.1 We have positive evidence of its acceptance in Italy also by c.
@@ -339,7 +329,6 @@ further arguments to the same effect (some of which are very erratic).
 6C/.p. 568.
 
 
-VARIABLE PRAYERS AT THE EUCHARIST 533
 
 ate the name of a particular Pope with the latter, that of Leo would present
 itself to anyone with a feeling for style much more readily than that of
@@ -394,7 +383,6 @@ Abelard and S. Thomas Aquinas.
 sC/.pp.558^«.>535*
 
 
-534 THE SHAPE OF THE LITURGY
 
 important prayer of the rite—was always verbally the same on every single
 day in the year at Rome, as all eucharistic prayers everywhere seem to have
@@ -446,7 +434,6 @@ dar in the Roman rite much before a.d. 450, and I should not be greatly
 'Cf.pp. 452, 457 sq.
 
 
-VARIABLE PRAYERS AT THE EUCHARIST 535
 
 surprised if it were one day shewn that they made their first appearance
 there only in the latter half of that century. For what its evidence is worth,
@@ -504,10 +491,8 @@ think that is what is intended.
 3 Cf. p. 180.
 
 
-THE SHAPE OF THE LITURGY
 
 
-536
 
 Five years later the African Council of Milevis had to return to the
 charge, and this time there is no beating about the bush. Tt was resolved
@@ -561,7 +546,6 @@ intended as alternatives; at least they duplicate each other's contents to some 
 But I see no way of being certain of this.
 
 
-VARIABLE PRAYERS AT THE EUCHARIST 537
 
 brant's prayers for all sacramental rites; and for some of these (e.g.
 confirmation, ordination) it still gives only a single set of prayers to be used
@@ -614,10 +598,8 @@ and probably goes back in the Alexandrian use to a period well before that
 2N D.S.L.
 
 
-THE SHAPE OF THE LITURGY
 
 
-538
 
 date.1 But we have also seen that at Alexandria it originally formed not the
 introduction before but the conclusion after the 'thanksgiving series'; i.e.
@@ -668,7 +650,6 @@ tomary to do elsewhere and especially in what it calls 'the Apostolic see',
 1 Cf. p. 165. 8 C/. p. 221. 3 Brightman, L.E.W., p. I 18, //. 2 4 sq.
 
 
-VARIABLE PRAYERS AT THE EUCHARIST 539
 
 it would not be surprising if the use of the sanctus indiscriminately at all
 masses was then a fairly recent modification at Rome of a previous practice
@@ -721,10 +702,8 @@ author's argument is that the catholics do in practice subordinate the Son
 8 E,g. Serm ., liii. 14.
 
 
-THE SHAPE OF THE LITURGY
 
 
-540
 
 to the Father just as much as do the Arians themselves; witness the texts of
 their own official catholic prayers. After quoting from the exorcism of the
@@ -790,7 +769,6 @@ published in Dom Wilmart's North Italian Services of the nth Cent. (H.B.S., 1931
 leaves no doubt that these are from the same region, though much earlier.
 
 
-VARIABLE PRAYERS AT THE EUCHARIST 541
 
 Egyptian local rite, from the period before the influence of the great sees
 had overwhelmed the local traditions. Of the first fragment nothing need
@@ -844,7 +822,6 @@ later Milanese prefaces see Dom Wilmart, Ephemerides Liturgicae, L (1936), pp.
 3 S. Ambrose, de Sacramentis, iii. 1. 5.
 
 
-542 THE SHAPE OF THE LITURGY
 
 Roman or Milanese, do— leaving the equivalent of paragraphs (i) and (3) in
 that Italian prayer (B) intact. All this suggests that the 'proper' prefaces
@@ -897,7 +874,6 @@ Roman usage, and that the restraint of Greg . continued traditional Roman custom
 (I am not sure Greg . did not increase the Roman proper prefaces by one.)
 
 
-VARIABLE PRAYERS AT THE EUCHARIST 543
 
 immutable, hieratic, timeless, seeking always to transcend temporal life.
 The Western idea of religion on the contrary is something more supple and
@@ -947,7 +923,6 @@ What Rome took over from Syria or Gaul it took in its own way and re¬
 moulded to its own mind, just as (in the case of the preface and sanctus)
 
 
-544 THE SHAPE OF THE LITURGY
 
 Syria had made a new use of a custom borrowed from Egypt, and the West
 in turn gave a new twist to the borrowed Syrian introduction to the sanctus
@@ -996,7 +971,6 @@ the Alexandrian liturgy of S. Mark were copied in Sicily and Calabria;
 the Roman mass turns up in Georgian and Armenian translations (with the
 
 
-VARIABLE PRAYERS AT THE EUCHARIST 545
 
 addition of an Egyptian invocation) in the Caucasus in the eleventh
 century, having travelled by way of Albania and Mt. Athos and Thessa-

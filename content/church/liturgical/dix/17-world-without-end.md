@@ -48,10 +48,8 @@ But it is already clear that none of these modern theories whether revo¬
 lutionary or restatements of old theses—will serve as it stands for the
 
 
-73S
 
 
-736 THE SHAPE OF THE LITURGY
 
 
 groundwork of that scientific reconstruction of which liturgical study is
@@ -160,7 +158,6 @@ law which had grown up in the interval held some of its ground, and even affecte
 the theories of the civil lawyers to some extent.
 
 
-738 THE SHAPE OF THE LITURGY
 
 Both the cause and the process of this breach of continuity lie in the dark
 ages.
@@ -270,7 +267,6 @@ publication would in the long run so effectively assist the general progress of 
 study.
 
 
-740 THE SHAPE OF THE LITURGY
 
 literature of the period between the two Testaments (some knowledge of
 which is discernible in parts of our Lord's own teaching, and some of
@@ -372,10 +368,8 @@ of the worshippers. So it gives rise all the time to new notions by the
 1 1 venture to repeat the recommendation of Dr. Srawley's book, cf.p. 208, n. 1.
 
 
-THE SHAPE OF THE LITURGY
 
 
-742
 
 interaction of these urgent contemporary ideas in the minds of those
 worshipping by ancient inherited forms. Thus arises the ever-shifting
@@ -475,10 +469,8 @@ made flesh.
 At the heart of it all is the eucharistic action, a thing of an absolute
 
 
-744
 
 
-THE SHAPE OF THE LITURGY
 
 simplicity—the taking, blessing, breaking and giving of bread and the taking,
 blessing and giving of a cup of wine and water, as these were first done with
@@ -528,7 +520,6 @@ have left no slightest trace in this world, not even a name, but have passed
 to God utterly forgotten by men. Yet each of them once believed and
 
 
-THROUGHOUT ALL AGES, WORLD WITHOUT END5 745
 
 prayed as I believe and pray, and found it hard and grew slack and sinned
 and repented and fell again. Each of them worshipped at the eucharist, and
@@ -577,7 +568,6 @@ third Sunday of Easter in the summer after he landed. Yet 'this5 can still
 take hold of a man's life and work with it.
 
 
-746 THE SHAPE OF THE LITURGY
 
 It is not strange that the eucharist should have this power of laying hold
 of human life, of grasping it not only in the abstract but in the particular
@@ -680,7 +670,6 @@ cussion of time and eternity upon each other in that act of God which is the
 1 Lk. xxiii. 46.
 
 
-748 THE SHAPE OF THE LITURGY
 
 redemption of the world by Jesus of Nazareth, that is the essence of primi¬
 tive Christian eschatology. And of this the supreme expression from the
@@ -788,7 +777,6 @@ Adam redivivus. ' .
 5 1 Cor. xi. 7. * Hippolytus, Ap. Trad.> 1. 1.
 
 
-750 THE SHAPE OF THE LITURGY
 
 image and likeness of God \1 For him, this doctrine of 'the image' is
 Christianity 'in a nutshell', as we say. In the most serene of his treatises,
@@ -894,7 +882,6 @@ This is the whole life of the church and of the Christian expressed,
 8 Man. xxvi. 29. 9 Rom. viii. 29. 10 Dan. vii. 13 sqq.
 
 
-752 THE SHAPE OF THE LITURGY
 
 fulfilled, done, in an action; for as Goethe (I think) says somewhere, 'the
 highest cannot be spoken, it can only be acted'. The more we can learn to

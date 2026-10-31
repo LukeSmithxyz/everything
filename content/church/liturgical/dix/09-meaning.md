@@ -6,10 +6,8 @@ params:
  order: 9
 ---
 
-CHAPTER IX
 
 
-THE MEANING OF THE EUCHARIST
 
 The eucharist is an action—cdo this5—with a particular meaning given
 to it by our Lord Himself— Tor the anamnesis of Me5. The action is
@@ -54,10 +52,8 @@ a better approach to the question.
 Every external human action requires some determin ition of its 'signifi¬
 cance5. In the case of the action of an individual this car be purely mental,
 
-238
 
 
-THE MEANING OF THE EUCHARIST 239
 
 his own consciousness of his own purpose. In the case of a corporate
 action of a number of people, it must be 'public' and recognisable, which is
@@ -114,10 +110,8 @@ crated Bread only which has to be remedied by a re-consecration, re-consecration
 under both kinds would involve the provision of another chalice.)
 
 
-240
 
 
-THE SHAPE OF THE LITURGY
 
 Cyril at Jerusalem contained no explicit assertion c f adherence to the
 meaning given to the eucharist at the last supper in the form of an insti¬
@@ -166,10 +160,8 @@ century attempts to place the consecration 'moment9 or 'formula9 at the
 recitation of the series of 'Thanksgivings9 which had fonned the primitive
 
 
-THE MEANING OF THE EUCHARIST
 
 
-241
 
 
 nucleus of the prayer. The memory of the jewish origin and meaning of the
@@ -224,10 +216,8 @@ ficial action in a somewhat obscure passage (de Civitate Dei, x. 6), though he e
 where makes it dear (e.g. ibid . xxii. 10) that it cannot strictly be a part of it.
 
 
-THE SHAPE OF THE LITURGY
 
 
-242
 
 preponderance of writers can be quoted both from tile East and West, in
 all periods both before and after Nicaea down to aboui: the year a.d. 1000,
@@ -283,10 +273,8 @@ lCf.pp . 74 sqq*
 3 Ibid. ix. 12, 24.
 
 
-THE MEANING OF THE EUCHARIST
 
 
-243
 
 offered Self, and work and life and death, perpetually accepted by the
 Father in the world to come.
@@ -339,7 +327,6 @@ offer the same. Or rather we offer the anamnesis of the sacrifice'.1
 1 S. John Chrysostom (Antioch, c. a.d, 390) in Heb , Horn . xvii. 3.
 
 
-THE SHAPE OF THE LITURG
 
 
 ^-~___Jirysostom was a popular preacher who had felt the fc rce of many of the
@@ -396,7 +383,6 @@ the invocation of God is no more common bread but eu :harist, consisting
 * Justin Ap. 1.66.
 
 
-THE MEANING OF THE EUCHARIST 245
 
 of two realities, an earthly and a heavenly/ It is the beginning of a formal
 eucharistic theology as opposed to sheer statements of belief. In Irenaeus'
@@ -445,10 +431,8 @@ vary in its 'realism* or 'symbolism' precisely in accordance with the
 'realism' or 'symbolism* of our doctrine of the Presence by consecration.
 
 
-THE SHAPE OF THE LITURG
 
 
-246
 
 We make the sacrifice dependent on the sacrament. But the primitive
 church approached the matter from the opposite direction. They said that
@@ -498,10 +482,8 @@ these two terms, the 'true' and the 'mystical' Body, had exactly exchanged
 1 Origen (Alexandria, c. a.d. 235), Injoamem , x.20.
 
 
-THE MEANING OF THE EUCHARIST
 
 
-247
 
 their meanings. And it is to be feared that all over the West since then the
 refinements of theological language have gready weakened the primidve
@@ -556,10 +538,8 @@ it was the church which was offered and consecrated in the eucharist rather
 2 Sermon 272.
 
 
-THE SHAPE OF THE LITURGY
 
 
-248
 
 than the sacrament. The best known is probably the magnificent paragraph
 of his de Civitate Dei in which he declares that 'The ci 1 y of the redeemed
@@ -618,7 +598,6 @@ century called it the virttis, but this is a matter of terminology.)
 doctrine {Defence of the True and Catholic Doctrine, etc., I. xv.).
 
 
-THE MEANING OF THE EUCHARIST 249
 
 fifteenth centuries concentrated its attention in the field of eucharistic
 theology upon interminable debates around the question of the exact rela¬
@@ -668,10 +647,8 @@ devotion. On the whole the Jesuits were more successful than Cranmer in
 promoting if equent, even weekly, lay communion among those who came
 
 
-250
 
 
-THE SHAPE OF THE LITURGY
 
 under their spiritual direction. Our liturgy has one remarkable expression
 of the old doctrine that the res or virtus of the sacrament is 'that we are
@@ -720,7 +697,6 @@ found as a matter of observable historical fact in the English history of the
 last three centuries, from Andrewes and Laud through Wesley, F. D.
 
 
-THE MEANING OF THE EUCHARIST 251
 
 Maurice and the early Ritualists of the English slums down to Charles
 Gore and Frank Weston, that a 'high' doctrine of the sacrament has always
@@ -774,7 +750,6 @@ go back to S. Paul in 1 Cor. for their starting-point.
 2 Westcott, Commentary on S. John's Epistles , 1 John ii. 1 and 2.
 
 
-252
 
 
 THE SHAPE OF THE LITUR*
@@ -830,7 +805,6 @@ Minor c. a.d. 115,8 though the application to the e icharist in this case
 7 Strom, iv. 25, ed. Potter 3p. 637. a Ep. 12.
 
 
-THE MEANING OF THE EUCHARIST 253
 
 is not brought out. In the third century itisuniversal3 ^central in
 the thought about the sacramratof Origen ^jEe^st^as^^ri§DLin the
@@ -885,7 +859,6 @@ ought to be offered 'to Christ the true High-priest* (ed. ctt. p. 86) though thi
 doctrine is not here applied to the eucharist.
 
 
-THE SHAPE OF THE LITURGY
 
 
 consideration of such clauses is more conveniently^ deferred for the
@@ -941,7 +914,6 @@ to the authentic text. They spoil the point.)
 9Cf. 2 Cor. xi. 2.
 
 
-THE MEANING OF THE EUCHARIST 255
 
 offering of Christ to death is echoed by Ignatius of Antioch as he foresees
 in terms of a eucharist his own impending martyrdom in the amphitheatre:
@@ -1060,7 +1032,6 @@ eschatology*. For a less 'platonised* account of the matter, see A. E. J. Rawlin
 The New Testament Doctrine of the Christ (1926), pp. 32-41.
 
 
-THE MEANING OF THE EUCHARIST 257
 tradition had adopted a 'cyclic' view of history. Probably this was ulti¬
 mately due to the influence of Babylonian astronomy and its theory of a
 periodical revolution of the eight 'circles of the heavens5 by which after
@@ -1110,7 +1081,6 @@ the meaning of history is complete the ruling or 'Kingdom5 of God in all its
 1 So e.g. Nemesius (a very interesting Christian Stoic), de Natura Hominum, 38.
 
 
-258 THE SHAPE OF THE LITURGY
 
 parts will be 'manifested', will be obvious and vindica ted. In the later
 Jewish theory it was the function of the mysterious b eing whom they
@@ -1162,10 +1132,8 @@ other terms the conception goes back to the O.T. prophets. 1
 history. j
 
 
-THE MEANING OF THE EUCHARIST
 
 
-259
 
 Kingdom God Himself would have given to Israel the power to keep it.
 Through the Messiah God would thus 'redeem5 Israel from its own sins and
@@ -1281,7 +1249,6 @@ five or ten minutes of each other. The idea of a baptised but unconfirmed Christ
 would have seemed to the pre-Nicene church a monstrosity: 'If any man have not
 
 
-THE MEANING OF THE EUCHARIST 261
 
 confirmed may take part in the eucharist, which is the vital act of the
 Body in time.
@@ -1336,10 +1303,8 @@ church, see Theology Occasional Papers , No. v.
 1 Dan. vii. 13. 2 Dan. vii. 12.
 
 
-262
 
 
-THE SHAPE OF THE LITURGY
 
 
 Hebrew to Greek modes of thought, makes it a delicate and hazardous
@@ -1399,7 +1364,6 @@ age** meet in the Church*. And I would add, especially at the eucharist.
 4 Mark xiii. 6 Dialoguey 121.
 
 
-THE MEANING OF THE EUCHARIST 263
 
 in eternity. The same eternal fact can touch the process of history at more
 than one point, and if there is an apparent difference in the effects of such
@@ -1453,10 +1417,8 @@ in other directions) seems awkward to apply to the primitive eucharist in some
 ways. I do not think the primitive church would have agreed with Prof. Webb that
 
 
-THE SHAPE OF THE LITURG
 
 
-264
 
 anamnesis . What the church 'remembers' in the euchariit is partly beyond
 history—the ascension, the sitting at the right hand of tire Father and the
@@ -1512,7 +1474,6 @@ S. Cyril (Coptic), p. 178 (these two last are closely connected; orobably the Co
 depends on the Syriac). Addai and Mari, p. 287, is independent c f all the rest.
 
 
-THE MEANING OF THE EUCHARIST 265
 
 found that directly or indirectly they are all (except that of Addai and Mari )
 derived from the form in Ap. Const , viii. It appears, therefore, that the
@@ -1562,7 +1523,6 @@ language which it is impossible to render adequately in English, but to
 which a Greek-speaking church could not be blind, Daniel had spoken of
 
 
-266
 
 
 THE SHAPE OF THE. LITURGY
@@ -1620,10 +1580,8 @@ in preference to the LXX.
 * Theodore Cqtecheses , vi. ed . cit.3 p. 108.
 
 
-THE MEANING OF THE EUCHARIST
 
 
-267
 
 eucharistic prayer): 'beseeching Thee that Thou wouldest be pleased to
 pour Thy Holy Spirit into us who eat and drink those things that confer

@@ -6,10 +6,8 @@ params:
  order: 7
 ---
 
-CHAPTER VII
 
 
-THE EUCHARISTIC PRAYER
 
 Iet us look back for a moment. We have seen that the eucharist is
 -/primarily an action, our obedience to our Lord's command to 'Do this';
@@ -57,13 +55,10 @@ circumstances of the church, that even if material is still to be found in them 
 is as old as the fifth century— which has yet to be proved— -it is not possible to
 compare it closely with the material we shall be using here.
 
-156
 
 
-THE EUCHARISTIC PRAYER
 
 
-157
 
 affected if these lost traditions could be included. I believe that the answer
 is 'very little in principle and a great deal in detail*, because of the form of
@@ -124,7 +119,6 @@ i58
 d which is shed for
 
 
-THE SHAPE OF THE LITURGY
 
 devil and tread down hell and enlighten the righteous and establish
 the ordinance and demonstrate the resurrection,
@@ -209,7 +203,6 @@ London, 1937, pp. 75 sq.
 the sense in translation).
 
 
-THE EUCHARISTIC PRAYER 159
 
 that some of the phrasing in a-e is of his own composition, and repre¬
 sents his own peculiar theology of the Trinity; and it is at least possible
@@ -264,7 +257,6 @@ true high-priestly race of God ... for God accepts sacrifices from no one
 but by the hands of His own priests' (Dialogue, 1 16).
 
 
-160 THE SHAPE OF THE LITURGY
 
 (ky l ) These have no verbal parallels in Justin's allusions to the eucharist
 like the above, though the same sentiments are to be iound at large in his
@@ -316,7 +308,6 @@ The institution narrative of (/) is in fact the pivot of the whole prayer as
 1 On the Pascha , v. 2. 3 Ibid. vi. 5.
 
 
-THE EUCHARISTIC PRAYER 161
 
 it stands. It is the climax or point of all that precedes, and the starting
 point of all that follows. The command and promise it contains ( g ) are the
@@ -365,7 +356,6 @@ for this reason that Justin and Hippolytus and later writers after them
 speak so directly and vividly of the eucharist in the present bestowing on the
 
 
-162 THE SHAPE OF THE LITURGY
 
 communicants those effects of redemption—immortalii y, eternal life, for¬
 giveness of sins, deliverance from the power of the devil and so on —
@@ -416,10 +406,8 @@ lying the present text, as well as to the present text itself.
 (Nov. 1938), pp. 261 sq. I
 
 
-THE EUCHARISTIC PRAYER
 
 
-163
 
 
 Prayer of Oblation of Bishop Sarapion.
@@ -474,10 +462,8 @@ state entry of a governor into his province. It was also used for the 'appearanc
 of pagan gods.
 
 
-164
 
 
-THE SHAPE OF THE LITURGY
 
 
 : Blood, because the
@@ -541,7 +527,6 @@ adding anything essential to the scope. The structure may be analysed thus:
 1 This rubric is in Sarap ion's text.
 
 
-THE EUCHARISTIC PRAYER 165
 
 concerned with the same subject, the relation of God the Father to God the
 Son (to the exclusion in each case of the Holy Ghost). The first paragraph
@@ -590,10 +575,8 @@ ment or variation worth mentioning from the Alexandrian text, which in
 1 Cf. Theology , xxxvii. (Nov. 1938), pp. 271 sq. 1 Ibid
 
 
-1 66
 
 
-THE SHAPE OF THE LITURGY
 
 
 the conditions of the period suggests that its incorporati on was not of long
@@ -648,7 +631,6 @@ seems easier at this point if there is a passage of ideas rrom the offering of
 8 Cf. also the Alexandrian preface on p. 218.
 
 
-THE EUCHARISTIC PRAYER 167
 
 the worship of the sanctus as a 'living sacrifice' of praise, to the offering of
 the eucharistic 'sacrifice of the death'. This carries with it the implica¬
@@ -700,7 +682,6 @@ identification. This desire is found in other fourth century writers also, but
 'Cfp.90.
 
 
-1 68
 
 
 THE SHAPE OF THE LITUR'
@@ -761,10 +742,8 @@ Blood of Christ. This became for them the 'moment of consecration'; a
 4 Cf. e.g. p. 159 (c3d,g).
 
 
-THE EUCHARISTIC PRAYER
 
 
-169
 
 'moment' which the West, when it adopted the idea from the East, con¬
 tinued to place at the old pivot of the prayer, the institution narrative. Had
@@ -817,7 +796,6 @@ in this clause of the part played by this conception. The prayer in (e1) and
 D.S.L.
 
 
-170 THE SHAPE OF THE LITURGY
 
 (e2) for the identification of the elements with the Body and Blood of
 Christ and for their eternal effects upon the bodies and souls of the com¬
@@ -869,10 +847,8 @@ their being included somehow within that, whatever confusion to its primi-
 1 Excerpta ex Theodoto , 82. 8 E.g. Mark ix. ■ 19; John xiv. 13, etc.
 
 
-THE EUCHARISTIC PRAYER
 
 
-171
 
 tive shape and purpose this might cause. Even when the two services were
 celebrated together, there was a natural desire to associate a prayer for the
@@ -975,10 +951,8 @@ of the sacrifice of Christ, does not in any way obscure the fact that it is
 Calvary and not the Upper Room which is thus 're-called*.
 
 
-THE EUCHARISTIC PRAYER
 
 
-173
 
 
 (iii) The Syrian Tradition
@@ -1029,10 +1003,8 @@ does not run along racial lines, for the vast majority of the hellenists were
 not immigrants but hellenised Syrians. Nor was it primarily geographical.
 
 
-THE SHAPE OF THE LITURGY
 
 
-174
 
 though naturally Antioch and the great coast towns Were strongholds of
 hellenism, as the hinterland was of the native traditio n. But there were
@@ -1081,10 +1053,8 @@ chapter to the long story of the wars of Israel with Syria which punctuate
 the Books of the Kings* and are continued by the revolt of the Maccabees
 
 
-THE EUCHARISTIC PRAYER
 
 
-175
 
 against the Seleucids. And besides this inveterate separatism of the South
 there were other pockets of local resistance to all Antiochene or hellenistic
@@ -1138,7 +1108,6 @@ local rite of Antioch, which is known to us only obscurely from a number of
 sources, of which the most reliable are hints to be found in the Antiochene
 
 
-176 THE SHAPE OF THE LITURGY
 
 writings of S. John Chrysostom (c. a.D. 360-397).1 S. James as it stands is
 closely connected with the fourth century rite of Jerusalem, which was
@@ -1194,10 +1163,8 @@ itself but of some other North Syrian city, a rite of the same general type, but
 traditions of its own.
 
 
-THE EUCHARISTIC PRAYER
 
 
-177
 
 
 James everywhere came into use, the text of its eucharistic prayer never
@@ -1248,7 +1215,6 @@ state on the Eastern Roman frontier, a strong centre of Semitic culture and
 tradition, though theologically it also acted as a channel for the diffusion
 
 
-THE SHAPE OF THE LITURGY
 
 
 ek ideas to the purely unhellenic regions around and east of itself.
@@ -1303,10 +1269,8 @@ I am, like all other students, indebted to his essay for my understanding of thi
 liturgy.
 
 
-THE EUCHARISTIC PRAYER
 
 
-179
 
 
 Name with holy Cherubim and spiritual Seraphim offering worship
@@ -1420,7 +1384,6 @@ to the Trinity has obviously been rewritten, but Mr, Ratcliff has pointed
 lCf. p. 190 ».
 
 
-THE EUCHARISTIC PRAYER 181
 
 out that (a) 'Worthy ... of confession from every tongue ... is the Name
 . . . of Thy . . . Trinity' is reminiscent of Philippians ii. 9-1 1, where, how¬
@@ -1474,10 +1437,8 @@ Him directly like the rest of the prayer. The whole connection
 * Perhaps also in that of Hippolytus O').
 
 
-182
 
 
-THE SHAPE OF THE LITUR
 
 
 of thought between (g), ( A ) and (i) is very confused and difficult to follow.
@@ -1529,7 +1490,6 @@ believe such an epiklesis-pztitioii to have been a Greek invention of the
 1 /.*. the petition known as the epiklesis, exemplified e.g\ in S. James, /*, p.191.
 
 
-THE EUCHARISTIC PRAYER 183
 
 fourth century should be inclined to treat the whole section as a later
 interpolation intended to bring Addai and Mari into line with Greek
@@ -1584,7 +1544,6 @@ connections in which "the Presence" ( shekinah ) is elsewhere employed
 THE SHAPE OF THE LITUR*
 
 
-184
 
 without any apparent difference of usage . . .n There jare certain limita¬
 tions to be observed in this Jewish equating of 'the presence' of God with
@@ -1636,7 +1595,6 @@ glorified life '. Such at least seems to be the only reasonable interpretation
 • G. M. Farrer in The Parish Communion, p. 80 (italics mine).
 
 
-THE EUCHARISTIC PRAYER 185
 
 of the actual things for which the petition as it stands makes request. I
 venture to think that this is not a 'later' but a very early conception indeed
@@ -1692,7 +1650,6 @@ D.S.t.
 i8 6
 
 
-THE SHAPE OF THE LITURGY
 
 
 ably beautiful one. We may compare it with the very ancient (possibly
@@ -1753,7 +1710,6 @@ essential meaning of the eucharist in rational relation to the whole Christian
 revelation. Addai and Mari is equally Semitic in [the intensity of its absorp-
 
 
-THE EUCHARISTIC PRAYER
 
 
 i
@@ -1806,10 +1762,8 @@ convenience, noting only some of the variants of Js. Words between t • • t
 are not in Js. Matter underlined in Jg is derived from C.
 
 
-1 88
 
 
-THE SHAPE OF THE LITURGY
 
 
 Jg {andjs)
@@ -1902,7 +1856,6 @@ come partakers in the praises
 of the armies of the heavens.'
 
 
-THE EUCHARISTIC PRAYER
 
 
 Address . (b) Priest: Holy art Thou, O
@@ -1956,10 +1909,8 @@ and hallowed and broke and gave it to
 His holy disciples and aposdes, saying:
 
 
-190
 
 
-THE SHAPE OF THE LITURGY
 
 
 [The deaconsclaim: For the remission
@@ -2071,7 +2022,6 @@ good and glorious coming He may hallow
 and make this bread the holy Body of
 
 
-191
 
 
 C x: mi. 7-1 1
@@ -2109,7 +2059,6 @@ THE SHAPE OF THE LITURGf
 *92
 
 
-Y
 
 
 Christ [The people: Amen.] and this cup
@@ -2203,10 +2152,8 @@ for the gootjl ordering of the
 world;
 
 
-THE EUCHARISTIC PRAYER
 
 
-193
 
 
 every city and region and them of the
@@ -2277,10 +2224,8 @@ brance all them that have
 fallen asleep before us; and
 
 
-194
 
 
-THE SHAPE OF THE LITURGY
 
 
 their several generations, our holy fathers,
@@ -2354,10 +2299,8 @@ that have fallen
 us
 
 
-THE EUCHARISTIC PRAYER
 
 
-195
 
 
 archbishop and apostle and martyr even
@@ -2435,10 +2378,8 @@ that loveth mankind on their
 behalf as well as on our own.
 
 
-THE SHAPE OF THE LITURG
 
 
-196
 
 Doxology . (p) With Whom blessed be
 Thou and glorified with Thine all-holy
@@ -2489,7 +2430,6 @@ into its text. There is a curious detail, however, in Cyril's phrasing which
 is not taken over by S. James , but which suggests that the Jerusalem pre-
 
 
-THE EUCHARISTIC PRAYER 197
 
 face was originally borrowed from the Egyptian tradition of Alexandria
 (where the use of the preface and sanctus was probably first developed).
@@ -2543,10 +2483,8 @@ come 'next' in the text of S. James. ' Next we call to remembrance all them
 8 L. E. 469.
 
 
-198
 
 
-THE SHAPE OF THE LITURGY
 
 
 that have fallen asleep', where there is good evidence that the clause com¬
@@ -2601,10 +2539,8 @@ independent use of scripture as to reminiscences of liturgical phraseology.
 2 Justin, Ap. 1. 66.
 
 
-THE EUCHARISTIC PRAYER
 
 
-199
 
 reserved sacrament 'is the Body of Christ',1 'the cup and the bread receive
 the Word of God and become the Body and Blood of Christ'.2 But there is
@@ -2656,10 +2592,8 @@ customary everywhere to offer the sacrifice for particular objects, but the
 * Irenaeus, adv . Haer iv. 18. 4.
 
 
-200
 
 
-THE SHAPE OF THE LITURGY
 
 matter had not been further defined. Once again there is not exactly any¬
 thing wholly revolutionary in what Cyril says, but again there is a logical
@@ -2714,10 +2648,8 @@ Horn., xiii. 3. j
 2 E.g . Origen in Psalm xxxvii; Horn., ii. 6. |
 
 
-THE EUCHARISTIC PRAYER
 
 
-201
 
 
 the same sort of result as at Thmuis, but that there the gap was not filled
@@ -2771,10 +2703,8 @@ twenty years before Cyril commented upon it for the catechumens in
 D.S.L.
 
 
-202
 
 
-THE SHAPE OF THE LITURGY
 
 A.D. 348. Though each separate item has been equipped with a basis of an
 up-to-date theological theory, which has largely dictated the actual form
@@ -2824,10 +2754,8 @@ which the church offers, but 'this fearful and unbloody sacrifice'. It is not
 easy to say whether the rite is regarded more particular ly as the representa-
 
 
-THE EUCHARISTIC PRAYER
 
 
-203
 
 tion of the last supper or of Calvary, because all explicit mention of either
 event is lacking throughout the whole prayer— a survival of the same sort
@@ -2877,10 +2805,8 @@ tradition.
 1 Cat . xxiii. 21, 22.
 
 
-204
 
 
-THE SHAPE OF THE LITURGY
 
 
 The Rite of Antioch in the Fourth Century
@@ -2952,7 +2878,6 @@ century text of S. Mark found in the Strassburg Papyrus No. 254.
 4 Brightman, op. cit. p. 479, //. 50 sq.
 
 
-THE EUCHARISTIC PRAYER 205
 
 missing from the verbose description of the rite of Mopsuestia (of Antio¬
 chene type) by his contemporary Theodore. If Addai and Mari be an
@@ -3007,10 +2932,8 @@ cants in the same terms, 'for the forgiveness of sins and for eternal life', as
 * Brightman, op. cit . pp. 474, /. 20 and 480, II. 1 sqq.
 
 
-206
 
 
-THE SHAPE OF THE LITURG1
 
 
 that in S. James (i). With S. James (k) we may compare the prayer for the
@@ -3070,7 +2993,6 @@ making such an invocation the central pivot of,
 their rite, Antioch, the
 
 
-THE EUCHARISTIC PRAYER 207
 
 mother church of Syria, might well feel that something of the kind ought
 somehow to find a place in its own rite, and yet be unwilling at that time

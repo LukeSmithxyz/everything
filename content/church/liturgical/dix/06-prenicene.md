@@ -6,7 +6,6 @@ params:
  order: 6
 ---
 
-CHAPTER VI
 
 THE PRE-NICENE BACKGROUND OF THE LITURGY
 
@@ -54,10 +53,8 @@ ever.
 * In its 'ferial* not 'festal* form. The latter is known to be a later elaboration.
 
 
-142
 
 
-THE SHAPE OF THE LITURGY
 
 
 It is very easy for us to romanticise the life and wors lip of the primitive
@@ -169,10 +166,8 @@ The proceedings are by summary jurisdiction, as in the case of a raid on
 a night-club with us. They are all charged together 'with being Christians',
 
 
-THE SHAPE OF THE LITURGY
 
 
-144
 
 i,e. members of an unlawful association. Each is askedlin turn whether he
 pleads guilty or not guilty. If he answers 'guilty5, his case is virtually deci¬
@@ -370,7 +365,6 @@ membership of the ecclesia all apostates who showed the sincerity of their
 repentance by undergoing a period of penance. The lapsed flocked back in
 
 
-148 THE SHAPE OF THE LITUBGY
 
 thousands, and the correspondence of S. Cyprian contains abundant evi¬
 dence with what eagerness they sought to resume thei: Christian life, not as
@@ -474,7 +468,6 @@ at least because the state made the holding of Christian worship in itself a
 1 Tertullian, Apologeticus , xL
 
 
-ISO THE SHAPE OF THE LITURGY
 
 capital crime. In any case she would probably have been reluctant to do
 this in a pagan world, because the eucharist expressed in its very essence
@@ -575,10 +568,8 @@ For these Christian men and women were very normal. They were
 1 Tamilian, Ap., viii.
 
 
-152
 
 
-THE SHAPE OF THE LITURGY
 
 
 not impossibly heroic. Their answers in the dock often shew that they were
@@ -680,10 +671,8 @@ bers of Christ's Body, the church, all Christians must do this, and they can
 1 Dionys. Al. ap. Eusebius, Eccl '. Hist., VII. xxii. 4.
 
 
-THE SHAPE OF THE LITURGY
 
 
-154
 
 do it in no other way than that which was the last command of Jesus to His
 own. That rule of the absolute obligation upon each of the faithful of

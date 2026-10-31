@@ -6,10 +6,8 @@ params:
  order: 8
 ---
 
-CHAPTER VIII
 
 
-BEHIND THE LOCAL TRADITION
 
 The reader has now seen something of the evidence for a great diversity
 in the local traditions of the eucharistic prayer during a period which
@@ -54,13 +52,10 @@ Liturgy (Cambridge, 1913). It is unfortunately out of print, but is still someti
 available second-hand. This is still the best technical introduction to liturgical
 studies available in English. T
 
-208
 
 
-209
 
 
-BEHIND THE LOCAL TRADITIONS
 
 dent, and to which (so it seems to me) he is entitled to expect a plain and
 practical answer—and to which (so it seems to him) he does not always get
@@ -110,10 +105,8 @@ prayers have conformed since very early times. This authentic model the
 earlier representatives of this school mostly found to be best represented
 
 
-210
 
 
-THE SHAPE OF THE LITURGY
 
 by the Byzantine or North Syrian type of prayer, whose: earliest complete
 example is the eucharistic prayer of the liturgy in the Apostolic Constitu¬
@@ -167,7 +160,6 @@ said so much about the practice of the primitive church.
 July 1927, pp. 24255.
 
 
-BEHIND THE LOCAL TRADITIONS 211
 
 general background of liturgical knowledge which most of the clergy had
 picked up in the course of their professional training. And in itself it offers
@@ -221,10 +213,8 @@ Studies 3 viii. 1), 1909, pp. 126 sqq. Both are outstanding pieces of scholarshi
 latter in particular is magisterial. But neither is at all easy reading for the uninitiated.
 
 
-212
 
 
-THE SHAPE OF THE LITURGY
 
 
 able in the state of the evidence until just the last few years) that the main
@@ -277,7 +267,6 @@ these same interested but inexpert circles ten years later, at the very cool
 reception accorded to Frere's book on The Anaphora by the reviewers
 
 
-BEHIND THE LOCAL TRADITIONS 213
 
 (mostly competent liturgical scholars) almost without exception in the
 learned periodicals of all countries. It was inevitable from the form in
@@ -330,7 +319,6 @@ has centred, was not of Frere's making at all. It was composed by a well-known
 reasons of policy, was prepared in private to criticise its wording somewhat strongly.
 
 
-214
 
 
 THE SHAPE OF THE LITURGi
@@ -384,10 +372,8 @@ What was fixed and immutable everywhere in the second century was
 the outline or Shape of the Liturgy, what was done. What our Lord insti-
 
 
-BEHIND THE LOCAL TRADITIONS
 
 
-215
 
 tuted was not a 'service', something said, but an action, something done —
 or rather the continuance of a traditional Jewish action, but with a new
@@ -439,7 +425,6 @@ to me to be either fanciful or accidental, though others must judge for
 themselves.
 
 
-THE SHAPE OF THE LITURGY
 
 
 —-ts first paragraph opens with the usual formula of address to God in
@@ -526,7 +511,6 @@ apparently in approximately the same order, is found as matter of the
 eucharistic prayer at Rome in Justin c . a.d. 155 and in Hippolytus fifty
 
 
-BEHIND THE LOCAL TRADITIONS 217
 
 years later. The same themes, in approximately the same order, are found
 too in other traditions, e.g. at Antioch and Edessa; though we cannot in
@@ -590,7 +574,6 @@ D.S.L.
 2l8
 
 
-THE SHAPE OF THE LITURGY
 
 As this text has not hitherto been given, but will now be necessary to the
 argument, we may say that a collation of this papyrus, where it is legible,
@@ -641,7 +624,6 @@ andrian rite at some point by the time of Origen c. a.d. 2 30, and that there
 is nothing to suggest that their use was then a recent innovation.
 
 
-BEHIND THE LOCAL TRADITIONS 219
 
 It is usual to regard the preface and sanctus as a peculiar development
 of the 'thanksgiving series' opening of the prayer. But the fact remains
@@ -691,10 +673,8 @@ tion. (We need not at this point try to decide exactly where this sequence
 ended, and whether it originally included a reference to the last supper or
 
 
-220
 
 
-THE SHAPE OF THE LITURGY
 
 
 not The universal existence of such a sequence is sufficient for our imme¬
@@ -747,7 +727,6 @@ church. Such an outline of the prayer could very well be a part of that
 fixed 'four-action shape' of the liturgy by which the chaMrah ritual was
 
 
-BEHIND THE LOCAL TRADITIONS 221
 
 so delicately adapted to the new Christian form, and which took over
 amongst other things the very dialogue which immediately preceded and
@@ -799,10 +778,8 @@ traditions) of which only the first for 'creation' now survives, followed by a
 the prayer another example of the successive appending of new items in a
 
 
-222
 
 
-THE SHAPE OF THE LITURG
 
 
 supplementary position between the original body of the prayer and the
@@ -856,10 +833,8 @@ and likewise took the cup and gave thanks and said, "Tins is My Blood'"
 (c) 'The president sends up prayers together with thanksgivings (euchas
 
 
-BEHIND THE LOCAL TRADITIONS
 
 
-223
 
 . . . eucharistias) to the best of his powers, and the people applaud, saying
 cAmen" ' {ibid. 67).
@@ -911,10 +886,8 @@ Ghost', the opening Address and 'Naming' of God. At once after this
 comes 'he makes thanksgiving « * * and when he has finished ... the
 
 
-THE SHAPE OF THE LITURG
 
 
-224
 
 thanksgiving' the people answer, Amen. So far as the lan *uage here goes it
 would be difficult to say that it suggests any element betveen the 'thanks¬
@@ -969,7 +942,6 @@ would have passed for orthodox in his own surrounding! , and that the gnostic
 flavour of the text is chiefly due to a later reviser.
 
 
-BEHIND THE LOCAL TRADITIONS 225
 
 ( b ) *We give thanks to Thee, Who hast convicted them who are con¬
 victed of Thee:
@@ -1026,10 +998,8 @@ nucleus?
 1 Acts of John , E.T., 85; M. R. James, Apocryphal New Testament >p. 250.
 
 
-226
 
 
-THE SHAPE OF THE LITURGY
 
 
 It is difficult to say. On the one hand, such a reference is found in some
@@ -1083,7 +1053,6 @@ addition than the institution narrative which it now connects with the remains o
 the primitive Egyptian eucharistia. I
 
 
-BEHIND THE LOCAL TRADITIONS 227
 
 reference in other traditions one might suspect that the same was true of
 them also.
@@ -1136,7 +1105,6 @@ expresses and defines. It looks back to the offertory and expresses in words
 the meaning of that. It looks forward to the communion and prays for the
 
 
-228 THE SHAPE OF THE LITURGY
 
 effects of that. The descriptions of the effect of communion are quite
 differently defined in the three prayers, as can be seen at a glance. The
@@ -1194,10 +1162,8 @@ Meaning of communion
 d. 'that they who partake of Him may be strengthened unto piety, may
 
 
-BEHIND THE LOCAL TRADITIONS
 
 
-229
 
 
 receive the forgiveness of sins, may be delivered from the devil and his
@@ -1256,10 +1222,8 @@ and S . Mark} And we must not forget that Sarapion*s prayer is headed
 original position.
 
 
-230
 
 
-THE SHAPE OF THE LITURGY
 
 
 (in e1) it does so in terms of 'consecration' closely allied in thought to those
@@ -1313,7 +1277,6 @@ process of mutual borrowing and adaptation all the rites of the great sees
 * Adv. Haer.y iv. 18. 6.
 
 
-BEHIND THE LOCAL TRADITIONS 231
 
 are evolving in the direction of a general uniformity of structure and con¬
 tent, and even to some extent of phrasing, in their eucharistic prayers,
@@ -1364,7 +1327,6 @@ last member of the original series of Thanksgivings in the first stratum).
 This second stratum states the meaning of what is done in the celebration
 
 
-232 THE SHAPE OF THE LITURGY
 
 of the eucharist, and relates the present eucharistic acion of the church to
 what was done at the last supper.
@@ -1417,10 +1379,8 @@ ourselves back behind this change that the written gospels made in the
 possibility, and therefore the expectation, of such references. But I think I
 
 
-BEHIND THE LOCAL TRADITIONS
 
 
-233
 
 can understand how a gentile Christian late in the first century, introduced
 to the eucharist for the first time after his baptism, would be content with
@@ -1470,7 +1430,6 @@ The process could hardly stop there, with the mere appending of the
 narrative to the old jewish model of the eucharistia . As the church became
 
 
-234 THE SHAPE OF THE LITUFJGY
 
 more and more a purely gentile society and lost contact with its Jewish
 origins and jewish habits of thought and ways of piety, the sense of the
@@ -1521,7 +1480,6 @@ The question arises as to the date when this development of the insti¬
 tution narrative into the 'second half' of the prayeif may be called an
 
 
-BEHIND THE LOCAL TRADITIONS 235
 
 accomplished fact. Where all opinions are bound to be tentative I can only
 put the matter as it seems to me. Hippolytus c. a.d. 215 is a terminus ad
@@ -1571,10 +1529,8 @@ a.d. 175. If the evidence of Justin is to be taken at its face-value, the
 1 Journal of Theological Studies, xxxix. (Oct. 1938 ),pp. 350 sq.
 
 
-THE SHAPE OF THE LITURGY
 
 
-236
 
 Roman prayer had been expanded to include this odly in the preceding
 quarter of a century. Development in some churches may have been less
@@ -1625,10 +1581,8 @@ insist that if there was such a single aboriginal type of eucharistic prayer, it
 must in the nature of the case have been on a jewish model and not on a
 
 
-BEHIND THE LOCAL TRADITIONS
 
 
-237
 
 
 Greek one. Developed in this direction the traditional theory of a single

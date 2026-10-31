@@ -6,10 +6,8 @@ params:
  order: 11
 ---
 
-CHAPTER XI
 
 
-THE SANCTIFICATION OF TIME
 
 IT is one thing to have a knowledge of the course of liturgical history—of
 when this custom was introduced and where, of how such-and-such a
@@ -51,10 +49,8 @@ sciously carried through revolutionary changes in the spirit in which it
 interpreted the forms it preserved, a field in which the sixteenth century
 was wholly conservative, or rather never even understood that change
 
-303
 
 
-304 THE SHAPE OF THE LITURGY
 
 might be possible. We shall return to this contrast later; here our concern
 is with the fourth century.
@@ -103,7 +99,6 @@ nfial form. And it happens that by a number of fortunate accidents we are
 much less incompletely furnished with strictly liturgical evidence from
 
 
-THE SANCTIFICATION OF TIME 305
 
 this brilliant period of transition than we are from either the three centuries
 which precede it or the three which follow.
@@ -155,7 +150,6 @@ was there to ease the transition.
 The consequences of these two changes in tne general understanding of
 
 
-30 6 THE SHAPE OF THE LITURGY
 
 Christian worship were in the end very far-reaching. They arc with us yet,
 though our own times seem to be witnessing the rapid fading of at least
@@ -205,10 +199,8 @@ secular organisation of life unconsciously diminished. In the later third
 century Christians began to come forward before the world on something
 
 
-THE SANCTIFICATION OF TIME
 
 
-307
 
 like an equal footing with their pagan neighbours, and to take an increasing
 share in the public and social life of the day. There is a significant influx of
@@ -258,10 +250,8 @@ of various kinds were to be found all over Christendom about a.d . 300.
 The church reaped an unpleasant harvest of temporary apostasies from
 
 
-THE SHAPE OF THE LITURG
 
 
-308
 
 all this mingling with the pagan world when the tempest of the last and
 longest persecution broke upon her in a.d. 303. Y$t if die world was ever
@@ -310,10 +300,8 @@ tion of the old. So many of the old bishops and clergy, thjose most familiar
 with the conduct of worship, had been martyred or had peen deposed for
 
 
-309
 
 
-THE SANCTIFICATION OF TIME
 
 apostasy in the persecution. The faithful laity, always effective guardians of
 liturgical tradition, had for so long been deprived of regular attendance at
@@ -367,7 +355,6 @@ century, country churches were already common in the later third century, perhap
 3io
 
 
-THE SHAPE OF THE LITURGY
 
 consequence of this multiplication of churches in the effective breakdown
 everywhere of the old ideal of the single ecclesia, the single eucharistic
@@ -424,7 +411,6 @@ questioned, but see C. H. Turner, Studies in Early Church History , Oxford, 1912
 M55>»*2.
 
 
-THE SANCTIFICATION OF TIME 311
 
 were not exceptional among churches of this class. At the Lateran there
 even appear items which were unrepresented at S. Peter's, such as silver
@@ -476,10 +462,8 @@ Crowfoot (London, 1941 )pp. 9 SQQ*
 2 J. Hubert, Van pri-roman> p. 108.
 
 
-312
 
 
-THE SHAPE OF THE LITURG
 
 
 basilicas must have been indeed a glowing and flashing sight when the
@@ -535,7 +519,6 @@ respects at least, sympathetic. But from the point of view of history we have
 3*3
 
 
-THE SANCTIFICATION OF TIME
 
 to grasp the fact that there was little in antiquity to suggest to the church
 that it was even desirable for Christians. The elaborate ceremonial worship
@@ -585,7 +568,6 @@ What had produced and for a long while preserved the comparative sim¬
 plicity of the Christian ceremonies was no theory that external simplicity
 
 
-314 THE SHAPE OF THE LITURG Y
 
 was desirable in itself, but the domestic origin of christi m worship and the
 retention for so long of its character as the meeting of the ' lousehold of God\
@@ -634,7 +616,6 @@ ence from the naturally sensitive and devout to the ur thinking and the
 average man throughout a whole population.
 
 
-THE SANCTIFICATION OF TIME 315
 
 If such an ideal as 'a Christian civilisation* be justifiable at all, the church
 was fully justified in accepting the mission, freely offered her by the world
@@ -683,7 +664,6 @@ might be increased. There was ostentation in this but there was also
 something better— 'public spirit*— an instinct that all which concerned
 
 
-316 THE SHAPE OF THE LITURGY
 
 corporate and public life ought to be dignified and beautiful and, if
 possible, splendid.
@@ -734,7 +714,6 @@ hermits of the fourth century were catholics in doctrine, but many of them
 had much of the puritan theory of worship. Augustine speaking fearfully
 
 
-THE SANCTIFICATION OF TIME 317
 
 of the enticements to ear and eye in the use of church music and beauty of
 adornment,1 Jerome lamenting the substitution of a silver manger for one
@@ -785,7 +764,6 @@ principles as that of the catholics. No doubt the peculiar protestant
 1 Confessions , x. 33, 34.
 
 
-318 THE SHAPE OF THE LITURGY
 
 doctrine of 'justification by faith alone', with its consequent antipathy
 to all external sacramental actions as * effectual signs of grace'1, i.e. signs
@@ -835,10 +813,8 @@ thus consisted of the corporate action of the church. When we look at the
 1 XXVth Article of Religion . |
 
 
-THE SANCTIFICATION OF TIME
 
 
-319
 
 rite of Sarapion (c. 340) this has begun to alter. To the old eucharistic prayer,
 the only spoken text of the pre-Nicene rite, has been added a series of
@@ -890,10 +866,8 @@ similar blessing of oil; or he may be directing the use of it separately from an
 the eucharistic prayer, as in Sarapion.
 
 
-THE SHAPE OF THE LITURGY
 
 
-320
 
 impetus with every year that passed. The period of casual pioneering and
 tentative experiment was over before the middle of the century, and men
@@ -943,7 +917,6 @@ antiquity. But it was a very splendid and attractive world nevertheless, and
 not ill-pleased with itself. And suddenly young men and women began
 
 
-THE SANCTIFICATION OF TIME 321
 
 silently and resolutely to turn their backs upon it in large numbers, because
 they had become intensely interested in something quite different. Of
@@ -994,10 +967,8 @@ the other two strolled more slowly behind. And these two on their walk
 been more than eighty years in the desert (d. a.d. 356).
 
 
-322
 
 
-THE SHAPE OF THE LITURGY
 
 
 happened on a small cottage where lived some of Thy servants . . . and
@@ -1051,7 +1022,6 @@ on the church at large. The monk sought God for His own sake alone, and
 # Augustine, Confessions* viii. 6.
 
 
-THE SANCTIFICATION OF TIME 323
 
 to tell the truth sometimes half-forgot the church when he forgot the
 world, in the ardour of pursuit. ('I too am a hunter', answered the hermit
@@ -1103,10 +1073,8 @@ with prayer and praise, was inherited by Christianity directly from the Jewish
 domestic piety of our Lord's time. It was transferred to the public evening service
 
 
-THE SHAPE OF THE LITURGY
 
 
-324
 
 reception of holy communion, received, however, nojt at a daily celebration
 of the eucharist but from the sacrament reserved by the faithful in their
@@ -1160,10 +1128,8 @@ suggests that it was not yet common on other days (ibid., xxiv).
 * Ap. Trad., xxxv. 2-xxxvi. 1.
 
 
-THE SANCTIFICATION OF TIME
 
 
-325
 
 where the whole emphasis is on the corporate aspect. It is true, of course,
 that the general aspect of devotion which may roughly be called 'subjective
@@ -1215,10 +1181,8 @@ S. Satuminus of Toulouse, which record a similar custom, are in any sense a pre-
 Nicene document, but there is reason to doubt this.
 
 
-THE SHAPE OF THE LITURGY
 
 
-326
 
 The 'private meetings' (syneleuseis) and agape-sjippers, of which we
 have spoken, did include a large element of 'edifying discourse', but these
@@ -1268,7 +1232,6 @@ course' becomes a practice of Christian devotion for the first time, and that
 1 S. Basil, Ep . xdii.
 
 
-THE SANCTIFICATION OF TIME 327
 
 the psalter really begins to take in its own right the very large place it has
 always held since in the content of Christian and corporate worship. Before
@@ -1325,7 +1288,6 @@ almost exclusive substance of its public worship, relegating the sacramental lit
 the pre-Nicene ecclesia to the position of an optional appendage.
 
 
-328 THE SHAPE OF THE LITURGY
 
 absence from its public performance of the sort of external ceremony with
 which the early church had gradually surrounded the public offering of the
@@ -1378,7 +1340,6 @@ somewhat specialised Christian population, for whoso desires and needs the
 * E.g. Melito of Sardis, ap. Eusebius, H.E., IV\ xxvi. 9.
 
 
-THE SANCTIFICATION OF TIME 329
 
 old provision of a Sunday synaxis and eucharist with two or three lesser
 synaxes on week-days would rapidly reveal its inadequacy.
@@ -1428,7 +1389,6 @@ office appear to go back to a.d. 386, when the troubles provoked by the
 Arian empress Justina caused the faithful to assemble and keep watch at
 
 
-330 THE SHAPE OF THE LITURGY
 
 night in the basilicas, during which time S. Ambrose occupied their minds
 with a vigil service on the new Eastern model. Thcj observance was then
@@ -1484,7 +1444,6 @@ supposes primitive. (I am not here concerned with which is the better system, bu
 with the historical truth of the matter.)
 
 
-THE SANCTIFICATION OF TIME 331
 
 dawn was a custom general with pious jews in the first century. Like the
 blessing of the evening lamp at public Vespers it must have been trans¬
@@ -1534,10 +1493,8 @@ and the daily life for which God made him. Once the world had freely
 opened itself to her under Constantine, she must choose either to try to
 
 
-332
 
 
-THE SHAPE OF THE LITURGY
 
 absorb it and christianise it or to withdraw for ever from all deliberate
 contact with it. The existence of the monks with thrir passionate 'other¬
@@ -1587,10 +1544,8 @@ Huguenots. Their connection with the 'liturgical movement* among their co¬
 religionists is obvious and important.
 
 
-THE SANCTIFICATION OF TIME
 
 
-333
 
 
 The Development of the Christian Calendar
@@ -1640,7 +1595,6 @@ development of the two, though it went on side by side, was for a while
 carried on to some extent independently and under rather different
 
 
-334 THE SHAPE OF THE LITURGY
 
 influences. The office originated with the monks and the devout laity;
 the annual calendar was developed chiefly by the bisjhops and the secular
@@ -1694,10 +1648,8 @@ can, ate.) tins is an infiltration into the older traditions of thfe office from
 mediaeval French peculiarity. f y
 
 
-THE SANCTIFICATION OF TIME
 
 
-335
 
 rather than regulates current liturgical practice. There was then little of the
 authoritarian theory of liturgy which has prevailed in the West since the six¬
@@ -1748,7 +1700,6 @@ devotion for Hippolytus, who in this represents Roman conservatism; and he seems
 to know nothing of an ecclesia on martyrs' anniversaries.
 
 
-336 THE SHAPE OF THE LITURGY
 
 Sunday . It is still too often assumed that the observance of the Christian
 Sunday is a continuation on a different day of the jewiLh sabbath. It is more
@@ -1799,10 +1750,8 @@ inauguration of the 'world to come', supervening upon this world and
 >Ep. Bam xv. 9.
 
 
-THE SANCTIFICATION OF TIME
 
 
-337
 
 time. It is only secondarily a memorial of the historical fact of the resur¬
 rection of Jesus, and it is observed as such only because in His resurrection
@@ -1853,7 +1802,6 @@ fact that outside Asia all Christians, not excepting those of Palestine, had
 1 Col. ii. 16.
 
 
-338 THE SHAPE OF THE LITURGY
 
 always held to the Sunday reckoning longer than an; rone could remember,
 suggests that the change from the jewish reckoning ]iad been made within
@@ -1905,10 +1853,8 @@ our Lord and Saviour Jesus Christ'.3 The life, death, resurrection and
 1 Cf. Ep. Barn., cited on p. 336. 1 Rom. viii. 21. * 2 Pet. i. 11.
 
 
-THE SANCTIFICATION OF TIME
 
 
-339
 
 ascension—the paschal sacrifice—of Jesus was, of course, the means by
 which this redemption was achieved. Tn Hun* every Christian had gone
@@ -1963,10 +1909,8 @@ mental acts which made him a 'member of Christ' and a 'member of the
 4 1 John ii. 27.
 
 
-THE SHAPE OF THE LITURGY
 
 
-340
 
 ecclesia\ These were not two different or even two simultaneous incor¬
 porations; they were the same thing. The church as jthe Body of Christ is
@@ -2024,7 +1968,6 @@ custom of fasting before the Passover. Cf. Pesachim x. 1.
 6 Cf. Hippolytus, On the Pascha, vi. 5, ad fin.
 
 
-THE SANCTIFICATION OF TIME
 
 
 34i
@@ -2079,7 +2022,6 @@ never rivalled the Sunday cycle and its two great feasts in importance
 * Qf. the case ap. Eusebius, Eccl. Hist., VI. xliii, c. a.d. 240.
 
 
-342 THE SHAPE OF THE LITURGY
 
 during pre-Nicene times. It is uncertain which clas s of additions is the
 earlier.
@@ -2132,7 +2074,6 @@ a Similitude , v. 1. 8 dejejumo , 2. * Ibid., 10.
 8 ed. Duchesne, p. 141.
 
 
-THE SANCTIFICATION OF TIME 343
 
 deliberate counter-observance to the licence of the pagan harvest festivals,1
 a motive which inspired more than one addition to the calendar in later
@@ -2184,7 +2125,6 @@ the midst of the pyre and burned him after their fashion. And so we
 1 Dom G. Morin, Revue Binidictine , xiv.,p. 337 sq.
 
 
-344 THE SHAPE OF THE LITURGY
 
 afterwards took up his bones, which are more valuable than precious stones
 and finer than refined gold, and laid them in a suitable place; where the
@@ -2240,10 +2180,8 @@ martyrs Perpetua and Felicity2 (c. a.d. 200) of which hints are to be found
 •Rowlands.
 
 
-THE SANCTIFICATION OF TIME
 
 
-345
 
 in previous Christian literature.1 Tertullian and other writers speak of
 the 'annual oblation' of the eucharist on the anniversary of the death of
@@ -2298,16 +2236,13 @@ after death during the second century.
 * Hermas, Fir. Ill, i. 9--II, 2. Cf. Mart. Polycarpi above*
 
 
-2A
 
 
 D.S.L*
 
 
-THE SHAPE OF THE LITURGY
 
 
-346
 
 —witness the opening and closing paragraphs of his edition of the Passion
 of S. Perpetua and her companions, and especially the address in the
@@ -2361,10 +2296,8 @@ adv . Schism. Donate i. 16. 7
 4 Eusebius, E. H., II. xxv. 7.
 
 
-THE SANCTIFICATION OF TIME
 
 
-347
 
 possession of the Roman church, where all the Christian dead might lie
 together, dates only from the early years of the third century; and Callistus
@@ -2413,10 +2346,8 @@ leisured and the specially devout among the laity. But the bulk of the
 adv. Haer ., Ill, iii. 3.
 
 
-THE SHAPE OF THE LITURGY
 
 
-348
 
 church could not often be present on such occasions, nor could they have
 been accommodated in the little cemetery chapels if they had come. As a
@@ -2466,7 +2397,6 @@ The only special observance is that when they hadj all received confirma¬
 tion the new Christians in their white robes headed by the bishop visit
 
 
-THE SANCTIFICATION OF TIME 349
 
 the Holy Sepulchre itself to listen to the gospel account of the resurrec¬
 tion, in which they have themselves just mystically taken part. Then comes
@@ -2517,7 +2447,6 @@ before the end of his long episcopate, she found the whole cycle of histori¬
 cal commemorations there fully developed; it was evidently spoken of to
 
 
-350 THE SHAPE OF THE LITURGY
 
 her by members of the local church as something customary there, not as an
 absolutely recent innovation. But in his Catecheses delivered in Lent and
@@ -2567,7 +2496,6 @@ standing mark left by the fourth century on th e history of Christian wor-
 1 Catechesis , xvi. 4.
 
 
-THE SANCTIFICATION OF TIME
 
 
 35i
@@ -2624,10 +2552,8 @@ only begins in the thirteenth century, under the influence of Frandscan curial
 officials and other perplexing phenomena.
 
 
-THE SHAPE OF THE LITURG
 
 
-352
 
 Cyril shared to the full that rather parochial pride in and sense of the
 historic tradition of his own local church, which in most Christians of the
@@ -2686,7 +2612,6 @@ generation. The fact that the majority of the subjects in which he thus
 seems in advance of his time are concerned with the liturgy rather than
 
 
-THE SANCTIFICATION OF TIME 353
 
 with pure theology, is more an indication of the direction in which his
 personal interests lay than of any remoteness from the technical theological
@@ -2739,10 +2664,8 @@ changes it can insensibly bring about in public worship after a generation. How
 many Anglican bishops now discreetly 'follow Fortescue> in certain things?
 
 
-354
 
 
-THE SHAPE OF THE LITURGY
 
 
 Christian observance probably inherited from judaism. Before the end of
@@ -2797,7 +2720,6 @@ sons of this mass form a beautiful instruction on the meaning of baptism as unde
 stood by the early church.
 
 
-THE SANCTIFICATION OF TIME 355
 
 immediately upon Epiphany, after this had been accepted as the com¬
 memoration of our Lord's baptism.)
@@ -2851,7 +2773,6 @@ that day. The Lenten office of the Roman Breviary still begins on the Sunday, no
 on Ash Wednesday.
 
 
-356 THE SHAPE OF THE LITURGY
 
 words 'Remember, man, that dust thou art and unto dustshalt thou return',
 from which Ash Wednesday gets its name, is not a 'Roman' ceremony at
@@ -2904,7 +2825,6 @@ were not prepared to try to reach. And it was only to those who received baptism
 that the church offered either remission of sins or eternal salvation.
 
 
-THE SANCTIFICATION OF TIME 357
 
 The importance of Lent lay precisely in this, that it was not just one more
 ascetic exercise for the devout, but that it was recognised as being of univer¬
@@ -2954,10 +2874,8 @@ Rome, followed by Africa, was somewhat slow to accept this duplication
 1 Rom. xii. 2.
 
 
-THE SHAPE OF THE LITURGY
 
 
-358
 
 of feasts, but Epiphany had been adopted there before a.d. 450, just as
 Alexandria had rather tardily adopted the Western feast of Christmas.1
@@ -3012,10 +2930,8 @@ mass on this day has no connection with the pagan ceremonies of the Lupercalia ,
 used to be supposed.
 
 
-THE SANCTIFICATION OF TIME
 
 
-359
 
 cycle everywhere has consisted of two groups of historical commemorations
 of events, the one referring to our Lord's birth and the other to His death,
@@ -3070,10 +2986,8 @@ November nth—but Rome never accepted the Advent fast, and cut down the six
 Advent Sundays of the Gallican cycle, first to five and then to four.
 
 
-THE SHAPE OF THE LITURGY
 
 
-360
 
 
 neglected in the development of the liturgy; and it still has in all rites a
@@ -3129,7 +3043,6 @@ variable prayers; in the Gallican rites every single prayer in the rite except t
 institution narrative in the eucharistia varies in every mass.
 
 
-THE SANCTIFICATION OF TIME 361
 
 sabbath lections, either on a one- or a three-year system. It may have done
 so; but the desire to include the new Christian scriptures and then to give
@@ -3180,7 +3093,6 @@ None of this solved the problem of the ordinary Sunday lections, which
 church of Rhossos in N. Syria ap. Eusebius, E.H., iv. 24 (e. a.d. 190).
 
 
-362 THE SHAPE OF THE LITURGY
 
 seems to have been fumbled with for centuries. The fifth century lectionary
 of Edessa1 makes no provision whatever for the 'green' Sundays. We know
@@ -3235,10 +3147,8 @@ xxvii (1910) 41-74.
 6 lbid.% pp. 426 sq.
 
 
-THE SANCTIFICATION OF TIME
 
 
-363
 
 seventh century Spanish church1 has no provision for Sundays after
 Epiphany at all, but ends with a set of twenty-four 'quotidian' Sundays
@@ -3295,7 +3205,6 @@ the saints (collected after the last Sunday after Trinity) in the Book of Common
 Prayer. We inherit this arrangement from the Roman missal.
 
 
-364 THE SHAPE OF THE LITURGY
 
 and in some cases probably older than those of this group of masses of the
 Seasons.
@@ -3403,7 +3312,6 @@ seventh-eighth centuries, but this also has been so tinkered with since as to be
 more coherent than our own.
 
 
-366 THE SHAPE OF THE LITURGY
 
 they virtually refused to learn any new music at all for a century or more,
 and simply adapted or transferred the old music to new occasions when
@@ -3459,10 +3367,8 @@ ated in the thirteenth century with the compilation of the 'Use of Sarum* from
 Norman and French custumals.
 
 
-THE SANCTIFICATION OF TIME
 
 
-367
 
 be a group of at least three1—collect, secret (offertory prayer) and post-
 communion or thanksgiving. To these all churches outside Rome itself
@@ -3515,10 +3421,8 @@ on the 'green' Sundays, and sometimes has an evident connection with the gospel
 on the earlier Sundays after Pentecost.
 
 
-THE SHAPE OF THE LITURGY
 
 
-368
 
 so carefully is by no means exhausted, though the compilers of various
 'Anglo-catholic' missals do not seem to have found translation an easy art,
@@ -3569,10 +3473,8 @@ was. And until we have recognised the fact we have not even begun to
 know the history of the liturgy; and until we can explain it we have not
 
 
-THE SANCTIFICATION OF TIME
 
 
-369
 
 begun to understand that history or the Christian mind which made it. Yet
 it is only by entering into that universal Christian mind and thinking with
@@ -3628,10 +3530,8 @@ tory, not eternity, have become the primary interest of the calendar. More
 8 Ibid., 2 and 3. 4 Phil. iii. 8 sq.
 
 
-370
 
 
-THE SHAPE OF THE LITURGY
 
 
 striking still, the old term natale is still used once in this fourth century
@@ -3691,10 +3591,8 @@ Roman calendar is on the contrary an expansion of the calendar of 354, a new edi
 put out c. a.d. 380.
 
 
-THE SANCTIFICATION OF TIME
 
 
-371
 
 movement from which the calendar and the propers are beginning to
 develop is still quite outside this original Christian eschatological scheme
@@ -3748,10 +3646,8 @@ seems to have been only one such gathering, presided over by the Pope, and held 
 the different churches in turn.
 
 
-372
 
 
-THE SHAPE OF THE LITURGY
 
 
 celebration of a saint's day, of which the parish churches took no official
@@ -3808,7 +3704,6 @@ omission of the entry for Marcellinus. It may be so, but Duchesne is probably ri
 in arguing for deliberate omission.
 
 
-THE SANCTIFICATION OF TIME 373
 
 contemporaries of the dead bishop: 'O Lord our God we beseech Thee
 hearken to the prayers of Thy blessed martyr Lawrence and aid us; and
@@ -3864,7 +3759,6 @@ though for the episcopate (still the only specifically 'priestly' order in the h
 they do require die laying on of episcopal hands.
 
 
-374 THE SHAPE OF THE LITURGY
 
 ties some of them caused by their pretensions. Terminology varied a little
 but by degrees 'martyr' came to be reserved stricdy for those who had
@@ -3913,10 +3807,8 @@ lack the glory of a martyr, for in desire and in courage he could have
 1 Pseudo-Ambrose, Precatio , ii. 19. P.L., xvii. 842.
 
 
-THE SANCTIFICATION OF TIME
 
 
-375
 
 faced martyrdom and gladly (if he had been bom in the days of Hadrian
 or Diocletian) . . . but though he did not bear these pains, he fulfilled his
@@ -3969,7 +3861,6 @@ Jerusalem they could be considered as being among the glories of the local
 8 First published by Dom J. Mabillon, Analecta Vetera , vol. iii., p. 398.
 
 
-376 THE SHAPE OF THE LITURGY
 
 church. At Rome in the same period they kept only the feast of SS. Peter
 and Paul, who had been martyred on the soil of Rome. And even so, the
@@ -4022,7 +3913,6 @@ ably older than Modestus' time, and the Gallican churches for a while adopted th
 January feast.
 
 
-THE SANCTIFICATION OF TIME 377
 
 taken over from Byzantium by the Syrian Pope Sergius L The Immaculate
 Conception was a feast (and a doctrine) first developed in the West in the
@@ -4079,7 +3969,6 @@ hood still dominates the office for the day in the Roman Breviary.
 D.S.L.
 
 
-378 THE SHAPE OF THE LITURGY
 
 Baptist, the Nativity on June 24th depends for its date on the Western cele¬
 bration of our Lord's birthday on December 25th, and S. John's feast is
@@ -4134,10 +4023,8 @@ Origines du culte chritien , p. 269) though the chair itself is a genuine relic 
 pagan antiquity, and might be authentic.
 
 
-THE SANCTIFICATION OF TIME
 
 
-379
 
 his relics to an unknown basilica in the South of France somewhere in the
 fifth or sixth century. All Saints* Day begins as the dedication feast of the
@@ -4190,7 +4077,6 @@ a chapel dedicated to All Saints in S. Peter's at Rome by Pope Gregory III (a.d.
 are agreed.
 
 
-380 THE SHAPE OF THE LITURGY
 
 the connection of the cultus with the actual relics of the saints down to the
 end of the fourth century. It was only when the idea of historical com¬
@@ -4241,7 +4127,6 @@ gossa—'Whose we are as he is ours'.2 Or take again the Gallican proper
 1 Serm. 303* 1 Liber Mozarabicus Sacrameniontm , ed. at. col . 1 12.
 
 
-THE SANCTIFICATION OF TIME 381
 
 preface for the feast of S. Satuminus of Toulouse, the pre-Nicene martyr-
 bishop whom legend declared to have been consecrated by the hands of
@@ -4294,7 +4179,6 @@ p. 220.
 3 Eusebius, de Mart . Pa/., 7, cf. Acta of S. Fructuosus, 5 (c. a.d . 250).
 
 
-382 THE SHAPE OF THE LITURGY
 
 their heroism in the past that the local church had survived. Now that city
 and bishopric were two sides of the same thing, services to the one had
@@ -4346,7 +4230,6 @@ and only the old gods under a thin disguise, deliberately left by the church to
 satisfy the incurably polytheistic population, is unfair and has repeatedly been dis-
 
 
-THE SANCTIFICATION OF TIME
 
 
 3^3
@@ -4413,10 +4296,8 @@ but can be conveniently studied in Dom Ferotin's ed. of the Mozarabic Liber
 Sacramentorums 1912, pp. xliii. sq.
 
 
-THE SHAPE OF THE LITURGY
 
 
-384
 
 is due to the possible range of Lent, during which no feasts were observed
 in Spain. What is more surprising is the absence of the (originally Eastern)
@@ -4470,7 +4351,6 @@ N.T. Wissenschafty I (1900), pp . 309 sq. I follow the corrections and comments 
 H. Delehaye, Analecta Bollandiana , xxi., pp. 275 sq.
 
 
-THE SANCTIFICATION OF TIME 385
 
 Nov. 14. Philip the apostle at Jerusalem.
 
@@ -4526,7 +4406,6 @@ Roman rule already excited in the first century a.d, see Dionysius of Halicarnas
 Rom. Ant. I. iii. 3.
 
 
-386 THE SHAPE OF THE LITURGY
 
 was an awe-inspiring achievement, the apotheosis of human power. In the
 last analysis it represented nothing else but the lust of the flesh and the
@@ -4577,7 +4456,6 @@ xv. 4. See the whole passage, one of the most penetrating in this brilliant but 
 book.
 
 
-THE SANCTIFICATION OF TIME 387
 
 Christian disguise, to have its own way with the Christian church from
 within. It is virtually ended with the dying cry of the sentimental reac¬
@@ -4628,7 +4506,6 @@ one sees the vastness of the change the gospel brought to the theory of
 1 Cf. e.g . Tacitus, Annals VI, v. 9.
 
 
-388 THE SHAPE OF THE LITURGY
 
 human life. The unlimited right of power, deliberate cruelty, lust, the
 calculated oppression of the helpless, these things were accepted motives
@@ -4681,10 +4558,8 @@ without protest while those emperors lived.
 * de Civ. Deiy 1, 35.
 
 
-THE SANCTIFICATION OF TIME
 
 
-389
 
 deference to the secular ruler in the things of religion. This was largely a
 matter of opportunity. But it was a serious weakness in the fourth century,
@@ -4735,10 +4610,8 @@ ever voted even on dogmatic questions contrary to the known opinion or wishes of
 the reigning emperor.
 
 
-390
 
 
-THE SHAPE OF THE LITURGY
 
 
 parties agreed to bring before him; the courts of the cities and the empire
@@ -4789,7 +4662,6 @@ without ceasing to be Christian. And in the fourth century, as always before
 The Greek City from Alexander to Justinian* Oxford, 1939, pp. 192 sqq.
 
 
-THE SANCTIFICATION OF TIME 391
 
 and very often after, it was the state and not the church which provoked
 their clashes by aggression beyond its own proper functions.
@@ -4842,10 +4714,8 @@ when the church was greatly disorganised and in many places at the last gasp of
 exhaustion. In any case, with whom did it rest to make such a decision?
 
 
-392
 
 
-THE SHAPE OF THE LITURGY
 
 
 with the belief which qualified a man for this and the conduct which be¬
@@ -4896,10 +4766,8 @@ liturgy—the supreme expression of the church's life—has ever since
 borne the marks of that immense expansion of its grasp on human living,
 
 
-THE SANCTIFICATION OF TIME
 
 
-393
 
 to the partial obscuring of its earlier character. Yet the liturgy remained
 then and has remained since what it always had been, the worshipping act
@@ -4950,7 +4818,6 @@ herself and all her members into the 'coming' of the kingdom of God,
 which comes fully and perfectly in Jesus. 'The Bread of Heaven in Christ
 
 
-394 THE SHAPE OF THE LITURGY
 
 Jesus'; 'In God the Father Almighty, and in the Lord Jesus Christ and in
 the Holy Spirit in holy church'—the primitive words of administration!
@@ -5005,10 +4872,8 @@ How many winters fled have given back
 The roses to the frost-bound earth , this snowy head declares .
 
 
-THE SANCTIFICATION OF TIME
 
 
-395
 
 
 peccatrix anima stultitiam exuat:

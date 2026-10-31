@@ -6,10 +6,8 @@ params:
  order: 2
 ---
 
-CHAPTER II
 
 
-THE PERFORMANCE OF THE LITURGY
 
 Saying and Doing
 T F such an abstraction as 'the general conception entertained by the typi-
@@ -58,13 +56,10 @@ psychological approach to the rite* and would prove illuminating in many
 directions. It would explain* for instance* what is to us very striking* the
 
 
-12
 
 
-13
 
 
-THE PERFORMANCE OF THE LITURGY
 
 complete absence from the original outline of the rite of anything in the
 nature of 'communion devotions'. The ancient approach did not preoccupy
@@ -115,7 +110,6 @@ Abbot John of Fecamp, of the early twelfth century. The prayer 'Almighty
 and everlasting God, behold I approach the sacrament of Thy only be-
 
 
-14 THE SHAPE OF THE LITURGY
 
 gotten Son . . .' is by S. Thomas Aquinas of the thirteenth century. The
 prayer after communion 'Most sweet Lord Jesus, pierce my soul with the
@@ -176,7 +170,6 @@ and S. Bernard
 ted several times
 
 
-THE PERFORMANCE OF THE LITURGY 15
 
 This may sound fantastic until one looks for a moment at a devotional
 tradition which has not descended through the Latin middle ages. Id the East
@@ -228,7 +221,6 @@ of the others.
 i6
 
 
-THE SHAPE OF THE LITURG
 
 
 • Public and Private
@@ -280,10 +272,8 @@ crisis between S. Paul and the jewish Christians which we can discern in
 'Eph. ii. 19. * Mark xiv. 13. • 4 \cts ii. 46.
 
 
-THE PERFORMANCE OF THE LITURGY
 
 
-17
 
 the N.T.,1 though we cannot trace the details of its settlement. In the
 circles and period from which our documents come the whole question
@@ -336,7 +326,6 @@ special buildings for its worship for at least a century and a half, andcon-
 i8
 
 
-THE SHAPE OF THE LITURG
 
 
 centrated itself instead in those 'house-churches* which meet us every¬
@@ -389,7 +378,6 @@ took for you?* |
 8 Gal. vi. io.
 
 
-THE PERFORMANCE OF THE LITURGY 19
 
 the sacrament as a political qualification for public office, and the preven¬
 tion of celebrations by the lack of lay communicants.
@@ -448,10 +436,8 @@ The tendencies which produced church buildings elsewhere in the late third and
 fourth centuries were therefore at work in Edessa in the later second century.
 
 
-20
 
 
-THE SHAPE OF THE LITURGY
 
 to be confused with the eucharist). But these gatherings were never called
 'ecclesia9, 'the general assembly and church of the first-born5,1 as the
@@ -561,10 +547,8 @@ thought of as the 'celebrant* of the eucharist, which is the act of the whole ch
 'under* the presidency of the bishop.)
 
 
-22
 
 
-THE SHAPE OF THE LITURG
 
 
 to hold this in the houses of its wealthier members, for there alone could it
@@ -616,10 +600,8 @@ of the dan, and around him sat the heads of the junior branches, while the
 younger members and dependents stood assembled facing them in the
 
 
-THE PERFORMANCE OF THE LITURGY
 
 
-23
 
 atrium. On the walls of the alae and the atrium were hung the trophies and
 portraits of generation upon generation of nobles who in the past had
@@ -671,10 +653,8 @@ at the beginning of the Easter vigil service on Holy Saturday.3
 vigil light is a late (eleventh cent.) intrusion into the Roman rite, from Galilean
 
 
-24
 
 
-THE SHAPE OF THE LITURGY
 
 
 Thus Christian worship was normally carried out during the centuries of
@@ -729,10 +709,8 @@ a light to hold the service by.
 1 Now Constantine, in Algeria.
 
 
-25
 
 
-THE PERFORMANCE OF THE LITURGY
 
 item 82 women's tunics1
 item 38 veils
@@ -787,13 +765,10 @@ Christian had left them there to be called for later.
 D.S.L.
 
 
-2 6
 
 
-THE SHAPE OF THE L1TUR
 
 
-GY
 
 
 pile together before their eyes the sacramental vessels which their own
@@ -848,10 +823,8 @@ the Central and Northern Balkans the work of J. StxzygowskiJesp. Early Church
 Art in Northern Europe (London, 1928).
 
 
-27
 
 
-THE PERFORMANCE OF THE LITURGY
 
 extended in a right angle beyond the oblong sides of the atrium ( cf '. plan)
 would one day grow into transepts. The extension of the tablinum would
@@ -902,10 +875,8 @@ have not the same office; so we being many are one body in Christ, and are
 'Cf.p. 1.
 
 
-28
 
 
-THE SHAPE OF THE LITURGY
 
 
 every one members one of another; having spiritual gifts (charismata)
@@ -959,10 +930,8 @@ strike modern students as a surprising choice. When we think about it we
 1 Rom. xii. 4-6. * Ignatius, Epist. to the Magnesiansivi. l (A J>. 1 15).
 
 
-29
 
 
-THE PERFORMANCE OF THE LITURGY
 
 can readily recognise the force of likening the deacons, whom he elsewhere
 describes as cthe servants of the ecclesian> to our Lord, Who was among us
@@ -1018,10 +987,8 @@ as the Priest and Proclaimer of the kingship of God, the church which is
 8 Matt. xxv. 40.
 
 
-30
 
 
-THE SHAPE OF THE LITURGY
 
 one, with one mission, one life, one prayer, one gospel, one offering, one
 being, one Father. Such a conception left little roc^m for regarding one
@@ -1079,7 +1046,6 @@ Tgnatius, Ep. to Smyrnaeans, viii. r. *Eph. in. 15.
 10 Rev. xxii. 3.
 
 
-THE PERFORMANCE OF THE LITURGY 31
 
 writer can be shewn to agree entirely with the conceptions held by S.
 Clement c . a.d. 96, though the latter never clarifies his notion of the epis¬
@@ -1139,10 +1105,8 @@ between the ecclesia and other gatherings.)
 3*
 
 
-V
 
 
-THE SHAPE OF THE LITURGY
 
 because the bishop is by his office both prophet and priest. It is true that as
 prophetic teacher he chiefly represents the Father, G^d revealing Himself.
@@ -1198,10 +1162,8 @@ apse in a basilica. I
 • 1 Cor. xi. 7. 7 Rev. xix. 7. • Rev. xiii. 8.
 
 
-THE PERFORMANCE OF THE LITURGY
 
 
-33
 
 formed into a 'realistic' crucifix.1 As the long Romanesque and Gothic
 choirs grew out of the short apse of the basilica, and the art of mosaics
@@ -1256,13 +1218,10 @@ c. a.d. 215. Cf. Ap. Trad., iii (Prayer for the consecration of a bishop).
 8 1 Clem. 40, cited p. I.
 
 
-THE SHAPE OF THE LIT
 
 
-GY
 
 
-34
 
 
 when sub-division of the eucharistic assembly became necessary by growth
@@ -1322,10 +1281,8 @@ they are certainly of apostolic origin.3 They come into sight rather as the
 5 Phil. i. 1.
 
 
-THE PERFORMANCE OF THE LITURGY
 
 
-35
 
 bishop's personal assistants in his liturgical and pastoral functions* but also
 as an order with functions of its own. It is as such that they minister the

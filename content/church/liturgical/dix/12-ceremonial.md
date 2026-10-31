@@ -6,10 +6,8 @@ params:
  order: 12
 ---
 
-CHAPTER XII
 
 
-THE DEVELOPMENT OF CEREMONIAL
 
 ONE result of the fourth century transformation of the eucharist into a
 fully public act is a certain elaboration of ceremony in its performance.
@@ -51,10 +49,8 @@ increasingly becoming regular attendants at Christian worship, the intro¬
 duction of such reminders of its solemnity was a necessary part of the
 church's care for her members. The Reformers of the sixteenth century,
 
-397
 
 
-398 THE SHAPE OF THE LITURGY
 
 who regarded the eucharist primarily as something 'said' by the clergy, set
 themselves to achieve exactly the same object by prescribing solemn and
@@ -105,7 +101,6 @@ But they coincide with my own, reached mainly on the basis of the Christian evi�
 dence.
 
 
-THE DEVELOPMENT OF CEREMONIAL 399
 
 
 secular or religious, had always been much less developed; though the
@@ -163,7 +158,6 @@ consuls and the praefectus urbis (cf. Royal Commissioners in the House of Lords)
 and at the trial of a senator (cf. the trial of a peer).
 
 
-400 THE SHAPE OF THE LITURGY
 
 
 the toga the upper classes adopted a costume, apparently Ionian in origin,
@@ -216,10 +210,8 @@ meat "ffie CCrtam paSSag6S where il clearly means ^ -me gar-
 2 Acta Proconsularia S. Cypriani, 5.
 
 
-THE DEVELOPMENT OF CEREMONIAL
 
 
-401
 
 Before that time the whole idea of any such mark of distinction had been
 entirely contrary to the local Roman tradition. Pope Celestine I c. a.d. 425
@@ -275,10 +267,8 @@ from the region of Antioch. At least it is first attested there by pseudo-Chryso
 (Catecheses, ed. cit., p. 84).
 
 
-THE SHAPE OF THE LITURGY
 
 
-402
 
 embroidered with black crosses.1 And apart from the Pope's pallium Rome
 so far remained faithful to Celestine's principles as not to adopt the stole
@@ -338,7 +328,6 @@ garment, the sticharion , is derived from the ungirded linen alb, a form it stil
 retains in Egypt.
 
 
-THE DEVELOPMENT OF CEREMONIAL 403
 
 of critics from the fourth to the sixth century declared them to be, hesitated
 to perform their liturgical functions in this uniform of a secular official.
@@ -388,7 +377,6 @@ laced shoes of a particular form and a bright red colour; and patricians
 were distinguished from plebeians by a particular form of black shoe. In
 
 
-404 THE SHAPE OF THE LITURGY
 
 the fourth century a.d. when all dress was formalised and regulated with
 a sort of childish care into nicely distinguished badges of rank, the wearing
@@ -442,7 +430,6 @@ and therefore may go back before a.d. 800. It is originally a convenience rather
 a vestment—the equivalent of the British workman's 'sweat-rag'.
 
 
-THE DEVELOPMENT OF CEREMONIAL 405
 
 Byzantine emperors continued to wear it in proud assertion of their claim
 to continue in unbroken succession the office of the Roman Caesars. In
@@ -496,7 +483,6 @@ caused such alarm and despondency to canonists in the fourteenth century was
 evidently a survival of this old Spanish custom. It should perhaps be mentioned
 
 
-406 THE SHAPE OF THE LITURGY
 
 The German scholar Pater Braun in his exhaustive discussion of every
 piece of evidence which has ever been alleged for the antiquity of the
@@ -550,10 +536,8 @@ the Papal tiara are all by origin one and the same article—the phrygia.
 8 M. Magistretti, Delle vesti ecclesiastiche in Milano , Milan, 1897, p. 69.
 
 
-THE DEVELOPMENT OF CEREMONIAL
 
 
-407
 
 before this. The mitre is thus the one and only liturgical ornament of
 purely Papal origin; and the right of others to use it, whether bishops or
@@ -613,10 +597,8 @@ century. Earlier Greek and Syrian miniatures shew it as closely resembling the
 mediaeval Roman chasuble.
 
 
-THE SHAPE OF THE LITURGY
 
 
-408
 
 The Episcopal Gloves . The use of gloves does not seem to have been
 known in antiquity at all. They first appear as episcopal ornaments in Gaul
@@ -669,7 +651,6 @@ in their working clothes. Hence the older monastic orders never adopted the surp
 for the office, but still say it in their habits.
 
 
-THE DEVELOPMENT OF CEREMONIAL 409
 
 properly ecclesiastical duty whatever. It retains its character as a secular
 dress for the clergy in the Church of England, as the distinctive robe of
@@ -725,7 +706,6 @@ mysteries. There was indeed no intention whatever of setting up any
 4io
 
 
-THE SHAPE OF THE LITURGY
 
 
 distinction of dress between clergy and laity at the liturgy. (The adoption
@@ -778,7 +758,6 @@ at Constantinople organised torch-light processions to counter the street-
 propaganda of the Arians, and these carried silver crosses, to the arms of
 
 
-THE DEVELOPMENT OF CEREMONIAL 411
 
 which were affixed burning candles. But it is clear that this was not a
 transference to the streets of something already practised in the liturgy,
@@ -831,7 +810,6 @@ head being detached from the staff after the procession and stood before
 1 Liber Ponttficalis , Vita Leonis ill.
 
 
-412 THE SHAPE OF THE LITURGY
 
 the celebrant during the eucharist. It does not seem that this was the origin
 of the altar cross, though it was the custom in some thirteenth-fourteenth
@@ -891,7 +869,6 @@ It is noticeable that the Anglo-Saxon abbot is here invested with staff, pedules
 liturgical shoes) and staminia (? = dalmatic). I do not know when these English
 
 
-THE DEVELOPMENT OF CEREMONIAL 413
 
 The Greek episcopal staff has a separate origin. It is derived, as its form
 indicates, from the crutch or leaning-stick employed by the Eastern monks
@@ -947,7 +924,6 @@ about after the Norman Conquest by false analogy with the mitre.
 1 Horace, Satires 1, v. 36; Tertullian, Apologeticus , 35; etc.
 
 
-414 THE SHAPE 0F THE LITURGY
 
 appears to be in a poem by the Italian S. Paulinus of Nola just after
 a.d. 400;1 and there can be little doubt that its adoption, in some churches
@@ -1001,7 +977,6 @@ c. a.d. 810).3
 Paris, 1935).
 
 
-THE DEVELOPMENT OF CEREMONIAL 415
 
 Whether the use of seven candles upon the altar by Western bishops
 when pontificating has any direct connection with the Pope's seven pro¬
@@ -1058,7 +1033,6 @@ The sedia has no direct connection with the litter or sedan chair of the classic
 period.
 
 
-416 THE SHAPE OF THE LITURGY
 
 now carried behind the Viceroy of India in public. But in a small number
 of ancient parish churches round about Arles in Provence— that stronghold
@@ -1112,10 +1086,8 @@ common to all mediterranean religions, to which pre-christian judaism
 1 Qf. p. 28a.
 
 
-THE DEVELOPMENT OF CEREMONIAL
 
 
-417
 
 had been no exception. The contemporary Acta of S. Cyprian's martyr¬
 dom (a.d. 258) reveal that the pre-Nicene Christian church also made no
@@ -1167,7 +1139,6 @@ lighted lamps about the doorways of the house on days of religious festivity,
 • Vita $. Macrinaey ad fin* 4 contra Vigilantiuniy 3.
 
 
-418 THE SHAPE OF THE LITURGY
 
 about which more than one of the pre-Nicene fathers make scornful obser¬
 vations.1 Popular piety carried on the practice to celebrate Christian festi¬
@@ -1222,10 +1193,8 @@ ignorance and simplicity of laymen or at least of over-devout women*.
 is almost certainly a later touch in the ceremonies.
 
 
-THE DEVELOPMENT OF CEREMONIAL
 
 
-419
 
 meal such as the last supper.1 But this continued in Christian liturgical use
 only at the agape, not at the eucharist. It survived at the vigil also, and was
@@ -1283,7 +1252,6 @@ and processional lights are at least five or six centuries older than the altar-
 sticks themselves.
 
 
-420 THE SHAPE OF THE LITURGY
 
 know.1 This custom of one altar candle (moved around with the book at low
 mass) became fairly common in France in the thirteenth century, and was
@@ -1347,7 +1315,6 @@ of 1549* This may or may not constitute an authoritative Anglican ruling on alta
 lights, but it had nothing to do with 'old English customs*, which varied indefinitely.
 
 
-THE DEVELOPMENT OF CEREMONIAL 421
 
 some 3 ft. square to that of oblong altars 10, 12, or more feet long, in the
 new gothic churches. The increase in the number of candles comes in first
@@ -1397,7 +1364,6 @@ hibition certainly did not end the practice, even in Spain. A century later
 the Spaniard Vigilantius of Barcelona, exhibiting that impatience of folk-
 
 
-422 THE SHAPE OF THE LITURGY
 
 religion which is at once the strength and the limitation of puritans in
 every age, made a violent attack on the general use of this practice in his
@@ -1456,10 +1422,8 @@ Nicene church did not adopt this line about art. {E.g., the professional painter
 be admitted to baptism provided be is not employed in the manufacture of idols,
 
 
-THE DEVELOPMENT OF CEREMONIAL
 
 
-423
 
 ance and even encouragement then given to the popular cultus of relics
 being extended to the cultus of pictures or statues of Christ or the saints
@@ -1515,7 +1479,6 @@ control of pagan worship which that gave them down to the time of Gratian
 (A.D. 375), though they did not personally fulfil its ritual functions.
 
 
-424 THE SHAPE OF THE LITURGY
 
 publicly disbelieved in his own divinity, many Christians found it more
 possible to pay the conventional 'adoration'1 to the imperial portrait as a
@@ -1577,7 +1540,6 @@ nificat at Vespers on their feasts, but this is a permitted, not a prescribed ce
 of the rite.
 
 
-THE DEVELOPMENT OF CEREMONIAL 425
 
 But even this slight connection does not begin until the thirteenth
 century.
@@ -1635,7 +1597,6 @@ modem times.
 2F D.S.L.
 
 
-426 THE SHAPE OF THE LITURGY
 
 of a lamp has already been spoken of. It was at this moment that the spices
 also were introduced and blessed and burned. In the first century a.d. the
@@ -1692,10 +1653,8 @@ vi. 25, etc.
 7 Irenaeus, adv. Haer.y IV. xy. 11; Origen, contra Celsum3 viii. 17, etc.
 
 
-THE DEVELOPMENT OF CEREMONIAL
 
 
-427
 
 use.1 Turificati , 'incense-burners', without further description, became a
 technical name for the apostates who by obedience to the magistrate's
@@ -1756,7 +1715,6 @@ esting collection of evidence—and this was continued without question by Chris
 tians. Cf. Tertullian, Apol. 42.
 
 
-428 THE SHAPE OF THE LITURGY
 
 place incense shall he offered unto My Name and a pure offering' had, as we
 have seen, done yeoman service ever since the second century in expounding
@@ -1818,7 +1776,6 @@ holy place' (ix. 11 sq.) though he had mentioned the 'golden censer' in ix. 4.
 5 Brightman, L. E. W ii8, /. 26$$.
 
 
-THE DEVELOPMENT OF CEREMONIAL 429
 
 Similar ideas reached the Gallican churches about the tenth century,
 probably from Eastern sources, and began to penetrate into the liturgies
@@ -1874,7 +1831,6 @@ it in a Gallican procession of the elements). But this is a modern piece of Roma
 ing, not a restoration of the mediaeval Chichester use, which was more elaborate.
 
 
-430 THE SHAPE OF THE LITURGY
 
 Such post-Reformation Anglican use of incense as there was before the
 later nineteenth century did not develop so exclusively as one might expea
@@ -1928,10 +1884,8 @@ in some dioceses in the mission field the people have come to add a sign of the 
 and a bow by each contributor as he puts in his money, in token of 'giving to God*.
 
 
-THE DEVELOPMENT OF CEREMONIAL
 
 
-431
 
 century. The whole apparatus of the cultus of images, relics, holy wells, etc.
 in the forms which it was allowed to assume during the dark ages has a
@@ -1981,7 +1935,6 @@ superstition that 'An angel went down at a certain season into the pool of
 Bethesda and troubled the water: whosoever then first stepped in was made
 
 
-432 THE SHAPE OF THE LITURGY
 
 whole of whatsoever disease he had'.1 In the dark ages when 'not many
 wise men after the flesh' were available, the church was content to believe
@@ -2054,10 +2007,8 @@ a but since disappeared bracketed thus: < >
 (Monophysitc)
 
 
-III
 
 
-IV
 
 
 Ps-Dcuys
@@ -2084,7 +2035,6 @@ Gk. St. James
 
 1 Roman
 
-1
 
 l
 
@@ -2361,7 +2311,6 @@ between (B)
 ^9th cent,
 
 
-0
 
 
 (E) Dismissals <(E) Dismissals >
@@ -2384,7 +2333,6 @@ between (B)
 (E) Dismisals
 
 
-THE DEVELOPMENT OF CEREMONIAL 433
 
 intercessions of the people in the Byzantine litanies with the very gestures
 and phrases prescribed by etiquette for the spokesman of a deputation to

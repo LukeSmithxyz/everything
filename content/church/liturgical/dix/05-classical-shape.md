@@ -1,17 +1,12 @@
 ---
-title: "The Classical Shape of the Liturgy II"
+title: "The Classical Shape of the Liturgy II: The Eucharist"
 author: "Gregory Dix"
 params:
  da: 1945
  order: 5
 ---
 
-CHAPTER V
 
-
-THE CLASSICAL SHAPE OF THE LITURGY:
-
-(II) THE EUCHARIST
 
 IN this chapter we shall study what may be called the skeleton of that
 Tour-action shape* of the eucharist whose first century origins we have
@@ -53,13 +48,10 @@ be always with you' (in the West). The church answered, as always, 'And
 
 1 John xx. 19.
 
-103
 
 
-THE SHAPE OF THE LITURGY
 
 
-104
 
 with thy spirit*. And again, because at the eucharist the holy church is
 separated 'out of the world5,1 the wish can be fulfilled. The peace of Christ
@@ -114,7 +106,6 @@ first attested only by S. Cyril of Jerusalem in a.d. 348.)
 A.D. 410 (cf.p. 282).
 
 
-THE CLASSICAL SHAPE: THE EUCHARIST 105
 
 The bishop and presbyters then laid their hands in silence upon the
 oblations. There followed the brief dialogue of invitation, followed by the
@@ -173,7 +164,6 @@ things*.
 d.s,l.
 
 
-10 6 THE SHAPE OF THE LITURGY
 
 sacrifice is defiled5.1 The unity of the church as the Bojly of Christ* which
 ever since S. Paul's day had been understood to be off the essence of the
@@ -229,7 +219,6 @@ Didascalta Apostolorum * ii. 45* ed. Connolly, p. in (Syria, ? before A.D. 250),
 6 Dtdascalia Apo$tolorumy ed, cit. p, 109.
 
 
-THE CLASSICAL SHAPE: THE EUCHARIST 107
 
 make peace between them.1 By the fourth century this question had become
 stereotyped into the warning by the deacon, 'Let none keep rancour against
@@ -290,7 +279,6 @@ good deal, but it probably represents something like the truth.)
 io8
 
 
-THE SHAPE OF THE LITURGY
 
 
 token of that 'unity of the Spirit in the bond of peace* which for S. Paul
@@ -348,7 +336,6 @@ intercessory prayers at the end of the synaxis (which immediately preceded the k
 when synaxis and eucharist were celebrated together) or of the eucharistic prayer.
 
 
-THE CLASSICAL SHAPE: THE EUCHARIST 109
 
 In any case Rome appears to have adopted this new position for the kiss
 before the communion not very long before a.d. 41 6* when the matter is
@@ -409,7 +396,6 @@ the offertory, as at Jerusalem.
 no
 
 
-THE SHAPE OF THE LITURGY
 
 
 had followed Rome in placing the kiss itself before the communion, though
@@ -517,10 +503,8 @@ somewhat similar line, but pp. 226 sq. appears to follow a rather different argu
 8 Of. Canons 1, 2 and 3 of the Council of Ancyra, c. A.D. 314.
 
 
-112
 
 
-THE SHAPE OF THE LITURGY
 
 
 gifts of Thy holy churchy but the 'liturgies' of each order in connection
@@ -576,7 +560,6 @@ anything) in the way of 'jurisdiction*, certainly regards the Roman church in th
 light of a standard or norm for other churches in fidelity to tradi ion.
 
 
-THE CLASSICAL SHAPE: THE EUCHARIST 113
 
 within this general conception; but to the conception itself as thus stated
 there is no exception whatever in any Christian tradition in the second cen¬
@@ -628,7 +611,6 @@ all the world she offers to God, even to Him Who provides us with our own
 3 ap. Cyprian, Ep. 75, 10.
 
 
-1 14 THE SHAPE OF THE LITURGY
 
 food, the first-fruits of His own gifts in the New Covenant. . . . We ought
 to make oblation to God and be found pleasing to God our creator in all
@@ -681,7 +663,6 @@ majesty of Thine own gifts and bounties . . . the holy bread of eternal life
 4 Eph. v. 20. 6 Heb. xiii. 15.
 
 
-THE CLASSICAL SHAPE: THE EUCHARIST 115
 
 and the cup of perpetual salvation/ What is striking is that the same idea
 almost in the same words is still found also at the same point of the
@@ -789,7 +770,6 @@ prospherometha ) in these two passages to that of Hippolytus Ap. Trad., iv. 11
 (prospheromen . . . eph hois) with an important difference of meaning.
 
 
-THE CLASSICAL SHAPE: THE EUCHARIST 117
 
 
 at all irrelevant to the interpretation of its initial movement, the offertory,
@@ -846,7 +826,6 @@ holy liturgy, that of presenting ( anapherein ) the bread or the cup, or proclai
 present at the eucharist ' without a prosphora \ and therefore without communicating.
 
 
-THE SHAPE OF THE LITURG
 
 
 nS
@@ -907,7 +886,6 @@ idea of the offertory has certain novel developments, but Ithis much is traditio
 Cf.p. 283.
 
 
-THE CLASSICAL SHAPE: THE EUCHARIST 119
 
 was nevertheless formally expressed in words in cthe' prayer, the eucharistic
 prayer itself. 'We offer to Thee* says the earliest known formula of the
@@ -969,10 +947,8 @@ the rite as a whole.
 8 Cf. those on p. 496.
 
 
-120
 
 
-THE SHAPE OF THE LITURGY
 
 
 are tenth-eleventh century 'Galilean' intrusions into the original Roman
@@ -1024,7 +1000,6 @@ The difference between these two ways of receiving the people's
 1 Brightman, L. E. W., p. 148; cf. p. 124.
 
 
-THE CLASSICAL SHAPE: THE EUCHARIST 121
 
 offerings may seem a mere question of convenience, something quite
 trifling; and so in itself it is. But if any young liturgical student seeking a
@@ -1078,10 +1053,8 @@ in his Analecta Vetera, and in real understanding of the matter no further, if a
 D.S.L.
 
 
-122
 
 
-THE SHAPE OF THE LITURGY
 
 
 accounts of the Western offertory says anything which would suggest the
@@ -1137,7 +1110,6 @@ Jerusalem does not describe the offertory.
 4 Victor Vitensisy ii. 17.
 
 
-THE CLASSICAL SHAPE: THE EUCHARIST 123
 
 Caesarius of Arles as the normal custom in the early sixth century in S.E.
 France, the first information from Gaul that we possess about the offertory.
@@ -1191,10 +1163,8 @@ points to the subsequent 'Western*, not 'Eastern*, practice having prevailed at
 Caesarea of Cappadocia in the later fourth century.
 
 
-124
 
 
-THE SHAPE OF THE LITURG1
 
 
 3. The Rinsing of the Hands
@@ -1249,7 +1219,6 @@ places the lavabo before the offertory.
 prove a little of the practice, but they record it.
 
 
-THE CLASSICAL SHAPE: THE EUCHARIST 125
 
 these ritual ablutions of the laity before entering for the liturgy.1 Their
 remote derivatives are to be seen in the holy-water stoups at the doors of
@@ -1302,10 +1271,8 @@ to be of early mediaeval origin.
 4 Ap. Trad.y ii. 3; xx. 8; xxii. 1. Cf. xix. 1 (on catechumens).
 
 
-126
 
 
-THE SHAPE OF THE LITURGY
 
 second century church saw in the offertory a ritual s et with a religious
 significance of its own, not merely a necessary preliminary to consecration
@@ -1360,7 +1327,6 @@ originally had no share.
 * Qf- PP- 79 * dp* Trad., iv. 3. 4 2 Cor. xiii. 14.
 
 
-THE CLASSICAL SHAPE: THE EUCHARIST 127
 
 core of the liturgical eucharist; and their character is another slight indica¬
 tion that the first formation of the 'four-action shape9 of this took place in
@@ -1421,10 +1387,8 @@ elaboration for elaboration's sake. It is worth noting that the Roman rite in
 1 Cf. e.g. p. 85, 8 Eph. ii. 6, 7* 8 Berakoth , M., vii. 4 and 5
 
 
-128
 
 
-THE SHAPE OF THE LITURGY
 
 
 the West and the Egyptian rite in the East still often coincide in such
@@ -1476,7 +1440,6 @@ the period.
 1 C/. p. no. 8 Ap. Trad., x. 3-5. 8 1 Cor. xiv. 16 sq.
 
 
-THE CLASSICAL SHAPE: THE EUCHARIST 129
 
 Without wishing to depreciate the patristic scholarship of the Carolines,
 which was as a rule more extensive than deep, it must be pointed out that
@@ -1529,10 +1492,8 @@ creation of God.'3 In Him the truth, mercy and righteousness of God have
 8 Rev. iii. 14.
 
 
-THE SHAPE OF THE LITURG
 
 
-130
 
 been revealed; in Him God has acted; in Him the Messianic 'age to come'
 has dawned. Or as S. Paul puts it, 'In Him (Jesus) all ths promises of God
@@ -1585,7 +1546,6 @@ Chrysostom's writings at Antioch a generation later. It was therefore
 8 Rev. xxii. 21. * Rev, xix, 4.
 
 
-THE CLASSICAL SHAPE: THE EUCHARIST 131
 
 not a general Syrian custom in Cyril's time. At about the same period it
 appears to be missing from the Egyptian rite as represented by Sarapion.
@@ -1646,10 +1606,8 @@ Ap. Trad.y xxiii. 5.
 1 Ibid. xxiv. 1.
 
 
-THE SHAPE OF THE LITURGY
 
 
-132
 
 while he makes his own communion. It is also to be n<ited that according
 to Hippolytus the concelebrant presbyters are also to) 'break the Bread*
@@ -1705,7 +1663,6 @@ xi. 25.
 rlier account in 1 Cor.
 
 
-THE CLASSICAL SHAPE: THE EUCHARIST 133
 
 filling up of S. Paul's phrase variously in different churches, as '. . . is
 broken ( klomenoh ) for you', or '. . . is given ( didomenon ) for you', according
@@ -1756,7 +1713,6 @@ The fraction was always the point in the rite which offered most
 1 S. Ambrose> de Saar amends > iv. 5.
 
 
-134 THE SHAPE OF THE LITURGY
 
 opportunity for symbolic development. After the fovxth century various
 complicated arrangements of the broken Bread upon die altar were evolved
@@ -1813,7 +1769,6 @@ not seem to be known in the East.
 (c. a.d. 580).
 
 
-THE CLASSICAL SHAPE: THE EUCHARIST 135
 
 what is in itself 'good5 (which is the connotation of the English 'holy') as
 what 'belongs to God.' It is, for instance, in this sense that S. Paxil speaks
@@ -1867,7 +1822,6 @@ Parish Communion, p. 102, «. 4.
 4 Ap. 1. 65, 67.
 
 
-136 THE SHAPE OF THE LITURGY
 
 liturgical privileges of the order of deacons which comes out more than
 once in the Apostolic Tradition.
@@ -1921,7 +1875,6 @@ to all both in Bread and Wine down to the fourth century.
 1 Acts vi. 2.
 
 
-THE CLASSICAL SHAPE: THE EUCHARIST 137
 
 'And the presbyters—but if they are not enough the deacons also—shall
 hold the cups and stand by in good order and with reverence, first he that
@@ -1974,13 +1927,11 @@ the mutual compenetration of God and the soul in holy communion.
 
 6 John vi. 63. 6 1 Cor. xv. 45. 7 John vi. 51. 8 1 Cor. xii. 13.
 
-L
 
 
 D.S.L.
 
 
-138 THE SHAPE OF THE LITURGY
 
 
 This primitive recognition of what the communicant received in holy
@@ -2039,7 +1990,6 @@ out some difficulty—as applying to the Third Person. This led again to
 2 On the Pascha , iii. 4 Cf. pp. 260 sq.
 
 
-THE CLASSICAL SHAPE: THE EUCHARIST 139
 
 reinterpretations of the archaic language of the liturgical tradition by novel
 theological theories. But besides this transfer of meaning in terminology,
@@ -2091,10 +2041,8 @@ removal of the elements to the sacristy for the thanksgiving does balance
 * Monumenta Jur. Eccl . Grace ., ii. 341.
 
 
-140
 
 
-THE SHAPE OF THE LITURGY
 
 the other Syrian peculiarity of keeping the elements in the sacristy until
 they were actually wanted at the offertory.
