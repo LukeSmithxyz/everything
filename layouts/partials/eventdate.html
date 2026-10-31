@@ -2,7 +2,7 @@
 {{- if not ( eq .Params.des .Params.def false ) -}}
 <span class="eventdate">
 {{- if le 0 (math.Product .Params.des .Params.def) }}
-{{- math.Abs .Params.des }}-{{ math.Abs .Params.def }}
+{{- with .Param "des" }}{{- math.Abs . }}{{ else }}?{{ end }}-{{ math.Abs .Params.def }}
 {{- if gt 0 .Params.des }} B.C.
 {{- else }} A.D.
 {{- end -}}
