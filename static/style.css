@@ -140,3 +140,45 @@ img {
 @media print {
 	nav { display: none ; }
 }
+body {
+	background: #1b1b1b ;
+	color: #fff ;
+	margin-bottom: 200px ;
+	font-family: "Garamond", Georgia, serif, 'Noto Color Emoji', 'Apple Color Emoji', 'Segoe UI Emoji' ;
+}
+
+summary {
+	font-variant: italic ;
+	color: gray ;
+}
+
+details {
+	background: #2b2b2b ;
+}
+
+h1 {
+	color: chocolate ;
+}
+h2 {
+	color: sandybrown ;
+}
+h3 {
+	color: tan ;
+}
+h4 {
+	color: wheat ;
+}
+h5, h6 { color: cornsilk ; }
+
+strong {
+	color: wheat ;
+}
+
+a {
+	color: #33bbff ;
+	text-decoration: none ;
+}
+
+a:hover {
+	color: goldenrod ;
+}
