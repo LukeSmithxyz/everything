@@ -7,7 +7,7 @@
 {{- range .Pages.ByParam "order" }}
 <li><a href="{{ .RelPermalink }}">{{- if isset .Params "worktitle" }}{{- if ne .Params.worktitle .Parent.Params.title }}{{ .Params.worktitle }} &ndash; {{ end }}{{ end }}{{ .Title }}</a>
 	{{- if ne .Parent.Params.author .Params.author -}}
-	{{- if ne .Params.author .Params.title }} by {{ .Params.author }}{{ end }}
+	{{- if ne .Params.author .Params.title }}{{ with .Params.author }} by {{ . }}{{ end }}{{ end }}
 	{{ end -}}
 	{{ if or ( isset .Params "des" ) ( isset .Params "de" ) ( isset .Params "def" ) }}
 	({{ partial "eventdate.html" . -}})
