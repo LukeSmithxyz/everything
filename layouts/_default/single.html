@@ -1,3 +1,9 @@
 {{ define "title" -}}
 {{ .Title }}
 {{- end }}
+{{ define "main" -}}
+{{ if .Param "toc" }}{{ .TableOfContents }}{{ end }}
+{{ if .Param "poem" }}<style>article {max-width: 500px; margin: auto ;}</style>{{ end }}
+{{ .Content }}
+{{ if .Param "taglist" }}{{ partial "taglist.html" . }}{{ end -}}
+{{- end }}
