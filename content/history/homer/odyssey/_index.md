@@ -1,5 +1,5 @@
 ---
-title: "The Odessey"
+title: "The Odyssey"
 author: "Homer"
 params:
  translator: "Alexander Pope"
