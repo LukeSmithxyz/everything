@@ -1,0 +1,43 @@
+#!/bin/bash
+
+# slowly download files in ~/.local/share/imgstodl
+
+waitsecs=10
+
+file="$HOME/.local/share/imgstodl"
+
+sed -i "/^$/d" "$file"
+
+rmline(){
+	# Remove an exact line of the $file.
+	sed -i "/^${1//\//\\/}$/d" "$file"
+}
+
+while read -r line; do
+	dest="${line#*	}"
+	url="${line%	*}"
+
+	case "$(file --mime-type $dest -b)" in
+		image/* )
+			echo "${dest##*/} is already downloaded."
+			rmline "$line"
+			unset notfirst
+			;;
+		* )
+			echo "Will download \"${dest##*/}\" next..."
+			[ ! -z "$notfirst" ] && echo "Waiting $waitsecs seconds..." && sleep $waitsecs
+			curl -s -L "$url" > "$dest"
+			notfirst=yes
+			case "$(file --mime-type $dest -b)" in
+				image/* )
+					rmline "$line"
+					;;
+				* )
+					echo "Download failed. Likely limited."
+					exit 1
+					;;
+			esac
+			;;
+	esac
+
+done < "$file"

@@ -16,7 +16,36 @@ All of the works included in this project are in the Public Domain.
 
 ### Download Scripts
 
+- `mkbooks` create files based on `_index.md`
 - `wks` downloads a file from Wikisource, converting it to markdown.
+- `chmeta` changes metadata. See below.
+
+### Using these
+
+Suppose we are porting a book from Wikisource. We can use the `wks` and `mkbooks` scripts to do repetitive things.
+
+```
+mkdir newbook
+cd newbook
+# Edit the file.
+vim _index
+# Suppose we have 25 books
+mkbooks 25
+# The above creates the 25 md files
+# Now we can download the Wikisource content with `wks`
+for x in {1..25}
+wks "https://en.wikisource.org/wiki/SomeAuthor/Work/Book_$x" >> $x.md
+# Or if Wikisource uses Roman numerals in the URL:
+for x in {1..25}
+wks "https://en.wikisource.org/wiki/SomeAuthor/Work/Book_$(romnum x)" >> $x.md
+```
+
+### Notes on `wks`
+
+`wks` should do a lot of the convertion for you, including porting over footnotes to proper markdown.
+
+If there are images in the text, they are added to a download queue which is read by `slowdl`.
+`slowdl` will download images with a pause to prevent some rate limiting.
 
 ### Editing Metadata
 

@@ -1,0 +1,15 @@
+#!/bin/sh
+
+# run this in a new directory to copy metadata from _index to $1 number of
+# numbered markdown files.
+
+# For example: once you make _index.md, just run:
+# mkbooks 39
+# And that will create 1.md all the way to 39.md, with the proper metadata,
+# including the order parameters for each file.
+
+for x in $(seq 1 ${1:-?}) ; do
+	sed "/^worktitle/d;/order:/d;s|^title:|worktitle:|
+	/params/a \ order: $x
+	/worktitle/ a title: \"${2:-Book} $(romnum $x)\"" _index.md > $x.md
+done
