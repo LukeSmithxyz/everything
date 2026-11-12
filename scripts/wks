@@ -47,7 +47,10 @@ done
 # we combine multiple small pages on Wikisource into one page on our site.
 [ -z "$2" ] || pre="$2-"
 
-sed "$repl" "$file" |  hxextract '.prp-pages-output' - | w3m -T text/html -dump | sed  "
+# hxextract '.prp-pages-output'
+
+
+sed "$repl" "$file" | sed -n '/ws-article-id/,$p' | sed '1d' | w3m -T text/html -dump | sed  "
 	$repl
 	s|^\s*\([0-9]\+\)\. ↑ |[^$pre\1]: |
 	s|\^\[\([0-9]\+\)\]|[^$pre\1]|
@@ -57,6 +60,6 @@ sed "$repl" "$file" |  hxextract '.prp-pages-output' - | w3m -T text/html -dump 
 	s|​||g
 	/^Footnotes$/d
 	/^\[edit\]$/d
-		"
+		" | sed "/^\*$/Q"
 
 rm -f "$file"

@@ -2,12 +2,13 @@
 
 # change/add the metadata variable for $1 to be set to $2 for file $3.
 
-filedata="$(cat "$3")"
-param="$1"
-val="$2"
+case "$1" in
+	tags)
 
-echo "$filedata" | grep -q "^params:" || { sed -i "/^title: /a params:\n ${param}: \"$val\"" "$3" ; exit ;}
-
-echo "$filedata" | grep -q "^ $param:" &&
-	sed -i "s|^\(\s\)*$param:.*|\1$param: \"$2\"|" "$3" ||
-	sed -i "/^params:/a  \ $param: \"$val\"" "$3"
+		tags="\"$(echo $2 | sed "s|,|\",\"|g")\""
+		yq-go -i -f process ".tags += [$tags]" "$3"
+		;;
+	*)
+		yq-go -i -f process ".$1 = \"$2\"" "$3"
+		;;
+esac
