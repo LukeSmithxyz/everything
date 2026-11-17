@@ -5,7 +5,9 @@
 {{ .Content }}
 <ul class=articlelist>
 {{- range .Pages.ByParam "order" }}
-<li><a href="{{ .RelPermalink }}">{{- if isset .Params "worktitle" }}{{- if ne .Params.worktitle .Parent.Params.title }}{{ .Params.worktitle }} &ndash; {{ end }}{{ end }}{{ .Title }}</a>
+<li>
+	{{- if .Parent.Params.shownums }}{{ .Params.order }} &ndash; {{ end -}}
+	<a href="{{ .RelPermalink }}">{{- if isset .Params "worktitle" }}{{- if ne .Params.worktitle .Parent.Params.title }}{{ .Params.worktitle }} &ndash; {{ end }}{{ end }}{{ .Title }}</a>
 	{{- if ne .Parent.Params.author .Params.author -}}
 	{{- if ne .Params.author .Params.title }}{{ with .Params.author }} by {{ . }}{{ end }}{{ end }}
 	{{ end -}}
