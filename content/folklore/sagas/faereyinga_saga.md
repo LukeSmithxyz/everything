@@ -1,9 +1,9 @@
 ---
 title: "The Saga of Thrond of Gate"
 params:
- transdate: "1896"
- translator: "F. York Powell"
- oriname: "Færeyinga saga"
+  transdate: "1896"
+  translator: "F. York Powell"
+  oriname: "Færeyinga saga"
 ---
 
 

@@ -1,9 +1,9 @@
 ---
 title: "The Story of Howard the Halt"
 params:
- transdate: "1891"
- translator: "William Morris and Eiríkr Magnússon"
- oriname: "Hávarðar saga Ísfirðings"
+  transdate: "1891"
+  translator: "William Morris and Eiríkr Magnússon"
+  oriname: "Hávarðar saga Ísfirðings"
 ---
 
 

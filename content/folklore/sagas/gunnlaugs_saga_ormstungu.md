@@ -1,9 +1,9 @@
 ---
 title: "The Saga of Gunnlaug the Worm-Tongue and Rafn the Skald"
 params:
- transdate: "1901"
- translator: "William Morris &amp; Eirikr Magnusson"
- oriname: "Gunnlaugs saga ormstungu"
+  transdate: "1901"
+  translator: "William Morris &amp; Eirikr Magnusson"
+  oriname: "Gunnlaugs saga ormstungu"
 ---
 
 

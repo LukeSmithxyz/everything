@@ -1,9 +1,9 @@
 ---
 title: "The Saga of Viglund the Fair"
 params:
- transdate: "1901"
- translator: "William Morris and Eiríkr Magnússon"
- oriname: "Víglundar saga"
+  transdate: "1901"
+  translator: "William Morris and Eiríkr Magnússon"
+  oriname: "Víglundar saga"
 ---
 
 

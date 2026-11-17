@@ -1,9 +1,9 @@
 ---
 title: "The Saga of Erik the Red"
 params:
- translator: "J. Sephton"
- transdate: 1880
- oriname: "Eiríks saga rauða"
+  translator: "J. Sephton"
+  transdate: 1880
+  oriname: "Eiríks saga rauða"
 ---
 
 

@@ -1,11 +1,11 @@
 ---
 title: "The Saga of Gisli the Outlaw"
 params:
- transdate: "1866"
- translator: "G. W. DaSent"
- oriname: "Gísla saga Súrssonar"
- des: "860"
- def: "980"
+  transdate: "1866"
+  translator: "G. W. DaSent"
+  oriname: "Gísla saga Súrssonar"
+  des: "860"
+  def: "980"
 ---
 
 

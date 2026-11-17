@@ -1,9 +1,9 @@
 ---
 title: "Hænsa-Thori's Saga"
 params:
- transdate: "2002"
- translator: "Eric V. Youngquist"
- oriname: "Hænsna-Þóris saga"
+  transdate: "2002"
+  translator: "Eric V. Youngquist"
+  oriname: "Hænsna-Þóris saga"
 ---
 
 

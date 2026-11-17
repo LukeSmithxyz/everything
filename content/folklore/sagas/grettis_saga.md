@@ -1,9 +1,9 @@
 ---
 title: "Grettir's Saga"
 params:
- transdate: "1914"
- translator: "G. H. Hight"
- oriname: "Grettis saga"
+  transdate: "1914"
+  translator: "G. H. Hight"
+  oriname: "Grettis saga"
 ---
 
 

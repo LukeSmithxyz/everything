@@ -1,9 +1,9 @@
 ---
 title: "The Saga of Cormac the Skald"
 params:
- transdate: "1901"
- translator: "W.G. Collingwood and J. Stefansson"
- oriname: "Kormáks saga"
+  transdate: "1901"
+  translator: "W.G. Collingwood and J. Stefansson"
+  oriname: "Kormáks saga"
 ---
 
 

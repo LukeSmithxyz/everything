@@ -1,11 +1,11 @@
 ---
 title: "The Laxdale Saga"
 params:
- transdate: "1880"
- translator: "Muriel A. C. Press"
- oriname: "Laxdæla saga"
- def: "1031"
- des: "850"
+  transdate: "1880"
+  translator: "Muriel A. C. Press"
+  oriname: "Laxdæla saga"
+  def: "1031"
+  des: "850"
 ---
 
 

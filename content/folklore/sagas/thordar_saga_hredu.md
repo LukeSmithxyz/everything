@@ -1,9 +1,9 @@
 ---
 title: "The Story of Thórðr Hreða"
 params:
- transdate: "1882"
- translator: "John Coles"
- oriname: "Þórðar saga hreðu"
+  transdate: "1882"
+  translator: "John Coles"
+  oriname: "Þórðar saga hreðu"
 ---
 
 

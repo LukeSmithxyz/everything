@@ -1,9 +1,9 @@
 ---
 title: "The Saga of the Heath Slayings"
 params:
- transdate: "1892"
- translator: "William Morris and Eiríkr Magnússon"
- oriname: "Heiðarvíga saga"
+  transdate: "1892"
+  translator: "William Morris and Eiríkr Magnússon"
+  oriname: "Heiðarvíga saga"
 ---
 
 

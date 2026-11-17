@@ -1,11 +1,11 @@
 ---
 title: "The Story of Burnt Njal"
 params:
- translator: "George W. DaSent"
- transdate: "1861"
- oriname: "Brennu-Njáls saga"
- des: "960"
- def: "1020"
+  translator: "George W. DaSent"
+  transdate: "1861"
+  oriname: "Brennu-Njáls saga"
+  des: "960"
+  def: "1020"
 ---
 
 # Chapter 1 - Of Fiddle Mord

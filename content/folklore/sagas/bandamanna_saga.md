@@ -1,9 +1,9 @@
 ---
 title: "The Story of the Banded Men"
 params:
- translator: "William Morris and Eiríkr Magnússon"
- transdate: "1891"
- oriname: "Bandamanna saga"
+  translator: "William Morris and Eiríkr Magnússon"
+  transdate: "1891"
+  oriname: "Bandamanna saga"
 ---
 
 

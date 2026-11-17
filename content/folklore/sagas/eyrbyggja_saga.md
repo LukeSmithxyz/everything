@@ -1,9 +1,9 @@
 ---
 title: "The Saga of the Ere-Dwellers"
 params:
- transdate: "1892"
- translator: "William Morris &amp; Eirikr Magnusson"
- oriname: "Eyrbyggja saga"
+  transdate: "1892"
+  translator: "William Morris &amp; Eirikr Magnusson"
+  oriname: "Eyrbyggja saga"
 ---
 
 # Chapter 1 - Herein Is Told How Ketil Flatneb Fares To West-Over-Sea.

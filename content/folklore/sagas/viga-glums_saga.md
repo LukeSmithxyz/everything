@@ -1,9 +1,9 @@
 ---
 title: "The Saga of Viga-Glum"
 params:
- transdate: "1866"
- translator: "Edmund Head"
- oriname: "Víga-Glúms saga"
+  transdate: "1866"
+  translator: "Edmund Head"
+  oriname: "Víga-Glúms saga"
 ---
 
 

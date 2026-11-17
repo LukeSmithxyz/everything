@@ -1,9 +1,9 @@
 ---
 title: "The Story of Hrafnkell, Frey's Priest"
 params:
- transdate: "1882"
- translator: "John Coles"
- oriname: "Hrafnkels saga freysgoða"
+  transdate: "1882"
+  translator: "John Coles"
+  oriname: "Hrafnkels saga freysgoða"
 ---
 
 

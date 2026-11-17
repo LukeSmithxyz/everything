@@ -1,11 +1,11 @@
 ---
 title: "Egil's Saga"
 params:
- translator: "W. C. Green"
- transdate: "1893"
- oriname: "Egils saga Skallagrímssonar"
- des: "850"
- def: "1000"
+  translator: "W. C. Green"
+  transdate: "1893"
+  oriname: "Egils saga Skallagrímssonar"
+  des: "850"
+  def: "1000"
 ---
 
 # Chapter 1 - Of Kveldulf and his sons.
