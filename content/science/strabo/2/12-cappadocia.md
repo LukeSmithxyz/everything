@@ -3,8 +3,8 @@ title: "Cappadocia"
 worktitle: "The Geography of Strabo, Volume 2 (of 3)"
 author: "Strabo"
 params:
- translator: "W. Fanconer"
- order: 12
+  translator: "W. Fanconer"
+  order: 12
 ---
 
 # SUMMARY.

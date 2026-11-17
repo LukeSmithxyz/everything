@@ -3,8 +3,8 @@ worktitle: "The Geography of Strabo, Volume 1 (of 3)"
 title: "Europe"
 author: "Strabo"
 params:
- translator: "H. C. Hamilton"
- order: 7
+  translator: "H. C. Hamilton"
+  order: 7
 ---
 
 # BOOK VII. GERMANY.—THE CIMBRI, GETÆ, DACI.—MOUTHS OF THE DANUBE.—THE TAURICA CHERSONESUS, ILLYRICUM, HUNGARY, EPIRUS, DODONA, MACEDONIA, THRACE.—THE HELLESPONT.

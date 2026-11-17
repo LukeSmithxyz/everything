@@ -3,7 +3,7 @@ worktitle: "Geography"
 title: "Volume 3"
 author: "Strabo"
 params:
- translator: "W. Fanconer"
+  translator: "W. Fanconer"
 ---
 
 

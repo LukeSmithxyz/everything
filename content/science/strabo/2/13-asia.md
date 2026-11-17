@@ -3,8 +3,8 @@ title: "Asia (Continued)"
 worktitle: "The Geography of Strabo, Volume 2 (of 3)"
 author: "Strabo"
 params:
- translator: "W. Fanconer"
- order: 13
+  translator: "W. Fanconer"
+  order: 13
 ---
 
 # BOOK XIII. ASIA.

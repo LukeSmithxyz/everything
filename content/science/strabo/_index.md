@@ -2,5 +2,5 @@
 title: "Geography"
 author: "Strabo"
 params:
- translator: "H. C. Hamilton"
+  translator: "H. C. Hamilton"
 ---

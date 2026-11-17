@@ -3,8 +3,8 @@ worktitle: "The Geography of Strabo, Volume 1 (of 3)"
 title: "Italy"
 author: "Strabo"
 params:
- translator: "H. C. Hamilton"
- order: 5
+  translator: "H. C. Hamilton"
+  order: 5
 ---
 
 # BOOK V. ITALY.

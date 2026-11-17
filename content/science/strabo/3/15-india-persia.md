@@ -3,8 +3,8 @@ title: "India and Persia"
 worktitle: "The Geography of Strabo, Volume 3 (of 3)"
 author: "Strabo"
 params:
- translator: "W. Fanconer"
- order: 15
+  translator: "W. Fanconer"
+  order: 15
 ---
 
 # SUMMARY.

@@ -3,8 +3,8 @@ title: "Assyria, Mesopotamia and Arabia"
 worktitle: "The Geography of Strabo, Volume 3 (of 3)"
 author: "Strabo"
 params:
- translator: "W. Fanconer"
- order: 16
+  translator: "W. Fanconer"
+  order: 16
 ---
 
 # SUMMARY

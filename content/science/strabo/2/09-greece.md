@@ -3,8 +3,8 @@ title: "Greece (Continued)"
 worktitle: "The Geography of Strabo, Volume 2 (of 3)"
 author: "Strabo"
 params:
- translator: "W. Fanconer"
- order: 9
+  translator: "W. Fanconer"
+  order: 9
 ---
 
 # BOOK IX.[^CAS. 390]

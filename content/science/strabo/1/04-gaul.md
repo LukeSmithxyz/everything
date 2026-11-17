@@ -3,8 +3,8 @@ worktitle: "The Geography of Strabo, Volume 1 (of 3)"
 title: "Gaul"
 author: "Strabo"
 params:
- translator: "H. C. Hamilton"
- order: 4
+  translator: "H. C. Hamilton"
+  order: 4
 ---
 
 # BOOK IV. GAUL.
