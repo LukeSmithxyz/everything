@@ -2,6 +2,7 @@
 title: "The Odyssey"
 author: "Homer"
 params:
- translator: "Alexander Pope"
- dt: "1725"
+  shownums: 1
+  translator: "Alexander Pope"
+  dt: "1725"
 ---
