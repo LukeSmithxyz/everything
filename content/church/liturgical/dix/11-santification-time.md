@@ -2,8 +2,9 @@
 title: "The Sanctification of Time"
 author: "Gregory Dix"
 params:
- da: 1945
- order: 11
+  da: 1945
+  order: 11
+worktitle: The Shape of the Liturgy
 ---
 
 

@@ -2,8 +2,9 @@
 title: "The Liturgy and Eucharistic Action"
 author: "Gregory Dix"
 params:
- da: 1945
- order: 1
+  da: 1945
+  order: 1
+worktitle: The Shape of the Liturgy
 ---
 
 ## The Liturgy and its Shape

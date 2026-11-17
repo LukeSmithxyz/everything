@@ -2,8 +2,9 @@
 title: "Introduction: The Purpose of This Essay"
 author: "Gregory Dix"
 params:
- da: 1945
- order: 0
+  da: 1945
+  order: 0
+worktitle: The Shape of the Liturgy
 ---
 
 The origin of this essay was a paper read at their request before the

@@ -2,8 +2,9 @@
 title: "Variable Prayers at the Eucharist"
 author: "Gregory Dix"
 params:
- da: 1945
- order: 14
+  da: 1945
+  order: 14
+worktitle: The Shape of the Liturgy
 ---
 
 

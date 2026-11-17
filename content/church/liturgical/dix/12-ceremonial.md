@@ -2,8 +2,9 @@
 title: "The Development of the Ceremonial"
 author: "Gregory Dix"
 params:
- da: 1945
- order: 12
+  da: 1945
+  order: 12
+worktitle: The Shape of the Liturgy
 ---
 
 

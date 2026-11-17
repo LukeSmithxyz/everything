@@ -2,8 +2,9 @@
 title: "The Pre-Nicene Background of the Liturgy"
 author: "Gregory Dix"
 params:
- da: 1945
- order: 6
+  da: 1945
+  order: 6
+worktitle: The Shape of the Liturgy
 ---
 
 

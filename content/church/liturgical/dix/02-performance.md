@@ -2,8 +2,9 @@
 title: "The Performance of the Liturgy"
 author: "Gregory Dix"
 params:
- da: 1945
- order: 2
+  da: 1945
+  order: 2
+worktitle: The Shape of the Liturgy
 ---
 
 

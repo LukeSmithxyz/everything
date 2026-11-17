@@ -2,8 +2,9 @@
 title: "The Theology of the Consecration"
 author: "Gregory Dix"
 params:
- da: 1945
- order: 10
+  da: 1945
+  order: 10
+worktitle: The Shape of the Liturgy
 ---
 
 

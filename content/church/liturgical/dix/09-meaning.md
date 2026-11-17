@@ -2,8 +2,9 @@
 title: "The Meaning of the Eucharist"
 author: "Gregory Dix"
 params:
- da: 1945
- order: 9
+  da: 1945
+  order: 9
+worktitle: The Shape of the Liturgy
 ---
 
 

@@ -2,8 +2,9 @@
 title: "The Reformation and the Anglican Liturgy"
 author: "Gregory Dix"
 params:
- da: 1945
- order: 16
+  da: 1945
+  order: 16
+worktitle: The Shape of the Liturgy
 ---
 
 

@@ -2,5 +2,6 @@
 title: "The Shape of the Liturgy"
 author: "Gregory Dix"
 params:
- da: 1946
+  shownums: 1
+  da: 1946
 ---

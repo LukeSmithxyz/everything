@@ -2,8 +2,9 @@
 title: "The Completion of the Shape of the Liturgy"
 author: "Gregory Dix"
 params:
- da: 1945
- order: 13
+  da: 1945
+  order: 13
+worktitle: The Shape of the Liturgy
 ---
 
 

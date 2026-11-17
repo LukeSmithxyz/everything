@@ -2,8 +2,9 @@
 title: "The Eucharistic Prayer"
 author: "Gregory Dix"
 params:
- da: 1945
- order: 7
+  da: 1945
+  order: 7
+worktitle: The Shape of the Liturgy
 ---
 
 

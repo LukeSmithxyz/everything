@@ -2,8 +2,9 @@
 title: "The Classical Shape of the Liturgy: The Syntaxis"
 author: "Gregory Dix"
 params:
- da: 1945
- order: 3
+  da: 1945
+  order: 3
+worktitle: The Shape of the Liturgy
 ---
 
 

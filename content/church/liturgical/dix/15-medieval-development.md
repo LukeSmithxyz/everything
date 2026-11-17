@@ -2,8 +2,9 @@
 title: "The Medieval Development"
 author: "Gregory Dix"
 params:
- da: 1945
- order: 15
+  da: 1945
+  order: 15
+worktitle: The Shape of the Liturgy
 ---
 
 

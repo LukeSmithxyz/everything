@@ -2,8 +2,9 @@
 title: "Throughout All Ages, World Without End"
 author: "Gregory Dix"
 params:
- da: 1945
- order: 17
+  da: 1945
+  order: 17
+worktitle: The Shape of the Liturgy
 ---
 
 There are hopeful symptoms at the present time of a renewal of interest

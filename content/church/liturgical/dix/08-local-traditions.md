@@ -2,8 +2,9 @@
 title: "Behind the Local Traditions"
 author: "Gregory Dix"
 params:
- da: 1945
- order: 8
+  da: 1945
+  order: 8
+worktitle: The Shape of the Liturgy
 ---
 
 

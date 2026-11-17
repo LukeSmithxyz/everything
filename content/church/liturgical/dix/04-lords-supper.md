@@ -2,8 +2,9 @@
 title: "Eucharist and Lord's Supper"
 author: "Gregory Dix"
 params:
- da: 1945
- order: 4
+  da: 1945
+  order: 4
+worktitle: The Shape of the Liturgy
 ---
 
 
