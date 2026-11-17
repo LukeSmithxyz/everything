@@ -2,8 +2,9 @@
 title: "The Martyrs of Palestine"
 author: "Eusebius of Caesarea"
 params:
- translator: "Arthur Cushman McGiffert"
- order: 8.5
+  translator: "Arthur Cushman McGiffert"
+  order: 8.5
+worktitle: Church History
 ---
 
 The Following also we found in a Certain Copy in the Eighth Book.
