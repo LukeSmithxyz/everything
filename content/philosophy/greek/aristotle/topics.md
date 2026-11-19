@@ -2,7 +2,7 @@
 title: "Topics"
 author: "Aristotle"
 params:
- translator: "W. A. Pickard-Cambridge"
+  translator: "W. A. Pickard-Cambridge"
 ---
 
 

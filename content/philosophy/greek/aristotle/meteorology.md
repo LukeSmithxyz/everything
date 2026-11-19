@@ -2,7 +2,7 @@
 title: "Meteorology"
 author: "Aristotle"
 params:
- translator: "E. W. Webster"
+  translator: "E. W. Webster"
 ---
 
 

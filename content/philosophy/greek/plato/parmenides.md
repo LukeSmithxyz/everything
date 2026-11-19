@@ -1,8 +1,8 @@
-﻿---
+---
 title: "Parmenides"
 author: "Plato"
 params:
- translator: "Benjamin Jowett"
+  translator: "Benjamin Jowett"
 ---
 
 PERSONS OF THE DIALOGUE: Cephalus, Adeimantus, Glaucon, Antiphon,

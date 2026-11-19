@@ -1,8 +1,8 @@
-﻿---
+---
 title: "Symposium"
 author: "Plato"
 params:
- translator: "Benjamin Jowett"
+  translator: "Benjamin Jowett"
 ---
 
 PERSONS OF THE DIALOGUE: Apollodorus, who repeats to his companion

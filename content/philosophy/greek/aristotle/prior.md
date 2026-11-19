@@ -2,7 +2,7 @@
 title: "Prior Analytics"
 author: "Aristotle"
 params:
- translator: "A. J. Jenkinson"
+  translator: "A. J. Jenkinson"
 ---
 
 

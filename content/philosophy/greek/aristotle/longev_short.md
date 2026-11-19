@@ -2,7 +2,7 @@
 title: "On Longevity and Shortness of Life"
 author: "Aristotle"
 params:
- translator: "G. R. T. Ross"
+  translator: "G. R. T. Ross"
 ---
 
 

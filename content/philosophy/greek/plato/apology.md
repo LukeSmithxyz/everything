@@ -1,8 +1,8 @@
-﻿---
+---
 title: "Apology"
 author: "Plato"
 params:
- translator: "Benjamin Jowett"
+  translator: "Benjamin Jowett"
 ---
 
 How you, O Athenians, have been affected by my accusers, I cannot tell;

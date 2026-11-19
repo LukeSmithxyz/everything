@@ -2,7 +2,7 @@
 title: "Rhetoric"
 author: "Aristotle"
 params:
- translator: "W. Rhys Roberts"
+  translator: "W. Rhys Roberts"
 ---
 
 

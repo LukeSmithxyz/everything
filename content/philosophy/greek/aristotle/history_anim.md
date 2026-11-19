@@ -2,7 +2,7 @@
 title: "The History of Animals"
 author: "Aristotle"
 params:
- translator: "D'Arcy Wentworth Thompson"
+  translator: "D'Arcy Wentworth Thompson"
 ---
 
 

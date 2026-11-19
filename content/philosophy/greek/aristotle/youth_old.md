@@ -2,7 +2,7 @@
 title: "On Youth and Old Age, On Life and Death, On Breathing"
 author: "Aristotle"
 params:
- translator: "G. R. T. Ross"
+  translator: "G. R. T. Ross"
 ---
 
 

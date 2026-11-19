@@ -2,7 +2,7 @@
 title: "On the Soul"
 author: "Aristotle"
 params:
- translator: "J. A. Smith"
+  translator: "J. A. Smith"
 ---
 
 

@@ -1,8 +1,8 @@
-﻿---
+---
 title: "Meno"
 author: "Plato"
 params:
- translator: "Benjamin Jowett"
+  translator: "Benjamin Jowett"
 ---
 
 PERSONS OF THE DIALOGUE: Meno, Socrates, A Slave of Meno (Boy), Anytus.

@@ -2,7 +2,7 @@
 title: "Politics"
 author: "Aristotle"
 params:
- translator: "Benjamin Jowett"
+  translator: "Benjamin Jowett"
 ---
 
 

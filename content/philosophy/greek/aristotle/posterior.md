@@ -2,7 +2,7 @@
 title: "Posterior Analytics"
 author: "Aristotle"
 params:
- translator: "G. R. G. Mure"
+  translator: "G. R. G. Mure"
 ---
 
 

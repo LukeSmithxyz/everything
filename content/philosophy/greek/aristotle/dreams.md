@@ -2,7 +2,7 @@
 title: "On Dreams"
 author: "Aristotle"
 params:
- translator: "J. I. Beare"
+  translator: "J. I. Beare"
 ---
 
 

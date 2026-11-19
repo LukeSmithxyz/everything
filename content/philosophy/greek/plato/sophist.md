@@ -1,8 +1,8 @@
-﻿---
+---
 title: "Sophist"
 author: "Plato"
 params:
- translator: "Benjamin Jowett"
+  translator: "Benjamin Jowett"
 ---
 
 PERSONS OF THE DIALOGUE: Theodorus, Theaetetus, Socrates. An Eleatic

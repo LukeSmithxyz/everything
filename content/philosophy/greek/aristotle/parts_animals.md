@@ -2,7 +2,7 @@
 title: "On the Parts of Animals"
 author: "Aristotle"
 params:
- translator: "William Ogle"
+  translator: "William Ogle"
 ---
 
 

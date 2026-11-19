@@ -2,7 +2,7 @@
 title: "On Sleep and Sleeplessness"
 author: "Aristotle"
 params:
- translator: "J. I. Beare"
+  translator: "J. I. Beare"
 ---
 
 

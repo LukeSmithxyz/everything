@@ -2,7 +2,7 @@
 title: "Principal Doctrines"
 author: "Epicurus"
 params:
- translator: "Robert Drew Hicks"
+  translator: "Robert Drew Hicks"
 ---
 
 1. A happy and eternal being has no trouble himself and brings no trouble upon any other being; hence he is exempt from movements of anger and partiality, for every such movement implies weakness

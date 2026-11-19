@@ -2,7 +2,7 @@
 title: "Physics"
 author: "Aristotle"
 params:
- translator: "R. P. Hardie and R. K. Gaye"
+  translator: "R. P. Hardie and R. K. Gaye"
 ---
 
 

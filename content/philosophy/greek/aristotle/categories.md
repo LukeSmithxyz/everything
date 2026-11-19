@@ -2,7 +2,7 @@
 title: "Categories"
 author: "Aristotle"
 params:
- translator: "E. M. Edghill"
+  translator: "E. M. Edghill"
 ---
 
 

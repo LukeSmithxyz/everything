@@ -1,8 +1,8 @@
-﻿---
+---
 title: "Lesser Hippias"
 author: "Plato"
 params:
- translator: "Benjamin Jowett"
+  translator: "Benjamin Jowett"
 ---
 
 PERSONS OF THE DIALOGUE: Eudicus, Socrates, Hippias.

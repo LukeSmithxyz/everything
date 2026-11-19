@@ -2,7 +2,7 @@
 title: "Metaphysics"
 author: "Aristotle"
 params:
- translator: "W. D. Ross"
+  translator: "W. D. Ross"
 ---
 
 

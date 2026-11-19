@@ -1,8 +1,8 @@
-﻿---
+---
 title: "Laws"
 author: "Plato"
 params:
- translator: "Benjamin Jowett"
+  translator: "Benjamin Jowett"
 ---
 
 PERSONS OF THE DIALOGUE: An Athenian Stranger, Cleinias (a Cretan),

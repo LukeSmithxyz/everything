@@ -2,7 +2,7 @@
 title: "On Sense and the Sensible"
 author: "Aristotle"
 params:
- translator: "J. I. Beare"
+  translator: "J. I. Beare"
 ---
 
 

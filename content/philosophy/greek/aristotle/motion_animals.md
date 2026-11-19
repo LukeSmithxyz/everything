@@ -2,7 +2,7 @@
 title: "On the Motion of Animals"
 author: "Aristotle"
 params:
- translator: "A. S. L. Farquharson"
+  translator: "A. S. L. Farquharson"
 ---
 
 

@@ -2,7 +2,7 @@
 title: "On Memory and Reminiscence"
 author: "Aristotle"
 params:
- translator: "J. I. Beare"
+  translator: "J. I. Beare"
 ---
 
 

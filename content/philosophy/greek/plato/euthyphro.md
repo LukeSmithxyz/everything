@@ -1,8 +1,8 @@
-﻿---
+---
 title: "Euthyphro"
 author: "Plato"
 params:
- translator: "Benjamin Jowett"
+  translator: "Benjamin Jowett"
 ---
 
 PERSONS OF THE DIALOGUE: Socrates, Euthyphro.

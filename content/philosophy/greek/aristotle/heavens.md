@@ -2,7 +2,7 @@
 title: "On the Heavens"
 author: "Aristotle"
 params:
- translator: "J. L. Stocks"
+  translator: "J. L. Stocks"
 ---
 
 

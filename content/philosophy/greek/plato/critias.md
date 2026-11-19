@@ -1,8 +1,8 @@
-﻿---
+---
 title: "Critias"
 author: "Plato"
 params:
- translator: "Benjamin Jowett"
+  translator: "Benjamin Jowett"
 ---
 
 PERSONS OF THE DIALOGUE: Critias, Hermocrates, Timaeus, Socrates.

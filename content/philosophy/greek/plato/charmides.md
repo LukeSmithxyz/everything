@@ -1,8 +1,8 @@
-﻿---
+---
 title: "Charmides"
 author: "Plato"
 params:
- translator: "Benjamin Jowett"
+  translator: "Benjamin Jowett"
 ---
 
 PERSONS OF THE DIALOGUE: Socrates, who is the narrator, Charmides,

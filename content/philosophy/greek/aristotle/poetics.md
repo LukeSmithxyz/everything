@@ -2,7 +2,7 @@
 title: "Poetics"
 author: "Aristotle"
 params:
- translator: "S. H. Butcher"
+  translator: "S. H. Butcher"
 ---
 
 
