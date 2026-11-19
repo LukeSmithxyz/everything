@@ -3,9 +3,9 @@ title: "VII. How it was indicated by a light from heaven where the bodies of the
 worktitle: "Book IV"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 91
- de: "675?"
+  da: "731"
+  order: 91
+  de: "675?"
 ---
 
 

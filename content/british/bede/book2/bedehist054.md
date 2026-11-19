@@ -3,9 +3,9 @@ title: "XX. How Edwin being slain, Paulinus returned into Kent, and had the bish
 worktitle: "Book II"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 54
- de: "633"
+  da: "731"
+  order: 54
+  de: "633"
 ---
 
 

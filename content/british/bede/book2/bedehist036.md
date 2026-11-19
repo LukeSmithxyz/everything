@@ -3,9 +3,9 @@ title: "II. How Augustine admonished the bishops of the Britons on behalf of Cat
 worktitle: "Book II"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 36
- de: "_Circ._ 603"
+  da: "731"
+  order: 36
+  de: "_Circ._ 603"
 ---
 
 

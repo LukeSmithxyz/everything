@@ -3,10 +3,10 @@ title: "IX. Of the reign of King Edwin, and how Paulinus, coming to preach the G
 worktitle: "Book II"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 43
- des: "625"
- def: "626"
+  da: "731"
+  order: 43
+  des: "625"
+  def: "626"
 ---
 
 

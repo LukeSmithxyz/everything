@@ -3,9 +3,9 @@ title: "XIX. How Coinred, king of the Mercians, and Offa, king of the East Saxon
 worktitle: "Book V"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 135
- de: "709"
+  da: "731"
+  order: 135
+  de: "709"
 ---
 
 

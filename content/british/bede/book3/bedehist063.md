@@ -3,9 +3,9 @@ title: "IX. How miracles of healing have been frequently wrought in the place wh
 worktitle: "Book III"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 63
- de: "642"
+  da: "731"
+  order: 63
+  de: "642"
 ---
 
 

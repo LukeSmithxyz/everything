@@ -3,9 +3,9 @@ title: "XVI. How the same Aidan, by his prayers, saved the royal city when it wa
 worktitle: "Book III"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 70
- de: "Before 651"
+  da: "731"
+  order: 70
+  de: "Before 651"
 ---
 
 

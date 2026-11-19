@@ -2,11 +2,11 @@
 title: "Lives of the holy abbots of Wearmouth and Jarrow"
 author: "St. Bede the Venerable"
 params:
- translator: "J. A. Giles"
- das: 725
- daf: 731
- des: 674
- def: 715
+  translator: "J. A. Giles"
+  das: 725
+  daf: 731
+  des: 674
+  def: 715
 ---
 
 # Introduction

@@ -3,9 +3,9 @@ title: "XXIV. Chronological recapitulation of the whole work: also concerning th
 worktitle: "Book V"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 140
- de: "I, 2."
+  da: "731"
+  order: 140
+  de: "I, 2."
 ---
 
 

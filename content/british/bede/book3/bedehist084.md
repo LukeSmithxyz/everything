@@ -3,9 +3,9 @@ title: "XXX. How the East Saxons, during a pestilence, returned to idolatry, but
 worktitle: "Book III"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 84
- de: "665"
+  da: "731"
+  order: 84
+  de: "665"
 ---
 
 

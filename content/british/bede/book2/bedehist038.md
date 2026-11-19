@@ -3,9 +3,8 @@ title: "IV. How Laurentius and his bishops admonished the Scots to observe the u
 worktitle: "Book II"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 38
- de: ""
+  da: "731"
+  order: 38
 ---
 
 

@@ -3,9 +3,9 @@ title: "XVII. Of the Synod held in the plain of Haethfelth, Archbishop Theodore 
 worktitle: "Book IV"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 101
- de: "680"
+  da: "731"
+  order: 101
+  de: "680"
 ---
 
 

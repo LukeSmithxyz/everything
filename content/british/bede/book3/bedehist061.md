@@ -3,10 +3,10 @@ title: "VII. How the West Saxons received the Word of God by the preaching of Bi
 worktitle: "Book III"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 61
- des: "635"
- def: "670"
+  da: "731"
+  order: 61
+  des: "635"
+  def: "670"
 ---
 
 

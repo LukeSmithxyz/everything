@@ -3,9 +3,8 @@ title: "XII. How the Britons, being ravaged by the Scots and Picts, sought succo
 worktitle: "Book I"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 12
- de: ""
+  da: "731"
+  order: 12
 ---
 
 

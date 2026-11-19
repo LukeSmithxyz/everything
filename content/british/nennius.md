@@ -2,8 +2,8 @@
 title: "History of the Britons"
 author: "St. Nennius"
 params:
- translator: "J. A. Giles"
- da: "830"
+  translator: "J. A. Giles"
+  da: "830"
 ---
 
 # Prologue

@@ -3,9 +3,9 @@ title: "XXVI. How Colman, being worsted, returned home; and Tuda succeeded him i
 worktitle: "Book III"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 80
- de: "664"
+  da: "731"
+  order: 80
+  de: "664"
 ---
 
 

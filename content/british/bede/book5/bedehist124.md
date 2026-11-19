@@ -3,9 +3,9 @@ title: "VIII. How, when Archbishop Theodore died, Bertwald succeeded him as arch
 worktitle: "Book V"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 124
- de: "690"
+  da: "731"
+  order: 124
+  de: "690"
 ---
 
 

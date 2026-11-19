@@ -3,9 +3,9 @@ title: "XXII. How under King Sigbert, through the preaching of Cedd, the East Sa
 worktitle: "Book III"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 76
- de: "653"
+  da: "731"
+  order: 76
+  de: "653"
 ---
 
 

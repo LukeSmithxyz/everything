@@ -3,10 +3,10 @@ title: "I. How Ethelwald, successor to Cuthbert, leading a hermit’s life, calm
 worktitle: "Book V"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 117
- des: "687"
- def: "699"
+  da: "731"
+  order: 117
+  des: "687"
+  def: "699"
 ---
 
 

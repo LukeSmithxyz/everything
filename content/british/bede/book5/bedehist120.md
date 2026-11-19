@@ -3,9 +3,8 @@ title: "IV. How he healed a thegn’s wife that was sick, with holy water."
 worktitle: "Book V"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 120
- de: ""
+  da: "731"
+  order: 120
 ---
 
 The same abbot related another miracle, not unlike the former, of the

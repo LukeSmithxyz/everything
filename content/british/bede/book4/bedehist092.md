@@ -3,9 +3,9 @@ title: "VIII. How a little boy, dying in the same monastery, called upon a virgi
 worktitle: "Book IV"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 92
- de: "675?"
+  da: "731"
+  order: 92
+  de: "675?"
 ---
 
 

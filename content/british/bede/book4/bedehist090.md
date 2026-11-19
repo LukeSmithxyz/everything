@@ -3,9 +3,9 @@ title: "VI. How Wynfrid being deposed, Sexwulf received his bishopric, and Earco
 worktitle: "Book IV"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 90
- de: "675"
+  da: "731"
+  order: 90
+  de: "675"
 ---
 
 

@@ -3,9 +3,9 @@ title: "IX. How the holy man, Egbert, would have gone into Germany to preach, bu
 worktitle: "Book V"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 125
- de: "Circ. 688"
+  da: "731"
+  order: 125
+  de: "Circ. 688"
 ---
 
 

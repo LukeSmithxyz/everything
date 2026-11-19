@@ -3,10 +3,10 @@ title: "VI. How Laurentius, being reproved by the Apostle Peter, converted King 
 worktitle: "Book II"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 40
- des: "617"
- def: "618"
+  da: "731"
+  order: 40
+  des: "617"
+  def: "618"
 ---
 
 

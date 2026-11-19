@@ -3,9 +3,9 @@ title: "XXXIV. How Ethelfrid, king of the Northumbrians, having vanquished the n
 worktitle: "Book I"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 34
- de: "603"
+  da: "731"
+  order: 34
+  de: "603"
 ---
 
 

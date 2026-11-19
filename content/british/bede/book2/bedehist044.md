@@ -3,9 +3,9 @@ title: "X. How Pope Boniface, by letter, exhorted the same king to embrace the f
 worktitle: "Book II"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 44
- de: "_Circ._ 625"
+  da: "731"
+  order: 44
+  de: "_Circ._ 625"
 ---
 
 

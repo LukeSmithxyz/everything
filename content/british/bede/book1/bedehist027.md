@@ -3,10 +3,10 @@ title: "XXVII. How St. Augustine, being made a bishop, sent to acquaint Pope Gre
 worktitle: "Book I"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 27
- des: "597"
- def: "601"
+  da: "731"
+  order: 27
+  des: "597"
+  def: "601"
 ---
 
 

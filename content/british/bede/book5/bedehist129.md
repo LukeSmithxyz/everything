@@ -3,10 +3,10 @@ title: "XIII. How another contrarywise before his death saw a book containing hi
 worktitle: "Book V"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 129
- des: "704"
- def: "709"
+  da: "731"
+  order: 129
+  des: "704"
+  def: "709"
 ---
 
 

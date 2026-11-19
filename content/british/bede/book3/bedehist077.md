@@ -3,10 +3,10 @@ title: "XXIII. How Bishop Cedd, having a place for building a monastery given hi
 worktitle: "Book III"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 77
- des: "659"
- def: "664"
+  da: "731"
+  order: 77
+  des: "659"
+  def: "664"
 ---
 
 

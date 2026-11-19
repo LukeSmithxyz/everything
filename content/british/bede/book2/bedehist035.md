@@ -3,9 +3,9 @@ title: "I. Of the death of the blessed Pope Gregory."
 worktitle: "Book II"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 35
- de: "604"
+  da: "731"
+  order: 35
+  de: "604"
 ---
 
 At this time, that is, in the year of our Lord 605, the blessed Pope

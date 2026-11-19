@@ -3,9 +3,9 @@ title: "VI. Of the reign of Diocletian, and how he persecuted the Christians."
 worktitle: "Book I"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 6
- de: ""
+  da: "731"
+  order: 6
+  de: "286"
 ---
 
 

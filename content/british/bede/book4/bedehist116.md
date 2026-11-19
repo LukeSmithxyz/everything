@@ -3,9 +3,8 @@ title: "XXXII. Of one who was lately cured of a disease in his eye at the relics
 worktitle: "Book IV"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 116
- de: ""
+  da: "731"
+  order: 116
 ---
 
 

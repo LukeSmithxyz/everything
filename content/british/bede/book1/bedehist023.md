@@ -3,9 +3,9 @@ title: "XXIII. How the holy Pope Gregory sent Augustine, with other monks, to pr
 worktitle: "Book I"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 23
- de: "596"
+  da: "731"
+  order: 23
+  de: "596"
 ---
 
 

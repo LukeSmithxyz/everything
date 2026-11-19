@@ -3,9 +3,9 @@ title: "XII. How Edwin was persuaded to believe by a vision which he had once se
 worktitle: "Book II"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 46
- de: "_Circ._ 616"
+  da: "731"
+  order: 46
+  de: "_Circ._ 616"
 ---
 
 

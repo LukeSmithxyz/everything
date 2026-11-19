@@ -3,9 +3,8 @@ title: "I. Of the Situation of Britain and Ireland, and of their ancient inhabit
 worktitle: "Book I"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 1
- de: ""
+  da: "731"
+  order: 1
 ---
 
 

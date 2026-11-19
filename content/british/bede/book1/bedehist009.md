@@ -3,9 +3,9 @@ title: "IX. How during the reign of Gratian, Maximus, being created Emperor in B
 worktitle: "Book I"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 9
- de: ""
+  da: "731"
+  order: 9
+  de: "377"
 ---
 
 

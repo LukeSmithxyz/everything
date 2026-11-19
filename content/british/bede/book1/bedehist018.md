@@ -3,9 +3,9 @@ title: "XVIII. How the some holy man gave sight to the blind daughter of a tribu
 worktitle: "Book I"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 18
- de: "429"
+  da: "731"
+  order: 18
+  de: "429"
 ---
 
 

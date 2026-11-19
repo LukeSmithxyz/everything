@@ -3,9 +3,9 @@ title: "V. Of the life of Bishop Aidan."
 worktitle: "Book III"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 59
- de: "635"
+  da: "731"
+  order: 59
+  de: "635"
 ---
 
 From this island, then, and the fraternity of these monks, Aidan was sent

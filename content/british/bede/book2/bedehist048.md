@@ -3,9 +3,9 @@ title: "XIV. How King Edwin and his nation became Christians; and where Paulinus
 worktitle: "Book II"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 48
- de: "627"
+  da: "731"
+  order: 48
+  de: "627"
 ---
 
 

@@ -3,9 +3,9 @@ title: "III. How the above-mentioned Ceadda was made Bishop of the province of M
 worktitle: "Book IV"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 87
- de: "669"
+  da: "731"
+  order: 87
+  de: "669"
 ---
 
 

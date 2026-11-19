@@ -3,9 +3,9 @@ title: "XV. How King Caedwalla, king of the Gewissae, having slain Ethelwalch, w
 worktitle: "Book IV"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 99
- de: "685"
+  da: "731"
+  order: 99
+  de: "685"
 ---
 
 

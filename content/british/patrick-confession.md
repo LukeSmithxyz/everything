@@ -2,7 +2,7 @@
 title: "The Confession of St. Patrick"
 author: "St. Patrick"
 params:
- translator: "James O'Leary"
+  translator: "James O'Leary"
 ---
 
 I, PATRICK, a sinner, the rudest and least of all the faithful, and most contemptible to very many, had for my father Calpornius, a deacon, the son of Potitus, a priest, who lived in Bannaven Taberniae, for he had a small country-house close by, where I was taken captive when I was nearly sixteen years of age. I knew not the true God, and I was brought captive to Ireland with many thousand men, as we deserved; for we had forsaken God, and had not kept His commandments, and were disobedient to our priests, who admonished us for our salvation. And the Lord brought down upon us the anger of His Spirit, and scattered us among many nations, even to the ends of the earth, where now my littleness may be seen amongst strangers. And there the Lord showed me my unbelief, that at length I might remember my iniquities, and strengthen my whole heart towards the Lord my God, who looked down upon my humiliation, and had pity upon my youth and ignorance, and kept me before I knew him, and before I had wisdom or could distinguish between good and evil, and strengthened and comforted me as a father would his son.

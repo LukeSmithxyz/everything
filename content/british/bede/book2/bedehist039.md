@@ -3,9 +3,9 @@ title: "V. How, after the death of the kings Ethelbert and Sabert, their success
 worktitle: "Book II"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 39
- de: "616"
+  da: "731"
+  order: 39
+  de: "616"
 ---
 
 

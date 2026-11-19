@@ -3,9 +3,9 @@ title: "XXIX. How this bishop foretold that his own death was at hand to the anc
 worktitle: "Book IV"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 113
- de: "687"
+  da: "731"
+  order: 113
+  de: "687"
 ---
 
 

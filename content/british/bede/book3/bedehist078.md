@@ -3,9 +3,9 @@ title: "XXIV. How when King Penda was slain, the province of the Mercians receiv
 worktitle: "Book III"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 78
- de: "655"
+  da: "731"
+  order: 78
+  de: "655"
 ---
 
 

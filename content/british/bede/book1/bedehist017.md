@@ -3,9 +3,9 @@ title: "XVII. How Germanus the Bishop, sailing into Britain with Lupus, first qu
 worktitle: "Book I"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 17
- de: "429"
+  da: "731"
+  order: 17
+  de: "429"
 ---
 
 

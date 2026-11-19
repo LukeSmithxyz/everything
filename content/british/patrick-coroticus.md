@@ -2,7 +2,7 @@
 title: "Epistle to Coroticus"
 author: "St. Patrick"
 params:
- translator: "James O'Leary"
+  translator: "James O'Leary"
 ---
 I, Patrick, a sinner and unlearned, have been appointed a bishop in Ireland, and I accept from God what I am. I dwell amongst barbarians as a proselyte and a fugitive for the love of God. He will testify that it is so. It is not my wish to pour forth so many harsh and severe things; but I am forced by zeal for God and the truth of Christ, who raised me up for my neighbors and sons, for whom I have forsaken my country and parents, and would give up even life itself, if I were worthy. I have vowed to my God to teach these people, though I should be despised by them, to whom I have written with my own hand to be given to the soldiers to be sent to Coroticus—I do not say to my fellow-citizens, nor to the fellow-citizens of pious Romans, but to the fellow-citizens of the devil, through their evil deeds and hostile practices. They live in death, companions of the apostate Scots and Picts, blood-thirsty men, ever ready to redden themselves with the blood of innocent Christians, numbers of whom I have begotten to God and confirmed in Christ.
 

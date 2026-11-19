@@ -3,9 +3,9 @@ title: "VII. The Passion of St. Alban and his companions, who at that time shed 
 worktitle: "Book I"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 7
- de: ""
+  da: "731"
+  order: 7
+  de: "303"
 ---
 
 

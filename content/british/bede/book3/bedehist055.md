@@ -3,9 +3,9 @@ title: "I. How King Edwin’s next successors lost both the faith of their natio
 worktitle: "Book III"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 55
- de: "633"
+  da: "731"
+  order: 55
+  de: "633"
 ---
 
 

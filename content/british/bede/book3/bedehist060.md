@@ -3,10 +3,10 @@ title: "VI. Of King Oswald’s wonderful piety and religion."
 worktitle: "Book III"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 60
- des: "635"
- def: "642"
+  da: "731"
+  order: 60
+  des: "635"
+  def: "642"
 ---
 
 King Oswald, with the English nation which he governed, being instructed

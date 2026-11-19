@@ -3,9 +3,9 @@ title: "XXIX. How the same Pope sent to Augustine the Pall and a letter, along w
 worktitle: "Book I"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 29
- de: "601"
+  da: "731"
+  order: 29
+  de: "601"
 ---
 
 

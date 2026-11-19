@@ -3,9 +3,9 @@ title: "XXIX. How the priest Wighard was sent from Britain to Rome, to be ordain
 worktitle: "Book III"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 83
- de: "667"
+  da: "731"
+  order: 83
+  de: "667"
 ---
 
 

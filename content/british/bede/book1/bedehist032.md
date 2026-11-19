@@ -3,9 +3,9 @@ title: "XXXII. How Pope Gregory sent letters and gifts to King Ethelbert."
 worktitle: "Book I"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 32
- de: "601"
+  da: "731"
+  order: 32
+  de: "601"
 ---
 
 

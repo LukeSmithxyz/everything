@@ -3,9 +3,9 @@ title: "XXI. How the province of the Midland Angles became Christian under King 
 worktitle: "Book III"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 75
- de: "653"
+  da: "731"
+  order: 75
+  de: "653"
 ---
 
 

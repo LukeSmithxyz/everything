@@ -3,9 +3,9 @@ title: "XVI. How the Isle of Wight received Christian inhabitants, and two royal
 worktitle: "Book IV"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 100
- de: "686"
+  da: "731"
+  order: 100
+  de: "686"
 ---
 
 

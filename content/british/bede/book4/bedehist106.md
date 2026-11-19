@@ -3,9 +3,9 @@ title: "XXII. How a certain captive’s chains fell off when Masses were sung fo
 worktitle: "Book IV"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 106
- de: "679"
+  da: "731"
+  order: 106
+  de: "679"
 ---
 
 

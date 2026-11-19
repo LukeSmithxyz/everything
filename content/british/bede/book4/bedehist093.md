@@ -3,9 +3,9 @@ title: "IX. Of the signs which were shown from Heaven when the mother of that co
 worktitle: "Book IV"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 93
- de: "675?"
+  da: "731"
+  order: 93
+  de: "675?"
 ---
 
 

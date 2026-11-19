@@ -3,9 +3,9 @@ title: "XI. How Pope Boniface advised the king’s consort to use her best endea
 worktitle: "Book II"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 45
- de: "_Circ._ 625"
+  da: "731"
+  order: 45
+  de: "_Circ._ 625"
 ---
 
 

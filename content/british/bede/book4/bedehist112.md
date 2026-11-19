@@ -3,9 +3,9 @@ title: "XXVIII. How the same St. Cuthbert, living the life of an Anchorite, by h
 worktitle: "Book IV"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 112
- de: "676"
+  da: "731"
+  order: 112
+  de: "676"
 ---
 
 

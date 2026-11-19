@@ -3,9 +3,9 @@ title: "XXVI. How St. Augustine in Kent followed the doctrine and manner of life
 worktitle: "Book I"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 26
- de: "597"
+  da: "731"
+  order: 26
+  de: "597"
 ---
 
 

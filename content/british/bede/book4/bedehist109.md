@@ -3,9 +3,8 @@ title: "XXV. Of the vision that appeared to a certain man of God before the mona
 worktitle: "Book IV"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 109
- de: ""
+  da: "731"
+  order: 109
 ---
 
 

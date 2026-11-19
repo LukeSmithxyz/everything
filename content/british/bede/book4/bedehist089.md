@@ -3,10 +3,10 @@ title: "V. Of the death of the kings Oswy and Egbert, and of the synod held at t
 worktitle: "Book IV"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 89
- des: "670"
- def: "673"
+  da: "731"
+  order: 89
+  des: "670"
+  def: "673"
 ---
 
 

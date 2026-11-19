@@ -3,9 +3,9 @@ title: "XXI. How Bishop Theodore made peace between the kings Egfrid and Ethelre
 worktitle: "Book IV"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 105
- de: "679"
+  da: "731"
+  order: 105
+  de: "679"
 ---
 
 

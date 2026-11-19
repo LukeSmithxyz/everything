@@ -3,10 +3,10 @@ title: "I. How when Deusdedit died, Wighard was sent to Rome to receive the epis
 worktitle: "Book IV"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 85
- des: "664"
- def: "669"
+  da: "731"
+  order: 85
+  des: "664"
+  def: "669"
 ---
 
 

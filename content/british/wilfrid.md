@@ -2,11 +2,11 @@
 title: "The Life of Bishop Wilfrid"
 author: "Eddius Stephanus"
 params:
- translator: "Bertram Colgrave"
- dt: 1927
- des: 634
- def: 709
- da: 720
+  translator: "Bertram Colgrave"
+  dt: 1927
+  des: 634
+  def: 709
+  da: 720
 ---
 
 

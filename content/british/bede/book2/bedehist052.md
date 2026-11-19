@@ -3,9 +3,9 @@ title: "XVIII. How Honorius, who succeeded Justus in the bishopric of Canterbury
 worktitle: "Book II"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 52
- de: "634"
+  da: "731"
+  order: 52
+  de: "634"
 ---
 
 

@@ -3,9 +3,9 @@ title: "XX. How the same Bishops brought help from Heaven to the Britons in a ba
 worktitle: "Book I"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 20
- de: "430"
+  da: "731"
+  order: 20
+  de: "430"
 ---
 
 

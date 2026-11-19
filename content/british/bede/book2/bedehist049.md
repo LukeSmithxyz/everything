@@ -3,10 +3,10 @@ title: "XV. How the province of the East Angles received the faith of Christ."
 worktitle: "Book II"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 49
- des: "627"
- def: "628"
+  da: "731"
+  order: 49
+  des: "627"
+  def: "628"
 ---
 
 

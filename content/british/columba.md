@@ -2,7 +2,7 @@
 title: "The Life of Saint Columba, Abbot, and Apostle of the Northern Picts"
 author: "Anonymous"
 params:
- humandate: "c. 697-700"
+  humandate: "c. 697-700"
 ---
 
 "Iste est qui ante Deum magnos virtutes operatus est, et de

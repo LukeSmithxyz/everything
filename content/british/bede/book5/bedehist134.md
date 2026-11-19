@@ -3,9 +3,9 @@ title: "XVIII. How the South Saxons received Eadbert and Eolla, and the West Sax
 worktitle: "Book V"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 134
- de: "705"
+  da: "731"
+  order: 134
+  de: "705"
 ---
 
 

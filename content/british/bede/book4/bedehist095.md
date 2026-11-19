@@ -3,9 +3,9 @@ title: "XI. How Sebbi, king of the same province, ended his life in a monastery.
 worktitle: "Book IV"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 95
- de: "694"
+  da: "731"
+  order: 95
+  de: "694"
 ---
 
 

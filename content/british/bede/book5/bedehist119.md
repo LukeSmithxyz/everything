@@ -3,9 +3,9 @@ title: "III. How he healed a sick maiden by his prayers."
 worktitle: "Book V"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 119
- de: "705"
+  da: "731"
+  order: 119
+  de: "705"
 ---
 
 The same Berthun told another miracle concerning the said bishop. When the

@@ -3,9 +3,8 @@ title: "XVI. The account given in the aforesaid book of the place of our Lord’
 worktitle: "Book V"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 132
- de: ""
+  da: "731"
+  order: 132
 ---
 
 

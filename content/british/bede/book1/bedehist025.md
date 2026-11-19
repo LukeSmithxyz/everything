@@ -3,9 +3,9 @@ title: "XXV. How Augustine, coming into Britain, first preached in the Isle of T
 worktitle: "Book I"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 25
- de: "597"
+  da: "731"
+  order: 25
+  de: "597"
 ---
 
 

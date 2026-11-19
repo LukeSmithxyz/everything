@@ -3,9 +3,8 @@ title: "XII. How a little boy was cured of a fever at his tomb."
 worktitle: "Book III"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 66
- de: ""
+  da: "731"
+  order: 66
 ---
 
 Some time after, there was a certain little boy in the said monastery, who

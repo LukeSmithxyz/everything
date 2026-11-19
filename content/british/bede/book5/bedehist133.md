@@ -3,9 +3,8 @@ title: "XVII. What he likewise wrote of the place of our Lord’s Ascension, and
 worktitle: "Book V"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 133
- de: ""
+  da: "731"
+  order: 133
 ---
 
 

@@ -3,9 +3,9 @@ title: "XXXI. How Pope Gregory, by letter, exhorted Augustine not to glory in hi
 worktitle: "Book I"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 31
- de: "601"
+  da: "731"
+  order: 31
+  de: "601"
 ---
 
 

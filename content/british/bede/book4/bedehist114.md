@@ -3,9 +3,9 @@ title: "XXX. How his body was found altogether uncorrupted after it had been bur
 worktitle: "Book IV"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 114
- de: "698"
+  da: "731"
+  order: 114
+  de: "698"
 ---
 
 

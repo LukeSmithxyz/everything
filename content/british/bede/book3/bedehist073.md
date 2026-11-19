@@ -3,9 +3,9 @@ title: "XIX. How Fursa built a monastery among the East Angles, and of his visio
 worktitle: "Book III"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 73
- de: "_Circ._ 633"
+  da: "731"
+  order: 73
+  de: "_Circ._ 633"
 ---
 
 

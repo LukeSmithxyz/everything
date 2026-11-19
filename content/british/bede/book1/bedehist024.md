@@ -3,9 +3,9 @@ title: "XXIV. How he wrote to the bishop of Arles to entertain them."
 worktitle: "Book I"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 24
- de: "596"
+  da: "731"
+  order: 24
+  de: "596"
 ---
 
 

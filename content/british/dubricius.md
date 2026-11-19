@@ -1,8 +1,8 @@
 ---
 title: "The Life of St. Dubricius"
 params:
- des: 465
- def: 550
+  des: 465
+  def: 550
 ---
 
 I. There was a certain King of the region of Ergyng (Arcbellfield) of the name of Pebiau, called in the British language Claforawg, and in Latin, Spumosus, who undertook an expedition against his enemies, and returning from thence he ordered his daughter Eurddil to wash his head, which, when she endeavoured. to do, he perceived from her enlarged form, that she was pregnant. The King therefore being angry, ordered her to be put into a sack, and cast headlong into the river, that she might suffer whatever might befall; which, however, happened contrary to what was expected, for as often as she was placed in the river, so often was she, through the guidance of God, impelled to the bank. Her father then being indignant because he could not drown her in the river, resolved to destroy her with fire. A funeral pile was therefore prepared, into which his daughter was thrown alive. In the following morning, the messengers who bad been sent by her father to ascertain whether any of the bones of his daughter remained, found Tier holding her son in her lap, at a spot where a stone is placed in testimony of the wonderful nativity of the boy; and the place is called Madle, because therein was born the holy man. The father hearing this, ordered his daughter with her son to be brought to him; and when they came, he embraced the infant with paternal affection, as is usual, and kissing him, from the restlessness of infancy, he touched with his bands the face and mouth of his grandfather, and that not without divine appointment; for by the contact of the hands of the infant, he was healed of the incurable disease wherewith he was afflicted, for he incessantly emitted foam from his mouth, which two persons, who constantly attended him, could scarcely wipe off with handkerchiefs.

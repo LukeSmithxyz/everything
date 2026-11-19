@@ -3,10 +3,10 @@ title: "XIV. How a pestilence ceased through the intercession of King Oswald."
 worktitle: "Book IV"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 98
- des: "681"
- def: "686"
+  da: "731"
+  order: 98
+  des: "681"
+  def: "686"
 ---
 
 

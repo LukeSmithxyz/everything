@@ -3,9 +3,9 @@ title: "XXV. How the question arose about the due time of keeping Easter, with t
 worktitle: "Book III"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 79
- de: "664"
+  da: "731"
+  order: 79
+  de: "664"
 ---
 
 

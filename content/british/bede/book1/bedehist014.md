@@ -3,9 +3,8 @@ title: "XIV. How the Britons, compelled by the great famine, drove the barbarian
 worktitle: "Book I"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 14
- de: ""
+  da: "731"
+  order: 14
 ---
 
 

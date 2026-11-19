@@ -3,9 +3,9 @@ title: "XVII. How a prop of the church on which Bishop Aidan was leaning when he
 worktitle: "Book III"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 71
- de: "651"
+  da: "731"
+  order: 71
+  de: "651"
 ---
 
 

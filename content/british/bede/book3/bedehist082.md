@@ -3,9 +3,9 @@ title: "XXVIII. How, when Tuda was dead, Wilfrid was ordained, in Gaul, and Cead
 worktitle: "Book III"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 82
- de: "664"
+  da: "731"
+  order: 82
+  de: "664"
 ---
 
 

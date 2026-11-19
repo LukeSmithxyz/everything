@@ -3,9 +3,8 @@ title: "XV. How the Angles, being invited into Britain, at first drove off the e
 worktitle: "Book I"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 15
- de: ""
+  da: "731"
+  order: 15
 ---
 
 

@@ -3,9 +3,9 @@ title: "XVIII. Of the life and death of the religious King Sigbert."
 worktitle: "Book III"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 72
- de: "_Circ._ 631"
+  da: "731"
+  order: 72
+  de: "_Circ._ 631"
 ---
 
 

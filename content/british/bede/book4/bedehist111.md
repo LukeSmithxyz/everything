@@ -3,9 +3,9 @@ title: "XXVII. How Cuthbert, a man of God, was made bishop; and how he lived and
 worktitle: "Book IV"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 111
- de: "685"
+  da: "731"
+  order: 111
+  de: "685"
 ---
 
 

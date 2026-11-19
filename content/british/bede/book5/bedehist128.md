@@ -3,9 +3,9 @@ title: "XII. How one in the province of the Northumbrians, rose from the dead, a
 worktitle: "Book V"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 128
- de: "Circ. 696"
+  da: "731"
+  order: 128
+  de: "Circ. 696"
 ---
 
 

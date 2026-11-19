@@ -3,10 +3,10 @@ title: "XI. How a light from Heaven stood all night over his relics, and how tho
 worktitle: "Book III"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 65
- des: "679"
- def: "697"
+  da: "731"
+  order: 65
+  des: "679"
+  def: "697"
 ---
 
 

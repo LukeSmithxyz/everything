@@ -3,10 +3,10 @@ title: "XII. How Haedde succeeded Leutherius in the bishopric of the West Saxons
 worktitle: "Book IV"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 96
- des: "673"
- def: "681"
+  da: "731"
+  order: 96
+  des: "673"
+  def: "681"
 ---
 
 

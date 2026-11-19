@@ -3,9 +3,8 @@ title: "XXII. How the Britons, being for a time at rest from foreign invasions, 
 worktitle: "Book I"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 22
- de: ""
+  da: "731"
+  order: 22
 ---
 
 

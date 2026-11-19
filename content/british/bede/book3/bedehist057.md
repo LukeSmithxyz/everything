@@ -3,9 +3,9 @@ title: "III. How the same king Oswald, asking a bishop of the Scottish nation, h
 worktitle: "Book III"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 57
- de: "635"
+  da: "731"
+  order: 57
+  de: "635"
 ---
 
 

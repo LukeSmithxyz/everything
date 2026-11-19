@@ -3,9 +3,8 @@ title: "XXXIII. How Augustine repaired the church of our Saviour, and built the 
 worktitle: "Book I"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 33
- de: ""
+  da: "731"
+  order: 33
 ---
 
 

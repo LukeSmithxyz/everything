@@ -3,9 +3,9 @@ title: "XIX. How the same holy man, being detained there by sickness, by his pra
 worktitle: "Book I"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 19
- de: "429"
+  da: "731"
+  order: 19
+  de: "429"
 ---
 
 

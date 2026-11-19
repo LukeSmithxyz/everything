@@ -3,9 +3,9 @@ title: "XIII. Of the Council he held with his chief men concerning their recepti
 worktitle: "Book II"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 47
- de: "627"
+  da: "731"
+  order: 47
+  de: "627"
 ---
 
 

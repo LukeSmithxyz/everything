@@ -3,9 +3,8 @@ title: "V. How he likewise recalled by his prayers a thegn’s servant from deat
 worktitle: "Book V"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 121
- de: ""
+  da: "731"
+  order: 121
 ---
 
 

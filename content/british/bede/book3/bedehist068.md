@@ -3,10 +3,10 @@ title: "XIV. How on the death of Paulinus, Ithamar was made bishop of Rochester 
 worktitle: "Book III"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 68
- des: "644"
- def: "651"
+  da: "731"
+  order: 68
+  des: "644"
+  def: "651"
 ---
 
 

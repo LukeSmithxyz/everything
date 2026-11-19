@@ -3,9 +3,9 @@ title: "XV. How divers churches of the Scots, at the instance of Adamnan, adopte
 worktitle: "Book V"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 131
- de: "703"
+  da: "731"
+  order: 131
+  de: "703"
 ---
 
 

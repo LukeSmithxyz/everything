@@ -3,9 +3,9 @@ title: "XXVIII. How Pope Gregory wrote to the bishop of Arles to help Augustine 
 worktitle: "Book I"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 28
- de: "601"
+  da: "731"
+  order: 28
+  de: "601"
 ---
 
 

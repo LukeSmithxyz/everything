@@ -3,9 +3,9 @@ title: "XX. How, when Honorius died, Deusdedit became Archbishop of Canterbury; 
 worktitle: "Book III"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 74
- de: "653"
+  da: "731"
+  order: 74
+  de: "653"
 ---
 
 

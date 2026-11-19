@@ -3,9 +3,9 @@ title: "XVII. How Edwin received letters of exhortation from Pope Honorius, who 
 worktitle: "Book II"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 51
- de: "634"
+  da: "731"
+  order: 51
+  de: "634"
 ---
 
 

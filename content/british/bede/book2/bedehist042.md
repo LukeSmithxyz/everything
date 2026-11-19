@@ -3,9 +3,9 @@ title: "VIII. How Pope Boniface sent the Pall and a letter to Justus, successor 
 worktitle: "Book II"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 42
- de: "624"
+  da: "731"
+  order: 42
+  de: "624"
 ---
 
 

@@ -3,9 +3,9 @@ title: "VIII. How Earconbert, King of Kent, ordered the idols to be destroyed; a
 worktitle: "Book III"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 62
- de: "640"
+  da: "731"
+  order: 62
+  de: "640"
 ---
 
 

@@ -1,9 +1,9 @@
 ---
 title: "The Life of Saint Cadoc"
 params:
- humandate: "12th C."
- des: 497
- def: 580
+  humandate: "12th C."
+  des: 497
+  def: 580
 ---
 
 # Here begins the Preface to the Life of the most blessed Cadog, who also is Sophias, bishop and martyr of the Beneventan monastery.

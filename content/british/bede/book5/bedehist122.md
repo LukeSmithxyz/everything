@@ -3,9 +3,8 @@ title: "VI. How, both by his prayers and blessing, he recalled from death one of
 worktitle: "Book V"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 122
- de: ""
+  da: "731"
+  order: 122
 ---
 
 

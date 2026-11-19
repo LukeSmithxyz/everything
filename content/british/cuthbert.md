@@ -1,8 +1,8 @@
 ---
 title: "The Life of St. Cuthbert, Bishop of Lindisfarne"
 params:
- humandate: "698"
- da: "700"
+  humandate: "698"
+  da: "700"
 ---
 
 # Prologue

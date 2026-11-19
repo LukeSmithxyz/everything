@@ -3,9 +3,9 @@ title: "XI. How during the reign of Honorius, Gratian and Constantine were creat
 worktitle: "Book I"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 11
- de: ""
+  da: "731"
+  order: 11
+  de: "407"
 ---
 
 

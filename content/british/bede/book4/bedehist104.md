@@ -3,9 +3,8 @@ title: "XX. A Hymn concerning her."
 worktitle: "Book IV"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 104
- de: ""
+  da: "731"
+  order: 104
 ---
 
 It seems fitting to insert in this history a hymn concerning virginity,

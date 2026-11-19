@@ -3,9 +3,9 @@ title: "XVIII. Of John, the precentor of the Apostolic see, who came into Britai
 worktitle: "Book IV"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 102
- de: "680"
+  da: "731"
+  order: 102
+  de: "680"
 ---
 
 

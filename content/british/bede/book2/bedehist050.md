@@ -3,9 +3,9 @@ title: "XVI. How Paulinus preached in the province of Lindsey; and of the charac
 worktitle: "Book II"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 50
- de: "_Circ._ 628"
+  da: "731"
+  order: 50
+  de: "_Circ._ 628"
 ---
 
 

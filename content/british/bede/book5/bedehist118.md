@@ -3,9 +3,9 @@ title: "II. How Bishop John cured a dumb man by his blessing."
 worktitle: "Book V"
 author: "The Venerable Bede"
 params:
- da: "731"
- order: 118
- de: "687"
+  da: "731"
+  order: 118
+  de: "687"
 ---
 
 In the beginning of Aldfrid’s reign, Bishop Eata died, and was
