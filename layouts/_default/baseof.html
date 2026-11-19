@@ -60,6 +60,13 @@
 <footer>
 	<a href="{{ .Site.BaseURL }}">{{ .Site.BaseURL }}</a>
 	{{- if .Param "showrss" }}<br><br><a href="/index.xml"><img src="/rss.svg" style="max-height:1.5em" alt="RSS Feed" title="Subscribe via RSS for updates."></a>{{ end }}
+{{ with .Params.tags }}
+<ul class=taglist>
+{{ range . }}
+<a href="/tags/{{ . }}/">📌 {{ strings.Title . }}</a>
+{{ end }}
+</ul>
+{{ end }}
 </footer>
 {{ end -}}
 </body>

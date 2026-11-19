@@ -2,13 +2,27 @@
 
 # change/add the metadata variable for $1 to be set to $2 for file $3.
 
-case "$1" in
-	tags)
+if [ -d "$3" ]; then
+	case "$1" in
+		tags)
 
-		tags="\"$(echo $2 | sed "s|,|\",\"|g")\""
-		yq-go -i -f process ".tags += [$tags]" "$3"
-		;;
-	*)
-		yq-go -i -f process ".$1 = \"$2\"" "$3"
-		;;
-esac
+			tags="\"$(echo $2 | sed "s|,|\",\"|g")\""
+			find "$3" -type f -iname '*.md' -exec yq-go -i -f process ".tags += [$tags]" {} \;
+			;;
+		*)
+			find "$3" -type f -iname '*.md' -exec yq-go -i -f process ".$1 = \"$2\"" {} \;
+			;;
+	esac
+
+else
+	case "$1" in
+		tags)
+
+			tags="\"$(echo $2 | sed "s|,|\",\"|g")\""
+			yq-go -i -f process ".tags += [$tags]" "$3"
+			;;
+		*)
+			yq-go -i -f process ".$1 = \"$2\"" "$3"
+			;;
+	esac
+fi

@@ -1,6 +1,5 @@
 header {
 	text-align: center ;
-	margin-bottom: 2em ;
 	padding: .5em 0 ;
 }
 header #worktitle {
@@ -28,8 +27,7 @@ header .translation {
 header h1 {
 	font-size: xx-large ;
 	font-variant: small-caps ;
-	margin-bottom: .5em ;
-	margin-top: 0 ;
+	margin: 0 ;
 }
 
 .articlelist {
@@ -62,13 +60,6 @@ h3 {
 	text-decoration: none ;
 }
 
-body {
-	max-width: 1000px ;
-	margin: auto ;
-	background-color: Gainsboro ;
-	color: #111 ;
-}
-
 main {
 	padding: 1em ;
 }
@@ -91,20 +82,27 @@ footer {
 	margin: 3em ;
 }
 
-nav ul {
+footer ul, nav ul {
 	padding: 0 ;
 	margin: 0 ;
 	text-align: center ;
 	list-style: none ;
 }
 
-nav ul li {
+footer ul li, nav ul li {
 	margin: 0 ;
 	padding: 0 ;
 }
 
-nav ul li a {
+footer ul li, nav ul li a {
 	display: block ;
+}
+
+footer .taglist::before {
+	content: "Tagged with" ;
+}
+.taglist {
+	font-size: small ;
 }
 
 nav:after {
@@ -137,14 +135,13 @@ img {
 	display: block ;
 }
 
-@media print {
-	nav { display: none ; }
-}
 body {
 	background: #1b1b1b ;
 	color: #fff ;
 	margin-bottom: 200px ;
-	font-family: "Garamond", Georgia, serif, 'Noto Color Emoji', 'Apple Color Emoji', 'Segoe UI Emoji' ;
+	font-family: "EB Garamond", "Garamond", Georgia, serif, 'Noto Color Emoji', 'Apple Color Emoji', 'Segoe UI Emoji' ;
+	max-width: 1000px ;
+	margin: auto ;
 }
 
 summary {
@@ -181,4 +178,20 @@ a {
 
 a:hover {
 	color: goldenrod ;
+}
+
+@media not print {
+	p { font-family: Verdana, Helvetica, sans-serif ; }
+}
+
+@media print {
+	nav { display: none ; }
+	h1, h2, h3, h4, h5, h6 { color: black ;}
+	footer { display: none ;}
+}
+
+aside {
+	font-style: italic ;
+	color: #ddd ;
+	margin: 2em 5em ;
 }
