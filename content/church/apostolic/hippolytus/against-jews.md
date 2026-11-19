@@ -2,9 +2,9 @@
 title: "Against the Jews"
 author: "St. Hippolytus of Rome"
 params:
- translator: "Alexander Roberts and James Donaldson"
- td: 1885
- da: "235"
+  translator: "Alexander Roberts and James Donaldson"
+  td: 1885
+  da: "235"
 ---
 
 ¶ Now, then, incline thine ear to me, and hear my words, and give heed, thou Jew. Many a time dost thou boast thyself, in that thou didst condemn Jesus of Nazareth to death, and didst give Him vinegar and gall to drink; and thou dost vaunt thyself because of this. Come therefore, and let us consider together whether perchance thou dost not boast unrighteously, O Israel, (and) whether that small portion of vinegar and gall has not brought down this fearful threatening upon thee, (and) whether this is not the cause of thy present condition involved in these myriad troubles.

@@ -3,9 +3,9 @@ author: "St. Cyprian of Carthage"
 title: "Preface"
 worktitle: "Exhortation to Martyrdom"
 params:
- order: 0
- translator: "Robert Ernest Wallis"
- dt: "1885"
+  order: 0
+  translator: "Robert Ernest Wallis"
+  dt: "1885"
 ---
 
 Treatise XI.[^1]

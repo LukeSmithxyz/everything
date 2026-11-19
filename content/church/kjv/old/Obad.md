@@ -1,7 +1,7 @@
 ---
 title: "Obadiah"
 params:
- order: 31
+  order: 31
 ---
 
 

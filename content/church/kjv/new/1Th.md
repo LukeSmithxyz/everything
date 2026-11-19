@@ -1,7 +1,7 @@
 ---
 title: "1 Thessalonians"
 params:
- order: 67
+  order: 67
 ---
 
 

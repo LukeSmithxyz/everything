@@ -3,9 +3,10 @@ title: "Commonitory"
 subtitle: "For the Antiquity and Universality of the Catholic Faith Against the Profane Novelties of All Heresies."
 author: "St. Vincent of Lérins"
 params:
- daf: 445
- translator: "C. A. Heurtley"
- dt: "1894"
+  das: 431
+  daf: 445
+  translator: "C. A. Heurtley"
+  dt: "1894"
 ---
 
 # Chapter 1. The Object of the Following Treatise.

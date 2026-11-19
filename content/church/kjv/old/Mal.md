@@ -1,7 +1,7 @@
 ---
 title: "Malachi"
 params:
- order: 39
+  order: 39
 ---
 
 

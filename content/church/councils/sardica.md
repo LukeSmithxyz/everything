@@ -1,7 +1,7 @@
 ---
 title: "The Canons of the Council of Sardica"
 params:
- de: 343
+  de: 343
 ---
 
 # Canon 1

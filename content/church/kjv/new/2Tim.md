@@ -1,7 +1,7 @@
 ---
 title: "2 Timothy"
 params:
- order: 68
+  order: 68
 ---
 
 

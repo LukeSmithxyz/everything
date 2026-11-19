@@ -3,10 +3,10 @@ title: "Gregory another bishop"
 worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
- order: "117"
- da: "492"
- translator: "Ernest Cushing Richardson"
- dt: "1885"
+  order: "117"
+  da: "492"
+  translator: "Ernest Cushing Richardson"
+  dt: "1885"
 ---
 
 

@@ -2,8 +2,8 @@
 title: "The Letters of St. Dionysius the Areopagite"
 author: "St. Dionysius the Areopagite"
 params:
- translator: "John Parker"
- dt: 1897
+  translator: "John Parker"
+  dt: 1897
 ---
 
 # Letter I. To Gaius Therapeutes.

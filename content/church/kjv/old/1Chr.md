@@ -1,7 +1,7 @@
 ---
 title: "1 Chronicles"
 params:
- order: 13
+  order: 13
 ---
 
 

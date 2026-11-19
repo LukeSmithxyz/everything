@@ -1,7 +1,7 @@
 ---
 title: "Revelation"
 params:
- order: 79
+  order: 79
 ---
 
 

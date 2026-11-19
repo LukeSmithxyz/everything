@@ -1,7 +1,7 @@
 ---
 title: "2 John"
 params:
- order: 76
+  order: 76
 ---
 
 

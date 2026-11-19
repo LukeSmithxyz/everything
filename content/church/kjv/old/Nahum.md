@@ -1,7 +1,7 @@
 ---
 title: "Nahum"
 params:
- order: 34
+  order: 34
 ---
 
 

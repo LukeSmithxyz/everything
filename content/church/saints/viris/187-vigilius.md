@@ -3,10 +3,10 @@ title: "Vigilius the deacon"
 worktitle: "On Illustrious Men"
 author: "Gennadius of Massilla"
 params:
- order: "187"
- da: "495"
- translator: "Ernest Cushing Richardson"
- dt: "1885"
+  order: "187"
+  da: "495"
+  translator: "Ernest Cushing Richardson"
+  dt: "1885"
 ---
 
 

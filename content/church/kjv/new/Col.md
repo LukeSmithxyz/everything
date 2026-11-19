@@ -1,7 +1,7 @@
 ---
 title: "Colossians"
 params:
- order: 64
+  order: 64
 ---
 
 

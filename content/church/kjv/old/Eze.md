@@ -1,7 +1,7 @@
 ---
 title: "Ezekiel"
 params:
- order: 26
+  order: 26
 ---
 
 

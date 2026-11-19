@@ -2,9 +2,9 @@
 title: "On the Sole Government of God"
 author: "St. Justin Martyr"
 params:
- da: "155"
- translator: "G. Reith"
- dt: "1885"
+  da: "155"
+  translator: "G. Reith"
+  dt: "1885"
 ---
 
 # 1 - Object of the author

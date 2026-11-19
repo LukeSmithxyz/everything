@@ -2,8 +2,8 @@
 title: "Epistle of Polycarp to the Philippians"
 author: "St. Polycarp of Smyrna"
 params:
- da: "108"
- translator: "J. B. Lightfoot"
+  da: "108"
+  translator: "J. B. Lightfoot"
 ---
 
 # Prologue

@@ -2,10 +2,10 @@
 title: "The Epistle of Barnabas"
 author: "Pseudo-Barnabas"
 params:
- translator: "Philip Schaff"
- dt: 1885
- das: "70"
- daf: "132"
+  translator: "Philip Schaff"
+  dt: 1885
+  das: "70"
+  daf: "132"
 ---
 
 # Chapter I.—After the salutation, the writer declares that he would communicate to his brethren something of that which he had himself received.

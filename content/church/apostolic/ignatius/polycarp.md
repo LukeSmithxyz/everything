@@ -2,9 +2,9 @@
 title: "To Polycarp"
 author: "St. Ignatius of Antioch"
 params:
- da: 107
- translator: "J. B. Lightfoot"
- dt: 1891
+  da: 107
+  translator: "J. B. Lightfoot"
+  dt: 1891
 ---
 
 # Introduction

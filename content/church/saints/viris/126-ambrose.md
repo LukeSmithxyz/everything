@@ -3,10 +3,10 @@ title: "Ambrose the disciple of Didymus"
 worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
- order: "126"
- da: "492"
- translator: "Ernest Cushing Richardson"
- dt: "1885"
+  order: "126"
+  da: "492"
+  translator: "Ernest Cushing Richardson"
+  dt: "1885"
 ---
 
 

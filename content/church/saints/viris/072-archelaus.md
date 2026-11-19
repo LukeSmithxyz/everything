@@ -3,10 +3,10 @@ title: "Archelaus the bishop"
 worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
- order: "72"
- da: "492"
- translator: "Ernest Cushing Richardson"
- dt: "1885"
+  order: "72"
+  da: "492"
+  translator: "Ernest Cushing Richardson"
+  dt: "1885"
 ---
 
 Archelaus, bishop of Mesopotamia, composed in the Syriac language, a book of the discussion which he held with Manichaeus, when he came from Persia. This book, which is translated into Greek, is possessed by many.

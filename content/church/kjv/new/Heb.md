@@ -1,7 +1,7 @@
 ---
 title: "Hebrews"
 params:
- order: 71
+  order: 71
 ---
 
 

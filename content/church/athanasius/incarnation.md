@@ -2,8 +2,8 @@
 author: "St. Athanasius of Alexandria"
 title: "On the Incarnation of the Word"
 params:
- translator: "Archibald Robertson"
- dt: 1892
+  translator: "Archibald Robertson"
+  dt: 1892
 ---
 
 # 1. Introductory.—The subject of this treatise: the humiliation and incarnation of the Word. Presupposes the doctrine of Creation, and that by the Word. The Father has saved the world by Him through Whom he first made it.

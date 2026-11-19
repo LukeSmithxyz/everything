@@ -1,8 +1,8 @@
 ---
 title: "St. Cyril's Anathemas against Nestorius"
 params:
- order: 2.9
- humandate: 430
+  order: 2.9
+  humandate: 430
 ---
 
 # Anathema 1

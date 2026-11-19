@@ -2,8 +2,8 @@
 title: "On the Heavenly Hierarchy"
 author: "St. Dionysius the Areopagite"
 params:
- translator: "John Parker"
- dt: 1898
+  translator: "John Parker"
+  dt: 1898
 ---
 
 To my Fellow Presbyter Timothy.[^151] Dionysius the Presbyter.

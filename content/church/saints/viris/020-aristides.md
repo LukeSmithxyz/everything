@@ -3,10 +3,10 @@ title: "Aristides the philosopher"
 worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
- order: "20"
- da: "492"
- translator: "Ernest Cushing Richardson"
- dt: "1885"
+  order: "20"
+  da: "492"
+  translator: "Ernest Cushing Richardson"
+  dt: "1885"
 ---
 
 

@@ -2,8 +2,8 @@
 author: "St. Cyprian of Carthage"
 title: "On Jealousy and Envy"
 params:
- translator: "Robert Ernest Wallis"
- dt: "1885"
+  translator: "Robert Ernest Wallis"
+  dt: "1885"
 ---
 
 Argument.[^2]—After Pointing Out that Jealousy or Envy is a Sin All the More

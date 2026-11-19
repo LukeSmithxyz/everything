@@ -1,7 +1,7 @@
 ---
 title: "Philemon"
 params:
- order: 70
+  order: 70
 ---
 
 

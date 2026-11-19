@@ -2,8 +2,8 @@
 title: "The Epistle to Diognetus"
 author: "Mathetes"
 params:
- translator: "Alexander Roberts and James Donaldson"
- dt: 1885
+  translator: "Alexander Roberts and James Donaldson"
+  dt: 1885
 ---
 
 

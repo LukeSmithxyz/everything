@@ -2,8 +2,8 @@
 title: "The Longer Catechism of the Orthodox, Catholic, Eastern Church"
 author: "St. Philaret of Moscow"
 params:
- translator: "R. W. Blackmore"
- humandate: "1823"
+  translator: "R. W. Blackmore"
+  humandate: "1823"
 ---
 
 # INTRODUCTION TO THE ORTHODOX CATECHISM.

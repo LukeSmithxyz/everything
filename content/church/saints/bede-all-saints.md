@@ -2,9 +2,9 @@
 title: "Sermon on All Saints"
 author: "St. Bede the Venerable"
 params:
- da: 710
- translator: "John Mason Neale"
- dt: 1906
+  da: 710
+  translator: "John Mason Neale"
+  dt: 1906
 ---
 
 Born about 673, died in 735; surnamed "the Venerable"; ordained a Deacon in his

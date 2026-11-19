@@ -2,9 +2,9 @@
 title: "Hortatory Address to the Greeks"
 author: "St. Justin Martyr"
 params:
- da: "155"
- translator: "Alexander Roberts and James Donaldson"
- dt: "1885"
+  da: "155"
+  translator: "Alexander Roberts and James Donaldson"
+  dt: "1885"
 ---
 
 # I.-- REASONS FOR ADDRESSING THE GREEKS.

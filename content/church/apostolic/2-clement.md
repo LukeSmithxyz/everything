@@ -1,7 +1,7 @@
 ---
 title: "2 Clement"
 params:
- da: 150
+  da: 150
 ---
 
 # I.--WE OUGHT TO THINK HIGHLY OF CHRIST.

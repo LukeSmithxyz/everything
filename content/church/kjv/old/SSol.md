@@ -1,7 +1,7 @@
 ---
 title: "Song of Solomon"
 params:
- order: 22
+  order: 22
 ---
 
 

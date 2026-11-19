@@ -1,7 +1,7 @@
 ---
 title: "Isaiah"
 params:
- order: 23
+  order: 23
 ---
 
 

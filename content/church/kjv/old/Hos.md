@@ -1,7 +1,7 @@
 ---
 title: "Hosea"
 params:
- order: 28
+  order: 28
 ---
 
 

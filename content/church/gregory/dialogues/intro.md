@@ -1,7 +1,7 @@
 ---
 title: "Introduction"
 params:
- order: 0
+  order: 0
 ---
 
 The four books of Dialogues of Saint Gregory the Great, "concerning the life

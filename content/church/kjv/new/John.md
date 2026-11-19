@@ -1,7 +1,7 @@
 ---
 title: "John"
 params:
- order: 56
+  order: 56
 ---
 
 

@@ -1,8 +1,8 @@
 ---
 title: "The Canons of the Ecumenical Council of Constantinople"
 params:
- order: 2
- de: 381
+  order: 2
+  de: 381
 ---
 
 # Canon 1

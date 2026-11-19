@@ -2,9 +2,9 @@
 author: "St. Cyprian of Carthage"
 title: "On the Vanity of Idols"
 params:
- translator: "Robert Ernest Wallis"
- dt: "1885"
- da: 247
+  translator: "Robert Ernest Wallis"
+  dt: "1885"
+  da: 247
 ---
 On the Vanity of Idols: Showing that the Idols are Not Gods, and that God is
 One, and that Through Christ Salvation is Given to Believers.

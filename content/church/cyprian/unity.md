@@ -2,9 +2,9 @@
 title: "On the Unity of the Church"
 author: "St. Cyprian of Carthage"
 params:
- da: 251
- translator: "The Tractarian Movement"
- dt: 1835
+  da: 251
+  translator: "The Tractarian Movement"
+  dt: 1835
 ---
 
 # 1. Heresy and Schism are snares of the Devil.

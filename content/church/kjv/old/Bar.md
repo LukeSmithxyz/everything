@@ -1,7 +1,7 @@
 ---
 title: "Baruch"
 params:
- order: 44
+  order: 44
 ---
 
 

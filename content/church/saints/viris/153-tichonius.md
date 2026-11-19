@@ -3,10 +3,10 @@ title: "Tichonius the African"
 worktitle: "On Illustrious Men"
 author: "Gennadius of Massilla"
 params:
- order: "153"
- da: "495"
- translator: "Ernest Cushing Richardson"
- dt: "1885"
+  order: "153"
+  da: "495"
+  translator: "Ernest Cushing Richardson"
+  dt: "1885"
 ---
 
 

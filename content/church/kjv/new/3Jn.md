@@ -1,7 +1,7 @@
 ---
 title: "3 John"
 params:
- order: 77
+  order: 77
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Proverbs"
 params:
- order: 20
+  order: 20
 ---
 
 

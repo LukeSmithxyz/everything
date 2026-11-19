@@ -1,8 +1,8 @@
 ---
 title: "The Canons of the Second Ecumenical Council of Nicea"
 params:
- order: 7
- de: 783
+  order: 7
+  de: 783
 ---
 
 # Canon 1

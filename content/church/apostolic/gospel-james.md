@@ -2,7 +2,7 @@
 title: "The Protoevangelium of James"
 author: "Unknown"
 params:
- translator: "Alexander Roberts and James Donaldson"
+  translator: "Alexander Roberts and James Donaldson"
 ---
 
 

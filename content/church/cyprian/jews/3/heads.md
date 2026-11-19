@@ -3,9 +3,9 @@ author: "St. Cyprian of Carthage"
 worktitle: "Three Books of Testimonies Against the Jews"
 title: "Headers of Book III"
 params:
- order: 0
- translator: "Robert Ernest Wallis"
- dt: "1885"
+  order: 0
+  translator: "Robert Ernest Wallis"
+  dt: "1885"
 ---
 
 Heads.[^1]

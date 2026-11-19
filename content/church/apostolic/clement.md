@@ -2,8 +2,8 @@
 title: "Epistle to the Corinthians"
 author: "St. Clement of Rome"
 params:
- translator: "J. B. Lightfoot"
- dt: 1889
+  translator: "J. B. Lightfoot"
+  dt: 1889
 ---
 
 The Church of God which sojourneth in Rome to the Church of God which

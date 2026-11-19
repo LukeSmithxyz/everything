@@ -1,9 +1,9 @@
 ---
 title: "The Canons of the Ecumenical Council of Chalcedon"
 params:
- order: 4
- humandate: 451
- de: 451
+  order: 4
+  humandate: 451
+  de: 451
 ---
 
 

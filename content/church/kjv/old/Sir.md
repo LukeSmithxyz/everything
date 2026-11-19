@@ -1,7 +1,7 @@
 ---
 title: "Sirach"
 params:
- order: 43
+  order: 43
 ---
 
 

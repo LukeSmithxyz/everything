@@ -2,9 +2,9 @@
 title: "On the Resurrection (Fragments)"
 author: "St. Justin Martyr"
 params:
- da: "155"
- translator: "Alexander Roberts and James Donaldson"
- dt: "1885"
+  da: "155"
+  translator: "Alexander Roberts and James Donaldson"
+  dt: "1885"
 ---
 
 # I.--THE SELF-EVIDENCING POWER OF TRUTH.

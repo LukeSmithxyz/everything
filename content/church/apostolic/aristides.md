@@ -2,8 +2,8 @@
 title: "Apology"
 author: "Aristides of Athens"
 params:
- dt: 1891
- translator: "D. M. Kay"
+  dt: 1891
+  translator: "D. M. Kay"
 ---
 
 TODO

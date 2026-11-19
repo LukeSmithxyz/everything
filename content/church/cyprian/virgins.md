@@ -2,8 +2,8 @@
 author: "St. Cyprian of Carthage"
 title: "On the Dress of Virgins"
 params:
- translator: "Robert Ernest Wallis"
- dt: "1885"
+  translator: "Robert Ernest Wallis"
+  dt: "1885"
 ---
 
 Argument.—Cyprian Celebrates the Praises of Discipline, and Proves Its

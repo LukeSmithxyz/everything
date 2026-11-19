@@ -1,7 +1,7 @@
 ---
 title: "Jeremiah"
 params:
- order: 24
+  order: 24
 ---
 
 

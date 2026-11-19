@@ -3,10 +3,10 @@ title: "Cyprian the bishop"
 worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
- order: "67"
- da: "492"
- translator: "Ernest Cushing Richardson"
- dt: "1885"
+  order: "67"
+  da: "492"
+  translator: "Ernest Cushing Richardson"
+  dt: "1885"
 ---
 
 Cyprian of Africa, at first was famous as a teacher of rhetoric, and afterwards on the persuasion of the presbyter Caecilius, from whom he received his surname, he became a Christian, and gave all his substance to the poor. Not long after he was inducted into the presbytery, and was also made bishop of Carthage. It is unnecessary to make a catalogue of the works of his genius, since they are more conspicuous than the sun.

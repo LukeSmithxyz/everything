@@ -2,9 +2,9 @@
 title: "On the Lapsed"
 author: "St. Cyprian of Carthage"
 params:
- da: 251
- translator: "Robert Ernest Wallis"
- dt: "1885"
+  da: 251
+  translator: "Robert Ernest Wallis"
+  dt: "1885"
 ---
 
 Argument.—Having Enlarged Upon the Unlooked-for Peace of the Church, and the

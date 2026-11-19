@@ -1,7 +1,7 @@
 ---
 title: "Ruth"
 params:
- order: 8
+  order: 8
 ---
 
 

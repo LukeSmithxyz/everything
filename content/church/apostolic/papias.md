@@ -2,10 +2,10 @@
 title: "Fragments"
 author: "Papias"
 params:
- dt: 1885
- translator: "Philip Schaff"
- das: 60
- daf: 130
+  dt: 1885
+  translator: "Philip Schaff"
+  das: 60
+  daf: 130
 ---
 
 

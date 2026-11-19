@@ -1,7 +1,7 @@
 ---
 title: "Wisdom of Solomon"
 params:
- order: 42
+  order: 42
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Leviticus"
 params:
- order: 3
+  order: 3
 ---
 
 

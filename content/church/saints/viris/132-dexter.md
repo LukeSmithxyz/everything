@@ -3,10 +3,10 @@ title: "Dexter, son of Pacianus, now praetorian prefect"
 worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
- order: "132"
- da: "492"
- translator: "Ernest Cushing Richardson"
- dt: "1885"
+  order: "132"
+  da: "492"
+  translator: "Ernest Cushing Richardson"
+  dt: "1885"
 ---
 
 

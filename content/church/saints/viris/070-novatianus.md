@@ -3,10 +3,10 @@ title: "Novatianus the heresiarch"
 worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
- order: "70"
- da: "492"
- translator: "Ernest Cushing Richardson"
- dt: "1885"
+  order: "70"
+  da: "492"
+  translator: "Ernest Cushing Richardson"
+  dt: "1885"
 ---
 
 

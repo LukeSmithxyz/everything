@@ -1,9 +1,9 @@
 ---
 title: "The Canons of the Ecumenical Council of Ephesus"
 params:
- order: 3
- humandate: 431
- de: 431
+  order: 3
+  humandate: 431
+  de: 431
 ---
 
 # 1

@@ -2,8 +2,8 @@
 title: "Commentary on Galatians"
 author: "St. John Chrysostom"
 params:
- translator: "Alexander Gross"
- dt: "1889"
+  translator: "Alexander Gross"
+  dt: "1889"
 ---
 
 ## Chapter I.

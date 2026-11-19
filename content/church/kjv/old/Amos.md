@@ -1,7 +1,7 @@
 ---
 title: "Amos"
 params:
- order: 30
+  order: 30
 ---
 
 

@@ -1,8 +1,8 @@
 ---
 title: "The Quintisext Council (Canons of the Fifth and Sixth Ecumenical Councils)"
 params:
- order: 6.5
- de: 691
+  order: 6.5
+  de: 691
 ---
 
 # Canon 1

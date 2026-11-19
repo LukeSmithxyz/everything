@@ -2,9 +2,9 @@
 title: "Against Baron and Helix (Fragments)"
 author: "St. Hippolytus of Rome"
 params:
- translator: "Alexander Roberts and James Donaldson"
- td: 1885
- da: "235"
+  translator: "Alexander Roberts and James Donaldson"
+  td: 1885
+  da: "235"
 ---
 
 FRAGMENTS OF A DISCOURSE, ALPHABETICALLY DIVIDED, ON THE DIVINE NATURE AND THE INCARNATION, AGAINST THE HERETICS BERON AND HELIX, THE BEGINNING OF WHICH WAS IN THESE WORDS, "HOLY, HOLY, HOLY, LORD GOD OF SABAOTH, WITH VOICE NEVER SILENT THE SERAPHIM EXCLAIM AND GLORIFY GOD."

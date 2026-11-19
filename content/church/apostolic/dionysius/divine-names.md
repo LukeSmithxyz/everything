@@ -2,8 +2,8 @@
 title: "On Divine Names"
 author: "St. Dionysius the Areopagite"
 params:
- translator: "John Parker"
- dt: 1896
+  translator: "John Parker"
+  dt: 1896
 ---
 
 

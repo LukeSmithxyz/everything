@@ -2,9 +2,9 @@
 title: "On Holy Theophany"
 author: "St. Hippolytus of Rome"
 params:
- translator: "Alexander Roberts and James Donaldson"
- td: 1885
- da: "235"
+  translator: "Alexander Roberts and James Donaldson"
+  td: 1885
+  da: "235"
 ---
 
 ¶ Good, yea, very good, are all the works of our God and Saviour--all of them that eye seeth and mind perceiveth, all that reason interprets and hand handles, all that intellect comprehends and human nature understands. For what richer beauty can there be than that of the circle of heaven? And what form of more blooming fairness than that of earth's surface? And what is there swifter in the course than the chariot of the sun? And what more graceful car than the lunar orb? And what work more wonderful than the compact mosaic of the stars? And what more productive of supplies than the seasonable winds? And what more spotless mirror than the light of day? And what creature more excellent than man? Very good, then, are all the works of our God and Saviour. And what more requisite gift, again, is there than the element of water? For with water all things are washed and nourished, and cleansed and bedewed. Water bears the earth, water produces the dew, water exhilarates the vine; water ma tures the corn in the ear, water ripens the grapecluster, water softens the olive, water sweetens the palm-date, water reddens the rose and decks the violet, water makes the lily bloom with its brilliant cups. And why should I speak at length? Without the element of water, none of the present order of things can subsist. So necessary is the element of water; for the other elements took their places beneath the highest vault of the heavens, but the nature of water obtained a seat also above the heavens. And to this the prophet himself is a witness, when he exclaims, "Praise the Lord, ye heavens of heavens, and the water that is above the heavens."

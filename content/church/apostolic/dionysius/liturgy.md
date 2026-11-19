@@ -2,8 +2,8 @@
 title: "The Liturgy of St. Dionysius, Bishop of Athens"
 author: "St. Dionysius the Areopagite"
 params:
- translator: "John Parker"
- dt: 1896
+  translator: "John Parker"
+  dt: 1896
 ---
 
 # The Prayer before the Pax

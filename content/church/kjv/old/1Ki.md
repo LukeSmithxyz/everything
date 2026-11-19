@@ -1,7 +1,7 @@
 ---
 title: "1 Kings"
 params:
- order: 11
+  order: 11
 ---
 
 

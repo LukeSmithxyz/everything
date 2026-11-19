@@ -1,7 +1,7 @@
 ---
 title: "James"
 params:
- order: 72
+  order: 72
 ---
 
 

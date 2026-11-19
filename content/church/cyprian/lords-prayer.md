@@ -2,9 +2,9 @@
 author: "St. Cyprian of Carthage"
 title: "On the Lord's Prayer"
 params:
- translator: "Robert Ernest Wallis"
- dt: "1885"
- da: 252
+  translator: "Robert Ernest Wallis"
+  dt: "1885"
+  da: 252
 ---
 
 Argument.—The Treatise of Cyprian on the Lord's Prayer Comprises Three

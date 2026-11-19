@@ -2,9 +2,9 @@
 author: "St. Cyprian of Carthage"
 title: "On the Mortality"
 params:
- translator: "Robert Ernest Wallis"
- dt: "1885"
- de: 252
+  translator: "Robert Ernest Wallis"
+  dt: "1885"
+  de: 252
 ---
 
 Argument.—The Deacon Pontius in a Few Words Unfolds the Burthen of This

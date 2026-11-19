@@ -2,8 +2,8 @@
 author: "St. Cyprian of Carthage"
 title: "On Works and Alms"
 params:
- translator: "Robert Ernest Wallis"
- dt: "1885"
+  translator: "Robert Ernest Wallis"
+  dt: "1885"
 ---
 Argument.—He Powerfully Exhorts to the Manifestation of Faith by Works, and
 Enforces the Wisdom of Offerings to the Church and of Bounty to the Poor as the

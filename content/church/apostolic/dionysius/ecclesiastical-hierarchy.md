@@ -3,8 +3,8 @@ title: "Ecclesiastical Hierarchy"
 author: "St. Dionysius the Areopagite"
 toc: true
 params:
- translator: "John Parker"
- dt: 1898
+  translator: "John Parker"
+  dt: 1898
 ---
 
 # I. To my Fellow Presbyter Timothy. Dionysius the Presbyter.

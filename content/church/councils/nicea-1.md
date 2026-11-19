@@ -1,8 +1,8 @@
 ---
 title: "The Canons of the Ecumenical Council of Nicea"
 params:
- order: 1
- de: 325
+  order: 1
+  de: 325
 ---
 
 # Canon 1

@@ -2,9 +2,9 @@
 author: "St. Cyprian of Carthage"
 title: "An Address to Demetrianus"
 params:
- translator: "Robert Ernest Wallis"
- dt: "1885"
- da: 252
+  translator: "Robert Ernest Wallis"
+  dt: "1885"
+  da: 252
 ---
 
 Argument.—Cyprian, in Reply to Demetrianus the Proconsul of Africa, Who

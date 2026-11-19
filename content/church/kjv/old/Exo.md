@@ -1,7 +1,7 @@
 ---
 title: "Exodus"
 params:
- order: 2
+  order: 2
 ---
 
 

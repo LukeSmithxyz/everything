@@ -1,7 +1,7 @@
 ---
 title: "The Apostolic Canons"
 params:
- order: 0
+  order: 0
 ---
 
 # Canon I.

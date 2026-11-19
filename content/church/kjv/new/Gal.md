@@ -1,7 +1,7 @@
 ---
 title: "Galatians"
 params:
- order: 61
+  order: 61
 ---
 
 

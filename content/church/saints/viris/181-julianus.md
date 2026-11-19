@@ -3,10 +3,10 @@ title: "Julianus the bishop"
 worktitle: "On Illustrious Men"
 author: "Gennadius of Massilla"
 params:
- order: "181"
- da: "495"
- translator: "Ernest Cushing Richardson"
- dt: "1885"
+  order: "181"
+  da: "495"
+  translator: "Ernest Cushing Richardson"
+  dt: "1885"
 ---
 
 Julianus the bishop, a man of vigorous character, learned in the Divine Scriptures, and proficient both in Greek and Latin, was, before he disclosed his participation in the ungodliness of Pelagius, distinguished among the doctors of the church. But afterwards, trying to defend the Pelagian heresy, he wrote four books, Against Augustine, the opponent of Pelagius, and then again, eight books more. There is also a book containing a discussion, where each defends his side.

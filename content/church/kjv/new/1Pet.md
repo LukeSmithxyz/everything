@@ -1,7 +1,7 @@
 ---
 title: "1 Peter"
 params:
- order: 73
+  order: 73
 ---
 
 

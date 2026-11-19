@@ -3,10 +3,10 @@ title: "The Life of St. Mesrop Mashtots"
 subtitle: "History of the Life and Death of our Venerable and Blessed Vardapet Mashtots"
 author: "St. Koriwn"
 params:
- translator: "Manouk Abeghian"
- dt: "1964"
- des: "362"
- def: "440"
+  translator: "Manouk Abeghian"
+  dt: 1964
+  des: 362
+  def: 440
 ---
 
 # I.

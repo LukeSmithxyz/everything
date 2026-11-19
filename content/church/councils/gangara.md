@@ -1,8 +1,8 @@
 ---
 title: "The Canons of the Council of Gangra"
 params:
- humandate: 340
- de: 340
+  humandate: 340
+  de: 340
 ---
 
 # Synodal Letter

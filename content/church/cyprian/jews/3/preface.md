@@ -3,9 +3,9 @@ author: "St. Cyprian of Carthage"
 worktitle: "Three Books of Testimonies Against the Jews"
 title: "Preface"
 params:
- order: 0
- translator: "Robert Ernest Wallis"
- dt: "1885"
+  order: 0
+  translator: "Robert Ernest Wallis"
+  dt: "1885"
 ---
 Books of Testimonies Against the Jews, Book III — PrefaceRobert Ernest Wallis
 Cyprian

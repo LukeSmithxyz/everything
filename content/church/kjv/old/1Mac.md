@@ -1,7 +1,7 @@
 ---
 title: "1 Maccabees"
 params:
- order: 48
+  order: 48
 ---
 
 

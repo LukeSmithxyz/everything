@@ -2,8 +2,8 @@
 author: "St. Cyprian of Carthage"
 title: "On the Advantage of Patience"
 params:
- translator: "Robert Ernest Wallis"
- dt: "1885"
+  translator: "Robert Ernest Wallis"
+  dt: "1885"
 ---
 
 Argument.—Cyprian Himself Briefly Sets Forth the Occasion of This Treatise at

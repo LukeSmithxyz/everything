@@ -2,8 +2,8 @@
 title: "Homilies on Ephesians"
 author: "St. John Chrysostom"
 params:
- translator: "Alexander Gross"
- dt: "1889"
+  translator: "Alexander Gross"
+  dt: "1889"
 ---
 
 # Homily I.

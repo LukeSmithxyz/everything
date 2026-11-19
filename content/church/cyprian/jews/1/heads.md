@@ -3,9 +3,9 @@ author: "St. Cyprian of Carthage"
 worktitle: "Three Books of Testimonies Against the Jews"
 title: "Headers of Book I"
 params:
- order: 0
- translator: "Robert Ernest Wallis"
- dt: "1885"
+  order: 0
+  translator: "Robert Ernest Wallis"
+  dt: "1885"
 ---
 
 ¶ 1. That the Jews have fallen under the heavy wrath of God, because they have

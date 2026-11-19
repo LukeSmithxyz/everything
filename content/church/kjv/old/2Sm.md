@@ -1,7 +1,7 @@
 ---
 title: "2 Samuel"
 params:
- order: 10
+  order: 10
 ---
 
 

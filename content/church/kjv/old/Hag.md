@@ -1,7 +1,7 @@
 ---
 title: "Haggai"
 params:
- order: 38
+  order: 38
 ---
 
 

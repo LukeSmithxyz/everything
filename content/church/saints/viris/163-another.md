@@ -3,10 +3,10 @@ title: "Another Macarius"
 worktitle: "On Illustrious Men"
 author: "Gennadius of Massilla"
 params:
- order: "163"
- da: "495"
- translator: "Ernest Cushing Richardson"
- dt: "1885"
+  order: "163"
+  da: "495"
+  translator: "Ernest Cushing Richardson"
+  dt: "1885"
 ---
 
 

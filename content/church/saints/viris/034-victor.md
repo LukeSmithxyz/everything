@@ -3,10 +3,10 @@ title: "Victor the bishop"
 worktitle: "On Illustrious Men"
 author: "St. Jerome"
 params:
- order: "34"
- da: "492"
- translator: "Ernest Cushing Richardson"
- dt: "1885"
+  order: "34"
+  da: "492"
+  translator: "Ernest Cushing Richardson"
+  dt: "1885"
 ---
 
 

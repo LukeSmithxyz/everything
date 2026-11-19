@@ -2,8 +2,8 @@
 title: "Fragments"
 author: "St. Irenaeus of Lyons"
 params:
- translator: "Philip Schaff"
- dt: 1885
+  translator: "Philip Schaff"
+  dt: 1885
 ---
 
 # I.

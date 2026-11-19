@@ -1,7 +1,7 @@
 ---
 title: "Deuteronomy"
 params:
- order: 5
+  order: 5
 ---
 
 

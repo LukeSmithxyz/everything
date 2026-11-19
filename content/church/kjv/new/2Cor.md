@@ -1,7 +1,7 @@
 ---
 title: "2 Corinthians"
 params:
- order: 60
+  order: 60
 ---
 
 

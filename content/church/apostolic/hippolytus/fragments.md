@@ -2,9 +2,9 @@
 title: "Fragments of Discourses or Homilies"
 author: "St. Hippolytus of Rome"
 params:
- translator: "S. D. F. Salmond"
- td: 1885
- da: "235"
+  translator: "S. D. F. Salmond"
+  td: 1885
+  da: "235"
 ---
 
 I.

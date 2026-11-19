@@ -1,7 +1,7 @@
 ---
 title: "2 Peter"
 params:
- order: 74
+  order: 74
 ---
 
 

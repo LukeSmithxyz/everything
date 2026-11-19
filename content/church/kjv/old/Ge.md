@@ -1,7 +1,7 @@
 ---
 title: "Genesis"
 params:
- order: 1
+  order: 1
 ---
 
 

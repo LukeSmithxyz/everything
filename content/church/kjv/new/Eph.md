@@ -1,7 +1,7 @@
 ---
 title: "Ephesians"
 params:
- order: 62
+  order: 62
 ---
 
 

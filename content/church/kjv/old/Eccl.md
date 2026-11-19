@@ -1,7 +1,7 @@
 ---
 title: "Ecclesiastes"
 params:
- order: 21
+  order: 21
 ---
 
 

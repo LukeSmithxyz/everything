@@ -2,8 +2,9 @@
 author: "St. Athenagoras of Athens"
 title: "A Plea for the Christians"
 params:
- translator: "Benjamin Plumber Pratten"
- dt: 1885
+  translator: "Benjamin Plumber Pratten"
+  dt: 1885
+  da: 177
 ---
 
 To the Emperors Marcus Aurelius Anoninus and Lucius Aurelius Commodus,

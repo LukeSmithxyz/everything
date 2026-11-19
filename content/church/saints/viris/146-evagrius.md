@@ -3,10 +3,10 @@ title: "Evagrius the monk"
 worktitle: "On Illustrious Men"
 author: "Gennadius of Massilla"
 params:
- order: "146"
- da: "495"
- translator: "Ernest Cushing Richardson"
- dt: "1885"
+  order: "146"
+  da: "495"
+  translator: "Ernest Cushing Richardson"
+  dt: "1885"
 ---
 
 

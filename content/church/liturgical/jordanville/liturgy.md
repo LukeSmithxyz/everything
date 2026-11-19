@@ -1,6 +1,5 @@
 ---
 title: "The Divine Liturgy"
-
 ---
 
 

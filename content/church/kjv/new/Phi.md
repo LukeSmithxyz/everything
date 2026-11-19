@@ -1,7 +1,7 @@
 ---
 title: "Philippians"
 params:
- order: 63
+  order: 63
 ---
 
 
