@@ -2,7 +2,7 @@
 title: "Generative Energy: Restoring the Wholeness of Life"
 author: "Ray Peat"
 params:
- da: 1994
+  da: 1994
 ---
 
 ## **CONTENTS**

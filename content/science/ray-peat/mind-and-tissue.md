@@ -2,7 +2,7 @@
 title: "Mind and Tissue: Russian Research Perspectives on the Human Brain  "
 author: "Ray Peat"
 params:
- da: 1976
+  da: 1976
 ---
 
 With introductions by Stanley Kipper and Peter Marin

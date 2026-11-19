@@ -3,10 +3,10 @@ author: "Isaac Newton"
 worktitle: "Opening"
 title: "Definitions"
 params:
- translator: "Andrew Motte"
- order: 2
- dt: 1729
- da: 1687
+  translator: "Andrew Motte"
+  order: 2
+  dt: 1729
+  da: 1687
 ---
 
 # Definition I.

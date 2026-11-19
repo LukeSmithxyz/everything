@@ -3,10 +3,10 @@ author: "Isaac Newton"
 worktitle: "The Mathematical Principles of Natural Philosophy"
 title: "The System of the World"
 params:
- order: 4
- translator: "Andrew Motte"
- dt: 1729
- da: 1687
+  order: 4
+  translator: "Andrew Motte"
+  dt: 1729
+  da: 1687
 ---
 
 
