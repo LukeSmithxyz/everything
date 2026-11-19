@@ -2,8 +2,8 @@
 title: "Numa with Lykurgus"
 author: "Plutarch"
 params:
- translator: "George Long and Aubrey Stewart"
- order: 6
+  translator: "George Long and Aubrey Stewart"
+  order: 6
 ---
 
 

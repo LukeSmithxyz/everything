@@ -2,10 +2,10 @@
 title: "Brutus"
 author: "Plutarch"
 params:
- translator: "George Long and Aubrey Stewart"
- order: 63
- des: "-85"
- def: "-42"
+  translator: "George Long and Aubrey Stewart"
+  order: 63
+  des: "-85"
+  def: "-42"
 ---
 
 

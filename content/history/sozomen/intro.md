@@ -3,7 +3,7 @@ title: "Address and Proposal"
 worktitle: "Ecclesiastical History"
 author: "Sozomen"
 params:
- order: 0
+  order: 0
 ---
 
 Address to the Emperor Theodosius by Salaminius Hermias Sozomen, and Proposal for an Ecclesiastical History

@@ -2,8 +2,8 @@
 title: "Aristeides and Cato"
 author: "Plutarch"
 params:
- translator: "George Long and Aubrey Stewart"
- order: 26
+  translator: "George Long and Aubrey Stewart"
+  order: 26
 ---
 
 

@@ -2,10 +2,10 @@
 title: "Sulla"
 author: "Plutarch"
 params:
- translator: "George Long and Aubrey Stewart"
- order: 33
- des: "-138"
- def: "-78"
+  translator: "George Long and Aubrey Stewart"
+  order: 33
+  des: "-138"
+  def: "-78"
 ---
 
 

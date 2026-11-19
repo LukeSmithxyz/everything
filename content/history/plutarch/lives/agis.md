@@ -2,10 +2,10 @@
 title: "Agis"
 author: "Plutarch"
 params:
- translator: "George Long and Aubrey Stewart"
- order: 51
- des: "-264"
- def: "-241"
+  translator: "George Long and Aubrey Stewart"
+  order: 51
+  des: "-264"
+  def: "-241"
 ---
 
 

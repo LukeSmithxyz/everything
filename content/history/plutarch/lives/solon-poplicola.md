@@ -2,8 +2,8 @@
 title: "Solon and Poplicola"
 author: "Plutarch"
 params:
- translator: "George Long and Aubrey Stewart"
- order: 9
+  translator: "George Long and Aubrey Stewart"
+  order: 9
 ---
 
 

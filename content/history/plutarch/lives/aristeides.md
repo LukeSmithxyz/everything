@@ -2,10 +2,10 @@
 title: "Aristeides"
 author: "Plutarch"
 params:
- translator: "George Long and Aubrey Stewart"
- order: 24
- des: "-530"
- def: "-468"
+  translator: "George Long and Aubrey Stewart"
+  order: 24
+  des: "-530"
+  def: "-468"
 ---
 
 

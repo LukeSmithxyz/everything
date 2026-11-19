@@ -2,8 +2,8 @@
 title: "Paulus Aemilius and Timoleon"
 author: "Plutarch"
 params:
- translator: "George Long and Aubrey Stewart"
- order: 20
+  translator: "George Long and Aubrey Stewart"
+  order: 20
 ---
 
 

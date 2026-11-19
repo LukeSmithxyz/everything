@@ -2,8 +2,8 @@
 title: "On the Situation, Manners and Inhabitants of Germany"
 author: "Tacitus"
 params:
- da: 98
- translator: "Edward Brooks, Jr."
+  da: 98
+  translator: "Edward Brooks, Jr."
 ---
 
 ¶ 1. Germany[^2] is separated from Gaul, Rhaetia,[^3] and Pannonia,[^4] by

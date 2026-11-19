@@ -2,8 +2,8 @@
 title: "Numa"
 author: "Plutarch"
 params:
- translator: "George Long and Aubrey Stewart"
- order: 5
+  translator: "George Long and Aubrey Stewart"
+  order: 5
 ---
 
 

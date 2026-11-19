@@ -2,10 +2,10 @@
 title: "Caius Marius"
 author: "Plutarch"
 params:
- translator: "George Long and Aubrey Stewart"
- order: 31
- des: "-155"
- def: "-86"
+  translator: "George Long and Aubrey Stewart"
+  order: 31
+  des: "-155"
+  def: "-86"
 ---
 
 

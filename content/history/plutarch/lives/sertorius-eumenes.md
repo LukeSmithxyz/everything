@@ -2,8 +2,8 @@
 title: "Sertorius and Eumenes"
 author: "Plutarch"
 params:
- translator: "George Long and Aubrey Stewart"
- order: 43
+  translator: "George Long and Aubrey Stewart"
+  order: 43
 ---
 
 

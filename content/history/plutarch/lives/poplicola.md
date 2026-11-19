@@ -2,9 +2,9 @@
 title: "Poplicola"
 author: "Plutarch"
 params:
- translator: "George Long and Aubrey Stewart"
- order: 8
- de: "-500"
+  translator: "George Long and Aubrey Stewart"
+  order: 8
+  de: "-500"
 ---
 
 

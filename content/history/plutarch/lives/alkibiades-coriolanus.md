@@ -2,8 +2,8 @@
 title: "Alkibiades and Coriolanus"
 author: "Plutarch"
 params:
- translator: "George Long and Aubrey Stewart"
- order: 17
+  translator: "George Long and Aubrey Stewart"
+  order: 17
 ---
 
 

@@ -2,8 +2,8 @@
 title: "Kimon and Lucullus"
 author: "Plutarch"
 params:
- translator: "George Long and Aubrey Stewart"
- order: 37
+  translator: "George Long and Aubrey Stewart"
+  order: 37
 ---
 
 

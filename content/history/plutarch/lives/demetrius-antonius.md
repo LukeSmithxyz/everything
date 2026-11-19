@@ -2,8 +2,8 @@
 title: "Demetrius and antonius"
 author: "Plutarch"
 params:
- translator: "George Long and Aubrey Stewart"
- order: 61
+  translator: "George Long and Aubrey Stewart"
+  order: 61
 ---
 
 

@@ -2,8 +2,8 @@
 title: "Dion and brutus"
 author: "Plutarch"
 params:
- translator: "George Long and Aubrey Stewart"
- order: 64
+  translator: "George Long and Aubrey Stewart"
+  order: 64
 ---
 
 

@@ -2,10 +2,10 @@
 title: "Lysander"
 author: "Plutarch"
 params:
- translator: "George Long and Aubrey Stewart"
- order: 32
- des: "-445"
- def: "-395"
+  translator: "George Long and Aubrey Stewart"
+  order: 32
+  des: "-445"
+  def: "-395"
 ---
 
 

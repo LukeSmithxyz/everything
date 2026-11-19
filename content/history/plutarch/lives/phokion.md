@@ -2,10 +2,10 @@
 title: "Phokion"
 author: "Plutarch"
 params:
- translator: "George Long and Aubrey Stewart"
- order: 49
- des: "-402"
- def: "-317"
+  translator: "George Long and Aubrey Stewart"
+  order: 49
+  des: "-402"
+  def: "-317"
 ---
 
 I. The orator Demades, who became one of the chief men in Athens by

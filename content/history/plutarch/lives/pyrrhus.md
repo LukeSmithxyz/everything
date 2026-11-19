@@ -2,10 +2,10 @@
 title: "Pyrrhus"
 author: "Plutarch"
 params:
- translator: "George Long and Aubrey Stewart"
- order: 30
- des: "-365"
- def: "-272"
+  translator: "George Long and Aubrey Stewart"
+  order: 30
+  des: "-365"
+  def: "-272"
 ---
 
 

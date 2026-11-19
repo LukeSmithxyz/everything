@@ -3,10 +3,10 @@ worktitle: "Histories"
 title: "The End of the German Revolt"
 author: "Tacitus"
 params:
- da: 105
- translator: "W. Hamilton Fyfe"
- dt: 1912
- order: 6
+  da: 105
+  translator: "W. Hamilton Fyfe"
+  dt: 1912
+  order: 6
 ---
 
 After the severe reverse at Trier[518] Civilis recruited his army       14

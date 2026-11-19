@@ -2,10 +2,10 @@
 title: "Lucullus"
 author: "Plutarch"
 params:
- translator: "George Long and Aubrey Stewart"
- order: 36
- des: "-110"
- def: "-56"
+  translator: "George Long and Aubrey Stewart"
+  order: 36
+  des: "-110"
+  def: "-56"
 ---
 
 

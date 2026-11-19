@@ -2,8 +2,8 @@
 title: "Perikles and Fabius Maximus"
 author: "Plutarch"
 params:
- translator: "George Long and Aubrey Stewart"
- order: 14
+  translator: "George Long and Aubrey Stewart"
+  order: 14
 ---
 
 

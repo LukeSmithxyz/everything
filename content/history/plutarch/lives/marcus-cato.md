@@ -2,10 +2,10 @@
 title: "Marcus Cato"
 author: "Plutarch"
 params:
- translator: "George Long and Aubrey Stewart"
- order: 25
- des: "-234"
- def: "-149"
+  translator: "George Long and Aubrey Stewart"
+  order: 25
+  des: "-234"
+  def: "-149"
 ---
 
 

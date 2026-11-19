@@ -2,10 +2,10 @@
 title: "Tiberius Gracchus"
 author: "Plutarch"
 params:
- translator: "George Long and Aubrey Stewart"
- order: 53
- des: "-163"
- def: "-133"
+  translator: "George Long and Aubrey Stewart"
+  order: 53
+  des: "-163"
+  def: "-133"
 ---
 
 

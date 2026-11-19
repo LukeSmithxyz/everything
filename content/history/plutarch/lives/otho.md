@@ -2,10 +2,10 @@
 title: "Otho"
 author: "Plutarch"
 params:
- translator: "George Long and Aubrey Stewart"
- order: 68
- des: "32"
- def: "69"
+  translator: "George Long and Aubrey Stewart"
+  order: 68
+  des: "32"
+  def: "69"
 ---
 
 

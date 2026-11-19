@@ -2,10 +2,10 @@
 title: "Galba"
 author: "Plutarch"
 params:
- translator: "George Long and Aubrey Stewart"
- order: 67
- des: "-5"
- def: "69"
+  translator: "George Long and Aubrey Stewart"
+  order: 67
+  des: "-5"
+  def: "69"
 ---
 
 

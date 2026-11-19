@@ -2,10 +2,10 @@
 title: "Aratus"
 author: "Plutarch"
 params:
- translator: "George Long and Aubrey Stewart"
- order: 66
- des: "-271"
- def: "-213"
+  translator: "George Long and Aubrey Stewart"
+  order: 66
+  des: "-271"
+  def: "-213"
 ---
 
 

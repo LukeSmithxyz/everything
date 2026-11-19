@@ -2,8 +2,8 @@
 title: "Theseus and Romulus"
 author: "Plutarch"
 params:
- translator: "George Long and Aubrey Stewart"
- order: 3
+  translator: "George Long and Aubrey Stewart"
+  order: 3
 ---
 
 

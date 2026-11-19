@@ -2,8 +2,8 @@
 title: "Tiberius and Caius Gracchus with Agis and Kleomenes"
 author: "Plutarch"
 params:
- translator: "George Long and Aubrey Stewart"
- order: 55
+  translator: "George Long and Aubrey Stewart"
+  order: 55
 ---
 
 

@@ -2,8 +2,8 @@
 title: "Demosthenes and Cicero"
 author: "Plutarch"
 params:
- translator: "George Long and Aubrey Stewart"
- order: 58
+  translator: "George Long and Aubrey Stewart"
+  order: 58
 ---
 
 

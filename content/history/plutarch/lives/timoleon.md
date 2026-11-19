@@ -2,10 +2,10 @@
 title: "Timoleon"
 author: "Plutarch"
 params:
- translator: "George Long and Aubrey Stewart"
- order: 18
- des: "-411"
- def: "-337"
+  translator: "George Long and Aubrey Stewart"
+  order: 18
+  des: "-411"
+  def: "-337"
 ---
 
 

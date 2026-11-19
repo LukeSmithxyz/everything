@@ -2,8 +2,8 @@
 title: "Lysander and Sulla"
 author: "Plutarch"
 params:
- translator: "George Long and Aubrey Stewart"
- order: 34
+  translator: "George Long and Aubrey Stewart"
+  order: 34
 ---
 
 

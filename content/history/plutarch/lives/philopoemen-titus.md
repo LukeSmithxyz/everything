@@ -2,8 +2,8 @@
 title: "Philopœmen and Titus"
 author: "Plutarch"
 params:
- translator: "George Long and Aubrey Stewart"
- order: 29
+  translator: "George Long and Aubrey Stewart"
+  order: 29
 ---
 
 

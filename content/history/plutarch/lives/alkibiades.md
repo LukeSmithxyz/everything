@@ -2,10 +2,10 @@
 title: "Alkibiades"
 author: "Plutarch"
 params:
- translator: "George Long and Aubrey Stewart"
- order: 15
- des: "-450"
- def: "-404"
+  translator: "George Long and Aubrey Stewart"
+  order: 15
+  des: "-450"
+  def: "-404"
 ---
 
 

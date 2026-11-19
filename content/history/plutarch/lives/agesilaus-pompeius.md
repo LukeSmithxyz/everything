@@ -2,8 +2,8 @@
 title: "Agesilaus and Pompeius"
 author: "Plutarch"
 params:
- translator: "George Long and Aubrey Stewart"
- order: 46
+  translator: "George Long and Aubrey Stewart"
+  order: 46
 ---
 
 

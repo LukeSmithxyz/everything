@@ -2,8 +2,8 @@
 title: "Romulus"
 author: "Plutarch"
 params:
- translator: "George Long and Aubrey Stewart"
- order: 2
+  translator: "George Long and Aubrey Stewart"
+  order: 2
 ---
 
 

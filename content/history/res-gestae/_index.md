@@ -2,10 +2,10 @@
 title: "Res Gestae"
 author: "Ammianus Marcellinus"
 params:
- translator: "C. D. Yonge"
- dt: 1911
- des: 353
- def: 378
+  translator: "C. D. Yonge"
+  dt: 1911
+  des: 353
+  def: 378
 ---
 
 

@@ -2,8 +2,8 @@
 title: "Theseus"
 author: "Plutarch"
 params:
- translator: "George Long and Aubrey Stewart"
- order: 1
+  translator: "George Long and Aubrey Stewart"
+  order: 1
 ---
 
 

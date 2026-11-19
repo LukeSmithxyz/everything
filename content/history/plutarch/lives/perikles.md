@@ -2,10 +2,10 @@
 title: "Perikles"
 author: "Plutarch"
 params:
- translator: "George Long and Aubrey Stewart"
- order: 12
- des: "-490"
- def: "-429"
+  translator: "George Long and Aubrey Stewart"
+  order: 12
+  des: "-490"
+  def: "-429"
 ---
 
 

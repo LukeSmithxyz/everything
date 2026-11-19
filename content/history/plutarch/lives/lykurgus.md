@@ -2,8 +2,8 @@
 title: "Lykurgus"
 author: "Plutarch"
 params:
- translator: "George Long and Aubrey Stewart"
- order: 4
+  translator: "George Long and Aubrey Stewart"
+  order: 4
 ---
 
 

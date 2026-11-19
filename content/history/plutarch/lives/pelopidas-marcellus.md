@@ -2,8 +2,8 @@
 title: "Pelopidas with Marcellus"
 author: "Plutarch"
 params:
- translator: "George Long and Aubrey Stewart"
- order: 23
+  translator: "George Long and Aubrey Stewart"
+  order: 23
 ---
 
 

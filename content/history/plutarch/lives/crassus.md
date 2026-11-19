@@ -2,10 +2,10 @@
 title: "Crassus"
 author: "Plutarch"
 params:
- translator: "George Long and Aubrey Stewart"
- order: 39
- des: "-115"
- def: "-53"
+  translator: "George Long and Aubrey Stewart"
+  order: 39
+  des: "-115"
+  def: "-53"
 ---
 
 

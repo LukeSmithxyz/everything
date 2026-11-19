@@ -2,10 +2,10 @@
 title: "Cicero"
 author: "Plutarch"
 params:
- translator: "George Long and Aubrey Stewart"
- order: 57
- des: "-106"
- def: "-43"
+  translator: "George Long and Aubrey Stewart"
+  order: 57
+  des: "-106"
+  def: "-43"
 ---
 
 

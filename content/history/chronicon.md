@@ -2,10 +2,10 @@
 title: "Chronicon"
 author: "St. Isidore of Seville"
 params:
- translator: "Kenneth B. Wolf"
- da: "616"
- des: "-5198"
- def: "616"
+  translator: "Kenneth B. Wolf"
+  da: "616"
+  des: "-5198"
+  def: "616"
 ---
 
 

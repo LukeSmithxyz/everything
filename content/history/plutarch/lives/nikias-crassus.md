@@ -2,8 +2,8 @@
 title: "Nikias and Crassus"
 author: "Plutarch"
 params:
- translator: "George Long and Aubrey Stewart"
- order: 40
+  translator: "George Long and Aubrey Stewart"
+  order: 40
 ---
 
 

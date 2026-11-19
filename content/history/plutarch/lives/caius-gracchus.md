@@ -2,8 +2,8 @@
 title: "Caius Gracchus"
 author: "Plutarch"
 params:
- translator: "George Long and Aubrey Stewart"
- order: 54
+  translator: "George Long and Aubrey Stewart"
+  order: 54
 ---
 
 

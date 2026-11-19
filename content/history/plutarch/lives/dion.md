@@ -2,10 +2,10 @@
 title: "Dion"
 author: "Plutarch"
 params:
- translator: "George Long and Aubrey Stewart"
- order: 62
- des: "-408"
- def: "-353"
+  translator: "George Long and Aubrey Stewart"
+  order: 62
+  des: "-408"
+  def: "-353"
 ---
 
 
