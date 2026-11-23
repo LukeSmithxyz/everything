@@ -2,10 +2,9 @@
 title: "Monastic"
 worktitle: "The General Menaion"
 ---
-THE GENERAL VIGIL SERVICE TO A MONK MONASTIC.
+<style>blockquote { color: darkred; font-style: italic;} em { color: darkred ;}</style>
 
 > On “Lord, I have cried ...,” these Stichera, in Tone VIII:
-
 > Spec. Mel.: “The martyrs of the Lord ...”:
 
 A holy, precious, divine and luminous lamp / is not to be left hidden under the
@@ -30,7 +29,7 @@ What, then, shall I do? / How shall I meet the Judge? / O Virgin Sovereign Lady,
 entreat the Lord, thy Son and Creator, / that He accept my soul in repentance, // in
 that He alone is compassionate.
 
-Stavrotheotokion: The unblemished ewe-lamb / upon beholding her lamb
+*Stavrotheotokion:* The unblemished ewe-lamb / upon beholding her lamb
 voluntarily nailed upon the tree, / lamented with maternal tenderness: / “Woe is me,
 O my most beloved child! / What is this that the ungrateful Jews have done to Thee,
 // wishing to deprive me of Thee, O most beloved one.”
@@ -63,13 +62,13 @@ Otherwise, Theotokion: O Theotokos, thou art the true vine / that hast budded
 forth for us the Fruit of life. / Thee do we entreat: / Pray thou, O Lady, with the holy
 apostles, // that He have mercy upon our souls.
 
-Stavrotheotokion: Upon seeing Thee crucified, O Christ, / she who gaveth birth
+*Stavrotheotokion:* Upon seeing Thee crucified, O Christ, / she who gaveth birth
 unto Thee cried aloud: / “What is this strange mystery that I see, / O my Son How is
 it that Thou diest?, / suspended upon the Tree, // O Bestower of life?”
 
 > The Entrance. The Prokeimenon of the day. The Three Lessons, if appointed:
 
-# THE READING FROM THE WISDOM OF SOLOMON
+## THE READING FROM THE WISDOM OF SOLOMON
 
 The souls of the righteous are in the hands of God, and there shall no torment
 touch them. In the sight of the unwise they seemed to die, and their departure is
@@ -84,7 +83,7 @@ for ever. They that put their trust in Him shall understand the truth; and such 
 faithful in love shall abide with Him; for grace and mercy is to His saints and
 visitation for His elect.
 
-# A READING FROM THE WISDOM OF SOLOMON
+## A READING FROM THE WISDOM OF SOLOMON
 
 The righteous live for evermore; their reward also is with the Lord, and the care of
 them is with the Most High. Therefore shall they receive a glorious kingdom, and a
@@ -103,7 +102,7 @@ learn, ye that be judges of the ends of the earth. Give ear, ye that rule the pe
 glory in the multitude of nations. For power is given you by the Lord, and sovereignty
 from the Most High.
 
-# A READING FROM THE WISDOM OF SOLOMON
+## A READING FROM THE WISDOM OF SOLOMON
 
 Though the righteous be prevented with death, yet shall he be in rest. For
 honorable age is not that which standeth in length of time, nor that is measured by
@@ -118,7 +117,6 @@ This the people saw, and understood not, neither laid they up this in their mind
 His grace and mercy is with His saints, and that He hath respect unto His chosen.
 
 > On the Aposticha, these Stichera, in Tone I:
-
 > Spec. Mel.: “Joy of the ranks of heaven ...”:
 
 Thy feast, O God-bearer, / hath arrived brighter than the sun; / illumining those
@@ -126,13 +124,14 @@ who in faith have recourse unto thee, / filling them with the sweet fragrance of
 immortality / and radiating effulgent healing upon their souls, // O holy Father,
 fervent intercessor for our souls.
 
-Verse: Precious in the sight of the Lord / is the death of His saints.
+*Verse:* Precious in the sight of the Lord / is the death of His saints.
 Through the struggles of abstinence / thou didst obtain victory over the sensual
 passions of the body, / and exhibiting a zeal here on earth like that of the bodiless
 ones in heaven, / thou didst subdue the desires of the flesh / making them serve the
 needs of the spirit, / O wonder-worker, (name); / wherefore now, as a dweller in the
 heavenly habitations, // do thou ever intercede on behalf of our souls.
-Verse: Blessed is the man that feareth the Lord, / in His commandments shall
+
+*Verse:* Blessed is the man that feareth the Lord, / in His commandments shall
 he greatly delight.
 
 O blessed (name)! / laying within thyself the foundation of the virtues, / thou
@@ -190,7 +189,6 @@ with the angels thy spirit doth rejoice, O venerable (name). (Twice)
 > Glory ..., Both now ..., Theotokion or Stavrotheotokion:
 
 > After the 1st chanting of the Psalter, the Sessional Hymn, in Tone IV:
-
 > Spec. Mel.: “Go thou quickly before ...”:
 
 Heeding the call of thy Lord / thou, O all-blessed (name), didst follow Him, /
@@ -207,7 +205,6 @@ all from death to a life of incorruption. / Wherefore, as is meet we all bless t
 exceedingly glorious Virgin, as thou didst foretell.
 
 > After the 2nd chanting of the Psalter, the Sessional Hymn: in Tone V:
-
 > Spec. Mel.: “The co-beginningless Word ...”:
 
 Let us honor with hymns the ascetic of the Lord / as one who, through true
@@ -226,11 +223,10 @@ After the Polyeleos, the Megalynarion: We bless thee, O Venerable Father
 (name), and we honor thy holy memory, instructor of monks, and converser
 with the angels.
 
-Verse: With patience I waited patiently for the Lord, and He was attentive
+*Verse:* With patience I waited patiently for the Lord, and He was attentive
 unto me, and He hearkened unto my supplication.
 
 > After the Polyeleos, the Sessional Hymn, in Tone I:
-
 > Spec. Mel.: “Thy tomb, O Savior ...”:
 
 O sacred Father, by mortifying thy flesh, / thou hast subdued the uprisings of the
@@ -265,12 +261,12 @@ In the Holy Spirit, / every soul is quickened, / and, through cleansing, is exal
 The Prokeimenon: Precious in the sight of the Lord / is the death of His
 saints.
 
-Verse: What shall I render unto the Lord for all that he hath rendered unto
+*Verse:* What shall I render unto the Lord for all that he hath rendered unto
 me?
 
 Let every breath ...,
 
-# THE GOSPEL ACCORDING TO ST. MATTHEW (11, 27-30)
+## THE GOSPEL ACCORDING TO ST. MATTHEW (11, 27-30)
 
 All things are delivered unto me of my Father: and no man knoweth the Son, but
 the Father; neither knoweth any man the Father, save the Son, and (he) to
@@ -350,7 +346,6 @@ wondrous father, wast granted the gift of miracles, driving away diseases.
 womb, O all-immaculate one, unto the profit of those who with faith hymn thee.
 
 > The Sessional Hymn, in Tone IV:
-
 > Spec. Mel.: “Go thou quickly before ...”:
 
 Vanquishing the fleshly subtlety of the passions through fasting, / thou didst
@@ -365,7 +360,8 @@ O Virgin Theotokos, / thou art an invincible wall for all Orthodox Christians. /
 For having recourse unto thee we remain unharmed / and in thee we have a sure
 intercessor for the forgiveness of our sins; / wherefore rendering thanks unto thee,
 we cry aloud! // Rejoice, O thou who art full of grace, the Lord is with thee.
-Stavrotheotokion: O most immaculate Virgin, / Mother of Christ God, / a sword
+
+*Stavrotheotokion:* O most immaculate Virgin, / Mother of Christ God, / a sword
 pierced thy most holy soul / when thou didst behold thy Son and God / crucified of
 His own will. / Him do thou never cease to entreat, O blessed one, // that He grant
 us the forgiveness of our transgressions.
@@ -430,13 +426,13 @@ generation we call thee blessed.
 The Kontakion from the Typicon; but if there be none, chant the following:
 
 > Kontakion of the venerable one, in Tone II:
-
 > Spec. Mel.: “Seeking the highest ...”:
 
 Having divinely armed thyself with purity of soul / and unceasing prayer, / thou
 didst valiantly slay legions of demons / as with a mighty sword, / wherefore we
 beseech thee O Father (name), / ever intercede for those // who honor thee.
-Ikos: Having conceived within thyself a loving attachment to the divine
+
+*Ikos:* Having conceived within thyself a loving attachment to the divine
 commandments of Christ, and a hatred for the delights of this world, with diligence
 thou didst achieve thy God-pleasing goals, like a divine lamp enlightening the ends of
 the world with spiritual radiance. Wherefore falling down before thee I implore thee:
@@ -513,7 +509,6 @@ transgressions and the multitude of worldly distractions, and never leave me to 
 enemies, that I may glorify and with love hymn thee, O all-hymned one.
 
 > Exapostilarion in Tone II:
-
 > Spec. Mel.: “Hearken, O ye women ...”:
 
 Like the palms of David, O Father, / Thou hast flourished and been revealed as
@@ -564,7 +559,7 @@ thoughts, O our father (name).
 All of my hope do I place on thee, / O Mother of God; // keep me under thy
 protection.
 
-Stavrotheotokion: Upon beholding the Creator of all things / enduring great
+*Stavrotheotokion:* Upon beholding the Creator of all things / enduring great
 injustice and lifted up upon the Cross, / the all-pure one groaned, saying: / “O allhymned Lord, my Son and God, / how is it that, desiring to honor Thy creation, /
 Thou dost endure dishonor in the flesh? / Glory to Thy great compassion and Thy
 condescension, // O Lover of mankind!”
@@ -645,12 +640,12 @@ beseech thee O Father (name), / ever intercede for those // who honor thee.
 Prokeimenon, in Tone VII, (Psalm 115:6,3) Precious in the sight of the Lord /
 is the death of His saints.
 
-Verse: What shall I render unto the Lord for all that He hath rendered unto
+*Verse:* What shall I render unto the Lord for all that He hath rendered unto
 me?
 
-# THE EPISTLE TO THE GALATIONS (5: 22, 6:1-2)
+## THE EPISTLE TO THE GALATIONS (5: 22, 6:1-2)
 
-Brethren: the fruit of the Spirit is love, joy, peace, long-suffering, gentleness,
+*Brethren:* the fruit of the Spirit is love, joy, peace, long-suffering, gentleness,
 goodness, faith, meekness, temperance: against such there is no law. And they that are
 Christ’s have crucified the flesh with the affections and lusts. If we live in the Spirit,
 let us also walk in the Spirit. Let us not be desirous of vainglory, provoking one
@@ -660,10 +655,10 @@ also be tempted. Bear ye one another’s burdens, and so fulfil the law of Chris
 Alleluia, in Tone VI, (Psalm 111: 1, 2) Blessed is the man that feareth the
 Lord, in His commandments shall he greatly delight.
 
-Verse: His seed shall be mighty upon the earth; the generation of the upright
+*Verse:* His seed shall be mighty upon the earth; the generation of the upright
 shall be blessed.
 
-# THE GOSPEL ACCORDING TO ST. LUKE (6:17-23)
+## THE GOSPEL ACCORDING TO ST. LUKE (6:17-23)
 
 At that time, Jesus: came down with them, and stood in the plain, and the
 company of his disciples, and a great multitude of people out of all Judaea and

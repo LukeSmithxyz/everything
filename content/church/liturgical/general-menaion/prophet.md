@@ -2,10 +2,9 @@
 title: "Prophet"
 worktitle: "The General Menaion"
 ---
-THE GENERAL VIGIL SERVICE TO A PROPHET.
+<style>blockquote { color: darkred; font-style: italic;} em { color: darkred ;}</style>
 
 > On “Lord, I have cried ...,” these Stichera, in Tone IV:
-
 > Spec. Mel.: “Called from above ...”:
 
 Having received, in the purity of thy mind, / inspiration from the effulgent and
@@ -36,7 +35,7 @@ bestowing upon me thy most compassionate consolation. / Thee do I beseech, / and
 to thee do I pray; / and I fall down and cry out to thee with faith: / Let me not utterly
 become // a joy to the deceiver!
 
-Stavrotheotokion: “Lament not for Me, O Mother, / beholding Me thy Son and
+*Stavrotheotokion:* “Lament not for Me, O Mother, / beholding Me thy Son and
 God hanging upon the Tree, / Who hath suspended the earth upon the waters
 unsupported, / and hath fashioned all creation; / for I shall arise and be glorified, /
 and shall crush the kingdoms of Hades with strength; / destroying its power / and
@@ -67,13 +66,13 @@ forth unto us Christ the Savior of all, / the Bestower of life and God! / With t
 arm O Lady / cast down the tyrants, our godless foes, / O most pure one, // O thou
 hope of Christians!
 
-Stavrotheotokion: Upon seeing Thee crucified, O Christ, / she who gaveth birth
+*Stavrotheotokion:* Upon seeing Thee crucified, O Christ, / she who gaveth birth
 to Thee cried aloud: / “What is this strange mystery that I see, / O my Son How is it
 that Thou diest?, / suspended upon the Tree, // O Bestower of life?”
 
 > The Entrance. The Prokeimenon of the day. The Three Lessons, if appointed.
 
-# A READING FROM THE WISDOM OF SOLOMON
+## A READING FROM THE WISDOM OF SOLOMON
 
 The souls of the righteous are in the hands of God, and there shall no torment
 touch them. In the sight of the unwise they seemed to die, and their departure is
@@ -88,7 +87,7 @@ for ever. They that put their trust in Him shall understand the truth; and such 
 faithful in love shall abide with Him; for grace and mercy is to His saints and
 visitation for His elect.
 
-# A READING FROM THE WISDOM OF SOLOMON
+## A READING FROM THE WISDOM OF SOLOMON
 
 The righteous live unto the ages; their reward is also with the Lord, and the care
 of them is with the most High. Therefore shall they receive a glorious kingdom and a
@@ -107,7 +106,7 @@ kings, and understand; learn ye that be judges of the ends of the earth. Give ea
 that rule the people and glory in the multitude of nations, for power is given you of
 the Lord and sovereignty from the Highest.
 
-# A READING FROM THE WISDOM OF SOLOMON
+## A READING FROM THE WISDOM OF SOLOMON
 
 The righteous man if he happen to die early shall be at rest, and the dying
 righteous man shall bring judgment unto the wicked living, for they will see the end
@@ -128,7 +127,6 @@ and perdition, and walked in the unpassable paths, but did not comprehend God’
 ways.
 
 > On the Aposticha, these Stichera, in Tone II:
-
 > Spec. Mel.: “When from the tree ...”:
 
 Having found the purity of thy mind, / O prophet (name), / to be manifestly like
@@ -137,13 +135,14 @@ of the knowledge of God, / enlightening us with knowledge of the divine mysterie
 and of the grace that was to be bestowed / upon all mankind, // O most wondrous
 one.
 
-Verse: Thou art a priest for ever, / after the order of Melchisedek.
+*Verse:* Thou art a priest for ever, / after the order of Melchisedek.
 
 Being the mouth of God, / thou hast openly reproved evil-doers, / sentencing
 them to their inevitable judgment, / O most noetically rich (name), / while following
 the righteous teachings of God’s decrees; / wherefore beholding the fulfillment / of
 thy most wise declarations, / we worthily praise thee in hymns, // O blessed one.
-Verse: Moses and Aaron among His priests, / and Samuel among them that
+
+*Verse:* Moses and Aaron among His priests, / and Samuel among them that
 call upon His name
 
 Standing before the throne of the Master, / satiated with the ineffable and divine
@@ -170,7 +169,8 @@ servants, and beseech Him that our souls be saved.
 Otherwise, Theotokion: Joy of the ranks of heaven, / and mighty intercession for
 mankind on earth, / O most-pure Virgin: / save us who have recourse unto thee, /
 for in thee, after God, have we placed our hope, // O Theotokos.
-Stavrotheotokion: “A sword hath pierced me, O my Son,” / said the Virgin upon
+
+*Stavrotheotokion:* “A sword hath pierced me, O my Son,” / said the Virgin upon
 seeing Christ hung upon the Tree, / “my heart hath been rent O Lord, / as Simeon
 once foretold to me. / But arise, I pray Thee, O immortal One, // and glorify Thy
 Mother and handmaiden.”
@@ -196,7 +196,6 @@ entreat Thee: // Save Thou our souls! (Twice)
 > Glory ..., Both now ..., Theotokion or Stavrotheotokion.
 
 > After the 1st chanting of the Psalter, the Sessional Hymn: in Tone III:
-
 > Spec. Mel.: “Awed by the beauty of thy virginity ...”:
 
 Enlightened by the divine Spirit, / thou didst prophesy concerning the
@@ -212,7 +211,6 @@ Uncircumscribed One / clothed in flesh from thy most pure blood; / ever entreat
 Him O pure one, as thy Son, // that our souls be saved.
 
 > After the 2nd chanting of the Psalter, the Sessional Hymn: in Tone VI:
-
 > Spec. Mel.: “Of the divine faith ...”:
 
 As a divine instrument of the Comforter, / ever manifestly prompted by His
@@ -230,11 +228,10 @@ After the Polyeleos, the Megalynarion: We magnify thee, O prophet of God
 (name), and honor thy holy memory, for thou dost pray for us unto Christ our
 God.
 
-Verse: Blessed is the man that feareth the Lord, in His commandments shall
+*Verse:* Blessed is the man that feareth the Lord, in His commandments shall
 he greatly delight.
 
 > After the Polyeleos the Sessional Hymn, in Tone VI:
-
 > Spec. Mel.: “The gates of compassion ...”:
 
 Having cleared thy mind from all corruption / O all-wise one, / transforming it
@@ -267,12 +264,13 @@ In the Holy Spirit, / every soul is quickened, / and, through cleansing, is exal
 > Prokeimenon, in Tone IV:
 
 The Prokeimenon: Thou art a priest for ever / after the order of Melchisedek.
-Verse: The Lord said unto my Lord: Sit Thou at My right hand, until I make
+
+*Verse:* The Lord said unto my Lord: Sit Thou at My right hand, until I make
 Thine enemies the footstool of Thy feet.
 
 Let every breath.
 
-# THE GOSPEL ACCORDING TO ST. MATTHEW (23, 29-39).
+## THE GOSPEL ACCORDING TO ST. MATTHEW (23, 29-39).
 
 Jesus spake unto the Jews that had come to Him saying: Woe unto you, scribes
 and Pharisees, hypocrites! because ye build the tombs of the prophets, and garnish
@@ -355,7 +353,6 @@ supra-naturally brought forth in the flesh, and in time, the pre-eternal Word an
 remained a Virgin.
 
 > The Sessional Hymn, in Tone VI:
-
 > Spec. Mel.: “The gates of compassion ...”:
 
 Having cleared thy mind from all corruption / O all-wise one, / transforming it
@@ -370,7 +367,7 @@ Theotokos, / who is exceedingly holier than the holy angels, / confessing her to
 the Mother of God, / since she hath truly borne God incarnate // and unceasingly
 intercedes for our souls.
 
-Stavrotheotokion: O come, let us all hymn the One Who was crucified for us, /
+*Stavrotheotokion:* O come, let us all hymn the One Who was crucified for us, /
 Whom Mary beheld on the tree and lamented: / “Even though Thou dost suffer
 crucifixion, // Thou art my Son and my God.”
 
@@ -436,13 +433,13 @@ and preserving thy virginity pure and unharmed, O all-hymned one.
 The Kontakion from the Typicon; but if there be none, chant the following:
 
 > Kontakion of the prophet, in Tone IV:
-
 > Spec. Mel.: “Thou hast appeared today ...”:
 
 Thy pure heart, enlightened by the Spirit, / became the dwelling place of most
 splendid prophecy; / for thou dist behold things afar off / as though they were near. /
 Wherefore, we honor thee, // O blessed and glorious prophet (name).
-Ikos: Adorned with the grace of prophesy, comprehending things to come, O
+
+*Ikos:* Adorned with the grace of prophesy, comprehending things to come, O
 most noetically rich (name), Thou wast taught of the Spirit in a godly manner,
 foretelling the coming of Christ and the fruitful calling of the Gentiles; wherefore we
 celebrate thine honored memory and with love hymn thee, glorifying thee in faith and
@@ -524,7 +521,6 @@ pollution of my soul, / and grant, O maiden, that I may unceasingly pour forth t
 // which wither the streams of my passions.
 
 > On the Praises, these Stichera, in Tone VIII:
-
 > Spec. Mel.: “O most glorious wonder ...”:
 
 The divine Spirit hath been poured out / upon us the faithful, / as thou, O
@@ -556,7 +552,7 @@ Deliver us from our needs, / O Mother of Christ God, / thou who hast given
 birth to the Creator of all, / that we all may cry out to thee: // Rejoice, O thou who
 alone art the intercessor for our souls!
 
-Stavrotheotokion: O most immaculate Virgin, / Mother of Christ God, / a sword
+*Stavrotheotokion:* O most immaculate Virgin, / Mother of Christ God, / a sword
 pierced thy most holy soul / when thou didst behold thy Son and God / crucified of
 His own will. / Him do thou never cease to entreat, O blessed one, // that He grant
 us the forgiveness of our transgressions.
@@ -623,12 +619,13 @@ Wherefore, we honor thee, // O blessed and glorious prophet (name).
 > Prokeimenon, in Tone IV:
 
 The Prokeimenon: Thou art a priest for ever / after the order of Melchisedek.
-Verse: The Lord said unto my Lord: Sit Thou at My right hand, until I make
+
+*Verse:* The Lord said unto my Lord: Sit Thou at My right hand, until I make
 Thine enemies the footstool of Thy feet.
 
-THE FIRST EPISTLE TO THE CORINTHIANS (14:20-25)
+## THE FIRST EPISTLE TO THE CORINTHIANS (14:20-25)
 
-Brethren: be not children in understanding: howbeit in malice be ye children, but
+*Brethren:* be not children in understanding: howbeit in malice be ye children, but
 in understanding be men. In the law it is written, With men of other tongues and
 other lips will I speak unto this people; and yet for all that will they not hear me, saith
 the Lord. Wherefore tongues are for a sign, not to them that believe, but to them that
@@ -643,10 +640,10 @@ God, and report that God is in you of a truth.
 Alleluia, in Tone V: Moses and Aaron among His priests, and Samuel among
 them that call upon His name.
 
-Verse: A light hath dawned for the righteous man, and gladness for the
+*Verse:* A light hath dawned for the righteous man, and gladness for the
 upright of heart.
 
-# THE GOSPEL ACCORDING TO ST. MATTHEW (23:29-39)
+## THE GOSPEL ACCORDING TO ST. MATTHEW (23:29-39)
 
 The Lord said: Woe unto you, scribes and Pharisees, hypocrites! because ye build
 the tombs of the prophets, and garnish the sepulchres of the righteous, And say, If

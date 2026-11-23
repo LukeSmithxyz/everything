@@ -2,15 +2,9 @@
 title: "Fools"
 worktitle: "The General Menaion"
 ---
-THE GENERAL VIGIL SERVICE TO THE FOOLISH
-
-FOR CHRIST’S SAKE
-
-ANDREW OF CONSTANTINOPLE, ISIDORE OF ROSTOV, MAXIM AND BASIL OF
-MOSCOW, XENIA OF ST. PETERSBURG, & OTHERS
+<style>blockquote { color: darkred; font-style: italic;} em { color: darkred ;}</style>
 
 > On “Lord, I have cried ...,” the Stichera, in Tone VIII:
-
 > Spec. Mel.: “O most glorious wonder ...”:
 
 O divinely-wise blessed (name), / Thy pure soul shining with an Orthodox
@@ -53,14 +47,15 @@ Invincible one he shall conquer our adversaries.
 Otherwise, Theotokion: Accepting the entreaty of us / who have recourse to
 thy protection, O most holy Virgin, / cease thou never to make supplication to
 Him / Who is the Lover of mankind, // that He save thy servants.
-Stavrotheotokion: Of old, when thou didst behold thy Son and Master stretching
+
+*Stavrotheotokion:* Of old, when thou didst behold thy Son and Master stretching
 forth His hands upon the Cross, His side pierced by the spear, О pure Mother, thou
 didst cry out, lamenting: “Woe is me! How is it that Thou sufferest, ridding men of
 their suffering, О Lover of mankind?”
 
 > The Entrance. The Prokeimenon of the day. The Three Lessons, if appointed.
 
-# THE READING FROM THE WISDOM OF SOLOMON (3, 1-9).
+## THE READING FROM THE WISDOM OF SOLOMON (3, 1-9).
 
 The souls of the righteous are in the hands of God, and there shall no torment
 touch them. In the sight of the unwise they seemed to die, and their departure is
@@ -75,7 +70,7 @@ for ever. They that put their trust in Him shall understand the truth; and such 
 faithful in love shall abide with Him; for grace and mercy is to His saints and
 visitation for His elect.
 
-# A READING FROM THE WISDOM OF SOLOMON
+## A READING FROM THE WISDOM OF SOLOMON
 
 The righteous live for evermore; their reward also is with the Lord, and the care of
 them is with the Most High. Therefore shall they receive a glorious kingdom, and a
@@ -94,7 +89,7 @@ learn, ye that be judges of the ends of the earth. Give ear, ye that rule the pe
 glory in the multitude of nations. For power is given you by the Lord, and sovereignty
 from the Most High.
 
-# A READING FROM THE WISDOM OF SOLOMON
+## A READING FROM THE WISDOM OF SOLOMON
 
 Though the righteous be prevented with death, yet shall he be in rest. For
 honorable age is not that which standeth in length of time, nor that is measured by
@@ -109,7 +104,6 @@ This the people saw, and understood not, neither laid they up this in their mind
 His grace and mercy is with His saints, and that He hath respect unto His chosen.
 
 > On the Aposticha, the Stichera, in Tone II:
-
 > Spec. Mel.: “O House of Ephratha ...”:
 
 A temple and abode of the Most Holy Spirit / wast thou, O most wise (name); /
@@ -149,7 +143,8 @@ our souls!
 Otherwise, Theotokion: Deliver us from our needs, / O Mother of Christ God, /
 thou who hast given birth to the Creator of all, / that we all may cry out to thee: //
 Rejoice, O thou who alone art the intercessor for our souls!
-Stavrotheotokion: Upon beholding Thee suspended upon the Cross, O Word of
+
+*Stavrotheotokion:* Upon beholding Thee suspended upon the Cross, O Word of
 God, Thy most pure Mother exclaimed, lamenting maternally: “What is this new and
 strange wonder, O my Son? How is it that Thou, the Life of all, hast tasted death,
 desiring to bring life to mortals, in so far as Thou art compassionate?”
@@ -177,7 +172,6 @@ Lord, that our souls be saved. (Twice)
 > Glory ..., Both now ..., Theotokion or Stavrotheotokion:
 
 > After the 1st chanting of the Psalter, the Sessional Hymn, in Tone V:
-
 > Spec. Mel.: “The Co-beginningless Word ...”:
 
 Let us honor with hymns the God-bearing (name), / as a firm and immovable
@@ -193,7 +187,6 @@ thoughts. Thy glory hath spread over all, O Theotokos, unto the salvation of our
 souls.
 
 > After the 2nd chanting of the Psalter, the Sessional Hymn, in Tone IV:
-
 > Spec. Mel.: “Go thou quickly before ...”:
 
 By fasting and abstinence / and lying on the bare ground / thou hast withered the
@@ -214,11 +207,10 @@ After the Polyeleos, the Megalynarion: We bless thee, O holy and righteous
 (name), and honor thy holy memory, for thou dost pray for us unto Christ our
 God.
 
-Verse: Blessed is the man that feareth the Lord, in His commandments shall
+*Verse:* Blessed is the man that feareth the Lord, in His commandments shall
 he greatly delight.
 
 > After the Polyeleos, the Sessional Hymn, in Tone IV:
-
 > Spec. Mel.: “Go thou quickly before ...”:
 
 Thou hast appeared wonderful in thine endurance, / pleasing unto Christ in every
@@ -254,12 +246,12 @@ In the Holy Spirit, / every soul is quickened, / and, through cleansing, is exal
 The Prokeimenon: The righteous man shall be glad in the Lord, / and shall
 hope in Him.
 
-Verse: Hearken, O God, unto my prayer, when I make supplication unto
+*Verse:* Hearken, O God, unto my prayer, when I make supplication unto
 Thee.
 
 Let every breath ...,
 
-# THE GOSPEL ACCORDING TO ST. MATTHEW (11, 27-30)
+## THE GOSPEL ACCORDING TO ST. MATTHEW (11, 27-30)
 
 All things are delivered unto me of my Father: and no man knoweth the Son, but
 the Father; neither knoweth any man the Father, save the Son, and he to whomsoever
@@ -334,7 +326,6 @@ Him who hath delivered mankind from the ancient curse, the fruit of disobedience
 unto the cause of all that is.
 
 > The Sessional Hymn, in Tone V:
-
 > Spec. Mel.: “The Co-beginningless Word ...”:
 
 Illumined by divine peace, / thou didst unerringly traverse the paths / leading to
@@ -348,7 +339,7 @@ O most pure Theotokos, / city of Christ God! / deliver from dangers / thy people
 who call upon thee, / and repulse the attacks of the prideful noetic enemies, / that we
 may cry unto thee: / Rejoice, O blessed one!
 
-Stavrotheotokion: Through the Cross of thy Son, / O thou who art full of the
+*Stavrotheotokion:* Through the Cross of thy Son, / O thou who art full of the
 grace of God, / hath the deception of idolatry been utterly vanquished, / and the
 might of the demons hath fallen; / wherefore, we, the faithful, ever hymn and bless
 thee as is meet, // confessing thee to be the true Theotokos.
@@ -512,7 +503,6 @@ Do thou, O Virgin, / who hast given birth to the Hypostatic Wisdom, / the preete
 wounds of my soul, // and assuage the passionate impulses of my heart.
 
 > On the Praises, the Stichera, in Tone IV:
-
 > Spec. Mel.: “Thou hast given a sign ...”:
 
 O supremely good Lord, / Thou hast given us a parable of endurance and
@@ -620,12 +610,12 @@ behalf of us all.
 Prokeimenon, in Tone VII, Precious in the sight of the Lord / is the death of
 His saints.
 
-Verse: What shall I render unto the Lord for all that He hath rendered unto
+*Verse:* What shall I render unto the Lord for all that He hath rendered unto
 me?
 
-# THE EPISTLE TO THE GALATIANS (GAL. 5: 22, 6:1-2)
+## THE EPISTLE TO THE GALATIANS (GAL. 5: 22, 6:1-2)
 
-Brethren: the fruit of the Spirit is love, joy, peace, long-suffering, gentleness,
+*Brethren:* the fruit of the Spirit is love, joy, peace, long-suffering, gentleness,
 goodness, faith, meekness, temperance: against such there is no law. And they that are
 Christ’s have crucified the flesh with the affections and lusts. If we live in the Spirit,
 let us also walk in the Spirit. Let us not be desirous of vainglory, provoking one
@@ -635,10 +625,10 @@ also be tempted. Bear ye one another’s burdens, and so fulfil the law of Chris
 Alleluia, in Tone VI, Blessed is the man that feareth the Lord, in His
 commandments shall he greatly delight.
 
-Verse: His seed shall be mighty upon the earth; the generation of the upright
+*Verse:* His seed shall be mighty upon the earth; the generation of the upright
 shall be blessed.
 
-# THE GOSPEL ACCORDING TO ST. LUKE (6:17-23)
+## THE GOSPEL ACCORDING TO ST. LUKE (6:17-23)
 
 At that time, Jesus: came down with them, and stood in the plain, and the
 company of his disciples, and a great multitude of people out of all Judaea and

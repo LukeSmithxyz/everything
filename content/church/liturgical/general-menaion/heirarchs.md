@@ -2,10 +2,9 @@
 title: "Heirarchs"
 worktitle: "The General Menaion"
 ---
-THE VIGIL SERVICE COMMON TO TWO OR MANY HIERARCHS.
+<style>blockquote { color: darkred; font-style: italic;} em { color: darkred ;}</style>
 
 > On “Lord, I have cried ...,” the Stichera, in Tone IV:
-
 > Spec. Mel.: “As one valiant among the martyrs ...”:
 
 O all-famed hierarchs, / as luminous stars of the spiritual firmament / ye have
@@ -32,7 +31,7 @@ the day of trial / I may receive the justification / which the assemblies of the
 have received; / and before the end show me forth as cleansed through repentance //
 and by the shedding of tears.
 
-Stavrotheotokion: Seeing Christ, the Lover of mankind, / crucified and with His
+*Stavrotheotokion:* Seeing Christ, the Lover of mankind, / crucified and with His
 side pierced with a lance, / the most pure one lamented, crying aloud: / “What is this,
 O my Son ? / What have the ungrateful people rendered unto Thee / in return for all
 the good things Thou hast rendered unto them ?” / And yet thou dost show thy
@@ -59,13 +58,14 @@ Hypostases, / but known in two natures without commingling. / Him do thou
 beseech, O pure and most blessed one, // that our souls find mercy!
 Otherwise, Theotokion: We have come to know God / Who was incarnate of
 thee, / O Virgin Theotokos. // Him do thou entreat for the salvation of our souls.
-Stavrotheotokion: Upon seeing Thee crucified, O Christ, / she who gaveth birth
+
+*Stavrotheotokion:* Upon seeing Thee crucified, O Christ, / she who gaveth birth
 to Thee cried aloud: / “What is this strange mystery that I see, / O my Son How is it
 that Thou diest?, / suspended upon the Tree, // O Bestower of life?”
 
 > The Entrance. The Prokeimenon of the day. The Three Lessons, if appointed:
 
-# THE READING FROM THE BOOK OF PROVERBS (3, 13-16; 8, 6)
+## THE READING FROM THE BOOK OF PROVERBS (3, 13-16; 8, 6)
 
 The memory of the just is praised, and the blessing of the Lord is upon his head.
 Blessed is the man who hath found wisdom, and the mortal who knoweth prudence.
@@ -86,7 +86,7 @@ righteousness; there is nothing in them wrong or perverse. They are all evident 
 those that understand, and right to those that find knowledge. For I will instruct you
 in truth, that your hope may be in the Lord, and ye may be filled with the Spirit.
 
-# THE READING FROM THE BOOK OF PROVERBS (10, 31-32 ; 11, 1-10).
+## THE READING FROM THE BOOK OF PROVERBS (10, 31-32 ; 11, 1-10).
 
 The mouth of the righteous droppeth wisdom: but the tongue of the unjust shall
 perish. The lips of just men drop grace: but the mouth of the ungodly is perverse.
@@ -107,7 +107,7 @@ blessing of the upright a city shall be exalted, but by the mouths of ungodly me
 overthrown. A man void of understanding sneereth at his fellow citizens: but a
 sensible man is quiet.
 
-# THE READING FROM THE WISDOM OF SOLOMON (4, 7-15.)
+## THE READING FROM THE WISDOM OF SOLOMON (4, 7-15.)
 
 Though the righteous man happen to die, yet shall he rest in peace. For honorable
 age is not that which is so for a length of time, nor that which is measured by the
@@ -123,7 +123,6 @@ their hearts, that grace and mercy is with His saints, and that the Lord doth vi
 chosen ones.
 
 > On the Aposticha, these Stichera, in Tone I:
-
 > Spec. Mel.: “O all-praised martyrs ...”:
 
 Let us today worthily praise the divine and God-inspired hierarchs, / wise in the
@@ -131,13 +130,13 @@ Spirit, / spiritual trumpets of God, / divine mirrors, who grant unto us the gol
 streams of their instructions. / Pray unto Christ that He grant our souls peace and
 great mercy.
 
-Verse: Precious in the sight of the Lord / is the death of His saints.
+*Verse:* Precious in the sight of the Lord / is the death of His saints.
 Let us worthily hymn / and in spiritual odes praise the intellectual fonts of the
 divine and holy faith, / the golden-streamed rivers, / the brilliant lights, / the
 champions of the Trinity, / the receptacles of the grace of the Holy Spirit, / the
 immovable pillars and supports of the Church.
 
-Verse: Thy priests shall be clothed with righteousness, / and thy righteous
+*Verse:* Thy priests shall be clothed with righteousness, / and thy righteous
 shall rejoice.
 
 O ye thundering spiritual instruments of divine knowledge, / flashing lightning of
@@ -165,7 +164,7 @@ Otherwise, Theotokion: O Theotokos, thou art the true vine / that hast budded
 forth for us the Fruit of life. / Thee do we entreat: / Pray thou, O Lady, with the holy
 apostles, // that He have mercy upon our souls.
 
-Stavrotheotokion: Standing with the virginal disciple before the Tree / during the
+*Stavrotheotokion:* Standing with the virginal disciple before the Tree / during the
 crucifixion, / the Virgin cried out, weeping: / “Woe is me! / How is it that Thou dost
 suffer, O Christ, // since Thou art the dispassion of all?”
 
@@ -191,7 +190,6 @@ Thy mercy from us, / but by the prayers of these saints // direct our life in pe
 > Glory ..., Both now ..., Theotokion or Stavrotheotokion:
 
 > After the 1st chanting of the Psalter, the Sessional Hymn, in Tone V:
-
 > Spec. Mel.: “The Co-beginningless Word ...”:
 
 As royal adornments of the Church / let us praise the hierarchs of the Lord
@@ -207,7 +205,6 @@ good Mother of God Most High, / O thou who art full of the grace of God, / thou
 dost ever make entreaty with thy maternal supplications, // that He save us all.
 
 > After the 2nd chanting of the Psalter, the Sessional Hymn, in Tone III:
-
 > Spec. Mel.: “Of the divine ...”:
 
 O divinely inspired hierarchs! / you have been revealed as pillars of the Church /
@@ -223,7 +220,8 @@ birthgiving, preserved thee, His Virgin Mother, / as immaculate as thou wast bef
 giving birth. / Him do thou earnestly beseech, // that He grant us great mercy.
 After the Polyeleos, the Megalynarion: We magnify you, O great hierarchs,
 and honor your holy memory, for ye pray for us to Christ our God.
-Verse: Hear this, all ye nations; give ear, all ye that inhabit the World.
+
+*Verse:* Hear this, all ye nations; give ear, all ye that inhabit the World.
 
 > After the Polyeleos, the Sessional Hymn, in Tone IV:
 
@@ -255,12 +253,12 @@ In the Holy Spirit, / every soul is quickened, / and, through cleansing, is exal
 The Prokeimenon: Precious in the sight of the Lord / is the death of His
 saints.
 
-Verse: What shall I render unto the Lord for all that he hath rendered unto
+*Verse:* What shall I render unto the Lord for all that he hath rendered unto
 me?
 
 Let every breath ...,
 
-# THE GOSPEL ACCORDING TO ST. JOHN (10, 1-9)
+## THE GOSPEL ACCORDING TO ST. JOHN (10, 1-9)
 
 The Lord said: Verily, verily, I say unto you, He that entereth not by the door
 into the sheepfold, but climbeth up some other way, the same is a thief and a robber.
@@ -355,7 +353,8 @@ granted great mercy.
 
 Whither doth each one who is saved, / rightly have recourse; / and to what other
 such refuge can there be / which doth protect our souls like thee, // O Theotokos?
-Stavrotheotokion: Having obtained the Cross of thy Son as a staff of strength, /
+
+*Stavrotheotokion:* Having obtained the Cross of thy Son as a staff of strength, /
 O Theotokos, / therewith we cast down the arrogance of the enemy, // and with love
 unceasingly magnify thee.
 
@@ -414,7 +413,6 @@ transgressions, and, I implore Thee, set my life aright.
 The Kontakion from the Typicon; but if there be none, chant the following:
 
 > Kontakion, in Tone VIII:
-
 > Spec. Mel.: “As the first fruits ...”:
 
 As teachers of virtue and adornments of the Church’s hierarchy, / the Church
@@ -422,7 +420,7 @@ glorifies you in hymns; / We beseech you, as ones invincible, to intercede on be
 of us who with love honor you // that we be granted progress in virtues and release
 from temptations.
 
-Ikos: O divine hierarchs, You have appeared as rivers of piety filling the world
+*Ikos:* O divine hierarchs, You have appeared as rivers of piety filling the world
 with the streams of your dogmas, and with the gentle rain of your miracles, you wash
 away the filth of the passions, wherefore ye have worthily inherited the nourishing
 stream of the Holy Spirit; wherefore, gathered together today, we reverently honor
@@ -501,7 +499,6 @@ birth to One of the Trinity, and didst bear in thy divine embrace the Word Who i
 immutably and unchangeably transcendent.
 
 > On the Praises, these Stichera, in Tone VI:
-
 > Spec. Mel.: “On the third day ...”:
 
 Through the apostles and hierarchs / grace hath overcome, and faith hath been
@@ -530,7 +527,7 @@ O Theotokos, thou art the true vine / that hast budded forth for us the Fruit of
 life. / Thee do we entreat: / Pray thou, O Lady, / with the holy apostles, // that He
 have mercy upon our souls.
 
-Stavrotheotokion: The most pure one seeing Thee hanging upon the cross / with
+*Stavrotheotokion:* The most pure one seeing Thee hanging upon the cross / with
 maternal tears cried aloud to Thee: / “O my Son and God, / O my sweetest Child, /
 how is it that Thou sufferest // such a shameful death?”
 
@@ -600,12 +597,12 @@ from temptations.
 *Prokeimenon, In Tone VII:* Precious in the sight of the Lord / is the death of
 His saints.
 
-Verse: What shall I render unto the Lord for all that He hath rendered unto
+*Verse:* What shall I render unto the Lord for all that He hath rendered unto
 me?
 
-# THE EPISTLE OF ST. PAUL TO THE HEBREWS (13: 17-21)
+## THE EPISTLE OF ST. PAUL TO THE HEBREWS (13: 17-21)
 
-Brethren: Obey them that have the rule over you, and submit yourselves: for they
+*Brethren:* Obey them that have the rule over you, and submit yourselves: for they
 watch for your souls, as they that must give account, that they may do it with joy, and
 not with grief: for that is unprofitable for you. Pray for us: for we trust we have a
 good conscience, in all things willing to live honestly. But I beseech you the rather to
@@ -618,10 +615,10 @@ Christ; to whom be glory for ever and ever. Amen.
 Alleluia, In Tone II: Thy priests shall be clothed with righteousness, and thy
 righteous shall rejoice.
 
-Verse: For the Lord hath elected Zion; He hath chosen Her to be a habitation
+*Verse:* For the Lord hath elected Zion; He hath chosen Her to be a habitation
 for Himself.
 
-# THE HOLY GOSPEL ACCORDING TO ST. MATTHEW (5:14-19)
+## THE HOLY GOSPEL ACCORDING TO ST. MATTHEW (5:14-19)
 
 The Lord spake unto His disciples saying: Ye are the light of the world. A city
 that is set on an hill cannot be hid. Neither do men light a candle, and put it under a

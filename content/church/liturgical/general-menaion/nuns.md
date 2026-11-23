@@ -2,10 +2,9 @@
 title: "Nuns"
 worktitle: "The General Menaion"
 ---
-THE GENERAL VIGIL SERVICE TO TWO OR MORE NUNS.
+<style>blockquote { color: darkred; font-style: italic;} em { color: darkred ;}</style>
 
 > On “Lord, I have cried ...,” these Stichera, in Tone I:
-
 > Spec. Mel.: “Joy of the ranks of heaven ...”:
 
 Like effulgent beams of light from the heights, / ye enlighten the world with your
@@ -26,7 +25,8 @@ all be saved.
 Tempest-tossed on the abyss of transgressions, / fleeing to the calm haven / of
 thy most pure supplication, / I cry out to thee, O Birthgiver of God: // Save me, O
 all-immaculate one, extending thy mighty right hand unto thy servant!
-Stavrotheotokion: Of old, when thou didst behold thy Son and Master stretching
+
+*Stavrotheotokion:* Of old, when thou didst behold thy Son and Master stretching
 forth His hands upon the Cross, His side pierced by the spear, О pure Mother, thou
 didst cry out, lamenting: “Woe is me! How is it that Thou sufferest, ridding men of
 their suffering, О Lover of mankind?”
@@ -55,7 +55,7 @@ servants, // and deliver us from all want and grief.
 
 > The Entrance. The Prokeimenon of the day. The Three Lessons, if appointed.
 
-# THE READING IS FROM ISAIAH
+## THE READING IS FROM ISAIAH
 
 Thus saith the Lord: Let all the nations be gathered together, and let the people
 be assembled: who among them can declare this, and shew us former things? let them
@@ -71,7 +71,7 @@ Holy One of Israel; For your sake I have sent to Babylon, and have brought down 
 their nobles, and the Chaldeans, whose cry is in the ships. Thus saith the Lord. The
 Holy One of Israel
 
-# THE READING IS FROM THE WISDOM OF SOLOMON
+## THE READING IS FROM THE WISDOM OF SOLOMON
 
 The souls of the righteous are in the hands of God, and there shall no torment
 touch them. In the sight of the unwise they seemed to die, and their departure is
@@ -86,7 +86,7 @@ for ever. They that put their trust in Him shall understand the truth; and such 
 faithful in love shall abide with Him; for grace and mercy is to His saints and
 visitation for His elect.
 
-# THE READING IS FROM THE WISDOM OF SOLOMON
+## THE READING IS FROM THE WISDOM OF SOLOMON
 
 The righteous man if he happen to die early shall be at rest, and the dying
 righteous man shall bring judgment unto the wicked living, for they will see the end
@@ -107,7 +107,6 @@ and perdition, and walked in the unpassable paths, but did not comprehend God’
 ways.
 
 > On the Aposticha, these Stichera, in Tone I:
-
 > Spec. Mel.: “Joy of the ranks of heaven ...”:
 
 Having proceeded along the narrow path / that leadeth unto life, / ye preserved
@@ -116,15 +115,14 @@ ye mightily overcame the snares of demons; / wherefore ye were deemed worthy to
 inherit the heavenly Kingdom / and now enjoying the delights thereof // ye behold
 the never waning beauty therein.
 
-Verse: Wondrous is God in His saints, / the God of Israel.
-
+*Verse:* Wondrous is God in His saints, / the God of Israel.
 Your most splendid life astonished the angels / and clearly frightened the raging
 demons; / brightly adorning the gatherings of the faithful, / enjoining them to ever
 continue along the path / that leadeth to the heavenly habitations of Christ; / Him do
 ye beseech / that those who in faith celebrate your all-honored memory, // be
 delivered from corruption and misfortunes.
 
-Verse: Precious in the sight of the Lord / is the death of His saints.
+*Verse:* Precious in the sight of the Lord / is the death of His saints.
 Offering daily hymns and praise to Christ, / while dwelling in the desert O
 venerable ones, / ye gave your souls and thoughts / entirely to God alone, / and like
 the great Moses, / entered intractable regions; / wherefore ye obtained victory over
@@ -142,7 +140,7 @@ ye the venerable.
 O thou inextinguishable lamp, / and throne of righteousness / most pure
 Sovereign Lady: // pray thou that our souls be saved.
 
-Stavrotheotokion: “Lament not for Me, O Mother, / beholding Me thy Son and
+*Stavrotheotokion:* “Lament not for Me, O Mother, / beholding Me thy Son and
 God hanging upon the Tree, / Who hath suspended the earth upon the waters
 unsupported, / and hath fashioned all creation; / for I shall arise and be glorified, /
 and shall crush the kingdoms of Hades with strength; / destroying its power / and
@@ -177,7 +175,6 @@ memory. (Twice)
 > Glory ..., Both now ..., Theotokion or Stavrotheotokion.
 
 > After the 1st chanting of the Psalter, the Sessional Hymn, in Tone III:
-
 > Spec. Mel.: “Awed by the beauty of thy virginity ...”:
 
 Ye forsook the beauty of this world, O venerable ones, / having exchanged
@@ -194,7 +191,6 @@ thou didst give birth to Him, clad in the flesh taken from thy most pure blood. 
 do thou ever entreat as thy Son, O pure one, that our souls be saved.
 
 > After the 2nd chanting of the Psalter, the Sessional Hymn, in Tone V:
-
 > Spec. Mel.: “Go thou quickly before ...”:
 
 Having adorned your life with abstinence, / and mortified the passions of the
@@ -214,17 +210,17 @@ After the Polyeleos, the Megalynarion: We bless you, O Venerable Mothers
 (name), and we honor your holy memory, Instructors of Nuns, and conversers
 with the angels.
 
-Verse: With patience I waited patiently for the Lord, and He was attentive
+*Verse:* With patience I waited patiently for the Lord, and He was attentive
 unto me, and He hearkened unto my supplication.
 
 > After the Polyeleos, the Sessional Hymn, in Tone VIII:
-
 > Spec. Mel.: “That which was mystically commanded ...”:
 
 Keeping vigil in secret prayers / and finding delight in God inspired writings, O
 blessed ones, / ye took upon your shoulders the cross of the Lord, / and following
 Him in abstinence, / ye trampled down the deceit of the serpent, / crying out unto
-Christ: // O heavenly Bridegroom, be Thou our foundation. (Twice)
+
+*Christ:* // O heavenly Bridegroom, be Thou our foundation. (Twice)
 
 > Glory ..., Both now ..., Theotokion, in Tone VIII:
 
@@ -252,10 +248,11 @@ In the Holy Spirit, / every soul is quickened, / and, through cleansing, is exal
 > Prokeimenon, in Tone IV:
 
 The Prokeimenon: Wondrous is God in His saints, / the God of Israel.
-Verse: In the Congregations bless ye God, the Lord, from the wellsprings of
+
+*Verse:* In the Congregations bless ye God, the Lord, from the wellsprings of
 Israel.
 
-# THE GOSPEL ACCORDING TO ST. MATTHEW (25, 1-13)
+## THE GOSPEL ACCORDING TO ST. MATTHEW (25, 1-13)
 
 The Lord spake a parable saying: Then shall the kingdom of heaven be likened
 unto ten virgins, which took their lamps, and went forth to meet the bridegroom.
@@ -356,7 +353,7 @@ The Word of the Father, Christ our God, / Who was incarnate of thee, / we have
 come to know, O Virgin Theotokos, / who alone art pure, who alone art blessed. //
 Wherefore, we unceasingly hymn and magnify thee.
 
-Stavrotheotokion: She who in latter times gave birth to Thee in the flesh, / O
+*Stavrotheotokion:* She who in latter times gave birth to Thee in the flesh, / O
 Christ Who wast begotten of the beginningless Father, / when she saw Thee hanging
 upon the Cross, cried out: / “Woe is me, O Jesus most beloved! / How is it that
 Thou Who art worshipped as God by the angels, / art now crucified by iniquitous
@@ -428,7 +425,6 @@ wherefore I ever beseech thee, deliver me from the corruption of my passions.
 The Kontakion from the Typicon; if there be none, chant the following:
 
 > Kontakion of the venerable mothers, in Tone II:
-
 > Spec. Mel.: “Having received the grace ...”:
 
 Having emaciated your bodies by fasting, / and with ceaseless prayers entreated
@@ -436,7 +432,7 @@ the Creator, / that ye might obtain / the forgiveness of your sins, / which ye r
 from God, / attaining thereby the Kingdom of heaven; // intercede before Christ
 God for us all.
 
-Ikos: O God, Thou Who dost close and open the abyss, bringing water up into
+*Ikos:* O God, Thou Who dost close and open the abyss, bringing water up into
 the clouds, and sending rain to water the face of the earth. Grant also my barren soul,
 and open mine unworthy mouth, and my stuttering tongue, that I may utter worthy
 words, and hymn Thy venerable ones, whom Thou Thyself hast glorified, in so far as
@@ -521,7 +517,6 @@ who glorify thee in faith, obtain deliverance from every evil circumstance, suff
 transgression, and infirmity.
 
 > On the Praises, these Stichera, in Tone IV:
-
 > Spec. Mel.: “Thou hast given a sign ...”:
 
 Having preserved your virginity inviolate O venerable ones, and led an unspotted
@@ -553,7 +548,7 @@ the world, / inextinguishable lamp, / dwelling-place of the Boundless One, /
 indestructible temple! / Rejoice, thou from whom the Lamb of God was born, //
 who taketh away the sins of all the world.
 
-Stavrotheotokion: Upon beholding the Lamb / lifted up upon the Cross, / the
+*Stavrotheotokion:* Upon beholding the Lamb / lifted up upon the Cross, / the
 immaculate Virgin cried aloud, weeping: / “O my Child most sweet, / what is this
 new and most glorious sight? / How is it that Thou Who holdest all things in Thy
 hand // hast been nailed to the Tree in the flesh?”
@@ -636,12 +631,13 @@ God for us all.
 > Prokeimenon, in Tone IV:
 
 The Prokeimenon: Wondrous is God in His saints, / the God of Israel.
-Verse: In the Congregations bless ye God, the Lord, from the wellsprings of
+
+*Verse:* In the Congregations bless ye God, the Lord, from the wellsprings of
 Israel.
 
-# THE EPISTLE TO THE GALATIANS (GAL. 3:23-29)
+## THE EPISTLE TO THE GALATIANS (GAL. 3:23-29)
 
-Brethren: But before faith came, we were kept under the law, shut up unto the
+*Brethren:* But before faith came, we were kept under the law, shut up unto the
 faith which should afterwards be revealed. Wherefore the law was our schoolmaster
 to bring us unto Christ, that we might be justified by faith. But after that faith is
 come, we are no longer under a schoolmaster. For ye are all the children of God by
@@ -653,9 +649,9 @@ are ye Abraham’s seed, and heirs according to the promise.
 Alleluia, in Tone I: I waited patiently for the Lord, and He was attentive unto
 me, / and hearkened unto my supplication.
 
-Verse: And he brought me out of the pit of misery, out of the mire of clay.
+*Verse:* And he brought me out of the pit of misery, out of the mire of clay.
 
-# THE GOSPEL ACCORDING TO ST. LUKE: (7:36-50)
+## THE GOSPEL ACCORDING TO ST. LUKE: (7:36-50)
 
 At that time: one of the Pharisees desired him that he would eat with him. And he
 went into the Pharisee’s house, and sat down to meat. And, behold, a woman in the

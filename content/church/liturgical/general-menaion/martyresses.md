@@ -2,12 +2,9 @@
 title: "Martyresses"
 worktitle: "The General Menaion"
 ---
-THE VIGIL SERVICE COMMON TO
-
-TWO OR MORE FEMALE MARTYRS.
+<style>blockquote { color: darkred; font-style: italic;} em { color: darkred ;}</style>
 
 > On “Lord, I have cried ...,” the Stichera, in Tone IV:
-
 > Spec. Mel.: “Thou hast given a sign ...”:
 
 United by love / and sustained by devotion to their Creator / the virgin-maidens,
@@ -33,7 +30,7 @@ intercessions ceaseless, / wherefore I pray thee, overcome the attacks of the ad
 consolation unto my sorrowing heart / and grace to my soul // that I may worthily
 glorify thee.
 
-Stavrotheotokion: Upon beholding Thee, / the Lamb and Shepherd, upon the
+*Stavrotheotokion:* Upon beholding Thee, / the Lamb and Shepherd, upon the
 Tree, / the ewe-lamb who bore Thee lamented, / and maternally exclaimed to Thee: /
 “O most desired Son, / how is it that Thou art suspended upon the tree of the Cross?
 / How is it that Thine arms and legs are nailed / by the iniquitous ones, O longsuffering Word, // and that Thou hast shed Thy blood, O Master?”
@@ -63,14 +60,14 @@ that our souls find mercy!
 Otherwise, Theotokion: O Sovereign lady, / accept the supplications of thy
 servants, // and deliver us from all want and grief.
 
-Stavrotheotokion: When the most pure one beheld Thee hanging on the Cross in
+*Stavrotheotokion:* When the most pure one beheld Thee hanging on the Cross in
 the flesh, her heart was pierced, and with tears she cried aloud: “O Word, whence
 hast Thou gone, O my most beloved Son and Lord; leave me not alone who hath
 given birth to Thee O Christ.”
 
 > The Entrance. The Prokeimenon of the day. The Three Lessons, if appointed.
 
-# THE READING IS FROM ISAIAH
+## THE READING IS FROM ISAIAH
 
 Thus saith the Lord: Let all the nations be gathered together, and let the people
 be assembled: who among them can declare this, and shew us former things? let them
@@ -86,7 +83,7 @@ Holy One of Israel; For your sake I have sent to Babylon, and have brought down 
 their nobles, and the Chaldeans, whose cry is in the ships. Thus saith the Lord. The
 Holy One of Israel
 
-# THE READING IS FROM THE WISDOM OF SOLOMON
+## THE READING IS FROM THE WISDOM OF SOLOMON
 
 The souls of the righteous are in the hands of God, and there shall no torment
 touch them. In the sight of the unwise they seemed to die, and their departure is
@@ -102,7 +99,7 @@ for ever. They that put their trust in Him shall understand the truth; and such 
 faithful in love shall abide with Him; for grace and mercy is to His saints and
 visitation for His elect.
 
-# THE READING IS FROM THE WISDOM OF SOLOMON
+## THE READING IS FROM THE WISDOM OF SOLOMON
 
 The righteous live unto the ages; their reward is also with the Lord, and the care
 of them is with the most High. Therefore shall they receive a glorious kingdom and a
@@ -122,22 +119,21 @@ that rule the people and glory in the multitude of nations, for power is given y
 the Lord and sovereignty from the Highest.
 
 > On the Aposticha, these Stichera, in Tone IV:
-
 > Spec. Mel.: “As one valiant among the martyrs ...”:
 
 The choirs of angels stood in amazement at your wholehearted zeal, / divine love
 and your unity in sufferings, O blessed ones, / for having manfully conquered the
 invisible enemy by your united struggles, / ye have worthily and readily received
 crowns of victory / from the life-bearing Hand of the Savior.
-Verse: Wondrous is God in His saints, / the God of Israel.
 
+*Verse:* Wondrous is God in His saints, / the God of Israel.
 By the machinations of a furious falsehood / you were put to death for the sake
 of Christ, / but by extinguishing the flame of vanity, / and keeping the flame of your
 soul’s lamps lit, / ye have entered together into the heavenly palace of Christ; /
 wherefore, we all, enlightened by your grace, / reverently hymn your holy memory, O
 great sufferers.
 
-Verse: In the Congregations bless ye God, the Lord, / from the wellsprings of
+*Verse:* In the Congregations bless ye God, the Lord, / from the wellsprings of
 Israel.
 
 Enduring much suffering and a multitude of tortures, / and resolutely
@@ -167,7 +163,8 @@ our souls!
 
 Otherwise, Theotokion: O thou inextinguishable lamp, / and throne of
 righteousness / most pure Sovereign Lady: // pray thou that our souls be saved.
-Stavrotheotokion: Seeing Christ, the Lover of mankind, / crucified and with His
+
+*Stavrotheotokion:* Seeing Christ, the Lover of mankind, / crucified and with His
 side pierced with a lance, / the most pure one lamented, crying aloud: / “What is this,
 O my Son ? / What have the ungrateful people rendered unto Thee / in return for all
 the good things Thou hast rendered unto them ?” / And yet thou dost show thy
@@ -199,7 +196,6 @@ wherefore, O right worthy Passion-bearers, / with gladsome hearts we celebrate t
 > Glory ..., Both now ..., Theotokion or Stavrotheotokion:
 
 > After the 1st chanting of the Psalter, the Sessional Hymn, in Tone I:
-
 > Spec. Mel.: “Thy tomb O Savior ...”:
 
 Burning with the fire of divine desire, / O blessed ones, / you remained unburned
@@ -215,7 +211,6 @@ the refuge of despairing mankind, / set upon the path of repentance, / we who
 constantly turn to the path of self-will, // and thereby anger the Most kind Lord.
 
 > After the 2nd chanting of the Psalter, the Sessional Hymn, in Tone IV:
-
 > Spec. Mel.: “Joseph marveled ...”:
 
 The choirs of the bodiless powers of heaven / stood awestruck by your
@@ -233,11 +228,11 @@ budded. / Thus thy betrothed and guardian bore witness and cried unto the priest
 saying: / A virgin beareth a child, // and after childbirth remaineth yet a virgin.
 After the Polyeleos, the Megalynarion: We magnify you, O holy martyrs, and
 honor your precious sufferings which you endured for the sake of Christ.
-Verse: Our God is refuge and strength, a helper in afflictions which mightily
+
+*Verse:* Our God is refuge and strength, a helper in afflictions which mightily
 befall us.
 
 > After the Polyeleos, the Sessional Hymn, in Tone VIII:
-
 > Spec. Mel.: “Of the wisdom ...”:
 
 Betrothed unto the Lord / In a right godly manner, / ye passion-bearing maidens
@@ -272,12 +267,13 @@ In the Holy Spirit, / every soul is quickened, / and, through cleansing, is exal
 > Prokeimenon, in Tone IV:
 
 The Prokeimenon: Wondrous is God in His saints, / the God of Israel.
-Verse: In the Congregations bless ye God, the Lord, from the wellsprings of
+
+*Verse:* In the Congregations bless ye God, the Lord, from the wellsprings of
 Israel.
 
 Let every breath ...,
 
-# THE GOSPEL ACCORDING TO ST. MATTHEW (15: 21-28)
+## THE GOSPEL ACCORDING TO ST. MATTHEW (15: 21-28)
 
 At that time, Jesus departed into the coasts of Tyre and Sidon. And, behold, a
 woman of Canaan came out of the same coasts, and cried unto him, saying, Have
@@ -370,7 +366,7 @@ Do thou accept, O Theotokos, / the entreaties of thy servants, / and deliver us
 from every difficulty, / since thou hast given birth unto the Savior Christ, // the
 Redeemer of our souls.
 
-Stavrotheotokion: Possessing thine intercession, O most pure one, / and delivered
+*Stavrotheotokion:* Possessing thine intercession, O most pure one, / and delivered
 from evils by thy supplications, / protected wholly by the Cross of thy Son, // we all
 reverently magnify thee as is meet.
 
@@ -441,14 +437,13 @@ generations now call the blessed.
 The Kontakion from the Typicon; if there be none, chant the following:
 
 > Kontakion, in Tone IV:
-
 > Spec. Mel.: “Thou hast appeared ...”:
 
 We who celebrate the feast of Christ’s martyred spiritual athletes / now pray in
 faith that we be granted their aid, / crying out; “God, Who hath willed to glorify His
 maiden martyrs, is with us.”
 
-Ikos: Having acquired a source of miracles in you, O most praiseworthy maiden
+*Ikos:* Having acquired a source of miracles in you, O most praiseworthy maiden
 martyrs of Christ, we have been granted an abundance of healings, wherefore we
 praise your sufferings and divine zeal, your wounds and valiant feats, and to the glory
 of our God celebrate your wondrous memory crying out: “God, Who willed to glorify
@@ -535,7 +530,6 @@ martyrs, // dispel the fog of my passions, since Thou art good and abundantly
 merciful.
 
 > On the Praises, these Stichera, in Tone IV:
-
 > Spec. Mel.: “As one valiant among the martyrs ...”:
 
 Adorning yourselves with the shedding of your blood / O virgin-maidens, / in a
@@ -567,7 +561,7 @@ divinely-wise maiden martyrs.
 All of my hope do I place on thee, / O Mother of God; // keep me under thy
 protection.
 
-Stavrotheotokion: When the unblemished ewe-lamb beheld her Lamb / willingly
+*Stavrotheotokion:* When the unblemished ewe-lamb beheld her Lamb / willingly
 led as a man to the slaughter, / she said, weeping: / “Dost Thou now hasten to leave
 me childless who gave Thee birth O Christ,? / What is this that Thou hast done, O
 Redeemer of all? / Even so I will hymn and glorify Thine extreme goodness, / which
@@ -643,12 +637,13 @@ maiden martyrs, is with us.”
 > Prokeimenon, in Tone IV:
 
 The Prokeimenon: Wondrous is God in His saints, / the God of Israel.
-Verse: In the Congregations bless ye God, the Lord, from the wellsprings of
+
+*Verse:* In the Congregations bless ye God, the Lord, from the wellsprings of
 Israel.
 
-THE 2nd EPISTLE TO THE CORINTHIANS (6:1-10)
+## THE 2nd EPISTLE TO THE CORINTHIANS (6:1-10)
 
-Brethren: We then, as workers together with him, beseech you also that ye receive
+*Brethren:* We then, as workers together with him, beseech you also that ye receive
 not the grace of God in vain. (For he saith, I have heard thee in a time accepted, and
 in the day of salvation have I succoured thee: behold, now is the accepted time;
 behold, now is the day of salvation.) Giving no offence in any thing, that the ministry
@@ -664,9 +659,9 @@ many rich; as having nothing, and yet possessing all things.
 Alleluia, in Tone I: I waited patiently for the Lord, and He was attentive unto
 me, / and hearkened unto my supplication.
 
-Verse: And he brought me out of the pit of misery, out of the mire of clay.
+*Verse:* And he brought me out of the pit of misery, out of the mire of clay.
 
-# THE GOSPEL ACCORDING TO ST. MARK: (5:24-34)
+## THE GOSPEL ACCORDING TO ST. MARK: (5:24-34)
 
 At that time, Jesus went: and much people followed him, and thronged him. And
 a certain woman, which had an issue of blood twelve years, And had suffered many

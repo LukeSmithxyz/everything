@@ -2,12 +2,9 @@
 title: "St John Baptist"
 worktitle: "The General Menaion"
 ---
-GENERAL VIGIL SERVICE TO ST. JOHN, THE FORERUNNER, PROPHET
-
-AND BAPTIST OF THE LORD.
+<style>blockquote { color: darkred; font-style: italic;} em { color: darkred ;}</style>
 
 > On “Lord, I have cried ...,” the Stichera, in Tone VIII:
-
 > Spec. Mel.: “O most glorious wonder ...”:
 
 O blessed John the Forerunner, / sincere friend of the Lord, / who in the waters
@@ -54,7 +51,7 @@ Theotokos, save the world, // Christ, Who is richly and abundantly merciful.
 
 > The Entrance. The Prokeimenon of the day. The Three Lessons
 
-# THE PROPHECY OF ISAIAH
+## THE PROPHECY OF ISAIAH
 
 Thus saith the Lord: Comfort ye, comfort ye My people, saith the God. Speak ye,
 priests, unto the heart of Jerusalem, cry unto her that her humiliation is at an end,
@@ -73,7 +70,7 @@ wilderness, He will cause water to flow out of the rock for them. Sing, O barren
 thou that didst not bear, break forth into singing and cry aloud, thou that didst not
 travail, for more are the children of the desolate than the children of the married wife.
 
-# THE PROPHECY OF MALACHI
+## THE PROPHECY OF MALACHI
 
 Thus saith the Lord Almighty: Behold I will send My messenger before Thy
 countenance, and he shall prepare the way before Thee. And the Lord, Whom ye
@@ -95,7 +92,7 @@ of the great and illustrious day of the Lord; and he shall turn the heart of the
 to his son and the heart of man unto his neighbor, lest I come and smite the earth
 swiftly, saith the Lord Almighty, the Holy God of Israel.
 
-# THE WISDOM OF SOLOMON
+## THE WISDOM OF SOLOMON
 
 The righteous man if he happen to die early shall be at rest, and the dying
 righteous man shall bring judgment unto the wicked living, for they will see the end
@@ -123,7 +120,7 @@ among those born of men, / mediator between the old and the new covenants, /
 joyful voice of the Word, / by thy sacred intercessions // be thou a prayerful
 advocate for us before the tenderly compassionate God.
 
-Verse: Blessed be the Lord God of Israel. / He hath visited and wrought
+*Verse:* Blessed be the Lord God of Israel. / He hath visited and wrought
 deliverance unto His people.
 
 O blessed Forerunner, / upon seeing Christ walking upon the earth / thou didst
@@ -132,7 +129,7 @@ Him do thou entreat that those who honor thee / be granted the remission of thei
 sins / for thou, O Baptist, dost truly possess great boldness // as the mediator of the
 law and grace.
 
-Verse: And thou, O child, / shalt be called a prophet of the Most High.
+*Verse:* And thou, O child, / shalt be called a prophet of the Most High.
 I beseech thee O glorious prophet of the Lord, / make haste and deliver me from
 temptations, / for in vain the bitter demons array themselves against me, / warring
 and seeking to seize the soul of thy servant like a helpless hatchling, / forsake me not
@@ -247,7 +244,6 @@ On “God is the Lord ...,” the Troparion of the Feast (Twice).
 > Glory ..., Both now ..., the Theotokion.
 
 > After the 1st chanting of the Psalter, the Sessional Hymn, in Tone IV:
-
 > Spec. Mel.: “Joseph marveled ...”:
 
 Today the off-spring of Zachariah hath sprouted forth, / bringing joy to the
@@ -263,7 +259,6 @@ and from all misfortune, O Sovereign Lady Theotokos; and we faithfully cry out:
 Have mercy on thy flock, O thou who alone art all-hymned!
 
 > After the 2nd chanting of the Psalter, the Sessional Hymn, in Tone II:
-
 > Spec. Mel.: “As Thou art merciful ...”:
 
 O good One, through Thy compassionate mercy / thou hast descended from on
@@ -282,27 +277,27 @@ abundant and rich mercies, // O Mother and Virgin.
 After Praise ye the name of the Lord, the following Megalynarions:
 For the Nativity of the Forerunner: We magnify thee, / John the Forerunner
 of the Savior, / and honor thy most glorious birth / from the barren one.
-Verse: Blessed is the Lord God of Israel, from everlasting to everlasting.
+
+*Verse:* Blessed is the Lord God of Israel, from everlasting to everlasting.
 For the Conception: The same as above
 
 For the Beheading: We magnify thee, / John the Forerunner of the Savior, /
 and all honor the beheading of thy venerable head.
 
-Verse: O Lord God of hosts, blessed is the man that hopeth in Thee:
+*Verse:* O Lord God of hosts, blessed is the man that hopeth in Thee:
 For the Findings: We magnify thee, / John the Forerunner of the Savior, / and
 all honor the finding of thy venerable head.
 
-Verse: Blessed is the man that feareth the Lord; in His commandments shall
+*Verse:* Blessed is the man that feareth the Lord; in His commandments shall
 he greatly delight:
 
 For the Synaxis: We magnify thee, / John the Forerunner of the Savior, / and
 all honor thine all-venerable synaxis.
 
-Verse: Blessed is the man that feareth the Lord; in His commandments shall
+*Verse:* Blessed is the man that feareth the Lord; in His commandments shall
 he greatly delight:
 
 > After the Polyeleos, the Sessional Hymn, in Tone V:
-
 > Spec. Mel.: “The co-beginningless Word ...”:
 
 Let us loudly praise in hymns / him who from the womb hath been revealed to
@@ -337,10 +332,10 @@ In the Holy Spirit, / every soul is quickened, / and, through cleansing, is exal
 The Prokeimenon: And thou, O child, / shalt be called prophet of the Most
 High.
 
-Verse: Blessed is the Lord God of Israel, from everlasting to everlasting.
+*Verse:* Blessed is the Lord God of Israel, from everlasting to everlasting.
 Let every breath ...,
 
-# THE GOSPEL ACCORDING TO SAINT MATTHEW: (11, 2-15. )
+## THE GOSPEL ACCORDING TO SAINT MATTHEW: (11, 2-15. )
 
 At that time: John had heard in the prison the works of Christ, he sent two of his
 disciples, And said unto him, Art thou he that should come, our do we look for
@@ -355,7 +350,8 @@ kings” houses. But what went ye out for to see? A prophet? yea, I say unto you
 more than a prophet. For this is he, of whom it is written, Behold, I send my
 messenger before thy face, which shall prepare thy way before thee. Verily I say unto
 you, among them that are born of women there hath not risen a greater than John the
-Baptist: notwithstanding he that is least in the kingdom of heaven is greater than he.
+
+*Baptist:* notwithstanding he that is least in the kingdom of heaven is greater than he.
 And from the days of John the Baptist until now the kingdom of heaven suffereth
 violence, and the violent take it by force. For all the prophets and the law prophesied
 until John. And if ye will receive it, this is Elias, which was for to come. He that hath
@@ -531,13 +527,12 @@ O prophet of God and Forerunner of Grace, / having obtained thy head from the
 earth as a most sacred rose, / we ever receive healings; / for still as of old in the world
 / thou preachest repentance.
 
-> 3rd Finding of the Glorious head of St. John the Baptist, in Tone VI:
-
+3rd Finding of the Glorious head of St. John the Baptist, in Tone VI:
 The shining pillar on earth, the Forerunner, lamp of the spiritual Sun, / has
 revealed his radiant, holy head to the world. / He sanctifies those who venerate it and
 who faithfully cry: / O wise Baptist of Christ, save us all.
 
-Ikos: Beginning an ODE unto thee, O God-hymned blessed John, I am full of joy
+*Ikos:* Beginning an ODE unto thee, O God-hymned blessed John, I am full of joy
 and yet also full of dread, for I fear that I shall not find words, O Forerunner to
 worthily praise thee, but do thou thyself strengthen me and grant that I may worthily
 speak of thee saying: Rejoice, thou by whom gladness came; Rejoice, thou by whom
@@ -798,12 +793,12 @@ that can be, / that I may sing unto thee: / Rejoice thou the proclaimer of grace
 *Prokeimenon in Tone I:* Thou art a priest forever, / after the order of
 Melchisedech.
 
-Verse: The Lord said unto my Lord, Sit thou at my right hand, until I make
+*Verse:* The Lord said unto my Lord, Sit thou at my right hand, until I make
 thine enemies a footstool for thy feet.
 
-# THE ACTS OF THE APOSTLES (13: 25-32)
+## THE ACTS OF THE APOSTLES (13: 25-32)
 
-Brethren: as John fulfilled his course, he said, Whom think ye that I am? I am not
+*Brethren:* as John fulfilled his course, he said, Whom think ye that I am? I am not
 he. But, behold, there cometh one after me, whose shoes of his feet I am not worthy
 to loose. Men and brethren, children of the stock of Abraham, and whosoever among
 you feareth God, to you is the word of this salvation sent. For they that dwell at
@@ -815,13 +810,14 @@ him down from the tree, and laid him in a sepulchre. But God raised him from the
 dead: And he was seen many days of them which came up with him from Galilee to
 Jerusalem, who are his witnesses unto the people. And we declare unto you glad
 tidings, how that the promise which was made unto the fathers,
-Alleluia: Moses and Aaron among His priests, and Samuel among them that
+
+*Alleluia:* Moses and Aaron among His priests, and Samuel among them that
 call upon His name.
 
-Verse: The Lord preserveth the souls of His saints, from the hand of the
+*Verse:* The Lord preserveth the souls of His saints, from the hand of the
 sinner shall He deliver them.
 
-# THE GOSPEL ACCORDING TO ST. MATTHEW (11:2-15)
+## THE GOSPEL ACCORDING TO ST. MATTHEW (11:2-15)
 
 At that time: John had heard in the prison the works of Christ, he sent two of his
 disciples, And said unto him, Art thou he that should come, or do we look for

@@ -2,9 +2,7 @@
 title: "Holy Fathers"
 worktitle: "The General Menaion"
 ---
-THE GENERAL VIGIL SERVICE OF THE HOLY FATHERS,
-
-IN REMEMBRANCE OF COUNCILS
+<style>blockquote { color: darkred; font-style: italic;} em { color: darkred ;}</style>
 
 This service is always served on a Sunday. It is sung on the 7th Sunday after
 Pascha in memory of the holy Fathers of the 1st Ecumenical Council, on the Sunday
@@ -15,10 +13,9 @@ Fathers of the 7th Ecumenical Council.
 On “Lord, I have cried ...,” 4 Stichera from the Oktoechos, and the following 6
 
 > Stichera from the Fathers, in Tone VI:
-
 > Spec. Mel.: “The wretched ...”:
 
-Verse: If Thou shouldest mark iniquities, O Lord, O Lord, who shall stand? /
+*Verse:* If Thou shouldest mark iniquities, O Lord, O Lord, who shall stand? /
 For with Thee there is forgiveness.
 
 Before the morning star / from the womb Thou wast begotten from the Father /
@@ -28,11 +25,11 @@ storing up fuel for the eternal fire. / But the Council gathered in Nicaea procl
 that Thou, O Lord, / art truly the Son of God, // one in rank with the Father and the
 Spirit.
 
-Verse: For Thy name’s sake have I patiently waited for Thee, O Lord; my soul
+*Verse:* For Thy name’s sake have I patiently waited for Thee, O Lord; my soul
 hath patiently waited for Thy word, / my soul hath hoped in the Lord.
 Before the morning star ...,
 
-Verse: From the morning watch until night, from the morning watch / let
+*Verse:* From the morning watch until night, from the morning watch / let
 Israel hope in the Lord.
 
 O My Savior, Who hath rent Thy raiment? / Thou didst say: It was Arius who
@@ -42,11 +39,11 @@ the godless one / to not say Theotokos. / But the Council gathered in Nicaea
 proclaimed that Thou, O Lord, / art truly the Son of God, // one in rank with the
 Father and the Spirit.
 
-Verse: For with the Lord there is mercy, and with Him is plenteous
+*Verse:* For with the Lord there is mercy, and with Him is plenteous
 redemption; / and He shall redeem Israel out of all his iniquities.
 O My Savior, Who hath rent Thy raiment ...,
 
-Verse: O praise the Lord, all ye nations; / praise Him, all ye peoples.
+*Verse:* O praise the Lord, all ye nations; / praise Him, all ye peoples.
 Keeping his eyes shut, that he might not see light, / Arius fell headlong into the
 deep pit of sin. / His bowels were rent asunder by a divine hook, / such that he
 violently gave up all his substance and his soul / and in this manner became another
@@ -54,7 +51,7 @@ Judas, / through his most evil purpose and disposition. / But the Council gather
 Nicaea proclaimed that Thou, O Lord, / art truly the Son of God, // one in rank with
 the Father and the Spirit.
 
-Verse: For He hath made His mercy to prevail over us, / and the truth of the
+*Verse:* For He hath made His mercy to prevail over us, / and the truth of the
 Lord abideth forever.
 
 Mindless, foolish Arius / once divided the most holy Trinity’s sole dominion /
@@ -78,14 +75,14 @@ After the Entrance and “O Joyous Light”,
 
 > Saturday Vespers Prokeimenon, in Tone VI:
 
-Verse: The Lord is King, / He is clothed with majesty.
+*Verse:* The Lord is King, / He is clothed with majesty.
 
 Verse 1: The Lord is clothed with strength and He hath girt Himself.
 Verse 2: For He established the universe which shall not be shaken.
 Verse 3: Holiness becometh Thy house, O Lord, unto length of days.
 The readings for the Holy Fathers:
 
-# THE READING IS FROM GENESIS (14, 14-20).
+## THE READING IS FROM GENESIS (14, 14-20).
 
 When Abram heard that Lot his brother’s son was taken captive, he armed his
 trained servants, born in his own house, three hundred and eighteen, and pursued
@@ -100,7 +97,7 @@ Most High God. And he blessed him and said: Blessed be Abram of the Most High
 God, Who created heaven and earth; and blessed be the Most High God, Who hath
 delivered thine enemies into thy hand.
 
-# THE READING IS FROM DEUTERONOMY (1, 8-11 AND 15-17).
+## THE READING IS FROM DEUTERONOMY (1, 8-11 AND 15-17).
 
 In those days spake Moses unto the sons of Israel saying: Behold, I have set the
 land before you: go in and possess the land which the Lord sware unto your Fathers,
@@ -117,7 +114,7 @@ brother, and the stranger that is with him. Ye shall not respect persons in judg
 but ye shall hear the small as well as the great ; ye shall not be afraid of the face of
 man; for the judgment is God’s.
 
-# THE READING IS FROM DEUTERONOMY (10, 14-21).
+## THE READING IS FROM DEUTERONOMY (10, 14-21).
 
 In those days spake Moses unto the sons of Israel, saying: Behold, the heaven and
 the heaven of heavens is the Lord’s thy God, the earth also, with all that therein is.
@@ -176,7 +173,7 @@ O Sovereign Lady. / Hasten thou to answer the entreaties of those who cry out to
 thee with faith: / Rejoice, thou help, joy and protection of all, // and the salvation of
 our souls!
 
-Then: “Now lettest Thou Thy servant depart ...,” Trisagion through Our Father ...,
+*Then:* “Now lettest Thou Thy servant depart ...,” Trisagion through Our Father ...,
 
 > Then the blessing of the loaves. The Troparion, in Tone IV:
 
@@ -256,7 +253,6 @@ Trinity, Who is two in nature and volition, and Whose image we worship, filled w
 grace.
 
 > Kontakion and Ikos of the Resurrection; Sessional Hymn of the fathers, in Tone IV:
-
 > Spec. Mel.: “Go thou quickly before ...”:
 
 Ye have been shown to the world as most radiant beacons of the truth of Christ
@@ -305,7 +301,7 @@ Illumining their minds with thrice-radiant divine splendor, the honored fathers
 professed the Lord Christ to be One of the honorable Trinity and two in nature and
 volition.
 
-Trinitarian: O Trinity, among material things hath the Church been made heavenly
+*Trinitarian:* O Trinity, among material things hath the Church been made heavenly
 by the wise fathers as among the seraphim; and ever chanting unto Thee the thriceholy hymn, it uniteth Thy threefold nature into One.
 
 *Theotokion:* Thou wast the Mother and handmaiden of thy Son, O pure one; for
@@ -334,14 +330,13 @@ let his blasphemous tongue be cut out; for the Virgin Mary gaveth birth to God W
 became incarnate for us.
 
 > The Kontakion, in Tone VIII:
-
 > Spec. Mel.: “As the first fruits ...”:
 
 The preaching of the apostles and the dogmas of the fathers / sealed the one Faith
 of the Church; / and clad in the robe of truth woven of theology from on high, // it
 setteth aright and glorifieth the great mystery of piety.
 
-Ikos: Let us hearken unto the Church of God which crieth out with exalted
+*Ikos:* Let us hearken unto the Church of God which crieth out with exalted
 preaching: let him that thirsteth come to me and drink the cup which I hold, for it is
 the cup of wisdom! This drink of truth have I drawn by the word, which poureth
 forth not the water of gainsaying, but of confession, which drinking, the present
@@ -416,7 +411,6 @@ the human race and counted it worthy of His own glory; and He hath shown all who
 ever proclaim thee truly the Theotokos to be His heirs.
 
 > Exapostilarion in Tone II:
-
 > Spec. Mel.: “Hearken O ye, women ...”:
 
 Celebrating the memory of the divine fathers today, by their supplications, O most
@@ -431,10 +425,9 @@ Rejoice, throne of glory! / Rejoice, divine table! Rejoice, golden candlestick! 
 most radiant lamp! // Rejoice, O Mary, Virgin and Mother, thou light cloud!
 
 > On the Praises, 4 Stichera of the Resurrection. and 4 of the Fathers, in Tone VI:
-
 > Spec. Mel.: “Having set aside all ...”:
 
-Verse: Praise Him with timbrel and dance, / praise Him with strings and flute.
+*Verse:* Praise Him with timbrel and dance, / praise Him with strings and flute.
 Having combined their spiritual art, / and reviewed the heavenly and precious
 Symbol of Faith through the divine Spirit, / the honored fathers inscribed it with a
 divine writing, / wherein the right glorious, most noetically rich and truly divine wise
@@ -442,12 +435,12 @@ ones / teach most clearly that the Word is co-beginningless / and equally everla
 with Him that begot Him, // thus following most carefully the teachings of the
 apostles.
 
-Verse: Praise Him with tuneful cymbals, praise Him with cymbals of
+*Verse:* Praise Him with tuneful cymbals, praise Him with cymbals of
 jubilation. / Let every breath praise the Lord.
 
 Having combined their spiritual art, ...,
 
-Verse: Blessed art Thou, O Lord, the God of our Fathers, and praised and
+*Verse:* Blessed art Thou, O Lord, the God of our Fathers, and praised and
 glorified is Thy name unto the ages.
 
 Having received all the noetic radiance of the Holy Spirit, / as preachers of Christ,
@@ -456,7 +449,7 @@ inspired by God, / proclaimed their most supra-natural decision; / and having
 manifestly received from on high the revelation thereof, / being illumined, // they
 expounded the Faith taught by God.
 
-Verse: Gather unto Him His righteous.
+*Verse:* Gather unto Him His righteous.
 
 Having mustered all their pastoral skill / and then being moved to wrath most
 just, as champions, / as most true servants of Christ and most sacred keepers / of the
@@ -526,9 +519,9 @@ setteth aright and glorifieth the great mystery of piety.
 The Prokeimenon of the Fathers: in Tone IV: Blessed art Thou, O Lord, the
 God of our Fathers, and praised and glorified is Thy name unto the ages.
 
-# THE EPISTLE TO THE HEBREWS: (10: 19-31).
+## THE EPISTLE TO THE HEBREWS: (10: 19-31).
 
-Brethren: Having therefore, brethren, boldness to enter into the holiest by the
+*Brethren:* Having therefore, brethren, boldness to enter into the holiest by the
 blood of Jesus, By a new and living way, which he hath consecrated for us, through
 the veil, that is to say, his flesh; And (having) an high priest over the house of God;
 Let us draw near with a true heart in full assurance of faith, having our hearts
@@ -550,10 +543,11 @@ the living God.
 
 Alleluia; of the fathers, in Tone I: The God of gods, the Lord, hath spoken, and
 He hath called the earth from the rising of the sun and unto the setting thereof.
-Verse: Gather together unto Him His holy ones who have established His
+
+*Verse:* Gather together unto Him His holy ones who have established His
 covenant upon sacrifices.
 
-# THE GOSPEL ACCORDING TO ST. JOHN (17: 1-13).
+## THE GOSPEL ACCORDING TO ST. JOHN (17: 1-13).
 
 At that time Jesus: lifted up his eyes to heaven, and said, Father, the hour is come;
 glorify thy Son, that thy Son also may glorify thee: As thou hast given him power over
@@ -575,9 +569,8 @@ as we (are). While I was with them in the world, I kept them in thy name: those 
 thou gavest me I have kept, and none of them is lost, but the son of perdition; that
 the scripture might be fulfilled. And now come I to thee; and these things I speak in
 the world, that they might have my joy fulfilled in themselves.
-
-> Communion Verse for the Resurrection: Praise the Lord from the heavens,
+Communion Verse for the Resurrection: Praise the Lord from the heavens,
 praise Him in the highest.
 
-> Communion Verse for the saint: Rejoice in the Lord, O ye righteous; praise is
+Communion Verse for the saint: Rejoice in the Lord, O ye righteous; praise is
 meet for the upright.

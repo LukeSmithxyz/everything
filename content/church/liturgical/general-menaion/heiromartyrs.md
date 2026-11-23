@@ -2,12 +2,9 @@
 title: "Heiromartyrs"
 worktitle: "The General Menaion"
 ---
-THE GENERAL VIGIL SERVICE TO
-
-TWO OR MORE HIEROMARTYRS.
+<style>blockquote { color: darkred; font-style: italic;} em { color: darkred ;}</style>
 
 > On “Lord, I have cried ...,” these Stichera, in Tone I:
-
 > Spec. Mel.: “O all-praised martyrs ...”:
 
 In truth brightly adorning your hierarchical vestments / with the blood of
@@ -30,9 +27,10 @@ to grant peace and great mercy // unto our souls.
 O all-hymned Virgin, / in whom Moses beheld a mystery with prophetic eyes /
 the bush that burned yet remained unconsumed; / for the fire of the Godhead did
 not burn thy womb, O pure one. / Wherefore, we beseech thee, as the Mother of our
-God: // beg thou peace and great mercy for the world
 
-Stavrotheotokion: Standing before the Cross of thy Son and God, / and
+*God:* // beg thou peace and great mercy for the world
+
+*Stavrotheotokion:* Standing before the Cross of thy Son and God, / and
 beholding His long-suffering, O pure Mother, / thou didst say, weeping: / “Woe is
 me, O my most sweet Child! / How is it that Thou dost unjustly suffer, O Word of
 God, // that Thou mightest save mankind?”
@@ -63,14 +61,14 @@ Otherwise, Theotokion: I flee to thy protection, O holy Virgin Theotokos, / for 
 know that through thee I shall obtain salvation; // for thou art able to help me, O
 pure one.
 
-Stavrotheotokion: Beholding Thee nailed to the Cross / and voluntarily accepting
+*Stavrotheotokion:* Beholding Thee nailed to the Cross / and voluntarily accepting
 suffering, O Jesus, / Thy Virgin Mother, O Master, / cried aloud: Woe is me, my
 sweet Child! / How is it that Thou dost endure unjustly inflicted wounds, / O Physician Who healeth the infirmities of mankind, / delivering all from corruption // in
 Thy tender compassion?
 
 > The Entrance. The Prokeimenon of the day. The Three Lessons if appointed:
 
-# THE READING IS FROM ISAIAH (43, 9-14; )
+## THE READING IS FROM ISAIAH (43, 9-14; )
 
 Thus saith the Lord: Let all the nations be gathered together, and let the people
 be assembled: who among them can declare this, and shew us former things? let them
@@ -86,7 +84,7 @@ Holy One of Israel; For your sake I have sent to Babylon, and have brought down 
 their nobles, and the Chaldeans, whose cry is in the ships. Thus saith the Lord. The
 Holy One of Israel
 
-# THE READING IS FROM THE WISDOM OF SOLOMON (3, 1-9)
+## THE READING IS FROM THE WISDOM OF SOLOMON (3, 1-9)
 
 The souls of the righteous are in the hands of God, and there shall no torment
 touch them. In the sight of the unwise they seemed to die, and their departure is
@@ -102,7 +100,7 @@ for ever. They that put their trust in Him shall understand the truth; and such 
 faithful in love shall abide with Him; for grace and mercy is to His saints and
 visitation for His elect.
 
-# THE READING IS FROM THE WISDOM OF SOLOMON (5, 15-23; 6, 1-3).
+## THE READING IS FROM THE WISDOM OF SOLOMON (5, 15-23; 6, 1-3).
 
 The righteous live unto the ages; their reward is also with the Lord, and the care
 of them is with the most High. Therefore shall they receive a glorious kingdom and a
@@ -122,7 +120,6 @@ that rule the people and glory in the multitude of nations, for power is given y
 the Lord and sovereignty from the Highest.
 
 > On the Aposticha, these Stichera, in Tone IV:
-
 > Spec. Mel.: “As one valiant among the martyrs ...,”
 
 Like most luminous stars / spiritually illumining / the firmament of the Church, /
@@ -130,7 +127,7 @@ ye illumine all of creation, / driving away the power of darkness / by the radia
 effulgence of your miracles, / wherefore we rejoice today / celebrating your radiant
 and holy memory, // O glorious Hieromartyrs.
 
-Verse: Thy priests be clothed with righteousness / and Thy righteous shall
+*Verse:* Thy priests be clothed with righteousness / and Thy righteous shall
 rejoice.
 
 Ye have appeared unto all to be equal in honor with the apostles / O holy
@@ -139,7 +136,7 @@ the inhuman tyrants, / but valiantly and earnestly preaching / the word of the S
 / ye endured a multitude of sufferings; / for which ye now enjoy the blessings of
 future rewards, // O most wise ones.
 
-Verse: Blessed is the man that feareth the Lord, / in His commandments shall
+*Verse:* Blessed is the man that feareth the Lord, / in His commandments shall
 he greatly delight.
 
 Completing thine honored service / unto Christ the Master, / ye offered
@@ -170,7 +167,7 @@ from pollution, / and cleanse, O pure one, the festering wounds of sin from my s
 / make steadfast my mind, / so that I, thy sinful and unprofitable servant, // may
 magnify thy might and thy great intercession.
 
-Stavrotheotokion: Seeing Christ, the Lover of mankind, / crucified and with His
+*Stavrotheotokion:* Seeing Christ, the Lover of mankind, / crucified and with His
 side pierced with a lance, / the most pure one lamented, crying aloud: / “What is this,
 O my Son ? / What have the ungrateful people rendered unto Thee / in return for all
 the good things Thou hast rendered unto them ?” / And yet thou dost show thy
@@ -199,7 +196,6 @@ Thy mercy from us, / but by the prayers of these saints // direct our life in pe
 > Glory ..., Both now ..., Theotokion or Stavrotheotokion:
 
 > After the 1st chanting of the Psalter, the Sessional Hymn, in Tone VIII:
-
 > Spec. Mel.: “Of the wisdom ...”:
 
 Imparting wisdom from the depths of your spiritual knowledge, / O holy ones, /
@@ -219,7 +215,6 @@ the virtues, / O thou incorrupt light-bearing one. / Drive away the clouds of th
 share in the never-waning light.
 
 > After the 2nd chanting of the Psalter, the Sessional Hymn, in Tone V:
-
 > Spec. Mel.: “The Co-beginningless Word ...”:
 
 Instructing your minds with apostolic discourses / and carefully tending the flocks
@@ -237,11 +232,11 @@ salvation and great mercy to the world.
 
 After the Polyeleos, the Megalynarion: We magnify you, O Hieromartyrs of
 Christ, and honor your holy memory, for ye pray for us to Christ our God.
-Verse: Hear this, all ye nations; give ear, all ye that inhabit the World
+
+*Verse:* Hear this, all ye nations; give ear, all ye that inhabit the World
 .
 
 > After the Polyeleos, the Sessional Hymn, in Tone I:
-
 > Spec. Mel.: “While the stone was sealed ...”:
 
 By your labors you cultivated the fruit of the knowledge of God, / uprooting
@@ -276,12 +271,12 @@ In the Holy Spirit, / every soul is quickened, / and, through cleansing, is exal
 *Prokeimenon, in Tone IV:* Precious in the sight of the Lord / is the death of
 His saints.
 
-Verse: What shall I render unto the Lord for all that He hath rendered unto
+*Verse:* What shall I render unto the Lord for all that He hath rendered unto
 me?
 
 Let every breath ...,
 
-# THE GOSPEL ACCORDING TO ST. MATTHEW (5: 14-19).
+## THE GOSPEL ACCORDING TO ST. MATTHEW (5: 14-19).
 
 The Lord said unto His disciples: Ye are the light of the world. A city that is set
 on an hill cannot be hid. Neither do men light a candle, and put it under a bushel, but
@@ -356,7 +351,6 @@ carrying the seal of your sufferings as martyrs.
 the mighty God who delivereth all mankind from the violence of the enemy.
 
 > The Sessional Hymn, in Tone VIII:
-
 > Spec. Mel.: “Of the divine faith ...”:
 
 Sanctified by the holy oil of unction, / ye have been revealed to your rational
@@ -371,7 +365,7 @@ Thou art our refuge and strength O Theotokos, / the mighty help of all the world
 / by thy supplications do thou protect thy servants from every want, // O thou who
 alone art blessed
 
-Stavrotheotokion: Having obtained the Cross of thy Son as a staff of strength, /
+*Stavrotheotokion:* Having obtained the Cross of thy Son as a staff of strength, /
 O Theotokos, / therewith we cast down the arrogance of the enemy, // and with love
 unceasingly magnify thee.
 
@@ -434,7 +428,6 @@ God.
 The Kontakion from the Typicon; if there be none, chant the following,
 
 > Kontakion In Tone III:
-
 > Spec. Mel.: “Today the Virgin ...”:
 
 We who have assembled today, / praise you in song as never-waning lights of the
@@ -516,7 +509,6 @@ His will sustaineth all things, pray thou unto Him as thy Son, that I may be del
 from all assaults of the enemy, and encompassed by His mercy, may be saved.
 
 > Exapostilarion in Tone III:
-
 > Spec. Mel.: “Hearken, O ye women ...”:
 
 This day hath been revealed as a special day set aside for us, / for it is a day in
@@ -530,7 +522,6 @@ pollution of my soul, / and grant, O maiden, that I may unceasingly pour forth t
 // which wither the streams of my passions.
 
 > On the Praises, these Stichera, in Tone IV:
-
 > Spec. Mel.: “As one valiant among the martyrs ...”:
 
 With sacred unction and the blood of martyrdom, / ye have drawn near to God, /
@@ -562,7 +553,8 @@ intercede in prayer before Him on our behalf.
 
 Taking up the cry of the Archangel Gabriel, let us say: / Rejoice, O Mother of
 God, / who hast given birth unto Christ, // the bestower of life upon the world!
-Stavrotheotokion: Beholding Thee O Lord Jesus, / nailed upon the cross and
+
+*Stavrotheotokion:* Beholding Thee O Lord Jesus, / nailed upon the cross and
 voluntarily accepting the passion, / the Virgin Mother cried aloud: / Woe is me, O my
 sweet Child! / how dost Thou wrongfully endure such wounds? / O compassionate
 Physician and healer of the infirmities of mankind, / Thou hast redeemed all from
@@ -630,12 +622,12 @@ called all to the heights of piety, / O holy Hieromartyrs. / Wherefore we cry un
 *Prokeimenon, in Tone VII:* Precious in the sight of the Lord / is the death of
 His saints.
 
-Verse: What shall I render unto the Lord for all that He hath rendered unto
+*Verse:* What shall I render unto the Lord for all that He hath rendered unto
 me?
 
-# THE EPISTLE OF ST. PAUL TO THE HEBREWS (8: 1-6)
+## THE EPISTLE OF ST. PAUL TO THE HEBREWS (8: 1-6)
 
-Brethren: The things which we have spoken this is the sum: We have such an
+*Brethren:* The things which we have spoken this is the sum: We have such an
 high priest, who is set on the right hand of the throne of the Majesty in the heavens;
 
 A minister of the sanctuary, and of the true tabernacle, which the Lord pitched, and
@@ -650,10 +642,10 @@ of a better covenant, which was established upon better promises.
 Alleluia, in Tone II: Thy priests shall be clothed with righteousness, and thy
 righteous shall rejoice.
 
-Verse: For the Lord hath elected Zion; He hath chosen Her to be a habitation
+*Verse:* For the Lord hath elected Zion; He hath chosen Her to be a habitation
 for Himself.
 
-# THE HOLY GOSPEL ACCORDING TO ST. LUKE (14:25-35)
+## THE HOLY GOSPEL ACCORDING TO ST. LUKE (14:25-35)
 
 At that time; a great multitude followed Jesus: and he turned, and said unto them,
 If any man come to me, and hate not his father, and mother, and wife, and children,

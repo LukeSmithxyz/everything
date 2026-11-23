@@ -2,12 +2,9 @@
 title: "Unmercenaries"
 worktitle: "The General Menaion"
 ---
-GENERAL VIGIL SERVICE TO
-
-THE UNMERCENARIES AND WONDER-WORKERS.
+<style>blockquote { color: darkred; font-style: italic;} em { color: darkred ;}</style>
 
 > On “Lord, I have cried ...,” the Stichera, in Tone IV:
-
 > Spec. Mel.: “Thou hast given a sign ...”:
 
 Like rivers filled to overflowing with spiritual water, / ye water creation with the
@@ -58,7 +55,7 @@ desiring to leave me childless and bereft of Thee, // my most beloved Child?”
 
 > The Entrance. The Prokeimenon of the day. The Three Lessons, if appointed:
 
-# THE READING IS FROM ISAIAH (43, 9-14; )
+## THE READING IS FROM ISAIAH (43, 9-14; )
 
 Thus saith the Lord: Let all the nations be gathered together, and let the people
 be assembled: who among them can declare this, and shew us former things? let them
@@ -74,7 +71,7 @@ Holy One of Israel; For your sake I have sent to Babylon, and have brought down 
 their nobles, and the Chaldeans, whose cry is in the ships. Thus saith the Lord. The
 Holy One of Israel
 
-# THE WISDOM OF SOLOMON (3, 1-9).
+## THE WISDOM OF SOLOMON (3, 1-9).
 
 The souls of the righteous are in the hands of God, and there shall no torment
 touch them. In the sight of the unwise they seemed to die, and their departure is
@@ -89,7 +86,7 @@ for ever. They that put their trust in Him shall understand the truth; and such 
 faithful in love shall abide with Him; for grace and mercy is to His saints and
 visitation for His elect.
 
-# THE READING FROM THE WISDOM OF SOLOMON (4, 7-15.)
+## THE READING FROM THE WISDOM OF SOLOMON (4, 7-15.)
 
 Though the righteous man happen to die, yet shall he rest in peace. For honorable
 age is not that which is so for a length of time, nor that which is measured by the
@@ -105,7 +102,6 @@ their hearts, that grace and mercy is with His saints, and that the Lord doth vi
 chosen ones.
 
 > On the Aposticha, the Stichera, in Tone I:
-
 > Spec. Mel.: “Of the heavenly orders ...”:
 
 With the rays of your miracles / O holy unmercenaries, / like most brilliant lamps
@@ -113,13 +109,14 @@ rendering the whole universe resplendent, / ye were deemed worthy to inherit hea
 through grace, / set forth like radiant stars / on account of the virtuousness of your
 holy lives.
 
-Verse: In the saints that are in His earth, hath the Lord been wondrous, / He
+*Verse:* In the saints that are in His earth, hath the Lord been wondrous, / He
 hath wrought all His desires in them.
 
 Abounding in richly-flowing miracles of grace, / O martyrs of the Lord, / ye
 appear as clouds rendering gentle rains, / with which you spiritually refresh all the
 earth / encouraging the faithful / to bring unto God praises of Orthodoxy.
-Verse: Behold now, what is so good or so joyous / as for brethren to dwell
+
+*Verse:* Behold now, what is so good or so joyous / as for brethren to dwell
 together in unity.
 
 Having truly received from God the art of healing pangs / of both soul and body,
@@ -148,11 +145,12 @@ thee with faith: / Rejoice, thou help, joy and protection of all, // and the sal
 our souls!
 
 Otherwise, Theotokion: O Theotokos, Queen of all, / thou praise of the
-Orthodox: / cast down the proud arrogance of the heretics, / and put to shame the
+
+*Orthodox:* / cast down the proud arrogance of the heretics, / and put to shame the
 countenances of those / who neither bow down before nor honor thy precious
 image, // O most pure one.
 
-Stavrotheotokion: Seeing Christ, the Lover of mankind, / crucified and with His
+*Stavrotheotokion:* Seeing Christ, the Lover of mankind, / crucified and with His
 side pierced with a lance, / the most pure one lamented, crying aloud: / “What is this,
 O my Son ? / What have the ungrateful people rendered unto Thee / in return for all
 the good things Thou hast rendered unto them ?” / And yet thou dost show thy
@@ -218,11 +216,10 @@ upon the earth // Rejoice, thou Bride unwedded!
 After the Polyeleos, the Megalynarion: We magnify you, O glorious wonderworkers (names), and honor your precious sufferings which ye have endured
 for Christ.
 
-Verse: Our God is our refuge and strength, a helper in afflictions which
+*Verse:* Our God is our refuge and strength, a helper in afflictions which
 mightily befall us.
 
 > After the Polyeleos, the Sessional Hymn, in Tone V:
-
 > Spec. Mel.: “The Co-beginningless Word ...”:
 
 The feast of the martyrs (names), / brightly shineth forth today, / for they dwell
@@ -253,12 +250,12 @@ In the Holy Spirit, / every soul is quickened, / and, through cleansing, is exal
 The Prokeimenon: In the saints that are in His earth, hath the Lord been
 wondrous, / He hath wrought all His desires in them.
 
-Verse: I beheld the Lord ever before me, for He is at my right hand that I
+*Verse:* I beheld the Lord ever before me, for He is at my right hand that I
 might not be shaken.
 
 Let every breath.
 
-# THE GOSPEL ACCORDING TO ST. MATTHEW (9: 36-38; 10: 5-8)
+## THE GOSPEL ACCORDING TO ST. MATTHEW (9: 36-38; 10: 5-8)
 
 At that time, when Jesus: saw the multitudes, he was moved with compassion on
 them, because they fainted, and were scattered abroad, as sheep having no shepherd.
@@ -337,7 +334,6 @@ throne, and the portal, that hath sprung forth from David, and who hath given bi
 to God incarnate.
 
 > The Sessional Hymn, in Tone IV:
-
 > Spec. Mel.: “Thou that wast of Thy free will”
 
 Treading under your feet the sweet things of this life, / and by grace joyfully
@@ -351,7 +347,8 @@ O Virgin Theotokos, / thou art an invincible wall for all Orthodox Christians. /
 For having recourse unto thee we remain unharmed / and in thee we have a sure
 intercessor for the forgiveness of our sins; / wherefore rendering thanks unto thee,
 we cry aloud! // Rejoice, O thou who art full of grace, the Lord is with thee.
-Stavrotheotokion: O most immaculate Virgin, / Mother of Christ God, / a sword
+
+*Stavrotheotokion:* O most immaculate Virgin, / Mother of Christ God, / a sword
 pierced thy most holy soul / when thou didst behold thy Son and God / crucified of
 His own will. / Him do thou never cease to entreat, O blessed one, // that He grant
 us the forgiveness of our transgressions.
@@ -418,7 +415,7 @@ Ye have received the grace of healing, / O holy and wonderworking Physicians; /
 and ye grant health to those in need. / Come and visit us, repulsing the assaults of all
 enemies, / and heal the world through your wonderworking.
 
-Ikos: The proclamations of the wise physicians pass all understanding and
+*Ikos:* The proclamations of the wise physicians pass all understanding and
 wisdom, and yet grant understanding to all, for having received grace from the most
 High, they mystically bestow healing; wherefore, we have been granted the grace to
 hymn them as God-bearing favorites of Christ, and ministers, who miraculously heal
@@ -484,7 +481,6 @@ send up hymns to the Almighty and devoutly bless you, O all-praised ones.
 all those who flee unto thee; we entreat thee to deliver us from our enemies.
 
 > Exapostilarion, in Tone III:
-
 > Spec. Mel.: “The heaven with stars ...”:
 
 O ye wonder-working beacons (names)! / having received from God the grace of
@@ -524,7 +520,7 @@ O all-hymned Theotokos, / the joy of all who sorrow, / the health of the disease
 / the peace of the persecuted, / the tranquility of the distressed, / intercession of the
 faithful, // save thy city and thy people.
 
-Stavrotheotokion: The most pure one seeing Thee hanging upon the cross / with
+*Stavrotheotokion:* The most pure one seeing Thee hanging upon the cross / with
 maternal tears cried aloud to Thee: / “O my Son and God, / O my sweetest Child, /
 how is it that Thou sufferest // such a shameful death?”
 
@@ -578,12 +574,13 @@ enemies, / and heal the world through your wonderworking.
 
 Prokeimenon, in Tone IV, (Psalm 15:3, 8) In the saints that are in His earth,
 hath the Lord been wondrous, / He hath wrought all His desires in them.
-Verse: I beheld the Lord ever before me, for He is at my right hand that I
+
+*Verse:* I beheld the Lord ever before me, for He is at my right hand that I
 might not be shaken.
 
-# THE EPISTLE TO THE ROMANS. (12:4-5, 15-21)
+## THE EPISTLE TO THE ROMANS. (12:4-5, 15-21)
 
-Brethren: Ye are the body of Christ, and members in particular. And God hath set
+*Brethren:* Ye are the body of Christ, and members in particular. And God hath set
 some in the church, first apostles, secondarily prophets, thirdly teachers, after that
 miracles, then gifts of healings, helps, governments, diversities of tongues. Are all
 apostles? are all prophets? are all teachers? are all workers of miracles? Have all the
@@ -603,8 +600,9 @@ Charity never faileth.
 Alleluia, in Tone II: Behold now, what is so good or so joyous as for brethren
 to dwell together in unity.
 
-Verse: For there the Lord hath commanded blessing and life for evermore.
-GOSPEL ACCORDING TO MATTHEW, § 34, (MT. 10: 1, 5-8)
+*Verse:* For there the Lord hath commanded blessing and life for evermore.
+
+## GOSPEL ACCORDING TO MATTHEW, § 34, (MT. 10: 1, 5-8)
 
 At that time, when Jesus had called unto Him His twelve disciples, He gave them
 power against unclean spirits, to cast them out, and to heal all manner of sickness and

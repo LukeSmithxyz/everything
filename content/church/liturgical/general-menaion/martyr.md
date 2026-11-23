@@ -2,10 +2,9 @@
 title: "Martyr"
 worktitle: "The General Menaion"
 ---
-THE GENERAL VIGIL SERVICE TO ONE MARTYR.
+<style>blockquote { color: darkred; font-style: italic;} em { color: darkred ;}</style>
 
 > On “Lord, I have cried ...,” the Stichera, in Tone I:
-
 > Spec. Mel.: “O all-praised martyrs ...”:
 
 O most blessed one, / comprehending with an upright and honorable heart / the
@@ -29,7 +28,7 @@ body / are defiled by transgressions? / What must I do to escape the insufferabl
 flames, / the unbreakable and eternal chains? / O all-immaculate one, / entreat thy
 Son before my end // to grant me the remission of sins.
 
-Stavrotheotokion: The Sovereign Lady, the unblemished ewe-lamb, / beholding
+*Stavrotheotokion:* The Sovereign Lady, the unblemished ewe-lamb, / beholding
 her Lamb upon the Cross, / bereft of form and comeliness, / lamenting, said: “Woe
 is me! / Whither hath Thy comeliness gone, O most Sweet One? / Where is Thy
 splendor? Where is the brilliant grace / of Thine image, // O my Son most beloved?”
@@ -55,7 +54,8 @@ Hypostases, / but known in two natures without commingling. / Him do thou
 beseech, O pure and most blessed one, // that our souls find mercy!
 Otherwise, Theotokion: We have come to know God / Who was incarnate of
 thee, / O Virgin Theotokos. // Him do thou entreat for the salvation of our souls.
-Stavrotheotokion: When, of old, the unblemished ewe-lamb and immaculate
+
+*Stavrotheotokion:* When, of old, the unblemished ewe-lamb and immaculate
 Sovereign Lady, / beheld her Lamb / upon the tree of the Cross, / she exclaimed
 maternally, and marveling cried aloud: / “O my Child most sweet, / what is this new
 and most strange sight I see? / How hath the thankless synagogue / betrayed Thee to
@@ -64,7 +64,7 @@ all? / Yet do I hymn Thine ineffable condescension, // O Word!”
 
 > The Entrance. The Prokeimenon of the day. The Three Lessons, if appointed.
 
-# THE READING IS FROM ISAIAH
+## THE READING IS FROM ISAIAH
 
 Thus saith the Lord: Let all the nations be gathered together, and let the people
 be assembled: who among them can declare this, and shew us former things? let them
@@ -80,7 +80,7 @@ Holy One of Israel; For your sake I have sent to Babylon, and have brought down 
 their nobles, and the Chaldeans, whose cry is in the ships. Thus saith the Lord. The
 Holy One of Israel
 
-# THE WISDOM OF SOLOMON
+## THE WISDOM OF SOLOMON
 
 The souls of the righteous are in the hands of God, and there shall no torment
 touch them. In the sight of the unwise they seemed to die, and their departure is
@@ -95,7 +95,7 @@ for ever. They that put their trust in Him shall understand the truth; and such 
 faithful in love shall abide with Him; for grace and mercy is to His saints and
 visitation for His elect.
 
-# THE READING FROM THE WISDOM OF SOLOMON
+## THE READING FROM THE WISDOM OF SOLOMON
 
 Though the righteous man happen to die, yet shall he rest in peace. For honorable
 age is not that which is so for a length of time, nor that which is measured by the
@@ -111,7 +111,6 @@ their hearts, that grace and mercy is with His saints, and that the Lord doth vi
 chosen ones.
 
 > On the Aposticha, these Stichera, in Tone IV:
-
 > Spec. Mel.: “As one valiant among the martyrs ...”:
 
 Even though callous tyrants gave thee over / to be subjected to the most cruel
@@ -121,14 +120,15 @@ renounce Christ, / neither didst thou offer sacrifice unto idols, / but endured 
 in another’s body, // awaiting future reward and the undying love of the Word of
 God.
 
-Verse: The righteous man shall flourish like a palm-tree; / like a cedar in
+*Verse:* The righteous man shall flourish like a palm-tree; / like a cedar in
 Lebanon shall he be multiplied.
 
 Raised up and cut asunder, / assaulted with stones, / wounded with iron
 instruments of torture / and executed with a sword; / thou didst remain steadfast, /
 affixing the gaze of thy soul upon the judicious Rock, / and wast thereby numbered /
 among the choirs of the angels, // and deemed worthy of the never-setting Light.
-Verse: They that are planted in the house of the Lord, / in the courts of our
+
+*Verse:* They that are planted in the house of the Lord, / in the courts of our
 God shall they blossom forth.
 
 Thy relics, O glorious (name), / grant healing of their senses, vanquishing of their
@@ -156,7 +156,8 @@ Lady, // the intercession, protection and salvation for our souls!
 Otherwise, Theotokion: O Theotokos, thou art the true vine / that hast budded
 forth for us the Fruit of life. / Thee do we entreat: / Pray thou, O Sovereign Lady,
 with the holy apostles, // that He have mercy upon our souls.
-Stavrotheotokion: The most pure one seeing Thee hanging upon the cross / with
+
+*Stavrotheotokion:* The most pure one seeing Thee hanging upon the cross / with
 maternal tears cried aloud to Thee: / “O my Son and God, / O my sweetest Child, /
 how is it that Thou sufferest // such a shameful death?”
 
@@ -185,7 +186,6 @@ souls. (Twice).
 > Glory ..., Both now ..., Theotokion or Stavrotheotokion:
 
 > After the 1st chanting of the Psalter, the Sessional Hymn, in Tone I:
-
 > Spec. Mel.: “The choir of angels ...”:
 
 Counting as naught / military honors upon the earth, / O great martyr (name), /
@@ -200,7 +200,6 @@ Mother of God / and after childbirth still truly Virgin; / for we sinners have t
 our protection; / we have thee as our salvation in misfortunes, // as the only allimmaculate one.
 
 > After the 2nd chanting of the Psalter, the Sessional Hymn, in Tone IV:
-
 > Spec. Mel.: “Thou hast appeared today ...”:
 
 Faithfully finishing thine earthly course, / thou hast vanquished all the might of
@@ -217,7 +216,7 @@ After the Polyeleos, the Megalynarion: We magnify thee, O holy martyr
 (name), and honor thy precious sufferings which thou didst endure for the
 sake of Christ.
 
-Verse: Our God is refuge and strength, a helper in afflictions which mightily
+*Verse:* Our God is refuge and strength, a helper in afflictions which mightily
 befall us.
 
 > After the Polyeleos, the Sessional Hymn, in Tone IV:
@@ -253,12 +252,12 @@ In the Holy Spirit, / every soul is quickened, / and, through cleansing, is exal
 The Prokeimenon: The righteous man shall flourish like a palm-tree; / like a
 cedar in Lebanon shall he be multiplied.
 
-Verse: They that are planted in the house of the Lord, in the courts of our
+*Verse:* They that are planted in the house of the Lord, in the courts of our
 God shall they blossom forth.
 
 Let every breath.
 
-# THE GOSPEL ACCORDING TO ST. LUKE, (12, 2-12).
+## THE GOSPEL ACCORDING TO ST. LUKE, (12, 2-12).
 
 The Lord said, there is nothing covered, that shall not be revealed; neither hid,
 that shall not be known. Therefore whatsoever ye have spoken in darkness shall be
@@ -348,7 +347,6 @@ whole of creation, thou hast appeared more honorable than the cherubim and
 seraphim, wherefore all generations, bless thee as is meet.
 
 > The Sessional Hymn, in Tone V:
-
 > Spec. Mel.: “The Co-beginningless Word ...”:
 
 Illumined with the radiance of the virtues / and adorned with the crown of
@@ -363,7 +361,7 @@ known in thee, O pure Ever-virgin, filleth my mind with awe and amazeth my
 thoughts. Thy glory hath spread over all, O Theotokos, unto the salvation of our
 souls.
 
-Stavrotheotokion: Through the Cross of thy Son, / O thou who art full of the
+*Stavrotheotokion:* Through the Cross of thy Son, / O thou who art full of the
 grace of God, / hath the deception of idolatry been utterly vanquished, / and the
 might of the demons hath fallen; / wherefore, we, the faithful, ever hymn and bless
 thee as is meet, // confessing thee to be the true Theotokos.
@@ -432,7 +430,6 @@ one.
 The Kontakion from the Typicon; but if there be none, chant the following:
 
 > Kontakion of the martyr, in Tone II:
-
 > Spec. Mel.: “Seeking the highest ...”:
 
 Thou hast been manifest by thy splendor / as a bright star announcing Christ, /
@@ -512,7 +509,6 @@ unharmed by the attacks of the enemy; // for thee alone do we have as our refuge
 need.
 
 > On the Praises, these Stichera, in Tone IV:
-
 > Spec. Mel.: “Called from above ...”:
 
 In psalms as well as in odes we praise thy glorious memory, O (name), / for thou
@@ -548,7 +544,7 @@ memory.
 Rejoice! O Virgin Theotokos, / for thou hast given birth to the King of heaven,
 // the Savior and Enlightener of our souls.
 
-Stavrotheotokion: The Sovereign Lady, the unblemished ewe-lamb, / beholding
+*Stavrotheotokion:* The Sovereign Lady, the unblemished ewe-lamb, / beholding
 her Lamb upon the Cross, / bereft of form and comeliness, / lamenting, said: “Woe
 is me! / Whither hath Thy comeliness gone, O most Sweet One? / Where is Thy
 splendor? Where is the brilliant grace / of Thine image, // O my Son most beloved?”
@@ -625,11 +621,11 @@ thou hast granted the faithful true light, / ever interceding // on behalf of us
 *Prokeimenon, in Tone VII:* The righteous man shall be glad in the Lord, / and
 shall hope in Him.
 
-Verse: Hearken, O God, unto my prayer, when I make supplication unto thee.
+*Verse:* Hearken, O God, unto my prayer, when I make supplication unto thee.
 
-THE SECOND EPISTLE TO TIMOTHY (2:1-10)
+## THE SECOND EPISTLE TO TIMOTHY (2:1-10)
 
-Brethren: Be strong in the grace that is in Christ Jesus. And the things that thou
+*Brethren:* Be strong in the grace that is in Christ Jesus. And the things that thou
 hast heard of me among many witnesses, the same commit thou to faithful men, who
 shall be able to teach others also. Thou therefore endure hardness, as a good soldier
 of Jesus Christ. No man that warreth entangleth himself with the affairs of this life;
@@ -645,10 +641,10 @@ Jesus with eternal Glory ...,
 Alleluia, in Tone IV: The righteous man shall flourish like a palm-tree; like a
 cedar in Lebanon shall he be multiplied.
 
-Verse: They that are planted in the house of the Lord, in the courts of our
+*Verse:* They that are planted in the house of the Lord, in the courts of our
 God shall they blossom forth.
 
-# THE HOLY GOSPEL ACCORDING TO ST. JOHN (15:17- 16:2)
+## THE HOLY GOSPEL ACCORDING TO ST. JOHN (15:17- 16:2)
 
 The Lord said unto His disciples: These things I command you, that ye love one
 another. If the world hate you, ye know that it hated me before it hated you. If ye

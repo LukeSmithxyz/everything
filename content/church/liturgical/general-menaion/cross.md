@@ -2,12 +2,9 @@
 title: "Cross"
 worktitle: "The General Menaion"
 ---
-THE GENERAL VIGIL SERVICE
-
-TO THE VENERATED AND LIFE-CREATING CROSS.
+<style>blockquote { color: darkred; font-style: italic;} em { color: darkred ;}</style>
 
 > On “Lord, I have cried ...,” the Stichera, in Tone VII:
-
 > Spec. Mel.: “Called from on high ...”:
 
 Today the divine multitude of the faithful rejoiceth; / for unto the ends of the
@@ -42,7 +39,7 @@ we pray: O Lord, grant that with the thief we may receive Thy kingdom!
 
 > The Entrance. The Prokeimenon of the day. The Three Lessons
 
-THE BOOK OF EXODUS (15, 22-27; 16, 1).
+## THE BOOK OF EXODUS (15, 22-27; 16, 1).
 
 Moses brought Israel from the Red Sea, and they went out, into the wilderness of
 Shur; and they went three days in the wilderness, and found no water. And when they
@@ -58,7 +55,8 @@ for I am the Lord that healeth thee. And they came to Elim, where were twelve we
 of water, and three score and ten palm trees; and they encamped there by the waters.
 And they took their jorney from Elim, and all the congregation of the children of
 Israel came unto the wilderness of Sin, which is between Elim and Sinai.
-THE BOOK OF PROVERBS (3, 11-18).
+
+## THE BOOK OF PROVERBS (3, 11-18).
 
 My son, despise not the chastening of the Lord; neither be weary of his
 correction; for whom the Lord loveth He correcteth, even as a Father the son in
@@ -72,7 +70,7 @@ and law and mercy she carrieth on her tongue. Her ways are ways of pleasantness,
 all her paths are peace. She is a tree of life to those who lay hold upon her and unto
 those that trust in her as in the Lord, she is steadfast.
 
-THE BOOK OF ISAIAH (60, 11-16).
+## THE BOOK OF ISAIAH (60, 11-16).
 
 Thus saith the Lord: thy gates shall be open continually; they shall not be shut
 day nor night, that men may bring unto thee the forces of the Gentiles, and that their
@@ -89,18 +87,18 @@ the riches of kings; and thou shalt know that I the Lord am thy Savior and thy
 Redeemer, the mighty One of Israel.
 
 > On the Aposticha, these Stichera, in Tone II:
-
 > Spec. Mel.: “O house of Ephratha ...”:
 
 With deified water O Word, / and Thy blood, / Thy Church / is brightly adorned
 like a bride, // praising the glory of the cross.
 
-Verse: Exalt ye the Lord our God, / and worship the footstool of His feet, for
+*Verse:* Exalt ye the Lord our God, / and worship the footstool of His feet, for
 He is holy.
 
 Let us bow down whilst exalting / the spear and the Cross, / the nails and other
 instruments / with which the life-bearing body of Christ // wast affixed to the cross.
-Verse: But God is our King before the ages, / He hath wrought salvation in
+
+*Verse:* But God is our King before the ages, / He hath wrought salvation in
 the midst of the earth.
 
 When Moses vanquished Amalek / holding his hands in the air, / he prefigured
@@ -153,11 +151,10 @@ After the Polyeleos, the Megalynarion: We magnify Thee, O Life-giver, Christ,
 and we venerate Thy holy Cross with which Thou hast delivered us from
 enslavement to the enemy.
 
-Verse: Judge them, O Lord, that do me injustice; war against them that war
+*Verse:* Judge them, O Lord, that do me injustice; war against them that war
 against me.
 
 > After the Polyeleos, the Sessional Hymn, in Tone VIII:
-
 > Spec. Mel.: “That which was secretly ordained ...”:
 
 In paradise a tree once made me aware of my nakedness, / for through eating
@@ -187,7 +184,7 @@ In the Holy Spirit, / every soul is quickened, / and, through cleansing, is exal
 *Prokeimenon, in Tone IV:* All the ends of the earth / have seen the salvation
 of our God.
 
-Verse: O Sing unto the Lord a new song, for the Lord hath wrought
+*Verse:* O Sing unto the Lord a new song, for the Lord hath wrought
 wondrous things.
 
 Let every breath ...,
@@ -229,8 +226,7 @@ haven of the assaulted, / victory in war, / establishment of the universe, / the
 of the infirm, / the resurrection of the dead, // have mercy on us.
 
 The Canon of the venerable and life-creating Cross, a composition of Gregory
-
-> the Sinaite, in Tone IV:
+the Sinaite, in Tone IV:
 
 ## ODE I
 
@@ -284,13 +280,12 @@ preservation of my mind.
 well as an unbecoming death; but as the Immortal One, He overturned the opposing
 forces of the enemy.
 
-Katavasia: The rod of Aaron is an image of this mystery, / for when it budded
+*Katavasia:* The rod of Aaron is an image of this mystery, / for when it budded
 forth it showed who should be priest. / So in the Church, that once was barren,
 / the wood of the Cross hath now budded forth, / filling her with strength and
 steadfastness
 
 > The Sessional Hymn, in Tone VIII:
-
 > Spec. Mel.: “That which was mystically commanded ...”:
 
 Of old, the form of the Cross mysteriously typified Joshua the son of Nun, /
@@ -323,7 +318,7 @@ from the depth of the passions.
 form of a Cross unto Him Who was lifted up upon the Cross, do thou now O Virgin,
 entreat Him on behalf of those who in faith pray unto thee.
 
-Katavasia: O Lord, I have heard the mystery of Thy dispensation: / I have
+*Katavasia:* O Lord, I have heard the mystery of Thy dispensation: / I have
 considered Thy works, / and I have glorified Thy Divinity.
 
 ## ODE V
@@ -347,7 +342,7 @@ Offspring do thou O Virgin destroy the revolt of those who deny the might of the
 Cross, and grant strength, cleansing, victory and help unto all right believing
 Orthodox Christians.
 
-Katavasia: O thrice-blessed Tree, on which Christ the king and Lord was
+*Katavasia:* O thrice-blessed Tree, on which Christ the king and Lord was
 stretched! / Through thee the beguiler fell, / who tempted mankind with the
 tree. / For he was caught in the trap set by God, / who was crucified upon
 thee in the flesh, / granting peace unto our souls.
@@ -374,14 +369,13 @@ No sooner was the Cross lifted, than the legions of the spirits of the air fell,
 when the Cross descended, all the impious ones feared seeing the power of the Cross
 flashing like lightning.
 
-Katavasia: Jonah stretched out his hands in the form of a Cross / within the
+*Katavasia:* Jonah stretched out his hands in the form of a Cross / within the
 belly of the sea monster, / plainly prefiguring the redeeming Passion. / Cast
 out from thence after three days, / he foreshadowed the marvelous
 Resurrection of Christ our God, / who was crucified in the flesh and
 enlightened the world / by His Rising on the third day.
 
 > The Kontakion, in Tone IV:
-
 > Spec. Mel.: “Thou that wast of Thine own will ...”:
 
 Thou who wast of Thine own will lifted upon the Cross, / grant unto Thy new
@@ -414,7 +408,8 @@ from the light of Thy grace and cast into darkness.
 *Theotokion:* O pure one, stretching thine arms Crosswise, unto Him Who had
 stretched His arms on the tree of the Cross and exalted our nature as well as slain the
 armies of the enemies, cease not to make supplication on our behalf.
-Katavasia: The senseless decree of the wicked tyrant, / breathing forth threats
+
+*Katavasia:* The senseless decree of the wicked tyrant, / breathing forth threats
 and blasphemy hateful to God, / confused the people. / Yet neither the fury of
 the wild beast nor the roaring of the fire could frighten the three children: /
 but standing together in the flame, / fanned by the wind that brought
@@ -444,7 +439,8 @@ Church.
 It is the tree of life and of salvation, the tree of immortality, the tree of
 knowledge, the thrice-beloved tree, incorruptible and inexhaustible threefold Cross,
 the honored tree, for it doth bear the image of the Thrice-Hypostatic Trinity.
-Katavasia: O ye children, equal in number to the Trinity, bless ye God the
+
+*Katavasia:* O ye children, equal in number to the Trinity, bless ye God the
 Father and creator; sing ye the praises of the Word who descended and
 changed the fire to dew; and exalt ye above all for ever the most Holy Spirit,
 who giveth life unto all.
@@ -473,7 +469,8 @@ Rejoice, protection of our lives, O abundantly hymned Cross of the Lord.
 power of Thine image subdue the demons, drive away mine enemies, destroy the
 passions and grant me blessings, life and strength through the co-operation of the
 Holy Spirit and the honored supplications of the most pure one.
-Katavasia: O Theotokos, thou art a mystical Paradise, / who untilled brought
+
+*Katavasia:* O Theotokos, thou art a mystical Paradise, / who untilled brought
 forth Christ. / by Whom the life-giving Tree of the Cross hath been planted
 upon the earth: / Therefore celebrating its exaltation on this day, / Him do we
 worship / and thee do we magnify.
@@ -485,7 +482,6 @@ Church; / the Cross is the might of kings; / the Cross is the foundation of the
 faithful; / the Cross is the glory of angels // and the scourge of demons. (Thrice)
 
 > On the Praises, these Stichera, in Tone I:
-
 > Spec. Mel.: “Joy of the ranks of heaven ...”:
 
 The venerable Cross prepareth the way into heaven / unto all who adore it with
@@ -569,11 +565,11 @@ We venerate Thy Cross, O Master, / and we glorify Thy holy Resurrection!
 *Prokeimenon, in Tone VII:* Exalt ye the Lord our God, / and worship the
 footstool of His feet, for He is holy.
 
-Verse: The Lord is King let the people rage.
+*Verse:* The Lord is King let the people rage.
 
-THE 1ST EPISTLE OF ST. PAUL TO THE CORINTHIANS (1: 18-24)
+## THE 1ST EPISTLE OF ST. PAUL TO THE CORINTHIANS (1: 18-24)
 
-Brethren: The preaching of the cross is to those who perish foolishness; but unto
+*Brethren:* The preaching of the cross is to those who perish foolishness; but unto
 us which are saved it is the power of God. For it is written, I will destroy the wisdom
 of the wise, and will bring to nothing the understanding of the prudent. Where is the
 wise? where is the scribe? where is the disputer of this world? hath not God made
@@ -587,10 +583,10 @@ of God, and the wisdom of God
 Alleluia, in Tone I: Remember thy congregation, which thou hast purchased
 from the beginning.
 
-Verse: But God is our King before the ages; He hath wrought salvation in the
+*Verse:* But God is our King before the ages; He hath wrought salvation in the
 midst of the earth.
 
-# THE HOLY GOSPEL ACCORDING TO ST. JOHN (19:6-11,13-20,25-28,31-35)
+## THE HOLY GOSPEL ACCORDING TO ST. JOHN (19:6-11,13-20,25-28,31-35)
 
 At That time, the chief priests and leaders of the Jews agreed to put Jesus to death
 and brought Him before Pilate saying: Crucify, crucify him. Pilate saith unto them,

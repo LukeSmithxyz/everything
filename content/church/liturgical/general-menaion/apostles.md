@@ -2,10 +2,9 @@
 title: "Apostles"
 worktitle: "The General Menaion"
 ---
-THE VIGIL SERVICE COMMON TO TWO OR MORE APOSTLES.
+<style>blockquote { color: darkred; font-style: italic;} em { color: darkred ;}</style>
 
 > On “Lord I have cried ...,” the Stichera, in Tone IV:
-
 > Spec. Mel.: “As one valiant among the martyrs ...”:
 
 As eyewitnesses and ones who testified / of the incarnation of the Word, / O
@@ -31,7 +30,7 @@ Rejoice, O tender ray of most immaculate and resplendent golden light / illumini
 the ends of the earth, / and revealing unto the faithful / the never-waning uncreated
 Light.
 
-Stavrotheotokion: The most pure one, / beholding Christ, the lover of mankind,
+*Stavrotheotokion:* The most pure one, / beholding Christ, the lover of mankind,
 crucified, / His side pierced by a lance, / cried out, lamenting: / “What is this, O my
 Son? / How have these thankless people rewarded Thee / for the good things Thou
 hast done for them? / Dost Thou hasten to leave me childless, O most Beloved? // I
@@ -62,16 +61,16 @@ Otherwise, Theotokion: O all-pure Virgin Theotokos, / accept the supplications
 us of thy servants, / and pray without ceasing that we may be granted // peace and
 the remission of our sins.
 
-Stavrotheotokion: O Lord, when the sun beheld Thee, / who art the Sun of
+*Stavrotheotokion:* O Lord, when the sun beheld Thee, / who art the Sun of
 righteousness, / hanging upon the tree of the cross, it hid its rays, / transforming light
 into darkness, / and the moon did likewise, / while Thy Mother the all-mmaculate
 Virgin, // was sorely wounded in the depths of her soul.
 
 > The Entrance. The Prokeimenon of the day. The Three Lessons, if appointed.
 
-THE FIRST GENERAL EPISTLE OF ST. PETER (1:3-9)
+## THE FIRST GENERAL EPISTLE OF ST. PETER (1:3-9)
 
-Brethren: Blessed be the God and Father of our Lord Jesus Christ, which
+*Brethren:* Blessed be the God and Father of our Lord Jesus Christ, which
 according to his abundant mercy hath begotten us again unto a lively hope by the
 resurrection of Jesus Christ from the dead, To an inheritance incorruptible, and
 undefiled, and that fadeth not away, reserved in heaven for you, Who are kept by the
@@ -82,7 +81,8 @@ than of gold that perisheth, though it be tried with fire, might be found unto p
 and honor and glory at the appearing of Jesus Christ: Whom having not seen, ye love;
 in whom, though now ye see (him) not, yet believing, ye rejoice with joy unspeakable
 and full of glory: Receiving the end of your faith, (even) the salvation of (your) souls..
-THE FIRST GENERAL EPISTLE OF ST. PETER (1:13-19)
+
+## THE FIRST GENERAL EPISTLE OF ST. PETER (1:13-19)
 
 Wherefore gird up the loins of your mind, be sober, and hope to the end for the
 grace that is to be brought unto you at the revelation of Jesus Christ; As obedient
@@ -95,7 +95,7 @@ corruptible things, a silver and gold, from your vain conversation received by
 tradition from your Fathers; But with the precious blood of Christ, as of a lamb
 without blemish and without spot:
 
-THE FIRST GENERAL EPISTLE OF ST. PETER (2:11-24)
+## THE FIRST GENERAL EPISTLE OF ST. PETER (2:11-24)
 
 Dearly beloved, I beseech you as strangers and pilgrims, abstain from fleshly lusts,
 which war against the soul; Having your conversation honest among the Gentiles:
@@ -119,19 +119,19 @@ self bare our sins in his own body on the tree, that we, being dead to sins, sho
 unto righteousness.
 
 > On the Aposticha, these Stichera, in Tone VI:
-
 > Spec. Mel.: “On the third day ...”:
 
 O ye disciples of Christ, / theologians and seers of God, / ye were shown to be
 ministers / of the great mysteries of God, / and having received the grace of healing,
 // ye cure the infirmities of all mankind.
 
-Verse: Their sound hath gone forth into all the earth / and their words unto
+*Verse:* Their sound hath gone forth into all the earth / and their words unto
 the ends of the world.
 
 Ye are great refuges / and shelters for our souls, / and vanquishers of evil spirits,
 / O apostles of the Lord / and God-seers; // wherefore we ever honor you.
-Verse: The heavens declare the glory of God, / and the firmament
+
+*Verse:* The heavens declare the glory of God, / and the firmament
 proclaimeth the work of His hands.
 
 O ye, blessed apostles of God, / deliver from every attack / and all machinations
@@ -158,7 +158,8 @@ our souls!
 
 Otherwise, Theotokion: Having thee O Theotokos as our hope and intercession,
 / we fear not the assaults of the adversary, // for thou dost save our souls.
-Stavrotheotokion: A sword pierced through thy heart, / as Simeon foretold, O
+
+*Stavrotheotokion:* A sword pierced through thy heart, / as Simeon foretold, O
 most pure Lady, / when thou didst behold Him Who shone forth from thee /
 ineffably raised up upon the Cross / by the iniquitous ones, as one condemned, /
 given vinegar and gall to drink, / His side pierced, His hands and feet nailed; / and,
@@ -184,7 +185,6 @@ unto our souls. (Twice).
 > Glory ..., Both now ..., Theotokion or Stavrotheotokion:
 
 > After the 1st chanting of the Psalter, the Sessional Hymn, in Tone I:
-
 > Spec. Mel.: “Thy sepulcher O Savior ...”:
 
 The spiritual choir of apostles / of the Most High God / have been mystically
@@ -199,7 +199,6 @@ God, the holy cloud, the undefiled tabernacle, the God-pleasing table, the palac
 the King Most High, the all-splendid and impassable gate.
 
 > After the 2nd chanting of the Psalter, the Sessional Hymn, in Tone IV:
-
 > Spec. Mel.: “Thou hast appeared today ...”
 
 Like unto stars on high, / O apostles, ye illumine all with resplendent beams of
@@ -214,11 +213,10 @@ After the Polyeleos, the Megalynarion: We magnify you, O holy apostles of
 Christ, ye who have enlightened the whole world with your teachings and
 brought all the ends of the Earth unto Christ.
 
-Verse: The heavens declare the glory of God, and the firmament proclaimeth
+*Verse:* The heavens declare the glory of God, and the firmament proclaimeth
 the work of His hands.
 
 > After the Polyeleos, the Sessional Hymn, in Tone III:
-
 > Spec. Mel.: “Of the divine ...”:
 
 Ye, divine trumpets of the Comforter, / uttering the inspiring words of salvation,
@@ -252,12 +250,12 @@ In the Holy Spirit, / every soul is quickened, / and, through cleansing, is exal
 The Prokeimenon: Their sound hath gone forth into all the earth / and their
 words unto the ends of the world.
 
-Verse: The heavens declare the glory of God, and the firmament proclaimeth
+*Verse:* The heavens declare the glory of God, and the firmament proclaimeth
 the work of His hands.
 
 Let every breath.
 
-# THE GOSPEL ACCORDING TO ST. MATTHEW (9, 36-38; 10, 1-8)
+## THE GOSPEL ACCORDING TO ST. MATTHEW (9, 36-38; 10, 1-8)
 
 At that time Jesus: saw the multitudes, he was moved with compassion on them,
 because they fainted, and were scattered abroad, as sheep having no shepherd. Then
@@ -342,7 +340,6 @@ ones, you now preserve us who with love honor you.
 seedlessly taking flesh of thee, He was revealed unto us.
 
 > The Sessional Hymn, in Tone VIII:
-
 > Spec. Mel.: “Of the Wisdom ...”:
 
 With the net of divine words / you caught the rational fish / bringing them as
@@ -362,7 +359,7 @@ and of angels, / worthily glorify thine all-holy birthgiving, / and together we 
 to thee: / Entreat Christ God to grant forgiveness of sins // unto those who with
 faith worship thine all-holy Offspring.
 
-Stavrotheotokion: Upon beholding the Lamb, Shepherd and Redeemer / upon
+*Stavrotheotokion:* Upon beholding the Lamb, Shepherd and Redeemer / upon
 the Cross, / the ewe-lamb exclaimed weeping, bitterly lamenting, and crying aloud: /
 “The world rejoiceth, having received deliverance through Thee, / but my womb
 doth burn, beholding Thy crucifixion, / which Thou hast endured in Thy merciful
@@ -517,7 +514,6 @@ salvation, beseech our God Who assumed flesh from thee, that He save the world
 from falsehood, evil circumstances and suffering.
 
 > On the Praises, the Stichera, in Tone VIII:
-
 > Spec. Mel.: “O Lord, though Thou didst stand before the judgment seat ...”:
 
 O Lord, Thou hast illumined Thine apostles / with the effulgence of the
@@ -546,7 +542,7 @@ granaries, / preserving them in all richness for the Immortal Shepherd.
 Having thee O Theotokos as our hope and intercession, / we fear not the assaults
 of the adversary, // for thou dost save our souls.
 
-Stavrotheotokion: The most pure one, / beholding Christ, the lover of mankind,
+*Stavrotheotokion:* The most pure one, / beholding Christ, the lover of mankind,
 crucified, / His side pierced by a lance, cried out, lamenting: / “What is this, O my
 Son? / How have these thankless people rewarded Thee / for the good things Thou
 hast done for them? / Dost Thou hasten to leave me childless, O most Beloved? // I
@@ -617,12 +613,12 @@ be granted great mercy / and the remission of our sins.
 The Prokeimenon: Their sound hath gone forth into all the earth / and their
 words unto the ends of the world.
 
-Verse: The heavens declare the glory of God, and the firmament proclaimeth
+*Verse:* The heavens declare the glory of God, and the firmament proclaimeth
 the work of His hands.
 
-THE 1st EPISTLE OF ST. PAUL TO THE CORINTHIANS (4: 9-16)
+## THE 1st EPISTLE OF ST. PAUL TO THE CORINTHIANS (4: 9-16)
 
-Brethren: I think that God hath set forth us the apostles last, as it were appointed
+*Brethren:* I think that God hath set forth us the apostles last, as it were appointed
 to death: for we are made a spectacle unto the world, and to angels, and to men. We
 are fools for Christ’s sake, but ye are wise in Christ; we are weak, but ye are strong; ye
 are honorable, but we are despised. Even unto this present hour we both hunger, and
@@ -637,9 +633,9 @@ gospel. Wherefore I beseech you, be ye followers of me.
 Alleluia, in Tone I: The heavens shall confess thy wonders, O Lord, thy truth
 in the Church of the saints.
 
-Verse: God, Who is glorified in the council of the saints.
+*Verse:* God, Who is glorified in the council of the saints.
 
-# THE GOSPEL ACCORDING TO ST. LUKE (10:1-16)
+## THE GOSPEL ACCORDING TO ST. LUKE (10:1-16)
 
 At that time: The Lord appointed other seventy also, and sent them two and two
 before his face into every city and place, whither he himself would come. Therefore

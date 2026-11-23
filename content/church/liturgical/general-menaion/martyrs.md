@@ -2,10 +2,9 @@
 title: "Martyrs"
 worktitle: "The General Menaion"
 ---
-THE GENERAL VIGIL SERVICE TO TWO OR MANY MARTYRS.
+<style>blockquote { color: darkred; font-style: italic;} em { color: darkred ;}</style>
 
 > On “Lord, I have cried ...,” the Stichera, in Tone IV:
-
 > Spec. Mel.: “As one valiant among the martyrs ...”:
 
 Enlightened by the Holy Spirit, / O all-famed martyrs, / ye have taken up the
@@ -32,7 +31,7 @@ upon the rock of the virtues, / subduing the attacks of the enemy. / Vouchsafe t
 may obey the commandments / of thy Son and our God, / that I may receive
 forgiveness // on the Day of Judgment.
 
-Stavrotheotokion: Seeing Christ, the Lover of mankind, / crucified and with His
+*Stavrotheotokion:* Seeing Christ, the Lover of mankind, / crucified and with His
 side pierced with a lance, / the most pure one lamented, crying aloud: / “What is this,
 O my Son ? / What have the ungrateful people rendered unto Thee / in return for all
 the good things Thou hast rendered unto them ?” / And yet thou dost show thy
@@ -64,14 +63,14 @@ Otherwise, Theotokion: O Theotokos, / thou intercessor for all who pray to thee:
 hope. / Pray thou unto Him who was born from thee, // on behalf of thine
 unprofitable servants.
 
-Stavrotheotokion: Upon beholding Him Who was born of thee / hanging upon
+*Stavrotheotokion:* Upon beholding Him Who was born of thee / hanging upon
 the Tree, O all-immaculate one, / thou didst exclaim, crying aloud: / “O my Child
 most desired, / whither hath the luminous beauty of Thee faded, // Thou Who hast
 adorned the human race?”
 
 > The Entrance. The Prokeimenon of the day. The Three Lessons, if appointed:
 
-# THE READING IS FROM ISAIAH
+## THE READING IS FROM ISAIAH
 
 Thus saith the Lord: Let all the nations be gathered together, and let the people
 be assembled: who among them can declare this, and shew us former things? let them
@@ -87,7 +86,7 @@ Holy One of Israel; For your sake I have sent to Babylon, and have brought down 
 their nobles, and the Chaldeans, whose cry is in the ships. Thus saith the Lord. The
 Holy One of Israel
 
-# THE READING IS FROM THE WISDOM OF SOLOMON
+## THE READING IS FROM THE WISDOM OF SOLOMON
 
 The souls of the righteous are in the hands of God, and there shall no torment
 touch them. In the sight of the unwise they seemed to die, and their departure is
@@ -103,7 +102,7 @@ for ever. They that put their trust in Him shall understand the truth; and such 
 faithful in love shall abide with Him; for grace and mercy is to His saints and
 visitation for His elect.
 
-# THE READING IS FROM FROM THE WISDOM OF SOLOMON
+## THE READING IS FROM FROM THE WISDOM OF SOLOMON
 
 The righteous live unto the ages; their reward is also with the Lord, and the care
 of them is with the most High. Therefore shall they receive a glorious kingdom and a
@@ -123,7 +122,6 @@ that rule the people and glory in the multitude of nations, for power is given y
 the Lord and sovereignty from the Highest.
 
 > On the Aposticha, the Stichera, in Tone IV:
-
 > Spec. Mel.: “As one valiant among the martyrs ...”:
 
 O all-famed martyrs, / resplendent as stars / ye illumine with divine effulgence /
@@ -131,7 +129,7 @@ all the ends of the earth, / delivering all from the gloom of the demons, / and 
 pernicious passions and misfortunes; / wherefore gathered together today / we praise
 your bright, and radiant, // and holy commemoration.
 
-Verse: The righteous cried, and the Lord heard them, / and He delivered them
+*Verse:* The righteous cried, and the Lord heard them, / and He delivered them
 out of all their tribulations.
 
 Let the wondrous, divine and most wise martyrs / be honored with sacred odes; /
@@ -139,7 +137,7 @@ for with the spilling of their blood / they have rightly confessed / the uncreat
 Trinity / before their enemies, / thereby extinguishing the falsehood of paganism //
 and thus received never fading glory.
 
-Verse: Many are the tribulations of the righteous, / and the Lord shall deliver
+*Verse:* Many are the tribulations of the righteous, / and the Lord shall deliver
 them out of them all.
 
 The lawless tyrant, unlawfully commanded you, / O blessed and greatly renowned
@@ -166,7 +164,8 @@ pure one, / who art truly the Mother of God and Virgin: / Rejoice!, O Sovereign
 Lady, // the intercession, protection and salvation for our souls!
 Otherwise, Theotokion: We have come to know God / Who was incarnate of
 thee, / O Virgin Theotokos. // Him do thou entreat for the salvation of our souls.
-Stavrotheotokion: Seeing Thee nailed to the Tree, / the most pure one cried aloud
+
+*Stavrotheotokion:* Seeing Thee nailed to the Tree, / the most pure one cried aloud
 / “O my Son and God, / what is this exceedingly glorious and strange report of Thee,
 / that Thou dost endure // in Thy great mercy?”
 
@@ -193,7 +192,6 @@ Lover of mankind. (Twice)
 > Glory ..., Both now ..., Theotokion or Stavrotheotokion:
 
 > After the 1st chanting of the Psalter, the Sessional Hymn, in Tone IV:
-
 > Spec. Mel.: “Thou hast appeared ...”:
 
 O divine martyrs, / warriors of Christ, / brightest stars of the noetic firmament, /
@@ -206,7 +204,6 @@ Virgin, / cease thou never to make supplication to Him / Who is the Lover of
 mankind, // that He save thy servants.
 
 > After the 2nd chanting of the Psalter, the Sessional Hymn, in Tone IV:
-
 > Spec. Mel.: “Having been lifted up ...”:
 
 O wondrous spiritual athletes / ye passed through fire and water, / manfully
@@ -223,7 +220,8 @@ every threat, for thou art our aid.
 
 After the Polyeleos, the Megalynarion: We magnify you, O holy martyrs, and
 honor your precious sufferings which ye have endured for Christ.
-Verse: Our God is our refuge and strength, a helper in afflictions which
+
+*Verse:* Our God is our refuge and strength, a helper in afflictions which
 mightily befall us.
 
 > After the Polyeleos, the Sessional Hymn, in Tone VIII:
@@ -264,7 +262,8 @@ In the Holy Spirit, / every soul is quickened, / and, through cleansing, is exal
 > Prokeimenon, in Tone IV:
 
 The Prokeimenon: The righteous cried, / and the Lord heard them.
-Verse: Many are the tribulations of the righteous, and the Lord shall deliver
+
+*Verse:* Many are the tribulations of the righteous, and the Lord shall deliver
 them out of them all.
 
 If it be the Forty martyrs, this Prokeimenon should be sung:
@@ -274,10 +273,10 @@ If it be the Forty martyrs, this Prokeimenon should be sung:
 The Prokeimenon: We went through fire and through water, / and Thou didst
 bring us out into refreshment.
 
-Verse: Thou hast proved us, O God, even as silver is tried by fire.
+*Verse:* Thou hast proved us, O God, even as silver is tried by fire.
 Let every breath.
 
-# THE GOSPEL ACCORDING TO ST. LUKE (21: 12-19)
+## THE GOSPEL ACCORDING TO ST. LUKE (21: 12-19)
 
 The Lord said unto His disciples: Men shall lay their hands on you, and persecute
 you, delivering you up to the synagogues, and into prisons, being brought before
@@ -355,7 +354,6 @@ stones, while unflinchingly preserving your Orthodoxy.
 martyrs, unto Him Who came forth from thy womb, that those who hymn thee O allimmaculate one, be delivered from the deceptions of the evil one.
 
 > The Sessional Hymn, in Tone IV:
-
 > Spec. Mel.: “Having been lifted up ...”:
 
 O valiant warriors of Christ, / having fought the good fight, / ye utterly drowned
@@ -371,7 +369,7 @@ fervently hymn thee, / ever entreating thee for mercy, / and crying unto thee: /
 most holy Virgin, / deliver us from enemies visible and invisible / and from every
 threat of the adversary, // for thou art our intercessor.”
 
-Stavrotheotokion: The Virgin and ewe-lamb, beholding on the Cross the Lamb
+*Stavrotheotokion:* The Virgin and ewe-lamb, beholding on the Cross the Lamb
 Who was born of her without seed, His side pierced by a spear, was wounded and
 with grief and cried aloud, exclaiming amid her pain: “What is this new mystery? How
 is it that Thou diest Who alone art Lord of life? Wherefore, arise, raising up our fallen
@@ -433,7 +431,6 @@ down to us.
 The Kontakion from the Typicon; but if there be none, chant the following:
 
 > Kontakion of the martyrs, in Tone VIII:
-
 > Spec. Mel.: “Seeking the highest ...”:
 
 O divine martyrs, ye have appeared as bright beacons, / illumining the whole of
@@ -519,7 +516,6 @@ By thy mighty protection, O pure one, / preserve all of us, thy servants unharme
 need.
 
 > On the Praises, these Stichera, in Tone VIII:
-
 > Spec. Mel.: “O most glorious wonder ...”:
 
 O all-famed martyrs of Christ! / Having counted as of no account, / a violent
@@ -552,7 +548,8 @@ our souls.
 
 Taking up the cry of the Archangel Gabriel, let us say: / Rejoice, O Mother of
 God, / who hast given birth unto Christ, // the bestower of life upon the world!
-Stavrotheotokion: O Lord, when the sun beheld Thee, / who art the Sun of
+
+*Stavrotheotokion:* O Lord, when the sun beheld Thee, / who art the Sun of
 righteousness, / hanging upon the tree of the cross, it hid its rays, / transforming light
 into darkness, / and the moon did likewise, / while Thy Mother the all-immaculate
 Virgin, // was sorely wounded in the depths of her soul.
@@ -631,12 +628,12 @@ profound darkness of ignorance.
 *Prokeimenon:* In the saints who are in His earth, hath the Lord been
 wondrous, / He hath wrought all His desires in them.
 
-Verse: I beheld the Lord ever before me, for He is at my right hand, that I
+*Verse:* I beheld the Lord ever before me, for He is at my right hand, that I
 might not be shaken.
 
-# THE EPISTLE TO THE ROMANS (8:28-39)
+## THE EPISTLE TO THE ROMANS (8:28-39)
 
-Brethren: We know that all things work together for good to them that love God,
+*Brethren:* We know that all things work together for good to them that love God,
 to them who are the called according to his purpose. For whom he did foreknow, he
 also did predestinate (to be) conformed to the image of his Son, that he might be the
 firstborn among many brethren. Moreover whom he did predestinate, them he also
@@ -658,10 +655,10 @@ which is in Christ Jesus our Lord.
 Alleluia, in Tone IV: The righteous cried, and the Lord heard them, and He
 delivered them out of all their tribulations.
 
-Verse: Many are the tribulations of the righteous, and the Lord shall deliver
+*Verse:* Many are the tribulations of the righteous, and the Lord shall deliver
 them out of them all.
 
-# THE GOSPEL ACCORDING TO ST. MATTHEW (10:16-22)
+## THE GOSPEL ACCORDING TO ST. MATTHEW (10:16-22)
 
 Jesus spake unto his Disciples saying: Behold, I send you forth as sheep in the
 midst of wolves: be ye therefore wise as serpents, and harmless as doves. But beware

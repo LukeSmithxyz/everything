@@ -2,10 +2,9 @@
 title: "Heirarch"
 worktitle: "The General Menaion"
 ---
-THE GENERAL VIGIL SERVICE TO ONE HIERARCH.
+<style>blockquote { color: darkred; font-style: italic;} em { color: darkred ;}</style>
 
 > On “Lord, I have cried ...,” the Stichera, in Tone VI:
-
 > Spec. Mel.: “Having set aside ...”:
 
 Thou wast revealed as wholly consecrated and God-bearing, / vested with the
@@ -34,7 +33,8 @@ thou incorrupt Bride! / Rejoice, divine chariot of the King of all! / Rejoice, t
 like tongs / bore the Ember of immaterial fire in thine arms, / O new paradise, /
 garden enclosed, / divine and most radiant table, / undefiled dove, / throne of the
 Most High, / noetic bed of God, // whom the Holy Spirit covered, O maiden!
-Stavrotheotokion: When, of old, the unblemished ewe-lamb and immaculate Lady,
+
+*Stavrotheotokion:* When, of old, the unblemished ewe-lamb and immaculate Lady,
 / beheld her Lamb / upon the tree of the Cross, / she exclaimed maternally, and
 marveling cried aloud: / “O my Child most sweet, / what is this new and most
 strange sight I see? / How hath the thankless synagogue / betrayed Thee to the judgment-seat of Pilate / and condemned Thee to death, / Who art the Life of all? / Yet I
@@ -64,7 +64,8 @@ that our souls find mercy!
 
 Otherwise, Theotokion: Thy shelter, O Virgin Theotokos, / is spiritual healing; /
 for, having recourse unto it, // we are delivered from spiritual infirmities.
-Stavrotheotokion: “I cannot bear O my child, to behold Thee, / Who dost grant
+
+*Stavrotheotokion:* “I cannot bear O my child, to behold Thee, / Who dost grant
 life and health unto all, / hung upon the Tree; / for of old those who were lulled into
 the sleep of death / by the fruit of the transgression / have been awakened / and
 granted divine and salvific life and health by Thee”, / thus said the Virgin weeping, //
@@ -72,7 +73,7 @@ whom we magnify.
 
 > The Entrance. The Prokeimenon of the day. The Three Lessons if appointed:
 
-# THE READING IS FROM BOOK OF PROVERBS
+## THE READING IS FROM BOOK OF PROVERBS
 
 The memory of the just is praised, and the blessing of the Lord is upon his head.
 Blessed is the man who hath found wisdom, and the mortal who knoweth prudence.
@@ -93,7 +94,7 @@ righteousness; there is nothing in them wrong or perverse. They are all evident 
 those that understand, and right to those that find knowledge. For I will instruct you
 in truth, that your hope may be in the Lord, and ye may be filled with the Spirit
 
-# THE READING IS FROM THE BOOK OF PROVERBS
+## THE READING IS FROM THE BOOK OF PROVERBS
 
 The mouth of the righteous droppeth wisdom: but the tongue of the unjust shall
 perish. The lips of just men drop grace: but the mouth of the ungodly is perverse.
@@ -114,7 +115,7 @@ blessing of the upright a city shall be exalted, but by the mouths of ungodly me
 overthrown. A man void of understanding sneereth at his fellow citizens: but a
 sensible man is quiet.
 
-# THE READING IS FROM THE WISDOM OF SOLOMON.
+## THE READING IS FROM THE WISDOM OF SOLOMON.
 
 When the righteous is praised, the people will rejoice; for his memory is
 immortality, because it is known with God, and with men; for his soul pleased the
@@ -156,12 +157,12 @@ adornment of hierarchs, / true rule of the monastic life of fasting, / thou hast
 appeared as a defender of the faith // delivering our souls from the destructive wiles
 of the enemy.
 
-Verse: Precious in the sight of the Lord / is the death of His saints.
+*Verse:* Precious in the sight of the Lord / is the death of His saints.
 O hierarch (name), / having received from God great might, / by thy prayer thou
 dost expel the attacks of a multitude of evil spirits, // from all those who with faith
 have recourse unto thee.
 
-Verse: What shall I render unto the Lord / for all that he hath rendered unto
+*Verse:* What shall I render unto the Lord / for all that he hath rendered unto
 me?
 
 How can we worthily hymn the great hierarch (name), / the venerable mind, / the
@@ -189,7 +190,7 @@ supplications, // pray thou that we all be saved.
 Otherwise, Theotokion: O Sovereign lady, / accept the supplications of thy
 servants, // and deliver us from all want and grief.
 
-Stavrotheotokion: Beholding Thee O Lord Jesus, / nailed upon the cross and
+*Stavrotheotokion:* Beholding Thee O Lord Jesus, / nailed upon the cross and
 voluntarily accepting the passion, / the Virgin Mother cried aloud: / Woe is me, O my
 sweet Child! / how dost Thou wrongfully endure such wounds? / O compassionate
 Physician and healer of the infirmities of mankind, / Thou hast redeemed all from
@@ -220,7 +221,6 @@ entreat Christ God, that our souls be saved. (Twice)
 > Glory ..., Both now ..., Theotokion or Stavrotheotokion:
 
 > After the 1st chanting of the Psalter, the Sessional Hymn, in Tone I:
-
 > Spec. Mel.: “Thy Tomb O Savior ...”:
 
 As a servant of Christ the Lord of all, / thou didst teach the peoples, / instructing
@@ -252,10 +252,9 @@ After the Polyeleos, the Megalynarion: We magnify thee, O hierarch, Father
 (name), and honor thy holy memory, for thou dost pray for us unto Christ our
 God.
 
-Verse: Hear this, all ye nations; give ear, all ye that inhabit the World.
+*Verse:* Hear this, all ye nations; give ear, all ye that inhabit the World.
 
 > After the Polyeleos the Sessional Hymn, in Tone VIII:
-
 > Spec. Mel.: “Of the wisdom ...”:
 
 Having ruled over the passions of the flesh, / and fervently tended thy flock /
@@ -295,12 +294,12 @@ In the Holy Spirit, / every soul is quickened, / and, through cleansing, is exal
 The Prokeimenon: My mouth shall speak wisdom, / and the meditation of my
 heart shall be of understanding.
 
-Verse: The mouth of the righteous shall meditate wisdom, and his tongue
+*Verse:* The mouth of the righteous shall meditate wisdom, and his tongue
 shall speak of judgement.
 
 Let every breath ...,
 
-# THE GOSPEL ACCORDING TO ST. JOHN (10, 1-9)
+## THE GOSPEL ACCORDING TO ST. JOHN (10, 1-9)
 
 The Lord said unto the Jews who came to Him: Verily, verily, I say unto you, He
 that entereth not by the door into the sheepfold, but climbeth up some other way, the
@@ -385,7 +384,6 @@ unspeakable depths of thy birth-giving, for God humbled Himself for the sake of
 compassion, and entirely renewed me in thy womb.
 
 > The Sessional Hymn, in Tone IV:
-
 > Spec. Mel.: “Thou hast appeared today ...”:
 
 In an Orthodox manner / thou, O holy one, hast tended the Church of Christ /
@@ -398,7 +396,7 @@ The Word of the Father, Christ our God, / Who was incarnate of thee, / we have
 come to know, O Virgin Theotokos, / who alone art pure, who alone art blessed. //
 Wherefore, we unceasingly hymn and magnify thee.
 
-Stavrotheotokion: Beholding thy Son lifted up upon the Tree, O most pure one,
+*Stavrotheotokion:* Beholding thy Son lifted up upon the Tree, O most pure one,
 with thy maternal womb wounded with pain, thou didst piteously cry aloud: “Woe is
 me! How is it that Thou hast set, O my timeless Light?”
 
@@ -466,7 +464,6 @@ a godly manner human nature as He Himself alone knoweth.
 
 The Kontakion from the Typicon; but if there be none, chant the following:
 Kontakion. In Tone II:
-
 > Spec. Mel.: “From the highest ...”:
 
 O hierarch (name), / divine thunder, spiritual trumpet, / planter of faith and
@@ -549,7 +546,6 @@ thereby dried up the streams of falsehood, showering incorruption upon all manki
 by the redemption that hath been made possible through thee, O divinely joyous one.
 
 > Exapostilarion in Tone III:
-
 > Spec. Mel.: “Thou hast visited us ...”:
 
 Today a glorious radiant festival / is revealed to the faithful, / for standing in the
@@ -563,7 +559,6 @@ forth from thee. / By thy supplications to Him / preserve us unharmed even unto 
 end.
 
 > On the Praises, these 4 Stichera, in Tone VIII:
-
 > Spec. Mel.: “O most glorious wonder ...”:
 
 O venerable Father (name)! / Having reached the pinnacle of the ladder of divine
@@ -593,7 +588,7 @@ grant us great mercy.
 We have come to know God / Who was incarnate of thee, / O Virgin Theotokos.
 // Him do thou entreat for the salvation of our souls.
 
-Stavrotheotokion: Standing before the Cross / and beholding her Son voluntarily
+*Stavrotheotokion:* Standing before the Cross / and beholding her Son voluntarily
 suffering, // the Virgin-Mother magnified Him.
 
 The Doxology:
@@ -674,11 +669,11 @@ God / unceasingly pray on behalf of us all.
 *Prokeimenon, In Tone I:* My mouth shall speak wisdom, / and the meditation
 of my heart shall be of understanding.
 
-Verse: Hear this, all ye nations; give ear, all ye that inhabit the world.
+*Verse:* Hear this, all ye nations; give ear, all ye that inhabit the world.
 
-# THE EPISTLE TO THE HEBREWS (7:26-8:2)
+## THE EPISTLE TO THE HEBREWS (7:26-8:2)
 
-Brethren: For such an high priest became us, who is holy, harmless, undefiled,
+*Brethren:* For such an high priest became us, who is holy, harmless, undefiled,
 separate from sinners, and made higher than the heavens; Who needeth not daily, as
 those high priests, to offer up sacrifice, first for his own sins, and then for the
 people’s: for this he did once, when he offered up himself. For the law maketh men
@@ -691,9 +686,9 @@ the true tabernacle, which the Lord pitched, and not man.
 Alleluia, In Tone I: The mouth of the righteous shall meditate wisdom, and
 his tongue shall speak of judgment.
 
-Verse: The law of his God is in his heart, and his steps shall not be tripped.
+*Verse:* The law of his God is in his heart, and his steps shall not be tripped.
 
-# THE GOSPEL ACCORDING TO ST. JOHN THE DIVINE (10:9-16)
+## THE GOSPEL ACCORDING TO ST. JOHN THE DIVINE (10:9-16)
 
 Jesus said unto His Disciples: I am the door: by me if any man enter in, he shall
 be saved, and shall go in and out, and find pasture. The thief cometh not, but for to

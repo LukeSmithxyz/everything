@@ -2,12 +2,9 @@
 title: "Angels"
 worktitle: "The General Menaion"
 ---
-THE VIGIL SERVICE COMMON TO THE HOLY ANGELS
-
-AND OTHER BODILESS POWERS.
+<style>blockquote { color: darkred; font-style: italic;} em { color: darkred ;}</style>
 
 > On “Lord, I have cried ...,” the Stichera, in Tone IV:
-
 > Spec. Mel.: “As one valiant among the martyrs ...”:
 
 O ye angels, supreme leaders of the bodiless powers, / most illustrious servants of
@@ -54,7 +51,7 @@ Sovereign Lady.”
 
 > The Entrance. The Prokeimenon of the day. The Three Lessons, if appointed.
 
-# THE READING IS FROM JOSHUA THE SON OF NUN (5, 13-15).
+## THE READING IS FROM JOSHUA THE SON OF NUN (5, 13-15).
 
 It came to pass, when Joshua was by Jericho, that he lifted up his eyes and looked,
 and, behold, there stood a man over against him with his sword drawn in his hand;
@@ -64,7 +61,7 @@ on his face to the earth, and said unto Him: What saith my Lord unto His servant
 And the Commander of the Lord’s host said unto Joshua: Loose thy shoe from off
 thy foot; for the place whereon thou standest is holy. And Joshua did so.
 
-# THE READING IS FROM THE BOOK OF JUDGES (6, 2. 7. 11-24).
+## THE READING IS FROM THE BOOK OF JUDGES (6, 2. 7. 11-24).
 
 It came to pass in those days that the hand of Midian prevailed against the
 children of Israel, and they cried unto the Lord God. And there came an angel of the
@@ -95,7 +92,7 @@ God! for because I have seen an angel of the Lord face to face. And the Lord sai
 unto him: Peace be unto thee, fear not; thou shalt not die. Then Gideon built an altar
 there unto the Lord and called it Jehovah-shalom even unto this day.
 
-# THE READING IS FROM THE PROPHET ISAIAH (14, 7-20).
+## THE READING IS FROM THE PROPHET ISAIAH (14, 7-20).
 
 Thus saith the Lord: Let the whole earth break forth into singing; yea, let the fir
 trees rejoice at thee, and let the cedars of Lebanon say: Since thou art laid down, no
@@ -125,7 +122,7 @@ O ye commanders of the spiritual hosts, / ever standing before the throne of the
 most high, / entreat the Lord to grant peace to the world // and to our souls great
 mercy.
 
-Verse: He maketh His angels spirits / and His ministers a flame of fire:
+*Verse:* He maketh His angels spirits / and His ministers a flame of fire:
 The Leader of the powers on high, / Michael, first among the celestial hierarchies,
 / ever accompanying us and preserving us from every attack of the devil, / hath called
 us today unto this feast. / Wherefore let us come, O ye lovers of feasts and ye lovers
@@ -134,7 +131,7 @@ ever-clear conscience, / let us reverence the assembly of Archangels, / for stan
 before God and ever chanting the Trisagion hymn, // they pray that our souls may be
 saved.
 
-Verse: Praise Him, all ye His angels, / praise Him, all ye His hosts.
+*Verse:* Praise Him, all ye His angels, / praise Him, all ye His hosts.
 O ye commanders of the spiritual hosts, / standing before the immaterial
 Godhead, / with the radiance of the thrice-illuminating glory, / ye illumine the
 universe, / and with unceasing voices chant the Trisagion hymn; // wherefore pray ye
@@ -199,11 +196,11 @@ After the Polyeleos, the Megalynarion: We magnify you, O Archangels and
 angels and all the heavenly hosts, cherubim and seraphim, who glorify the
 Lord.
 
-Another: We magnify you, O Archangels, angels, Principalities, Authorities,
+*Another:* We magnify you, O Archangels, angels, Principalities, Authorities,
 Thrones, Dominions, Powers, cherubim and fearful seraphim who glorify the
 Lord.
 
-Verse: I will sing unto the Lord throughout my life, I will chant to my God for
+*Verse:* I will sing unto the Lord throughout my life, I will chant to my God for
 as long as I have my being.
 
 > After the Polyeleos, the Sessional Hymn, in Tone VI:
@@ -244,12 +241,12 @@ In the Holy Spirit, / every soul is quickened, / and, through cleansing, is exal
 The Prokeimenon: Who maketh His angels spirits / and His ministers a flame
 of fire.
 
-Verse: Bless the Lord, O my soul; O Lord my God, Thou hast been magnified
+*Verse:* Bless the Lord, O my soul; O Lord my God, Thou hast been magnified
 exceedingly.
 
 Let every breath.
 
-# THE HOLY GOSPEL ACCORDING TO ST. LUKE (Lk. 10, 16-21)
+## THE HOLY GOSPEL ACCORDING TO ST. LUKE (Lk. 10, 16-21)
 
 The Lord said unto his Disciples: He that heareth you heareth me; and he that
 despiseth you despiseth me; and he that despiseth me despiseth him that sent me.
@@ -340,7 +337,6 @@ ones.
 Who doth deliver from all dangers, those who invoke thee in truth.
 
 > The Sessional Hymn, in Tone VIII:
-
 > Spec. Mel.: “That which was mystically commanded ...”:
 
 O ye ministers of the Most High, / Leaders of the celestial beings / standing first
@@ -439,17 +435,18 @@ our God, throughout the ages.”
 
 O compassionate One, Thou hast revealed the immaterial nature of Thine angels
 to be luminous, and ever imbued with the ineffable divine light, as they cry unto
-Thee: Blessed art Thou, O Lord God, unto the ages.
+
+*Thee:* Blessed art Thou, O Lord God, unto the ages.
 
 Ever before Thee stand a myriad host of angels serving Thee, unable to endure
 the noetic vision of Thy countenance they unceasingly cry unto Thee: Blessed art
 Thou, O Lord our God, throughout the ages.
 
-Trinitarion: By Thy Hypostatic Word Thou hast created the many ranks of angels
+*Trinitarion:* By Thy Hypostatic Word Thou hast created the many ranks of angels
 and having sanctified them with the divine Spirit, Thou hast taught them to cry, O
 God we bless the Trinity, throughout the ages.
 
-Trinitarion: Contemplating the three Hypostases, we glorify the unbounded
+*Trinitarion:* Contemplating the three Hypostases, we glorify the unbounded
 nature of the Father, Son, and Holy Spirit, crying aloud: Blessed art Thou, O Lord
 God, throughout the ages.
 
@@ -467,7 +464,7 @@ Ever surrounding the throne of Glory, in ceaseless motion before God as
 participants of the joy of heaven, the angels proclaim; praise ye the Lord and
 supremely exalt Him throughout all ages.
 
-Trinitarion: Let us bow down and magnify the Trinity, Who maketh a flame of
+*Trinitarion:* Let us bow down and magnify the Trinity, Who maketh a flame of
 immaterial fire those who without ceasing serve on high, and the angels whom He
 hath made spirits chanting; praise ye the Lord and supremely exalt Him throughout
 all ages
@@ -500,7 +497,6 @@ the faithful the Light of the world; Rejoice! rampart and protection of all! We 
 thee as our benefactor to unceasingly intercede for us unto God.
 
 > Exapostilarion, in Tone III:
-
 > Spec. Mel.: “By the spirit in the sanctuary ...”:
 
 O Michael, supreme Commander of the fiery ministers, / thou hast obtained from
@@ -519,7 +515,8 @@ immaculate one, / magnifying in hymns thee / who hast kindled for those in darkn
 
 O ye spiritual beings, / divine and incorporeal! / surrounding the immaterial
 throne of glory, / with flaming lips ye chant the Trisagion hymn / unto God the
-Ruler: / Holy God, the beginningless Father, / Holy Mighty the Son co-beginningless,
+
+*Ruler:* / Holy God, the beginningless Father, / Holy Mighty the Son co-beginningless,
 / Holy Immortal-Spirit of the same essence, // glorified together with the Father and
 the Son. (Twice)
 
@@ -555,7 +552,7 @@ We bless thee, O Virgin Theotokos, / and we, the faithful, glorify thee as is me
 / thou unassailable city, / impregnable rampart, // and steadfast intercession and
 refuge of our souls.
 
-Stavrotheotokion: Upon seeing her Lamb hastening to the slaughter / the Ewelamb eagerly followed Him crying aloud: / “Whence goest Thou, O my sweetest
+*Stavrotheotokion:* Upon seeing her Lamb hastening to the slaughter / the Ewelamb eagerly followed Him crying aloud: / “Whence goest Thou, O my sweetest
 Child? / O most beloved Jesus, / sinless Lord, rich in mercy, / O longsuffering
 Christ, / why dost Thou so swiftly and so fearlessly proceed? / Speak to me Thy
 handmaiden, / O my well-beloved Son: / pass not by me, Thy Mother, without a
@@ -574,7 +571,8 @@ us from dangers, // for you are the commanders of the powers above.
 O Theotokos, Queen of all, / thou praise of the Orthodox: / cast down the proud
 arrogance of the heretics, / and put to shame the countenances of those / who
 neither bow down before nor honor thy precious image, // O most pure one.
-Stavrotheotokion: The most pure one, / beholding Christ, the lover of mankind,
+
+*Stavrotheotokion:* The most pure one, / beholding Christ, the lover of mankind,
 crucified, / His side pierced by a lance, / cried out, lamenting: / “What is this, O my
 Son? / How have these thankless people rewarded Thee / for the good things Thou
 hast done for them? / Dost Thou hasten to leave me childless, O most Beloved? // I
@@ -637,12 +635,12 @@ for great mercy, / as supreme Leaders of the Bodiless Hosts.
 The Prokeimenon: Who maketh His angels spirits / and His ministers a flame
 of fire.
 
-Verse: Bless the Lord, O my soul; O Lord my God, Thou hast been magnified
+*Verse:* Bless the Lord, O my soul; O Lord my God, Thou hast been magnified
 exceedingly.
 
-# THE EPISTLE OF ST. PAUL TO THE HEBREWS (2: 2-10)
+## THE EPISTLE OF ST. PAUL TO THE HEBREWS (2: 2-10)
 
-Brethren: if the word spoken by angels was stedfast, and every transgression and
+*Brethren:* if the word spoken by angels was stedfast, and every transgression and
 disobedience received a just recompence of reward; How shall we escape, if we
 neglect so great salvation; which at the first began to be spoken by the Lord, and was
 confirmed unto us by them that heard him; God also bearing them witness, both with
@@ -659,10 +657,11 @@ honour; that he by the grace of God should taste death for every man. For it bec
 him, for whom are all things, and by whom are all things, in bringing many sons unto
 glory, to make the captain of their salvation perfect through sufferings.
 Alleluia, in Tone V: Praise Him, all ye His angels; praise Him all ye His hosts.
-Verse: For He spoke and they came to be; He commanded, and they were
+
+*Verse:* For He spoke and they came to be; He commanded, and they were
 created.
 
-# THE GOSPEL ACCORDING TO ST. MATTHEW (13:24-30, 36-43)
+## THE GOSPEL ACCORDING TO ST. MATTHEW (13:24-30, 36-43)
 
 The Lord spake the following parable saying: The kingdom of heaven is likened
 unto a man which sowed good seed in his field: But while men slept, his enemy came

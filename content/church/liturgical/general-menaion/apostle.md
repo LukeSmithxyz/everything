@@ -2,10 +2,9 @@
 title: "Apostle"
 worktitle: "The General Menaion"
 ---
-THE GENERAL VIGIL SERVICE TO AN APOSTLE.
+<style>blockquote { color: darkred; font-style: italic;} em { color: darkred ;}</style>
 
 > On “Lord, I have cried ...,” the Stichera, in Tone VIII:
-
 > Spec. Mel.: “What shall we name thee ...”:
 
 O apostle what shall we name thee?, / heaven, since thou hast confessed the glory
@@ -34,7 +33,8 @@ empty away, // for thee do we have as our only hope!
 
 The Stavrotheotokion: Upon beholding Thee, / the Lamb and Shepherd, upon
 the Tree, / the ewe-lamb who bore Thee lamented, / and maternally exclaimed to
-Thee: / “O most desired Son, / how is it that Thou art suspended upon the tree of
+
+*Thee:* / “O most desired Son, / how is it that Thou art suspended upon the tree of
 the Cross? / How is it that Thine arms and legs are nailed / by the iniquitous ones, O
 long-suffering Word, // and that Thou hast shed Thy blood, O Master?”
 
@@ -59,13 +59,13 @@ Otherwise, Theotokion: No one that fleeth unto thee, O most pure Virgin
 Theotokos, / departeth from thee ashamed; / for those that asketh grace of thee, //
 ever receiveth a gift for their profitable petition.
 
-Stavrotheotokion: Upon seeing Thee crucified, O Christ, / she who gaveth birth
+*Stavrotheotokion:* Upon seeing Thee crucified, O Christ, / she who gaveth birth
 unto Thee cried aloud: / “What is this strange mystery that I see, / O my Son How is
 it that Thou diest?, / suspended upon the Tree, // O Bestower of life?”
 
 > The Entrance. Prokeimenon of the day. Three Lessons.
 
-THE 1ST GENERAL EPISTLE OF JOHN (3:21 - 4:6)
+## THE 1ST GENERAL EPISTLE OF JOHN (3:21 - 4:6)
 
 Beloved, if our heart condemn us not, (then) have we confidence toward God.
 And whatsoever we ask, we receive of him, because we keep his commandments, and
@@ -77,14 +77,16 @@ us. Beloved, believe not every spirit, but try the spirits whether they are of G
 because many false prophets are gone out into the world. Hereby know ye the Spirit
 of God: Every spirit that confesseth that Jesus Christ is come in the flesh is of God:
 And every spirit that confesseth not that Jesus Christ is come in the flesh is not of
-God: and this is that (spirit) of antichrist, whereof ye have heard that it should come;
+
+*God:* and this is that (spirit) of antichrist, whereof ye have heard that it should come;
 and even now already is it in the world. Ye are of God, little children, and have
 overcome them: because greater is he that is in you, than he that is in the world. They
 are of the world: therefore speak they of the world, and the world heareth them. We
 are of God: he that knoweth God heareth us; he that is not of God heareth not us.
-THE 1ST GENERAL EPISTLE OF ST. JOHN, (4, 11-16)
 
-Beloved: if God so loved us, we ought also to love one another. No man hath
+## THE 1ST GENERAL EPISTLE OF ST. JOHN, (4, 11-16)
+
+*Beloved:* if God so loved us, we ought also to love one another. No man hath
 seen God at any time. If we love one another, God dwelleth in us, and his love is
 perfected in us. Hereby know we that we dwell in him, and he in us, because he hath
 given us of his Spirit. And we have seen and do testify that the Father sent the Son
@@ -93,9 +95,9 @@ God dwelleth in him, and he in God. And we have known and believed the love that
 God hath to us. God is love; and he that dwelleth in love dwelleth in God, and God
 in him.
 
-THE 1ST GENERAL EPISTLE OF ST. JOHN, (4, 20-21 ; 5, 1-5)
+## THE 1ST GENERAL EPISTLE OF ST. JOHN, (4, 20-21 ; 5, 1-5)
 
-Beloved: If a man say, I love God, and hateth his brother, he is a liar: for he that
+*Beloved:* If a man say, I love God, and hateth his brother, he is a liar: for he that
 loveth not his brother whom he hath seen, how can he love God whom he hath not
 seen? And this commandment have we from him, That he who loveth God love his
 brother also. Whosoever believeth that Jesus is the Christ is born of God: and every
@@ -107,14 +109,14 @@ world: and this is the victory that overcometh the world, (even) our faith. Who 
 that overcometh the world, but he that believeth that Jesus is the Son of God.
 
 > On the Aposticha, these Stichera, in Tone IV:
-
 > Spec. Mel.: “Thou hast given a sign ...”:
 
 O apostle, having obtained / an invincible authority over demons, / and power in
 the name of Christ / drive thou away the princes of darkness. / Like a sun thou hast
 passed through the regions of the earth / shining forth enlightenment, / and, O
 glorious one, instructing all the lands, / preaching Christ’s first and saving coming.
-Verse: Their sound hath gone forth into all the earth / and their words unto
+
+*Verse:* Their sound hath gone forth into all the earth / and their words unto
 the ends of the world.
 
 Resembling the first grace / and the most essential and divine life, / thou hast
@@ -122,7 +124,7 @@ shown thyself (name) to be a good man in deed, / and named a son of divine grace
 for on account of the goodness of thy disposition and the purity of thy mind / thou
 hast appeared unto all to be a sincere disciple of Christ.
 
-Verse: The heavens declare the glory of God, / and the firmament
+*Verse:* The heavens declare the glory of God, / and the firmament
 proclaimeth the work of His hands.
 
 O apostle (name), / through divine inspiration, / and like a well fashioned
@@ -151,7 +153,8 @@ have compassion and save our souls.
 
 Otherwise, Theotokion: Like a fruitful olive tree, / the Virgin brought Thee forth
 as the Fruit of life, / bearing unto the world, // the fruit of rich and great mercy.
-Stavrotheotokion: Beholding Thee nailed to the Tree of the Cross. O Jesus, she
+
+*Stavrotheotokion:* Beholding Thee nailed to the Tree of the Cross. O Jesus, she
 that kneweth not wedlock said weeping: “O sweet Child, why hast Thou abandoned
 me who alone gave birth to Thee, O unapproachable Light of the beginningless
 Father? Hasten Thou, and glorify Thyself, that those who glorify Thy divine
@@ -208,11 +211,10 @@ After the Polyeleos, the Megalynarion: We magnify thee, O holy apostle of
 Christ (name), and honor thy sufferings and pangs with which thou hast
 labored in the preaching of the Gospel of Christ.
 
-Verse: The heavens declare the glory of God, and the firmament proclaimeth
+*Verse:* The heavens declare the glory of God, and the firmament proclaimeth
 the work of His hands.
 
 > After the Polyeleos, the Sessional Hymn, in Tone VIII:
-
 > Spec. Mel.: “Of the wisdom ...”:
 
 With a net of divine words / thou hast caught the spiritual fish, / bearing them
@@ -251,12 +253,12 @@ In the Holy Spirit, / every soul is quickened, / and, through cleansing, is exal
 The Prokeimenon: Their sound hath gone forth into all the earth / and their
 words unto the ends of the world.
 
-Verse: The heavens declare the glory of God, and the firmament proclaimeth
+*Verse:* The heavens declare the glory of God, and the firmament proclaimeth
 the work of His hands.
 
 Let every breath ...,
 
-# THE GOSPEL ACCORDING TO ST. MATTHEW (9, 36-38; 10, 1. 5-8)
+## THE GOSPEL ACCORDING TO ST. MATTHEW (9, 36-38; 10, 1. 5-8)
 
 At that time Jesus: saw the multitudes, he was moved with compassion on them,
 because they fainted, and were scattered abroad, as sheep having no shepherd. Then
@@ -336,7 +338,6 @@ carrying the never-waning Light, Christ our God, Who enlighteneth the world with
 the rays of His divinity.
 
 > The Sessional Hymn, in Tone III:
-
 > Spec. Mel.: “Of the divine ...”:
 
 With the illumination of the divine Spirit / thou didst disperse the darkness of
@@ -348,7 +349,8 @@ great mercy.
 
 Whither doth each one who is saved, / rightly have recourse; / and to what other
 such refuge can there be / which doth protect our souls like thee, // O Theotokos?
-Stavrotheotokion: Having obtained the Cross of thy Son as a staff of strength, /
+
+*Stavrotheotokion:* Having obtained the Cross of thy Son as a staff of strength, /
 O Theotokos, / therewith we cast down the arrogance of the enemy, // and with love
 unceasingly magnify thee.
 
@@ -406,7 +408,6 @@ with shame, for they do not count thee, O all-immaculate one; to be the Theotoko
 The Kontakion from the Typicon; but if there be none, chant the following:
 
 > Kontakion, in Tone IV:
-
 > Spec. Mel.: “Thou hast appeared ...”:
 
 As a most bright star illumining all / with a multitude of thy miracles, / the
@@ -483,7 +484,6 @@ tribulations, O all-honorable God-seer.
 who hast appeared, and illumined the world with the radiance of her godly purity.
 
 > Exapostilarion in Tone III:
-
 > Spec. Mel.: “Foreseeing by the Spirit ...”:
 
 The hastening of thy beautiful feet O apostle (name) hath brought thee to the
@@ -498,13 +498,12 @@ frightened / by the multitude of my wicked deeds; / but take compassion on me, O
 most pure one, / and in thy warm supplications grant unto me salvation; // for
 whatsoever thou dost will thou can do.
 
-Stavrotheotokion: Upon beholding Him Who was born of thee / hanging upon
+*Stavrotheotokion:* Upon beholding Him Who was born of thee / hanging upon
 the Tree, O most immaculate one, / thou didst exclaim, crying aloud: / “O my Child
 most desired, / whither hath the luminous beauty of Thee faded, // Thou Who hast
 adorned the human race?”
 
 > On the Praises, the Stichera, in Tone IV:
-
 > Spec. Mel.: “As one valiant among the martyrs ...”:
 
 With the staff of grace O wondrous one, / thou hast snatched men from the
@@ -535,7 +534,8 @@ unto us great mercy.
 > Both now ..., Theotokion in Tone II:
 
 All my hope I place in thee, / O Mother of God; // keep me under thy protection.
-Stavrotheotokion: When the undefiled lamb saw her offspring / as a man
+
+*Stavrotheotokion:* When the undefiled lamb saw her offspring / as a man
 willingly dragged to the slaughter, / with weeping she spake saying; / “Dost Thou
 now, O Christ my God, strive to make childless / the one who gave birth unto Thee?
 / Wherefore hast Thou done this to me, / O Redeemer of all? / Nevertheless, I hymn
@@ -611,11 +611,12 @@ memory of Thine apostle.
 The Prokeimenon: Their sound hath gone forth into all the earth / and their
 words unto the ends of the world.
 
-Verse: The heavens declare the glory of God, and the firmament proclaimeth
+*Verse:* The heavens declare the glory of God, and the firmament proclaimeth
 the work of His hands.
 
-THE 1st EPISTLE OF ST. PAUL TO THE CORINTHIANS (1 COR. 4:9-16)
-Brethren: I think that God hath set forth us the apostles last, as it were
+## THE 1st EPISTLE OF ST. PAUL TO THE CORINTHIANS (1 COR. 4:9-16)
+
+*Brethren:* I think that God hath set forth us the apostles last, as it were
 appointed to death: for we are made a spectacle unto the world, and to angels, and to
 men. We are fools for Christ’s sake, but ye are wise in Christ; we are weak, but ye are
 strong; ye are honorable, but we are despised. Even unto this present hour we both
@@ -629,9 +630,9 @@ gospel. Wherefore I beseech you, be ye followers of me, as I am of Christ.
 Alleluia, in Tone I: The heavens shall confess thy wonders, O Lord, thy truth
 in the Church of the saints.
 
-Verse: God, Who is glorified in the council of the saints.
+*Verse:* God, Who is glorified in the council of the saints.
 
-# THE GOSPEL ACCORDING TO ST. MATTHEW (9:36-38, 10:1-8)
+## THE GOSPEL ACCORDING TO ST. MATTHEW (9:36-38, 10:1-8)
 
 At that time: Jesus saw the multitudes, and was moved with compassion on
 them, because they fainted, and were scattered abroad, as sheep having no shepherd.

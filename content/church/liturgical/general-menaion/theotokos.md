@@ -2,12 +2,9 @@
 title: "Theotokos"
 worktitle: "The General Menaion"
 ---
-THE VIGIL SERVICE COMMON
-
-TO THE FEASTS OF THE THEOTOKOS.
+<style>blockquote { color: darkred; font-style: italic;} em { color: darkred ;}</style>
 
 > On “Lord, I have cried ...,” the Stichera in Tone IV:
-
 > Spec. Mel.: “Thou hast given a sign ...”:
 
 In a divine manner thou dost preserve and shelter / from all attacks of the enemy
@@ -19,7 +16,8 @@ Having assembled today in godly manner, / we praise thee O Theotokos! / O
 most holy Virgin, / many are thy splendors and without end are thy wonders, / for
 thou art the holy protection, and praise, / the glory and source of all healing / to
 those who celebrate thy holy (name of the event/Icon); / wherefore praying we cry to
-Thee: // O Jesus, Thou all powerful One, save our souls for Thou art compassionate!
+
+*Thee:* // O Jesus, Thou all powerful One, save our souls for Thou art compassionate!
 As thou art One who is feared by our enemies / and cannot be vanquished, O
 most holy one, / by thine honorable supplications shelter and preserve us, / and grant
 unto those who solemnly / celebrate thy (name of the event/Icon), / to call upon thy
@@ -37,7 +35,7 @@ and salvation of our souls.
 
 > The Entrance. The Prokeimenon of the day. The Three Lessons:
 
-# THE READING FROM THE BOOK OF GENESIS (28, 10-17).
+## THE READING FROM THE BOOK OF GENESIS (28, 10-17).
 
 Jacob went out from Beersheba, and went toward Haran. And he lighted upon a
 certain place, and tarried there all night, because the sun was set; and he took of the
@@ -55,7 +53,7 @@ of. And Jacob awaked out of his sleep and he said: Surely the Lord is in this pl
 and I knew it not. And he was afraid, and said: How dreadful is this place! this is none
 other but the house of God, and this is the gate of heaven.
 
-# THE READING FROM THE PROPHECY OF EZEKIEL (43, 27. AND 44, 1-4).
+## THE READING FROM THE PROPHECY OF EZEKIEL (43, 27. AND 44, 1-4).
 
 Thus saith the Lord: upon the eighth day and so forward, the priests shall make
 your burnt offerings upon the altar, and your peace offerings, and I will accept you,
@@ -68,7 +66,7 @@ of the pourch of that gate, and shall go out by the way of the same. Then brough
 me the way of the north gate before the house, and I looked, and, behold, the glory of
 the Lord filled the house of the Lord.
 
-# THE READING FROM THE PROVERBS (9, 1-11).
+## THE READING FROM THE PROVERBS (9, 1-11).
 
 Wisdom hath builded her house, and hath fixed the seven pillars thereof. She hath
 killed her beasts; she hath mingled her wine; she hath also furnished her table. She
@@ -93,7 +91,7 @@ prayeth on our behalf. / Therefore with psalms, hymns and spiritual odes, let us
 joyfully celebrate with all the saints, / for by her holy (name of the event/Icon) //
 renewel of life hath been granted unto all the world.
 
-Verse: The Virgins that follow after her shall be brought unto the King, /
+*Verse:* The Virgins that follow after her shall be brought unto the King, /
 those near her shall be brought unto Thee.
 
 Greatly hath God adorned thee with beauty / since in the midst of mankind He
@@ -103,7 +101,7 @@ laboring in the abyss, / and who art ever in His light, / entreat Him that those
 with love hymn thine all-honored (name of the event/Icon) // be delivered from all
 afflictions.
 
-Verse: Hearken, O daughter, and see / and incline thine ear.
+*Verse:* Hearken, O daughter, and see / and incline thine ear.
 Thine all-honored (name of the event/Icon), O most holy and pure Virgin, / art
 glorified both by angels in the heavens / and by the race of mankind here on earth. /
 For thou, art the Mother of Christ God the Creator of all. We beseech thee, never
@@ -158,7 +156,6 @@ we shall never turn away from thee, // for thou dost ever preserve thy servants 
 all manner of evil.
 
 > After the 1st chanting of the Psalter, the Sessional Hymn, in Tone IV:
-
 > Spec. Mel.: Thou hast appeared today.
 
 Like the dawning of the morn, / the joy of thy (name of the event/Icon) hath
@@ -168,7 +165,6 @@ the thoughts // of those who with love hymn thee here on earth.
 > Glory ..., Both now ..., the foregoing is repeated.
 
 > After the 2nd chanting of the Psalter, the Sessional Hymn, in Tone IV:
-
 > Spec. Mel.: “Joseph marveled ...”:
 
 Like a bright cloud, the Virgin Mary, / the true Theotokos, hath shone forth upon
@@ -182,35 +178,36 @@ After Praise ye the name of the Lord. The Megalynarion:
 
 The Nativity of the Theotokos: We magnify thee, O most holy Virgin, and we
 honor thy holy Parents, and we glorify thy most glorious Nativity.
-Verse: Remember David, O Lord, and all his affliction.
+
+*Verse:* Remember David, O Lord, and all his affliction.
 
 The Protection: We magnify thee, O most holy Virgin, and we honor thy
 honorable protection, thee whom Saint Andrew beheld in the air praying to
 Christ for us.
 
-Verse: Remember, O Lord, David and all his meekness. How he made an oath
+*Verse:* Remember, O Lord, David and all his meekness. How he made an oath
 unto the Lord, and vowed unto the God of Jacob
 
 The Annunciation of the Most holy Theotokos: The Archangel’s cry we sing
 to thee, O Pure One, Hail, thou who art full of grace, the Lord is with thee.
-Verse: Remember, O Lord, David and all his meekness. How he made an oath
+
+*Verse:* Remember, O Lord, David and all his meekness. How he made an oath
 unto the Lord, and vowed unto the God of Jacob
 
 The Dormition of the Most holy Theotokos: We magnify thee, O allimmaculate Mother of Christ our God, and we glorify thy most glorious
 failing-asleep.
 
-Verse: Remember, O Lord, David and all his meekness. How he made an oath
+*Verse:* Remember, O Lord, David and all his meekness. How he made an oath
 unto the Lord, and vowed unto the God of Jacob
 
 The General Megalynarion to the Most holy Theotokos: It is meet to magnify
 thee, O Theotokos, more honorable than the cherubim and beyond compare
 more glorious than the seraphim.
 
-Verse: Remember, O Lord, David and all his meekness. How he made an oath
+*Verse:* Remember, O Lord, David and all his meekness. How he made an oath
 unto the Lord, and vowed unto the God of Jacob.
 
 > After the Polyeleos, the Sessional Hymn, in Tone I:
-
 > Spec. Mel.: “The angelic hosts were before Thy tomb ...”:
 
 The fruit of thy virginal womb hath proved to be most comely, / for thou didst
@@ -241,12 +238,12 @@ In the Holy Spirit, / every soul is quickened, / and, through cleansing, is exal
 The Prokeimenon: I shall commemorate thy name / in every generation and
 generation
 
-Verse: My heart hath poured forth a good word. I will speak of my works
+*Verse:* My heart hath poured forth a good word. I will speak of my works
 unto the King.
 
 Let Every breath ...,
 
-# THE GOSPEL ACCORDING TO ST. LUKE (1, 39-48; 1, 56)
+## THE GOSPEL ACCORDING TO ST. LUKE (1, 39-48; 1, 56)
 
 At that time: Mary arose and went into the hill country with haste, into a city of
 Juda; And entered into the house of Zacharias, and saluted Elisabeth. And it came to
@@ -310,7 +307,7 @@ We thy people flee for refuge Under thy shelter, O Sovereign-Lady. O most
 spotless one, be thou a help unto us, thy servants, and ever make supplications for the
 salvation of those who with love hymn thee.
 
-Katavasia: I shall open my mouth, / and be filled with the Spirit, / and utter
+*Katavasia:* I shall open my mouth, / and be filled with the Spirit, / and utter
 discourse to the Queen and Mother; / and be seen radiantly keeping festival, /
 joyfully praising her wonders.
 
@@ -336,7 +333,8 @@ With gladsome souls and joyful hearts we direct our minds unto the
 contemplation of thine honored and divine (name of the event/Icon), wherefore O
 Theotokos, we the faithful fall down before thee and entreat thee, since thou hast
 suckled with thy milk Him who feedeth us with His mercy, thy most pure Son.
-Katavasia: O Theotokos, thou living and plentiful fount, / establish in spiritual
+
+*Katavasia:* O Theotokos, thou living and plentiful fount, / establish in spiritual
 fellowship those who sing hymns to thee, / and in thy divine glory / grant
 them crowns of glory.
 
@@ -365,7 +363,8 @@ souls, the feast of thine honored (name of the event/Icon), shineth forth O alli
 O most pure and most immaculate Mother, our celebrated refuge and adoration,
 hymned by all, the ark of holiness of the mind and the inexhaustible source of cures
 for those who venerate thine honored (name of the event/Icon).
-Katavasia: He who sitteth in glory upon the throne of the Godhead, / Jesus the
+
+*Katavasia:* He who sitteth in glory upon the throne of the Godhead, / Jesus the
 true God, / is come in a swift cloud / and with His sinless hands he hath
 saved those who cry: / Glory to Thy power, O Christ.
 
@@ -394,7 +393,7 @@ creation the gentle rain of salvation, with which the parched earth previously d
 sin, hath been watered, O most immaculate Lady, yielding the fruits of virtue;
 wherefore we glorify thee.
 
-Katavasia: All creation stands in awe of thy divine glory; / for thou, O Virgin
+*Katavasia:* All creation stands in awe of thy divine glory; / for thou, O Virgin
 who hast not known wedlock, / didst contain within thy womb the God of all,
 / and gave birth to the timeless Son, / bestowing peace, upon all who hymn
 thee.
@@ -419,7 +418,7 @@ We hymn thy most honored (name of the event/Icon) and reverence thine
 immaculate conception and birth, O Bride of God and maiden; the angelic orders and
 the choirs of all saints together with us glorify thee.
 
-Katavasia: Celebrating the divine and solemn feast / of the Mother of God / O
+*Katavasia:* Celebrating the divine and solemn feast / of the Mother of God / O
 ye divinely wise, / let us come, clapping our hands, / and glorify God who was
 born of her.
 
@@ -439,7 +438,7 @@ We have no other help, we have no other hope but thee, / O pure Mother of
 God; / help us! for in thee do we hope, / and of thee do we boast; / for we are thy
 servants, // let us not then be put to shame.
 
-Ikos: Let us lovingly cry unto the Theotokos: Rejoice, mother of the never-setting
+*Ikos:* Let us lovingly cry unto the Theotokos: Rejoice, mother of the never-setting
 Star! Rejoice, dawn of the mystic Day! Rejoice, thou who didst extinguish the furnace
 of error! Rejoice, thou who didst enlighten the initiates of the Trinity! Rejoice, thou
 who didst banish from power the inhuman tyrant! Rejoice, thou who hast shown us
@@ -476,7 +475,7 @@ who venerate the day of thy glorious (name of the event/Icon), which every soul
 gladly hymneth and glorifieth proclaiming: “Blessed art thou among women and
 blessed is the fruit of thy womb.”
 
-Katavasia: Refusing to worship created things / in place of the Creator, / the
+*Katavasia:* Refusing to worship created things / in place of the Creator, / the
 divinely wise youths bravely trampled down the threatening fire / and
 rejoicing they sang aloud: / O supremely hymned Lord and God of our
 Fathers, Blessed art Thou.
@@ -504,7 +503,8 @@ Thou art the uplifting of the fallen, the gladness of the despondent, the
 instructress of the wandering, the visitation and cure of the sick and unto all
 Christians salvation. O Lady, preserve us who entreat thee and venerate thy divine
 (name of the event/Icon), and deliver us from all attacks of the alien enemies.
-Katavasia: The Offspring of the Theotokos / saved the holy children in the
+
+*Katavasia:* The Offspring of the Theotokos / saved the holy children in the
 furnace. / He who was then prefigured hath now been born on earth, / and He
 gathereth all creation to hymn thee: / all ye works praise ye the Lord / and
 supremely exalt Him throughout all ages.
@@ -533,13 +533,13 @@ the event/Icon), which celebrating, we magnify thee.
 O most pure Birthgiver of God; exalt the horn of right believing Orthodox
 Christians and subdue the raging of our adversaries. Keep free from wars thy cities
 and preserve all Orthodox Christian lands wherein, O pure Lady, thy great and mostexalted name is magnified and faithfully glorified by all.
-Katavasia: Let every mortal born on earth, / radiant with light, in spirit leap for
+
+*Katavasia:* Let every mortal born on earth, / radiant with light, in spirit leap for
 joy; / and let the host of the angelic powers / celebrate and honor the holy
 feast of the Mother of God, / and let them cry aloud: / Rejoice! O all-blessed
 Theotokos, / thou pure Ever-virgin.
 
 > Exapostilarion in Tone II:
-
 > Spec. Mel.: “Hearken ye women ...”:
 
 Rejoice O Eve! and be renewed O Adam, / all ye prophets together with the
@@ -642,12 +642,12 @@ sinners, // and the granter of divine grace and spiritual healing.
 *Prokeimenon in Tone III, the Hymn of the Theotokos:* My soul doth magnify
 the Lord, / and my spirit hath rejoiced in God my Savior.
 
-Verse: For He hath regarded the low estate of His handmaiden: for behold
+*Verse:* For He hath regarded the low estate of His handmaiden: for behold
 from henceforth all generations shall call me blessed.
 
-# THE EPISTLE OF ST. PAUL TO THE HEBREWS (9: 1-7)
+## THE EPISTLE OF ST. PAUL TO THE HEBREWS (9: 1-7)
 
-Brethren: verily the first covenant had also ordinances of divine service, and a
+*Brethren:* verily the first covenant had also ordinances of divine service, and a
 worldly sanctuary. For there was a tabernacle made; the first, wherein was the
 candlestick, and the table, and the shewbread; which is called the sanctuary. And after
 the second veil, the tabernacle which is called the Holiest of all; Which had the golden
@@ -660,9 +660,10 @@ second went the high priest alone once every year, not without blood, which he
 offered for himself, and for the errors of the people:
 
 Alleluia, in Tone VIII: Hearken, O daughter, and see and incline thine ear.
-Verse: The rich among the people shall entreat thy countenance.
 
-# THE HOLY GOSPEL ACCORDING TO ST. LUKE (10:38-42, 11:27-28)
+*Verse:* The rich among the people shall entreat thy countenance.
+
+## THE HOLY GOSPEL ACCORDING TO ST. LUKE (10:38-42, 11:27-28)
 
 Now it came to pass, as they went, that he entered into a certain village: and a
 certain woman named Martha received him into her house. And she had a sister
