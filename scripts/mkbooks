@@ -10,6 +10,6 @@
 
 for x in $(seq 1 ${1:-?}) ; do
 	sed "/^worktitle/d;/order:/d;s|^title:|worktitle:|
-	/params/a \ order: $x
+	/params/a \  order: $x
 	/worktitle/ a title: \"${2:-Book} $(romnum $x)\"" _index.md > $x.md
 done
