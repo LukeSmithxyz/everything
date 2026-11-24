@@ -1,0 +1,67 @@
+---
+author: "Hippocrates"
+title: "The Law"
+params:
+  dt: 1849
+  translator: "Francis Adams"
+---
+
+MEDICINE is of all the Arts the most noble; but, owing to the ignorance of
+those who practice it, and of those who, inconsiderately, form a judgment of
+them, it is at present far behind all the other arts. Their mistake appears to
+me to arise principally from this, that in the cities there is no punishment
+connected with the practice of medicine (and with it alone) except disgrace,
+and that does not hurt those who are familiar with it. Such persons are like
+the figures which are introduced in tragedies, for as they have the shape, and
+dress, and personal appearance of an actor, but are not actors, so also
+physicians are many in title but very few in reality.
+
+2\. Whoever is to acquire a competent knowledge of medicine, ought to be
+possessed of the following advantages: a natural disposition; instruction; a
+favorable position for the study; early tuition; love of labor; leisure. First
+of all, a natural talent is required; for, when Nature opposes, everything else
+is in vain; but when Nature leads the way to what is most excellent,
+instruction in the art takes place, which the student must try to appropriate
+to himself by reflection, becoming an early pupil in a place well adapted for
+instruction. He must also bring to the task a love of labor and perseverance,
+so that the instruction taking root may bring forth proper and abundant fruits.
+
+3\. Instruction in medicine is like the culture of the productions of the earth.
+For our natural disposition is, as it were, the soil; the tenets of our teacher
+are, as it were, the seed; instruction in youth is like the planting of the
+seed in the ground at the proper season; the place where the instruction is
+communicated is like the food imparted to vegetables by the atmosphere;
+diligent study is like the cultivation of the fields; and it is time which
+imparts strength to all things and brings them to maturity.
+
+4\. Having brought all these requisites to the study of medicine, and having
+acquired a true knowledge of it, we shall thus, in traveling though the cities,
+be esteemed physicians not only in name but in reality. But inexperience is a
+bad treasure, and a bad fund to those who possess it, whether in opinion or
+reality, being devoid of self-reliance and contentedness, and the nurse both of
+timidity and audacity. For timidity betrays want of powers, and audacity a want
+of skill. There are, indeed, two things, knowledge and opinion, of which the
+one makes its possessor really to know, the other to be ignorant.
+
+5\. Those things which are sacred, are to be imparted only to sacred persons;
+and it is not lawful to impart them to the profane until they have been
+initiated in the mysteries of the science.
+
+●● This work is a translation and has a separate copyright status to the
+applicable copyright protections of the original content.
+
+             [60px-]
+
+             This work was published before January 1, 1931, and is in the
+ Original:   public domain worldwide because the author died at least 100 years
+             ago.
+
+             Public domainPublic domainfalsefalse
+
+             [60px-]
+
+             This work was published before January 1, 1931, and is in the
+Translation: public domain worldwide because the author died at least 100 years
+             ago.
+
+             Public domainPublic domainfalsefalse
